@@ -1,0 +1,365 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = insomniapanorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1361
+  action = autoscale
+  basewidth = 2560
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\longbutton_hover.png
+  backgroundnormal = resources\mainmenu\longbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = sethoverlabel
+  label = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\lang_hover.png
+  backgroundnormal = resources\mainmenu\lang_normal.png
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 157
+  action = deep_customization_element:title_screen_branding
+  actionid = fd9a8637-1128-438a-8475-acac44b38a581656430169715
+  y = 447
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 529
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 81203bbc-6e7e-497b-aa61-dda558b852bf1656430169716
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 289
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 6cb986e7-d305-428c-bdeb-3eedcc09d7af1656430169716
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = bottom-right
+  splash_color = #aa0000
+  hidden = false
+  x = -78
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = b9f071e4-547b-4077-8bcf-66b2c59a86561656430169716
+  y = -50
+  splash_file_path = resources/mainmenu/splashes.txt
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\mainmenu\longbutton_hover.png
+  label = Changelogs
+  loopbackgroundanimations = true
+  x = -100
+  width = 200
+  actionid = ebe28cf8-b54e-4c69-8449-f6e8e7016ebb1640212186938
+  action = addbutton
+  y = 72
+  backgroundnormal = resources\mainmenu\longbutton_normal.png
+  value = https://wiki.crismpack.net/modpacks/insomnia-hardcore/changelog
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 0623fbc9-fedb-48f2-83b7-dd624d7a67071626192262972
+  action = addtext
+  y = -17
+  scale = 0.8
+  alignment = left
+  value = §4Minecraft %mcversion%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 8663d83c-9bf9-4fe9-8ad9-f208ce759a221626192362071
+  action = addtext
+  y = -9
+  scale = 0.8
+  alignment = left
+  value = §4%totalmods% Mods Loaded
+}
+
+customization {
+  orientation = bottom-left
+  basecolor = aa0000
+  shadow = true
+  splashfilepath = resources\mainmenu\modpackversion.txt
+  rotation = 0.0
+  x = 45
+  actionid = 67f77779-f30c-4e11-8e34-473e04b93afc1626197500134
+  action = addsplash
+  y = -26
+  scale = 0.87
+  refresh = true
+  bouncing = false
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  label = Mods
+  loopbackgroundanimations = true
+  x = 2
+  width = 98
+  actionid = 609d582a-4470-464e-808c-2afcfed905951640212186992
+  action = addbutton
+  y = 48
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+  value = com.terraformersmc.modmenu.gui.ModsScreen
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\mainmenu\discord_hover.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Join our Discord!
+  x = 104
+  width = 20
+  actionid = 2ffa363e-0860-4826-9ded-a33d493bfd3a1640212187014
+  action = addbutton
+  y = 0
+  backgroundnormal = resources\mainmenu\discord_normal.png
+  value = https://discord.com/invite/Kss5gBgeDA
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = quitgame
+  backgroundhovered = resources\mainmenu\longbutton_hover.png
+  label = Quit Game
+  loopbackgroundanimations = true
+  x = -100
+  width = 200
+  actionid = 635061a9-4a2c-4e09-827a-c80e6e1c00431640259329580
+  action = addbutton
+  y = -21
+  backgroundnormal = resources\mainmenu\longbutton_normal.png
+  value = 
+  height = 20
+}
+
+customization {
+  path = resources/mainmenu/logo.png
+  orientation = mid-centered
+  x = -160
+  width = 320
+  action = addtexture
+  actionid = 66da35ff-8ec3-460c-b170-576042ab8be71640284571043
+  y = -151
+  height = 89
+}
+
+customization {
+  orientation = bottom-right
+  shadow = true
+  x = -3
+  actionid = f800bdbc-c9cc-4c78-afc9-9c2d5fe78a3c1649947251368
+  action = addtext
+  y = -9
+  scale = 0.8
+  alignment = right
+  value = §4Copyright Mojang AB. Do not distribute!
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  label = Need a server?
+  loopbackgroundanimations = true
+  x = 2
+  width = 98
+  actionid = ebbf54ed-5a92-417f-b1d8-91dfa72942fb1656430679625
+  action = addbutton
+  y = 24
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+  value = https://bisecthosting.com/CRISM
+  height = 20
+}
+
+customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
