@@ -49,7 +49,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 3900930,
+      "fileID": 4064970,
       "required": true,
       "__meta": {
         "name": "Bookshelf"
@@ -57,7 +57,7 @@
     },
     {
       "projectID": 248787,
-      "fileID": 3686478,
+      "fileID": 3927566,
       "required": true,
       "__meta": {
         "name": "AppleSkin",
@@ -68,7 +68,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3860453,
+      "fileID": 3950208,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -76,7 +76,7 @@
     },
     {
       "projectID": 250419,
-      "fileID": 3821022,
+      "fileID": 3976091,
       "required": true,
       "__meta": {
         "name": "Enchantment Descriptions",
@@ -166,7 +166,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3891301,
+      "fileID": 4073282,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -174,7 +174,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 3850113,
+      "fileID": 4065495,
       "required": true,
       "__meta": {
         "name": "Mod Menu"
@@ -182,7 +182,7 @@
     },
     {
       "projectID": 308769,
-      "fileID": 3887669,
+      "fileID": 4030849,
       "required": true,
       "__meta": {
         "name": "Fabric Language Kotlin"
@@ -202,7 +202,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3900969,
+      "fileID": 4072724,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -231,7 +231,7 @@
     },
     {
       "projectID": 312289,
-      "fileID": 3807049,
+      "fileID": 3930972,
       "required": true,
       "__meta": {
         "name": "Blockus",
@@ -258,7 +258,7 @@
     },
     {
       "projectID": 317134,
-      "fileID": 3818437,
+      "fileID": 3965519,
       "required": true,
       "__meta": {
         "name": "Global Packs"
@@ -266,7 +266,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 3876749,
+      "fileID": 4026502,
       "required": true,
       "__meta": {
         "name": "Xaero's World Map",
@@ -277,7 +277,7 @@
     },
     {
       "projectID": 318872,
-      "fileID": 3829803,
+      "fileID": 4000885,
       "required": true,
       "__meta": {
         "name": "Charm",
@@ -328,7 +328,7 @@
     },
     {
       "projectID": 348521,
-      "fileID": 3782775,
+      "fileID": 3972425,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)"
@@ -431,7 +431,7 @@
     },
     {
       "projectID": 362528,
-      "fileID": 3681918,
+      "fileID": 3932784,
       "required": true,
       "__meta": {
         "name": "Decorative Blocks"
@@ -676,7 +676,7 @@
     },
     {
       "projectID": 403914,
-      "fileID": 3822702,
+      "fileID": 3965139,
       "required": true,
       "__meta": {
         "name": "Red Bits"
@@ -772,7 +772,7 @@
     },
     {
       "projectID": 416796,
-      "fileID": 3913055,
+      "fileID": 4046869,
       "required": true,
       "__meta": {
         "name": "FancyMenu [Fabric]",
@@ -784,7 +784,7 @@
     },
     {
       "projectID": 416797,
-      "fileID": 3911964,
+      "fileID": 4031704,
       "required": true,
       "__meta": {
         "name": "Konkrete [Fabric]",
@@ -808,7 +808,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3909750,
+      "fileID": 4040965,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)",
@@ -827,7 +827,7 @@
     },
     {
       "projectID": 421649,
-      "fileID": 3779089,
+      "fileID": 4034982,
       "required": true,
       "__meta": {
         "name": "YUNG's API (Fabric)",
@@ -866,7 +866,7 @@
     },
     {
       "projectID": 430445,
-      "fileID": 3761198,
+      "fileID": 3923873,
       "required": true,
       "__meta": {
         "name": "Consistency+",
@@ -978,7 +978,7 @@
     },
     {
       "projectID": 447673,
-      "fileID": 3894485,
+      "fileID": 4010302,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -1020,7 +1020,7 @@
     },
     {
       "projectID": 455508,
-      "fileID": 3899702,
+      "fileID": 4023643,
       "required": true,
       "__meta": {
         "name": "Iris Shaders",
@@ -1110,7 +1110,7 @@
     },
     {
       "projectID": 482834,
-      "fileID": 3770564,
+      "fileID": 4061281,
       "required": true,
       "__meta": {
         "name": "Farmer's Delight [Fabric]",
@@ -1121,7 +1121,7 @@
     },
     {
       "projectID": 483166,
-      "fileID": 3661225,
+      "fileID": 4018280,
       "required": true,
       "__meta": {
         "name": "Incantationem",
@@ -1171,7 +1171,7 @@
     },
     {
       "projectID": 495267,
-      "fileID": 3920887,
+      "fileID": 4055103,
       "required": true,
       "__meta": {
         "name": "Inventory Profiles Next",
@@ -1252,7 +1252,7 @@
     },
     {
       "projectID": 513688,
-      "fileID": 3696607,
+      "fileID": 4001337,
       "required": true,
       "__meta": {
         "name": "Terralith"
@@ -1260,7 +1260,7 @@
     },
     {
       "projectID": 514882,
-      "fileID": 3855093,
+      "fileID": 3947980,
       "required": true,
       "__meta": {
         "name": "Advancement Plaques [Fabric]",
@@ -1304,7 +1304,7 @@
     },
     {
       "projectID": 521480,
-      "fileID": 3808405,
+      "fileID": 4001978,
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
@@ -1357,7 +1357,7 @@
     },
     {
       "projectID": 526606,
-      "fileID": 3907479,
+      "fileID": 4058509,
       "required": true,
       "__meta": {
         "name": "Collective (Fabric)",
@@ -1395,7 +1395,7 @@
     },
     {
       "projectID": 527653,
-      "fileID": 3907694,
+      "fileID": 4068959,
       "required": true,
       "__meta": {
         "name": "Village Spawn Point (Fabric)",
@@ -1407,7 +1407,7 @@
     },
     {
       "projectID": 527822,
-      "fileID": 3907722,
+      "fileID": 4015639,
       "required": true,
       "__meta": {
         "name": "Starter Kit (Fabric)",
@@ -1419,7 +1419,7 @@
     },
     {
       "projectID": 529673,
-      "fileID": 3907819,
+      "fileID": 4015793,
       "required": true,
       "__meta": {
         "name": "Nether Portal Spread (Fabric)",
@@ -1431,7 +1431,7 @@
     },
     {
       "projectID": 531351,
-      "fileID": 3822250,
+      "fileID": 3927269,
       "required": true,
       "__meta": {
         "name": "Continuity",
@@ -1473,7 +1473,7 @@
     },
     {
       "projectID": 533097,
-      "fileID": 3673016,
+      "fileID": 3933783,
       "required": true,
       "__meta": {
         "name": "Concurrent Chunk Management Engine (Fabric)"
@@ -1571,7 +1571,7 @@
     },
     {
       "projectID": 542478,
-      "fileID": 3854977,
+      "fileID": 3964264,
       "required": true,
       "__meta": {
         "name": "Legendary Tooltips [Fabric]",
@@ -1584,7 +1584,7 @@
     },
     {
       "projectID": 546841,
-      "fileID": 3570785,
+      "fileID": 3989545,
       "required": true,
       "__meta": {
         "name": "No Null Processors"
@@ -1592,7 +1592,7 @@
     },
     {
       "projectID": 547358,
-      "fileID": 3835362,
+      "fileID": 3929240,
       "required": true,
       "__meta": {
         "name": "WMITAF"
@@ -1612,7 +1612,7 @@
     },
     {
       "projectID": 547434,
-      "fileID": 3913319,
+      "fileID": 3943250,
       "required": true,
       "__meta": {
         "name": "Forge Config API Port"
@@ -1712,7 +1712,7 @@
     },
     {
       "projectID": 551146,
-      "fileID": 3907901,
+      "fileID": 4015906,
       "required": true,
       "__meta": {
         "name": "Furnace Recycle (Fabric)",
@@ -1743,7 +1743,7 @@
     },
     {
       "projectID": 557735,
-      "fileID": 3835745,
+      "fileID": 3994152,
       "required": true,
       "__meta": {
         "name": "Ingredient Extension API"
@@ -1797,7 +1797,7 @@
     },
     {
       "projectID": 563977,
-      "fileID": 3912554,
+      "fileID": 4013747,
       "required": true,
       "__meta": {
         "name": "Puzzle",
@@ -1809,7 +1809,7 @@
     },
     {
       "projectID": 568563,
-      "fileID": 3841025,
+      "fileID": 3995032,
       "required": true,
       "__meta": {
         "name": "Entity Texture Features - [Fabric & Forge]"
@@ -1817,7 +1817,7 @@
     },
     {
       "projectID": 570368,
-      "fileID": 3840762,
+      "fileID": 4035592,
       "required": true,
       "__meta": {
         "name": "Raised",
@@ -1840,7 +1840,7 @@
     },
     {
       "projectID": 574741,
-      "fileID": 3800449,
+      "fileID": 3993437,
       "required": true,
       "__meta": {
         "name": "Zoomify",
@@ -1859,7 +1859,7 @@
     },
     {
       "projectID": 576864,
-      "fileID": 3797780,
+      "fileID": 4040613,
       "required": true,
       "__meta": {
         "name": "Saplanting",
@@ -1870,7 +1870,7 @@
     },
     {
       "projectID": 577468,
-      "fileID": 3742527,
+      "fileID": 4035268,
       "required": true,
       "__meta": {
         "name": "Dyed"
@@ -1970,7 +1970,7 @@
     },
     {
       "projectID": 597988,
-      "fileID": 3751401,
+      "fileID": 3958778,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Professions (REP)",
@@ -1981,7 +1981,7 @@
     },
     {
       "projectID": 606254,
-      "fileID": 3736817,
+      "fileID": 3736816,
       "required": true,
       "__meta": {
         "name": "Towers of the Wild: Reworked (Datapack)"
@@ -1997,7 +1997,7 @@
     },
     {
       "projectID": 624165,
-      "fileID": 3913786,
+      "fileID": 4011240,
       "required": true,
       "__meta": {
         "name": "Create Fabric",
@@ -2008,7 +2008,7 @@
     },
     {
       "projectID": 626761,
-      "fileID": 3801684,
+      "fileID": 4061457,
       "required": true,
       "__meta": {
         "name": "Towns and Towers"
@@ -2016,7 +2016,7 @@
     },
     {
       "projectID": 630620,
-      "fileID": 3858802,
+      "fileID": 4072804,
       "required": true,
       "__meta": {
         "name": "Fastload"
