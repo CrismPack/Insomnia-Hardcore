@@ -1549,6 +1549,15 @@
       }
     },
     {
+      "projectID": 580181,
+      "fileID": 3648085,
+      "required": true,
+      "__meta": {
+        "name": "Slightly Improved Font (32x)"
+      }
+    },
+    
+    {
       "projectID": 539382,
       "fileID": 3675784,
       "required": true,
