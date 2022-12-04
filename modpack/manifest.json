@@ -346,14 +346,6 @@
       }
     },
     {
-      "projectID": 353890,
-      "fileID": 4096760,
-      "required": true,
-      "__meta": {
-        "name": "Not Enough Crashes (Fabric)"
-      }
-    },
-    {
       "projectID": 355583,
       "fileID": 3329360,
       "required": true,
@@ -874,6 +866,14 @@
           419697,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 433447,
+      "fileID": 3831043,
+      "required": true,
+      "__meta": {
+        "name": "MixinTrace"
       }
     },
     {
@@ -2049,6 +2049,14 @@
           308769,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 709964,
+      "fileID": 4127453,
+      "required": true,
+      "__meta": {
+        "name": "More Axolotl Variants API"
       }
     }
   ]
