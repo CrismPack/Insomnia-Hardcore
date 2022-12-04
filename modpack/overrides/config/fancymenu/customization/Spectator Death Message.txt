@@ -1,0 +1,57 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  actionid = e5af7c00-1666-43c3-a1af-5551fc4d8a5b1657484160610
+  action = addtext
+  y = -129
+  scale = 2.0
+  alignment = centered
+  value = §c§lYou have chosen death!
+  vr_custom:showif:fancymenu_visibility_requirement_is_spectator = true
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  vr_custom:showif:fancymenu_visibility_requirement_is_server_ip = true
+  x = 0
+  actionid = 9fbd1f6f-c08b-4082-8fbd-6756e2c204091657484316084
+  action = addtext
+  y = -98
+  scale = 1.0
+  vr_custom:value:fancymenu_visibility_requirement_is_server_ip = insomnia.crismpack.net
+  alignment = centered
+  value = §aRespawn waves occur every Monday and Friday at 5PM CEST
+  vr_custom:showif:fancymenu_visibility_requirement_is_spectator = true
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  actionid = 6c6733b7-325c-4417-b648-99b8903750421657484388931
+  action = addtext
+  y = -109
+  scale = 1.0
+  alignment = centered
+  value = §cOther players are no longer able to revive you
+  vr:showif:multiplayer = true
+  vr_custom:showif:fancymenu_visibility_requirement_is_spectator = true
+}
+
