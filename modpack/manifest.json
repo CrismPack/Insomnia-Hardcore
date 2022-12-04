@@ -182,7 +182,7 @@
     },
     {
       "projectID": 308769,
-      "fileID": 4075244,
+      "fileID": 4123973,
       "required": true,
       "__meta": {
         "name": "Fabric Language Kotlin"
@@ -202,7 +202,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 4082323,
+      "fileID": 4126354,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -266,7 +266,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 4075424,
+      "fileID": 4127337,
       "required": true,
       "__meta": {
         "name": "Xaero's World Map",
@@ -978,7 +978,7 @@
     },
     {
       "projectID": 447673,
-      "fileID": 4098345,
+      "fileID": 4126059,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -1020,7 +1020,7 @@
     },
     {
       "projectID": 455508,
-      "fileID": 4095263,
+      "fileID": 4119871,
       "required": true,
       "__meta": {
         "name": "Iris Shaders",
@@ -1171,7 +1171,7 @@
     },
     {
       "projectID": 495267,
-      "fileID": 4082884,
+      "fileID": 4131942,
       "required": true,
       "__meta": {
         "name": "Inventory Profiles Next",
@@ -1191,7 +1191,7 @@
     },
     {
       "projectID": 498797,
-      "fileID": 3821045,
+      "fileID": 4127480,
       "required": true,
       "__meta": {
         "name": "More Axolotl Variants Mod"
@@ -1473,7 +1473,7 @@
     },
     {
       "projectID": 533097,
-      "fileID": 3933783,
+      "fileID": 4131793,
       "required": true,
       "__meta": {
         "name": "Concurrent Chunk Management Engine (Fabric)"
@@ -1851,7 +1851,7 @@
     },
     {
       "projectID": 576864,
-      "fileID": 4040613,
+      "fileID": 4118932,
       "required": true,
       "__meta": {
         "name": "Saplanting",
@@ -2041,7 +2041,7 @@
     },
     {
       "projectID": 679177,
-      "fileID": 4096361,
+      "fileID": 4128627,
       "required": true,
       "__meta": {
         "name": "libIPN",
