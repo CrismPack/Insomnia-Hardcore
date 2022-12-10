@@ -924,6 +924,11 @@ hash = "d9b1465c9b807cc4761935a51d2a777346e1aa0b2319fa7881dc272bf091a822"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "823bb58c34156710a8d70de8b8eae52b9a54bab8b76b37483397e7b5f91ab2fc"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "577cc9489d9aef40073c99c113d8574b80651e87ecc868290b5ff8cde31dab81"
 metafile = true
@@ -931,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/login-protection.pw.toml"
 hash = "4b64496c4f7d1a18f1c906cb425b170cf0c15145809c0e22773be70fc2a16cc8"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "be244c15e3482e81721247fb5e4513d58256d412597f32996573294bba1d3038"
 metafile = true
 
 [[files]]
@@ -1071,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.pw.toml"
 hash = "857e36de1110525d73ed89aa4179749a63251ea9d8324b72548e461f210ea290"
+metafile = true
+
+[[files]]
+file = "mods/prism-fabric.pw.toml"
+hash = "5f153080de491e2a5cb865eaa13dece3f19e0687ba4d0329094042a250a1a0eb"
 metafile = true
 
 [[files]]
