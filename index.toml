@@ -1319,6 +1319,11 @@ hash = "20d45abcc7b312623b0361631e1961068cf7db5bb06202a8b0d72f22f62fc06c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "6e24ae778c75cc884458cc506629d9bfd12b5caaf35a9484aa2ecdc1272300f7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/towers-of-the-wild-reworked-datapack.pw.toml"
 hash = "dd10703f6ccba4e239e8ff5130727586905776b5e4a2ff3ece43b800563c65ad"
 metafile = true
