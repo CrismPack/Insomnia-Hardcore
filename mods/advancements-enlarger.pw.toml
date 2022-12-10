@@ -1,6 +1,6 @@
 name = "Advancements Enlarger"
 filename = "advancements-enlarger-0.2.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

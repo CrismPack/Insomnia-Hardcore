@@ -1,6 +1,6 @@
 name = "Detail Armor Bar [Fabric]"
 filename = "DetailArmorBar-2.6.2+1.18-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

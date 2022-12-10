@@ -1,6 +1,6 @@
 name = "Better Recipe Books (+ Brewing Stands)"
 filename = "brb-1.18.2-fabric-1.5.6.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

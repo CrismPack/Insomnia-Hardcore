@@ -1,6 +1,6 @@
 name = "Cherished Worlds (Fabric)"
 filename = "cherishedworlds-fabric-2.0.2-1.18.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

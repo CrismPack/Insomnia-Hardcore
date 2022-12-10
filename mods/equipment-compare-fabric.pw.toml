@@ -1,6 +1,6 @@
 name = "Equipment Compare [Fabric]"
 filename = "EquipmentCompare-1.18.2-fabric-1.2.12.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

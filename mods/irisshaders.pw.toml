@@ -1,6 +1,6 @@
 name = "Iris Shaders"
 filename = "iris-mc1.18.2-1.2.6.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "LambdaBetterGrass"
 filename = "lambdabettergrass-1.2.4+1.18.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
