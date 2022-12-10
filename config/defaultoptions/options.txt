@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","loadmyresources.hiddenpack","continuity/glass_pane_culling_fix","continuity/default","file/EclecticTrove-noconfig-1.18.1-1.1.0.zip","global:Insomnia Custom Lang.zip"]
+resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","loadmyresources.hiddenpack","continuity/glass_pane_culling_fix","continuity/default","file/EclecticTrove-noconfig-1.18.1-1.1.0.zip","file/Slightly-Improved-Font-1.0.0.zip","global:Insomnia Custom Lang.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
