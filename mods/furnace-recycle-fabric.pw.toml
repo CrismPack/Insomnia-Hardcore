@@ -1,13 +1,13 @@
 name = "Furnace Recycle (Fabric)"
-filename = "furnacerecycle-fabric_1.18.2-1.5.jar"
+filename = "furnacerecycle-fabric_1.18.2-1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b423b459fd4961b6e334a1c39eaf1bfdfaadae1a"
+hash = "586d72699cee653d50ab561da9c231a815347d9b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3907901
+file-id = 4015906
 project-id = 551146

@@ -1,13 +1,13 @@
 name = "Compact Help Command (Fabric)"
-filename = "compacthelpcommand-fabric_1.18.x-1.1.jar"
+filename = "compacthelpcommand-fabric_1.18.2-1.7.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "49edfb8d2d4c2393b295e2823cb6c9dbd9b0d670"
+hash = "5956d6fc691120d91939e89f871acbf67de818a4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3542312
+file-id = 4016030
 project-id = 531291

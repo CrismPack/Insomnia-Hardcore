@@ -1,13 +1,13 @@
 name = "Nether Portal Spread (Fabric)"
-filename = "netherportalspread-fabric_1.18.2-6.1.jar"
+filename = "netherportalspread-fabric_1.18.2-6.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "abcec7f430999debd82b8b9170772ae0a5581392"
+hash = "501f788075125f6da47231bb14f3c83ee6472f16"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3907819
+file-id = 4074199
 project-id = 529673
