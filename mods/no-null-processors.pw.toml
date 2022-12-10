@@ -1,0 +1,13 @@
+name = "No Null Processors"
+filename = "no_null_processors_fabric-2.0.1+1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd3b930e6fc37428e71230ea5ab43f8a3b8e9d2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3570785
+project-id = 546841

@@ -1,0 +1,13 @@
+name = "Pick Up Notifier [Outdated]"
+filename = "PickUpNotifier-v3.2.0-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88843c47d8e07a7bf772d21f6d93f41638ed47ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3671362
+project-id = 547474

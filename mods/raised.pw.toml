@@ -1,0 +1,13 @@
+name = "Raised"
+filename = "raised-fabric-1.18.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c140be8f4ab4646d62bc12dbcd1980fc68c0dba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3840762
+project-id = 570368

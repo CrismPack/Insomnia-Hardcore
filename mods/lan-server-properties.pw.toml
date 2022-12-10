@@ -1,0 +1,13 @@
+name = "Lan Server Properties"
+filename = "lanserverproperties-1.8-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55e7785832b5085f01b3c0d4c1427a50d1e6d384"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831952
+project-id = 387365

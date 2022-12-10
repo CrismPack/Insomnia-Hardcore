@@ -1,0 +1,13 @@
+name = "More Geodes"
+filename = "more-geodes-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "685d9409db69a1656640d72faa8abc2e1dc6246f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3788979
+project-id = 437712

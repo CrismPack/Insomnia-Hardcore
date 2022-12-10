@@ -1,0 +1,13 @@
+name = "Status Effect Timer"
+filename = "statuseffecttimer-1.1.1+1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14ea17fb2aed4735d7fec4c5ee5937fa70e3dbdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3754930
+project-id = 484738

@@ -1,0 +1,13 @@
+name = "TipTheScales"
+filename = "TipTheScales-fabric-1.18.2-5.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e8f248c189c34f98fe3a6cbb1cfb16c644b510d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3757604
+project-id = 282313

@@ -1,0 +1,13 @@
+name = "Ingredient Extension API"
+filename = "IngredientExtensionAPI-fabric-1.18.2-2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16052049b46b25e5b197633795c36b7782203db2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3835745
+project-id = 557735

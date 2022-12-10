@@ -1,0 +1,13 @@
+name = "InvMoveCompats"
+filename = "InvMoveCompats-1.18-0.2.0-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efb7a8f54ed0ac05145e964ae847a1332ebc67a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3905241
+project-id = 581875

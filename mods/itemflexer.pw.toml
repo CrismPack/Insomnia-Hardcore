@@ -1,0 +1,13 @@
+name = "ItemFlexer"
+filename = "itemflexer-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b482c5dfdab1bd5ce5d2c56a8122f91fd345d401"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3697192
+project-id = 421147

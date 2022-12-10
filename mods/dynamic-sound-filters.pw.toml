@@ -1,0 +1,13 @@
+name = "Dynamic Sound Filters"
+filename = "DynamicSoundFilters-1.3.0+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca519bf829b8c0749f0f251ead3a2ae4103053c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3673233
+project-id = 392101

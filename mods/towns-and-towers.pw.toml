@@ -1,0 +1,13 @@
+name = "Towns and Towers"
+filename = "Towns-and-Towers-1.18.2-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20a416e69e59c0199c53fcb14500cb400c02e58f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3801684
+project-id = 626761

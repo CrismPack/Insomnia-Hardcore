@@ -1,0 +1,13 @@
+name = "InsomniaHardcore"
+author = "CrismPack"
+version = "1.2.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "632557a6ea552093ef184039379a69547ee29639938213974b6b2dcfb55c01f8"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.18.2"

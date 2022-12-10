@@ -1,0 +1,13 @@
+name = "Erroring Entity Remover"
+filename = "Erroring-Entity-Remover-1.0.2+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0e6396575ec23587664c1db549e3791ef5a7c29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3544111
+project-id = 412568
