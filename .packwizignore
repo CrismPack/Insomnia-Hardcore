@@ -3,4 +3,4 @@
 
 # Exclude README
 /README.md
-/.bat
+/start.bat
