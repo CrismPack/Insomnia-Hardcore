@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "420af78abe4e2780e7924e0eec37d2bb53d2d87dbe87953019de8c3eb131ac2d"
+hash = "50d6d667147118ffda56b61c98fc362cd70f016bf156c05a65c138aa59873f4e"
 metafile = true
 
 [[files]]
@@ -1386,7 +1386,3 @@ hash = "53a93771e96d5a40645e39b4d9172fbd5b69cb1e1263296f8959e36aa8ae087f"
 [[files]]
 file = "resources/mainmenu/splashes.txt"
 hash = "42378e2e5b58a48aaf3d23d56983fb7a89083940685ceb966d86c6c46e9bdbe4"
-
-[[files]]
-file = "start.bat"
-hash = "61fb12bb8f3d562ae8ca30847ec27f73c9a43415adea9b7661566b8a0c013e7d"
