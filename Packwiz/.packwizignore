@@ -3,5 +3,5 @@
 
 # Exclude README
 /README.md
-/start.bat
+/start_powershell_here.bat
 /Server Pack
