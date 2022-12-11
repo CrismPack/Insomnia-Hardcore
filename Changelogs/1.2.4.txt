@@ -2,12 +2,9 @@ v1.2.4 - Maintenance
 
 Fabric version: Fabric-0.14.11
 Update summary: 
-
-
-Detailed update description: 
-~ Made several changes to the main menu
-~ Added 'Slightly Improved Font' resourcepack
-~ Updated all mods
+~ Redesigned the main menu a bit.
+~ Added 'Slightly Improved Font' resource pack.
+~ Updated all mods to their latest version.
 
 
 Mods added:
@@ -105,4 +102,4 @@ Config Changes:
 = Removed unused TNT texture: [FancyMenu], [Client]
 = Made the logo inside the "Join our Discord!" button a tiny bit smaller: [FancyMenu], [Client]
 = Enabled the "Slightly Improved Font (32x)" resourcepack by default: [Client]
-= Wrote a new starting script for the server that checks if the "server.properties" exist and copies it into the folder if it isn't: [Server]
+= Wrote a new starting script for the server that checks if the "server.properties" exist in the servers directory and copies it into the folder if it doesn't. This way the file no longer gets overwritten when updating the modpack: [Server]
