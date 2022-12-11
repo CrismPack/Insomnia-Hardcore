@@ -1,0 +1,32 @@
+v1.2.5 - Maintenance
+
+Fabric version: Fabric-0.14.11
+Update summary: 
+~ 
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Data Packs added:
++ 
+
+
+Mods removed: 
+- 
+
+
+Data Packs removed:
+- 
+
+
+Mods updated: 
+> 
+
+Config Changes: 
+= : [mod], [side]
