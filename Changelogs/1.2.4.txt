@@ -35,91 +35,62 @@ Data Packs removed:
 
 
 Mods updated: 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
+> Advancement Plaques
+> AppleSkin
+> Architectury API
+> Blockus
+> Bookshelf
+> Concurrent Chunk Management Engine
+> Charm
+> Cloth Config API
+> Clumps
+> Collective
+> Compact Help Command
+> Consistency+
+> Continuity
+> Controlling
+> Create Fabric
+> Decorative Block
+> Global Packs
+> Dyed
+> Enchantment Descriptions
+> Entity Texture Features
+> Fabric API
+> Fabric Language Kotlin
+> FancyMenu
+> Farmer's Delight
+> Fastload
+> Forge Config API Port
+> Furnace Recycle
+> Incantationem
+> Ingredient Extension API
+> Inventory Profiles Next
+> Iris Shaders
+> Konkrete
+> Legendary Tooltips
+> Lithium
+> More Axolotl Variants Mod
+> Mod Menu
+> Nether Portal Spread
+> Puzzle
+> Raised
+> Red Bits
+> Roughly Enough Items
+> Roughly Enough Professions
+> Saplanting
+> Simple Discord RPC
+> Skin Layers 3D
+> Sodium Extra
+> Starter Kit
+> Terralith
+> TieFix
+> Towns and Towers
+> Village Spawn Point
+> WMITAF
+> Xaero's World Map
+> YUNG's API
+> Zoomify
+> Eclectic Trove (Legendary Tooltips)
 
 
 Config Changes: 
