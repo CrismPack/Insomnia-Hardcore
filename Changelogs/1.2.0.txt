@@ -1,0 +1,85 @@
+v1.2.0 - Major Update
+
+Fabric version: Fabric-0.14.5
+Update summary: Create mod, custom respawning command, phantoms nerf, many new structures and more!
+
+
+Detailed update description: 
+~ The 'Create' mod has launched on Fabric! Never heard of it? Then check out this video: https://youtu.be/jDIuWv7ROi8
+~ Created a new custom 'Insomnia Respawn Datapack' that allows for server admins to easily respawn all players (including offline players). To respawn all dead players, use the following command on your server: "/function insomniarespawn:respawn".
+~ Phantoms now don't spawn due to lack of sleep, but will instead spawn if you wander around too long in The End.
+~ Many new structures has been added by the "Towns & Towers" datapack. It is an amazing datapack that we are overjoyed to be allowed to include, so please go and show the creator some love! Link to the "Towns & Towers" datapack: https://www.planetminecraft.com/data-pack/towns-amp-towers-structure-overhaul]
+
+
+Mods added:
++ Advancements Debug
++ Create Fabric
++ Dyed
++ Economical Villager Trading
++ Essential Commands (Server)
++ Leaf Decay
++ Memory Settings (Client)
++ NPC Variety
++ Phantom Config
++ Roughly Enough Professions
++ Saplanting
++ Sound Physics Fabric (Client)
++ Styled Player List (Server)
++ TimeOutOut
++ Villagers Respawn
+
+
+Resource Packs added:
++
+
+
+Data Packs added:
++ Towns & Towers - Structure Overhaul 
+
+
+Mods removed: 
+- Better Ping Display (Functionality replaced by 'Styled Player List')
+- Leaves us in peace (Replaced with 'Leaf Decay')
+- Repurposed Structures
+- The Guild (Building isn't spawning due to some incompatibilty)
+
+
+Data Packs removed:
+- Villages Overhauled
+- Repurposed Structures - Farmer's Delight Compat
+- Repurposed Structures - More Villagers Compat
+
+
+Mods updated: 
+> Additional Additions
+> Adorn
+> Architectury API
+> Clickable advancements
+> Entity Texture Features
+> Fabric Waystones
+> FancyMenu
+> Flytre Lib
+> HerdsPanic
+> Inventory Profiles Next
+> MedievalWeapons
+> Mod Menu
+> More Geodes
+> Polymorph
+> Raised
+> Simple Discord RPC
+> Smooth Chunk Save
+> Sodium Extra
+> ThonkUtil
+> YUNG's Better Mineshafts
+
+
+Config Changes: 
+= Added 'Insomnia Respawn Datapack' as a global datapack: [Global Data- & Resourcepacks]
+= Disabled End Goblin Trader from spawning in the Overworld and Nether: [End Goblin Traders], [Both]
+= Disabled Phantoms spawning due to no sleep: [Phantom Config], [Both]
+= Changed the max spawn height of the Goblin Trader to 50: [Goblin Traders], [Both]
+= Disabled update checks: [Inventory Profiles Next], [Client]
+= Disabled show locked slots in hotbar: [Inventory Profiles Next], [Client]
+= Disabled refill items from locked slots: [Inventory Profiles Next], [Client]
+= Changed the starter items to, 1x "Wooden Shield", 1x "Wooden Sword", 16x "Bread", 1x "Potion of Revivify" and 1x "Leather Boots": [Starter Kit], [Both]
+= Enabled the Waystone structure for all 'Towns & Towers' villages: [Fabric Waystones]. [Both]

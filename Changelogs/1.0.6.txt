@@ -1,0 +1,49 @@
+Insomnia: Hardcore - v1.0.6
+
+Fabric version: Fabric-0.12.12
+Update summary: New terrain generation in 'The End' dimension as well as other quality of life improvements.
+WARNING: If you are going to play on a world created on a prior update, then make sure to delete the 'DIM1' folder from the world beforehand to avoid glitchy terrain in The End. This is due to the new world generation added by Nullscape.
+
+
+Added Mods:
++ Nullscape
++ TieFix [Client]
++ Leaves Us In Peace
++ Better Biome Blend [Client]
++ Sound Physics Fabric [Client]
+
+
+Added Resource Packs:
++ 
+
+
+Updated Mods: 
+> AppleSkin
+> Architectury API
+> Collective
+> Controlling
+> Default Options
+> Entity Culling
+> Fabric API
+> FancyMenu
+> Interactic
+> Legendary Tooltips
+> Merchant Markers
+> Repurposed Structures
+> Roughly Enough Items
+> Skin Layers 3D
+> Towers of the Wild: Reworked
+> WorldEdit
+> Xaero's World Map
+
+
+Removed Mods: 
+- BCDT Expansion (Blocks already included in Blockus)
+- Immersive Portals (Incompatible with Nullscape. Also causes severe fps frops when a portal is nearby)
+- Immersive Portals Survival Adaptation
+
+
+Config Changes: 
+= Disabled 'matchLeavesTypes': [Leaves Us In Peace], [Both]
+= Disabled 'matchLogsToLeaves': [Leaves Us In Peace], [Both]
+= Disabled 'updateDiagonalLeaves': [Leaves Us In Peace], [Both]

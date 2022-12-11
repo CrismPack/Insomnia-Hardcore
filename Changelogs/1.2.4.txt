@@ -1,0 +1,137 @@
+v1.2.4 - Maintenance
+
+Fabric version: Fabric-0.14.11
+Update summary: 
+
+
+Detailed update description: 
+~ Made several changes to the main menu
+~ Added 'Slightly Improved Font' resourcepack
+~ Updated all mods
+
+
+Mods added:
++ Prism (New dependency for 'Legendary Tooltips') [Client]
++ libIPN (New dependency for 'Inventory Profiles Next') [Client]
++ MixinTrace [Both]
++ More Axolotl Variants API [Both]
+
+
+Resource Packs added:
++ Slightly Improved Font (32x) [Client]
+
+
+Data Packs added:
++ Remove Terralith Intro Message [Client]
+
+
+Mods removed: 
+- No Null Processors (Not needed in 1.18.2) [Both]
+- Not Enough Crashes [Client]
+
+
+Data Packs removed:
+- 
+
+
+Mods updated: 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+
+
+
+Config Changes: 
+= Players now start with full leather armor: [StarterKit], [Both]
+= Added new button to the main menu that links to the Crism Modpacks Wiki: [FancyMenu], [Client]
+= Made the "Changelog" button into a tiny button and gave it a new icon: [FancyMenu], [Client]
+= Added "Official server" button that will join the official server when clicked: [FancyMenu], [Client]
+= Removed the language button (The language can just as easily be changed through the settings menu): [FancyMenu], [Client]
+= Moved the tiny buttons below the large buttons: [FancyMenu], [Client]
+= Changed how the modpack version is being rendered: [FancyMenu], [Client]
+= Deleted a few lines from splashes.txt: [FancyMenu], [Client]
+= Removed unused TNT texture: [FancyMenu], [Client]
+= Made the logo inside the "Join our Discord!" button a tiny bit smaller: [FancyMenu], [Client]
+= Enabled the "Slightly Improved Font (32x)" resourcepack by default: [Client]
+= Wrote a new starting script for the server that checks if the "server.properties" exist and copies it into the folder if it isn't: [Server]

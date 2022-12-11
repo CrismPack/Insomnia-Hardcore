@@ -1,0 +1,120 @@
+NOTE: Dont update Puzzle until version 1.3.3 of the mod has been released.
+
+
+
+
+v1.2.2 - Maintenance
+
+Fabric version: Fabric-0.14.8
+Update summary: Updated all mods to their latest versions. Removed some unneccesary mods. Added BisectHosting Integration and moved around the buttons on the title screen.
+
+
+Detailed update description: 
+~ 
+
+
+Mods added:
++ BisectHosting Server Integration Menu [Client]
++ Fastload
+
+
+Resource Packs added:
++
+
+
+Data Packs added:
++ 
+
+
+Mods removed: 
+- Ksyxis
+- Library Ferret
+- Window Title Changer
+- loadmyresources
+- ToolTipFix (Included in Debugify)
+- Entity Collision FPS Fix Refabricated (Included in Debugify)
+- FastOpenLinksAndFolders (Included in Debugify)
+- No Telemetry (Included in Debugify)
+- Puzzle [Server]
+
+
+Data Packs removed:
+- 
+
+
+Mods updated: 
+> Additional Additions
+> Advancement Plaques
+> Alternate Current
+> Animatica
+> Architectury API
+> Armor Sound Tweak
+> Balm
+> Better Fps - Render Distance
+> Better Third Person
+> Bookshelf
+> Camp Chair
+> Charm
+> Cherished Worlds
+> CIT Resewn
+> Clumps
+> Collective
+> Continuity
+> Controlling
+> Couplings
+> Create Fabric (Fixes crash when using a deployer)
+> Dawn API
+> Debugify
+> Default Options
+> Dusk
+> Enchantment Descriptions
+> Enhanced Block Entities
+> Entity Texture Features
+> Fabric API
+> Fabric Language Kotlin
+> Fabric Waystones
+> FancyMenu
+> Faux Custom Entity Data
+> Flytre Lib
+> Global Data- & Resourcepacks
+> I Know What I'm Doing
+> Incendium
+> Indium
+> Ingredient Extension API
+> Inventory Profiles Next
+> Iris Shaders
+> Konkrete
+> LambdaBetterGrass
+> Lan Server Properties
+> Legendary Tooltips
+> MidnightLib
+> MmmMmmMmmMmm
+> Mod Menu
+> More Axolotl Variants Mod
+> More Villagers
+> Raised
+> Red Bits
+> Roughly Enough Items
+> Sodium Extra
+> spark
+> Universal Ores
+> WMITAF
+> Xaero's World Map
+> YUNG's Better Mineshafts
+
+
+Config Changes: 
+= Moved around the buttons on the main menu: [FancyMenu], [Client]
+= Changed the "Changelog" button so that it now links to the CrismPack Wiki: [FancyMenu], [Client]
+= Added "Need a server?" button with our BisectHosting affiliate link: [FancyMenu], [Client]
+= Enabled "Custom Window Icon" and "Custom Window Title": [FancyMenu], [Client]
+= Set "Custom Window Title" to "Insomnia: Hardcore - Minecraft 1.18.2": [FancyMenu], [Client]
+= Added custom window icon files: [FancyMenu], [Client]
+= Disabled "defaultguiscale" as it would conflict with YOSBR: [FancyMenu], [Client]
+= Disabled fade-in on buttons: [FancyMenu], [Client]
+= Added a warning message above the "Accept your fate" button: [FancyMenu], [Client]
+= Added an additional message on the death screen that only shows when playing on the official server: [FancyMenu], [Client]
+= Changes largeImageText to "Insomnia: Hardcore - Minecraft %mcver%": [Simple Discord RPC], [Client]
+= Disabled configScreen: [Simple Discord RPC], [Client]
+= Configured the BHMenu: [BisectHosting Server Integration Menu], [Client]
+= Changed deathScreen.spectate to "Accept your fate": [Insomnia Custom Lang], [Client]

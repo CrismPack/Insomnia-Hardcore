@@ -1,0 +1,32 @@
+Insomnia: Hardcore - 1.18.1 - 1.0.2
+Fabric version: Fabric-0.12.12
+Update summary: A small quality of life update. The modpack now supports the use of shaderpacks and resourcepacks that would normally require OptiFine.
+
+Added Mods:
++ Legendary Tooltips [Client]
++ Iris Shaders [Client]
++ CIT Resewn [Client]
++ Custom Entity Models (CEM) [Client]
++ CompleteConfig [Client]
++ Starlight
+
+Added Resource Packs:
++ Eclectic Trove (Legendary Tooltips)
+
+Updated Mods: 
+> 
+
+Removed Mods: 
+- Visual Overhaul
+- Copper Equipment
+- Phosphor
+
+Config Changes: 
+= Enabled 'Eclectic Trove' Resource Pack by default: [Default Options], [Client]
+= Enabled 'Default connected textures' resourcepack from Continuity mod by default: [Default Options], [Client]
+= Enabled 'glass_pane_culling' resourcepack from Continuity mod by default: [Default Options], [Client]
+= Enabled resourcepack from BedrockWaters mod by default: [Default Options], [Client]
+= Configured to use Eclectic Trove assets: [Legendary Tooltips], [Client]
+= Enabled use of OptiFine entity model data from resource packs: [Custom Entity Models], [Client]
+= Changed maximum memory value to 6GB in the start.bat file: [Server]
+= Added lines about how to disable Hardcore mode in the README.txt file: [Server]
