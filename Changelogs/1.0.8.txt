@@ -1,0 +1,36 @@
+Insomnia: Hardcore - v1.0.8
+
+Fabric version: Fabric-0.13.2
+Update summary: 
+
+
+Added Mods:
++ Basic Shields
++ YUNG's Better Strongholds
++ Better Azalea (NEEDS TESTING!)
++ Better Trident Return
++ TipTheScales
++ Bad Wither No Cookie - Reloaded
++ Rereskillable Rereforked (CONFIGURATION NEEDED!)
++ Leaf Decay
++ SleepWarp (NEEDS TESTING!)
++ Stoneholm, Underground Villages
++ Eldritch Mobs (NEEDS TESTING!)
++ Multiplayer Server Pause
++ Entity Texture Features
+
+
+Added Resource Packs:
++ 
+
+
+Updated Mods: 
+> Farsight
+
+
+Removed Mods: 
+- Leaves Us In Peace
+
+
+Config Changes: 
+= : [mod], [Both]

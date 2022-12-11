@@ -1,0 +1,13 @@
+name = "Wandering Collector"
+filename = "wanderingcollector-1.1.2+mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "456e52e0fdb9394fb6685f8b85e5e6144c7ea812"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3717999
+project-id = 443476

@@ -1,0 +1,13 @@
+name = "HerdsPanic"
+filename = "herdspanic-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bc9463695298f600e05b9873917743f6f4d29c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3793599
+project-id = 429383

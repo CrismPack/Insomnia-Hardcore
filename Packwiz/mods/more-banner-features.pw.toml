@@ -1,0 +1,13 @@
+name = "More Banner Features"
+filename = "morebannerfeatures-1.1.3-1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72d7e76fdefed98db072289a0aa19e71d9151f39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3570654
+project-id = 515000

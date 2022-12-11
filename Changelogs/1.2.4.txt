@@ -1,0 +1,106 @@
+v1.2.4 - Maintenance
+
+Fabric version: Fabric-0.14.11
+Update summary: 
+~ Redesigned the main menu a bit.
+~ Added 'Slightly Improved Font' resource pack.
+~ Updated all mods to their latest version.
+
+
+Mods added:
++ Prism (New dependency for 'Legendary Tooltips') [Client]
++ libIPN (New dependency for 'Inventory Profiles Next') [Client]
++ MixinTrace [Both]
++ More Axolotl Variants API [Both]
+
+
+Resource Packs added:
++ Slightly Improved Font (32x) [Client]
+
+
+Data Packs added:
++ Remove Terralith Intro Message [Client]
+
+
+Mods removed: 
+- No Null Processors (Not needed in 1.18.2) [Both]
+- Not Enough Crashes [Client]
+
+
+Data Packs removed:
+- 
+
+
+Mods updated: 
+> Advancement Plaques
+> AppleSkin
+> Architectury API
+> Blockus
+> Bookshelf
+> Concurrent Chunk Management Engine
+> Charm
+> Cloth Config API
+> Clumps
+> Collective
+> Compact Help Command
+> Consistency+
+> Continuity
+> Controlling
+> Create Fabric
+> Decorative Block
+> Global Packs
+> Dyed
+> Enchantment Descriptions
+> Entity Texture Features
+> Fabric API
+> Fabric Language Kotlin
+> FancyMenu
+> Farmer's Delight
+> Fastload
+> Forge Config API Port
+> Furnace Recycle
+> Incantationem
+> Ingredient Extension API
+> Inventory Profiles Next
+> Iris Shaders
+> Konkrete
+> Legendary Tooltips
+> Lithium
+> More Axolotl Variants Mod
+> Mod Menu
+> Nether Portal Spread
+> Puzzle
+> Raised
+> Red Bits
+> Roughly Enough Items
+> Roughly Enough Professions
+> Saplanting
+> Simple Discord RPC
+> Skin Layers 3D
+> Sodium Extra
+> Starter Kit
+> Terralith
+> TieFix
+> Towns and Towers
+> Village Spawn Point
+> WMITAF
+> Xaero's World Map
+> YUNG's API
+> Zoomify
+> Eclectic Trove (Legendary Tooltips)
+
+
+Config Changes: 
+= Players now start with full leather armor: [StarterKit], [Both]
+= Added new button to the main menu that links to the Crism Modpacks Wiki: [FancyMenu], [Client]
+= Made the "Changelog" button into a tiny button and gave it a new icon: [FancyMenu], [Client]
+= Added "Official server" button that will join the official server when clicked: [FancyMenu], [Client]
+= Removed the language button (The language can just as easily be changed through the settings menu): [FancyMenu], [Client]
+= Moved the tiny buttons below the large buttons: [FancyMenu], [Client]
+= Changed how the modpack version is being rendered: [FancyMenu], [Client]
+= Deleted a few lines from splashes.txt: [FancyMenu], [Client]
+= Removed unused TNT texture: [FancyMenu], [Client]
+= Made the logo inside the "Join our Discord!" button a tiny bit smaller: [FancyMenu], [Client]
+= Enabled the "Slightly Improved Font (32x)" resourcepack by default: [Client]
+= Disabled the start message from ‘Terralith’: [Terralith], [Client]
+= Wrote a new starting script for the server that checks if the "server.properties" exist in the servers directory and copies it into the folder if it doesn't. This way the file no longer gets overwritten when updating the modpack: [Server]

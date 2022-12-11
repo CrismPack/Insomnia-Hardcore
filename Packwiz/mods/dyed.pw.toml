@@ -1,0 +1,13 @@
+name = "Dyed"
+filename = "dyed-fabric-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac14c1f18728bad45f4013156a4272895686e571"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4035268
+project-id = 577468

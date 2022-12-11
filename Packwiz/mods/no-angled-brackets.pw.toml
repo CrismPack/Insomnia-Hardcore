@@ -1,0 +1,13 @@
+name = "No Angled Brackets"
+filename = "no_angled_brackets-1.18.2-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53a07e0c84ee179f903620b071a84a86e473b393"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3781823
+project-id = 435141

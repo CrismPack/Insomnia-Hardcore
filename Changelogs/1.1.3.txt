@@ -1,0 +1,53 @@
+NOTE TIL MIG SELV: 'OK Zoomer' er skyld i crashes hvis 'Dark Enchanting' eller 'Fabric Loader' bliver opdateret. Inkompatibilitet med Dark Enchanting skyldes gammel version af LibGUI som bliver loaded af 'OK Zoomer'. 'Fabric Loader' problem skyldes at 'OK Zoomer' nu kun bliver lavet til 'Quilt Modloader'
+Beta-7 versionen af 'OK Zoomer' fikser dette problem. Afventer udgivelse på CurseForge (Opstarts besked skal også slås fra).
+
+Insomnia: Hardcore - v1.1.3
+
+Fabric version: Fabric-0.14.5
+Update summary: A maintenance update that also brings some nice quality of life additions to the server side.
+
+
+Mods added:
++ Stylized Chat (Server)
++ Smooth Chunk Save
++ Zoomify (Client)
++ Better Fabric Console (Server)
++ FlytreLib
+
+Resource Packs added:
++
+
+
+Data Packs added:
++ 
+
+
+Mods updated: 
+> Alternate Current
+> Architectury API
+> Cloth Config API
+> Dark Enchanting
+> Debugify
+> Entity Texture Features
+> Falling Leaves
+> Forgotten Graves
+> Global Data- & Resourcepacks
+> Inventory Profiles Next
+> More Geodes
+> No Angled Brackets
+> Raised
+> Xaero's World Map
+> YUNG's Better Mineshafts
+
+
+Mods removed: 
+- OK Zoomer (Replaced with 'Zoomify' as it is not compatible with newer versions of Fabric)
+- NotEnoughCrashes (Only removed from the server as it conflicts with 'Better Fabric Console')
+
+
+Config Changes: 
+= Enabled Relative Sensitivity: [Zoomify], [Client]
+= Changed Zoom Transition to 'Ease Out Sine': [Zoomify], [Client]
+= Changed Zoom Speed to '100': [Zoomify], [Client]
+= Changed the default Zoom keybind to 'Z': [Default Options], [Client]
+= Fixed some resourcepacks not being enabled by default ('EclectricTrove' and Continuity's 'Default Connected Textures'/'Glass Pane Culling'): [Default Options], [Client]

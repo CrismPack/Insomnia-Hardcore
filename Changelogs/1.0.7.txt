@@ -1,0 +1,45 @@
+Insomnia: Hardcore - v1.0.7
+
+Fabric version: Fabric-0.13.1
+Update summary: Maintenance update. Added a few quality of life mods and updated all mods to their latest versions.
+
+
+Added Mods:
++ Krypton (#NEEDS TESTING#)
++ Roughly Enough Resources
++ No Telemetry [Client]
++ Companion 🐕
++ EmoteCraft
++ Flan [Server]
+
+
+Added Resource Packs:
++ 
+
+
+Updated Mods: 
+> Adorn
+> Architectury API
+> Cloth Config API
+> Collective
+> CraftTweaker
+> Entity Culling
+> FerriteCore
+> Forgotten Graves
+> Guard Villagers
+> MedievalWeapons
+> MmmMmmMmmMmm (Target Dummy)
+> Puzzles Lib
+> Repurposed Structures
+> Roughly Enough Items
+> Sound Physics Fabric
+> Void Totem
+> Wandering Trapper
+
+
+Removed Mods: 
+- 
+
+
+Config Changes: 
+= : [mod], [Both]

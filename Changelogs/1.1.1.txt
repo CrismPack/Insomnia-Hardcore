@@ -1,0 +1,43 @@
+Insomnia: Hardcore - v1.1.1
+
+Fabric version: Fabric-0.13.3
+Update summary: Minor update that adds a few new mods and integrates an official server.
+
+
+Mods added:
++ YUNG's Better Strongholds
++ YUNG's Better Dungeons
++ YUNG's Better Mineshafts
++ YUNG's Extras
++ YUNG's Bridges
++ YUNG's API
++ Incendium
++ Raised (Client)
++ Ksyxis
++ Spark
+
+
+Resource Packs added:
++
+
+
+Data Packs added:
++ 
+
+
+Mods updated: 
+> Guard Villagers
+> FancyMenu (Client)
+> Sit
+
+
+Mods removed: 
+- Better Safe Bed
+
+
+Config Changes: 
+= Fixed config not loading: [Inventory Profiles Next], [Client]
+= Changed default 'Active Power (Primary)' keybind from 'Origins' mod to 'H': [Default Options], [Client]
+= Disabled 'Favorite Entry' keybind: [Roughly Enough Items], [Client]
+= Changed 'Horizontal Favorites Boundaries' to 60%: [Roughly Enough Items], [Client]
+= Disabled 'FriedEgg' due to overlap with 'Farmers Delight': [Additional Additions], [Both]

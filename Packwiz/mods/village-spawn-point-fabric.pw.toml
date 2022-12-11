@@ -1,0 +1,13 @@
+name = "Village Spawn Point (Fabric)"
+filename = "villagespawnpoint-fabric_1.18.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8598f72a962d03f344627562dae1e3fb62190531"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4134646
+project-id = 527653

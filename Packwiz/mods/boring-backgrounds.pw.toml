@@ -1,0 +1,13 @@
+name = "Boring Backgrounds"
+filename = "boringbackgrounds-3.0.6+1.18.rc3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "5a9e30c13a74601f5dd6eb93c6c81ed1b1aa4a65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3540327
+project-id = 363126

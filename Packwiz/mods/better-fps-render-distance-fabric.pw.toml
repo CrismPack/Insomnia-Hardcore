@@ -1,0 +1,13 @@
+name = "Better Fps - Render Distance[Fabric]"
+filename = "betterfpsdist-fabric-1.18-1.8.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e6c34589a586600bae7e7c1135d947229b9263ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3768225
+project-id = 582640

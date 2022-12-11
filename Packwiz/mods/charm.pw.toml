@@ -1,0 +1,13 @@
+name = "Charm"
+filename = "charm-fabric-1.18.2-4.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c67a31b3097443f0b924c5d6c67aaa3f534975da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4000885
+project-id = 318872

@@ -1,0 +1,13 @@
+name = "More Axolotl Variants Mod"
+filename = "mavm-1.2.0-mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c851913ec5ac776018aba53a932ed77550bd3a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4127480
+project-id = 498797

@@ -1,0 +1,13 @@
+name = "Easy Magic [Outdated]"
+filename = "EasyMagic-v3.3.0-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c67ea6e1e254fc6adb5eb6d5e2ee07bbb652259"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3671351
+project-id = 547471
