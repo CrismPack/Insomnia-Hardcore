@@ -245,26 +245,6 @@ file = "global_packs/required_resources/Insomnia Custom Lang.zip"
 hash = "8bd1950d6c4e15012888267226fb0a49abc99b6662e776c04c983215adbe4238"
 
 [[files]]
-file = "mods/.vs/VSWorkspaceState.json"
-hash = "9804fe475fb44f3c54b44a1d765f6cd4445942cb90f766554c6cb8aeb04ff9d5"
-
-[[files]]
-file = "mods/.vs/mods/FileContentIndex/d4bda2ac-688f-4b9a-89a1-046eeb2cee51.vsidx"
-hash = "c504d97735b93800addc7c7666d61bad9adfe7f9c53fb29c0423d06988f6c9fd"
-
-[[files]]
-file = "mods/.vs/mods/FileContentIndex/read.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "mods/.vs/mods/v17/.suo"
-hash = "5f69608d53139f9a6f00d803facd0c1fcc4f369592fb902829a35678ddba9fe9"
-
-[[files]]
-file = "mods/.vs/slnx.sqlite"
-hash = "d4a428e2dc4ee05f58d76e13906985c82f55605793f046296d8ef6ea38fe283c"
-
-[[files]]
 file = "mods/additional-additions.pw.toml"
 hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
 metafile = true
@@ -733,10 +713,6 @@ metafile = true
 file = "mods/fancymenu-fabric.pw.toml"
 hash = "796e3981e60c7eb3c17dc42e560b2cebc6df115da1058fb23cc7bc4647adf04e"
 metafile = true
-
-[[files]]
-file = "mods/fancymenu/defaultscaleset.fancymenu"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
