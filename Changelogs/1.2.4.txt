@@ -102,4 +102,5 @@ Config Changes:
 = Removed unused TNT texture: [FancyMenu], [Client]
 = Made the logo inside the "Join our Discord!" button a tiny bit smaller: [FancyMenu], [Client]
 = Enabled the "Slightly Improved Font (32x)" resourcepack by default: [Client]
+= Disabled the start message from ‘Terralith’: [Terralith], [Client]
 = Wrote a new starting script for the server that checks if the "server.properties" exist in the servers directory and copies it into the folder if it doesn't. This way the file no longer gets overwritten when updating the modpack: [Server]
