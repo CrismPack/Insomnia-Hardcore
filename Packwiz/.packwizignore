@@ -3,5 +3,7 @@
 
 # Exclude README
 /README.md
+
 /start_powershell_here.bat
 /Server Pack
+/mods/.vs
