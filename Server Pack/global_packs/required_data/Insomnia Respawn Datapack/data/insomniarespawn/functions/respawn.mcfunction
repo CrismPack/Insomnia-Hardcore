@@ -1,0 +1,1 @@
+scoreboard players set * isDead 0
