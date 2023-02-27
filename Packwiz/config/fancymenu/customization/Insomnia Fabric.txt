@@ -346,7 +346,7 @@ customization {
   label = 
   loopbackgroundanimations = true
   hoverlabel = Wiki
-  x = -9
+  x = -10
   width = 20
   actionid = 57ea1ba4-daed-4c06-b39b-0f0aab1449071667862956386
   action = addbutton
@@ -364,7 +364,7 @@ customization {
   label = 
   loopbackgroundanimations = true
   hoverlabel = Changelogs
-  x = -35
+  x = -36
   width = 20
   actionid = ebe28cf8-b54e-4c69-8449-f6e8e7016ebb1640212186938
   action = addbutton
@@ -377,7 +377,7 @@ customization {
 customization {
   orientation = mid-centered
   restartbackgroundanimations = true
-  buttonaction = joinserver
+  buttonaction = opengui
   backgroundhovered = resources\mainmenu\longbutton_hover.png
   label = Official Server | %serverstatus:insomnia.crismpack.net%
   loopbackgroundanimations = true
@@ -388,7 +388,7 @@ customization {
   action = addbutton
   y = 24
   backgroundnormal = resources\mainmenu\longbutton_normal.png
-  value = insomnia.crismpack.net
+  value = com.bisecthosting.mods.bhmenu.BHMultiplayerScreen
   height = 20
 }
 
@@ -400,7 +400,7 @@ customization {
   label = 
   loopbackgroundanimations = true
   hoverlabel = Join our Discord!
-  x = 17
+  x = 16
   width = 20
   actionid = 2ffa363e-0860-4826-9ded-a33d493bfd3a1640212187014
   action = addbutton
