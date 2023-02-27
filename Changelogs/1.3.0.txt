@@ -1,0 +1,32 @@
+v1.3.0 - Major Update
+
+Fabric version: Fabric-0.14.15
+Update summary: 
+~ 
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Data Packs added:
++ 
+
+
+Mods removed: 
+- 
+
+
+Data Packs removed:
+- 
+
+
+Mods updated: 
+> 
+
+Config Changes: 
+= Changed the "Official Server" button to just open the multiplayer (Having it connect directly to the server rarely worked): [FancyMenu], [Client]

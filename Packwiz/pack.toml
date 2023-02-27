@@ -1,6 +1,6 @@
 name = "InsomniaHardcore"
 author = "CrismPack"
-version = "1.2.4"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "57b042c2d3f346302a95bc315eb52df2cb7af20176e72dcdb1c7aa0106550e4d"
 
 [versions]
-fabric = "0.14.11"
+fabric = "0.14.15"
 minecraft = "1.18.2"
