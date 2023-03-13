@@ -19,24 +19,6 @@ B:advancedmode = 'false';
 B:showcustomizationbuttons = 'false';
 
 
-##[mainmenu]
-
-B:hidebranding = 'true';
-B:hidelogo = 'true';
-B:hiderealmsnotifications = 'true';
-
-
-##[mainmenu_splash]
-
-S:splashcolor = 'aa0000';
-I:splashrotation = '-20';
-I:splashy = '-60';
-I:splashx = '-85';
-B:hidesplashtext = 'false';
-S:splashtextfile = 'resources\mainmenu\splashes.txt';
-S:splashorientation = 'bottom-right';
-
-
 ##[loading]
 
 B:allowgameintroskip = 'true';
@@ -72,6 +54,7 @@ B:showvanillamovewarning = 'true';
 
 ##[ui]
 
+B:show_unicode_warning = 'true';
 F:uiscale = '1.0';
 
 
@@ -83,3 +66,8 @@ B:show_server_icons = 'true';
 ##[singleplayer_screen]
 
 B:show_world_icons = 'true';
+
+
+##[compatibility]
+
+B:allow_level_registry_interactions = 'true';

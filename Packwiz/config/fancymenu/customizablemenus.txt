@@ -12,3 +12,9 @@ net.minecraft.class_442 {
 net.minecraft.class_418 {
 }
 
+net.minecraft.class_490 {
+}
+
+net.minecraft.class_408 {
+}
+
