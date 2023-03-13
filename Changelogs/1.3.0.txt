@@ -2,7 +2,7 @@ v1.3.0 - Major Update
 
 Fabric version: Fabric-0.14.15
 Update summary: 
-~ 
+~ Revamped the title screen to have better dynamic scaling of elements.
 
 
 Mods added:
@@ -30,3 +30,7 @@ Mods updated:
 
 Config Changes: 
 = Changed the "Official Server" button to just open the multiplayer (Having it connect directly to the server rarely worked): [FancyMenu], [Client]
+= Disabled auto scaling: [FancyMenu], [Client]
+= Changed "Force GUI Scale" to 0: [FancyMenu], [Client]
+= Moved the buttons closer to the center to ensure that they can't move outside of the game window depending on scale/window size: [FancyMenu], [Client]
+= Logo now always stays in the middle between the buttons and the top of the screen: [FancyMenu], [Client]
