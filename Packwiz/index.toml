@@ -1315,6 +1315,11 @@ hash = "6e24ae778c75cc884458cc506629d9bfd12b5caaf35a9484aa2ecdc1272300f7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
+hash = "84dc4ef3fb4a79979789491901f9ef19044128fc250ed677bd9cc5dbdb6eeea8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/towers-of-the-wild-reworked-datapack.pw.toml"
 hash = "921eca940e9aaa5b35e2b8d84efe68deaf502e834b7bf2a637645666d35934b7"
 metafile = true

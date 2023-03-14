@@ -4,7 +4,8 @@ Fabric version: Fabric-0.14.17
 Update summary: 
 ~ Revamped the title screen to have better dynamic scaling of elements.
 ~ Now includes shaders by default with a Quality and Performance configuration to choose from.
-~ 
+~ New mob animations from 'FreshAnimations'.
+~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -17,6 +18,7 @@ Resource/Shader Packs added:
 + Fresh Animations CEM Fork (Is not enabled by default)
 + Fresh Animations (Not selectable since the normal version is incompatible with CEM)
 + Visual Traveler's Titles
++ Tissou's Zombie Pack
 
 Data Packs added:
 + 
