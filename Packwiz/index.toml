@@ -54,11 +54,11 @@ hash = "279100051fa0bc939c754bc386fd95aeb533b0c187cba53a4a4e16b5edaebb2b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "cad1208cc5da91da36910913b003da7b2d0de63112bc86a901fb1f180526aa83"
+hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "19dcfdbd8d20ee57a3fd434cebe3aabdb2f51b4874185b7a06706e5fb029bfc3"
+hash = "b712223cdfd2cc6861f5284df369278ebc6964f92ddd20a79d487cf0a75b1d56"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
@@ -66,7 +66,7 @@ hash = "b10986e734713cddd61acd76572a6c48e06cb3cf2c61ea82fc688e121802f5b7"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "543dc90488c0278a2bd2e5415442c55d569340504168042ca0fc79f64289e0c4"
+hash = "f56fd0a980b6a0141df45883e109ad0aa4c1afa9a4ad61353bda0c034d348e5f"
 
 [[files]]
 file = "config/fancymenu/customization/Spectator Death Message.txt"
@@ -1295,6 +1295,11 @@ hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "2f22b3ef24cac4bc38598f789a80d7581f2a8804c6d75621f1c6f37d64c4713b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "6e24ae778c75cc884458cc506629d9bfd12b5caaf35a9484aa2ecdc1272300f7"
 metafile = true
@@ -1349,12 +1354,8 @@ file = "resources/mainmenu/longbutton_normal.png"
 hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
-file = "resources/mainmenu/menu_background.png"
-hash = "6a5ed56053da3310faa1bd5095d5680ada4c27c23f2e56aca486b044d8097b9c"
-
-[[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "660933b1fd97c6524c15aed2fd63b86b3419e4aae71de7b0768172d89baf2ec1"
+hash = "0b27bac776e7501089020bad0490967ac0a95297d795a52e635aa4fade51ca10"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"
@@ -1367,3 +1368,24 @@ hash = "53a93771e96d5a40645e39b4d9172fbd5b69cb1e1263296f8959e36aa8ae087f"
 [[files]]
 file = "resources/mainmenu/splashes.txt"
 hash = "73b2843e8502533cdb2be0551cfc5d8c6761bd7936caeab5d0084b47cc50e0ff"
+
+[[files]]
+file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
+hash = "ecc4f37980ee247e6688f89f20d9706f569223a95eba82396de37ea1c1ca100b"
+
+[[files]]
+file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip.txt"
+hash = "cc4ae9e92ad514525fa709f98ddff6ad30dd484b03fe402e71613f99f3e4539c"
+
+[[files]]
+file = "shaderpacks/[Quality] ComplementaryReimagined_r2.0.3.zip"
+hash = "ecc4f37980ee247e6688f89f20d9706f569223a95eba82396de37ea1c1ca100b"
+
+[[files]]
+file = "shaderpacks/[Quality] ComplementaryReimagined_r2.0.3.zip.txt"
+hash = "02871d5dfc176a59662f00d464b0fa143ec47008f52b62b7bfefdc9e0a408767"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8ebf87629dc877eecd4bb6bff5ab7d4ebc50b8d45b36a8c19f162e0b791db9ec"
+metafile = true
