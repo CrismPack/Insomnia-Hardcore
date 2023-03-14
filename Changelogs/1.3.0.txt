@@ -11,6 +11,8 @@ Mods added:
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
++ Fresh Animations CEM Fork (Is not enabled by default)
++ Fresh Animations (Not selectable since the normal version is incompatible with CEM)
 
 
 Data Packs added:
