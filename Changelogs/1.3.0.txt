@@ -1,13 +1,16 @@
 v1.3.0 - Major Update
 
-Fabric version: Fabric-0.14.15
+Fabric version: Fabric-0.14.17
 Update summary: 
 ~ Revamped the title screen to have better dynamic scaling of elements.
-~ Added 'ComplementaryReimagined' shaderpack with both a Quality and a Performance configuration.
+~ Now includes shaders by default with a Quality and Performance configuration to choose from.
+~ 
 
 Mods added:
 + Custom Entity Models Fork [Client]
 + Traveler's Titles [Client]
++ Your Options Shall Be Respected(YOSBR) [Client]
++ True Darkness [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -19,7 +22,7 @@ Data Packs added:
 + 
 
 Mods removed: 
-- 
+- Default Options
 
 Mods disabled: 
 - Custom Entity Models
@@ -38,3 +41,4 @@ Config Changes:
 = Logo now always stays in the middle between the buttons and the top of the screen: [FancyMenu], [Client]
 = Changed cave ligting to "Very Dark": [ComplementaryReimagined], [Client]
 = Disabled biome titles: [Travelers Titles], [Client]
+= Disabled darkness from Nether and End dimensions: [True Darkness], [Client]

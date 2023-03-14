@@ -570,11 +570,6 @@ hash = "f656cceafd2c7c50a3cca0997da62fdadad4a5525528dafccffc860f2b0f3ffa"
 metafile = true
 
 [[files]]
-file = "mods/default-options-fabric.pw.toml"
-hash = "014ead9acc06b0540bc09e116f2c941a6c945617ce04a4f39ad8eaafc6c9c119"
-metafile = true
-
-[[files]]
 file = "mods/dense-ores-refabricated.pw.toml"
 hash = "18ba8ea0f2913bb8f3d49659ddeebc530942effa5e49fa1307addabde83f84a3"
 metafile = true
@@ -1215,6 +1210,11 @@ hash = "06e67496f26ce72320a5ed6ee106171cfe28ad0674b89499307d5cef6d6ac199"
 metafile = true
 
 [[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "d413ae74c827d46b1c4f48b527bc93ffddebd9304815b2c0d6b1e3c0152b9b16"
+metafile = true
+
+[[files]]
 file = "mods/universal-ores-fabric.pw.toml"
 hash = "958ea288bbb86dd19ead37c32bcedd345997321d1f88734c038e0753b57b11a0"
 metafile = true
@@ -1257,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "5cc976c7e6a2df82d07a64419ab46122b633bae27d001314701e84287ba61f5d"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
