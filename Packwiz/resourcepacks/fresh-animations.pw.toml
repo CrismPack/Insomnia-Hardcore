@@ -1,6 +1,6 @@
 name = "Fresh Animations"
 filename = "FreshAnimations_v1.8.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
