@@ -42,3 +42,4 @@ Config Changes:
 = Changed cave ligting to "Very Dark": [ComplementaryReimagined], [Client]
 = Disabled biome titles: [Travelers Titles], [Client]
 = Disabled darkness from Nether and End dimensions: [True Darkness], [Client]
+= Changed so that the mod only affects block light: [True Darkness], [Client]
