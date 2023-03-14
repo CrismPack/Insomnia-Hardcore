@@ -1,0 +1,13 @@
+name = "Visual Traveler's Titles"
+filename = "Visual Titles.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "11ccb961e9e4ffad96478f53687f8c204a77fe0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4061372
+project-id = 679106

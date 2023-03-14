@@ -1210,6 +1210,11 @@ hash = "4f49fc625c0e1db22fa0b2b4cbff876a51f23773d9e337170f0a0986182f82bd"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles-fabric.pw.toml"
+hash = "06e67496f26ce72320a5ed6ee106171cfe28ad0674b89499307d5cef6d6ac199"
+metafile = true
+
+[[files]]
 file = "mods/universal-ores-fabric.pw.toml"
 hash = "958ea288bbb86dd19ead37c32bcedd345997321d1f88734c038e0753b57b11a0"
 metafile = true
@@ -1307,6 +1312,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/towers-of-the-wild-reworked-datapack.pw.toml"
 hash = "921eca940e9aaa5b35e2b8d84efe68deaf502e834b7bf2a637645666d35934b7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-travelers-titles.pw.toml"
+hash = "0a6b61ef2290659b4707f3bb268d19dd9f263aa84bbb66dc0d9f6257c1cbb597"
 metafile = true
 
 [[files]]

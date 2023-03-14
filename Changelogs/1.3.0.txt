@@ -6,26 +6,26 @@ Update summary:
 ~ Added 'ComplementaryReimagined' shaderpack with both a Quality and a Performance configuration.
 
 Mods added:
-+ 
-
++ Custom Entity Models Fork [Client]
++ Traveler's Titles [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
 + Fresh Animations CEM Fork (Is not enabled by default)
 + Fresh Animations (Not selectable since the normal version is incompatible with CEM)
-
++ Visual Traveler's Titles
 
 Data Packs added:
 + 
 
-
 Mods removed: 
 - 
 
+Mods disabled: 
+- Custom Entity Models
 
 Data Packs removed:
 - 
-
 
 Mods updated: 
 > 
@@ -37,3 +37,4 @@ Config Changes:
 = Moved the buttons closer to the center to ensure that they can't move outside of the game window depending on scale/window size: [FancyMenu], [Client]
 = Logo now always stays in the middle between the buttons and the top of the screen: [FancyMenu], [Client]
 = Changed cave ligting to "Very Dark": [ComplementaryReimagined], [Client]
+= Disabled Biome titles: [Travelers Titles], Client
