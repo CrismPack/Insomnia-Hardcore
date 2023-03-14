@@ -4,7 +4,8 @@ Fabric version: Fabric-0.14.17
 Update summary: 
 ~ Revamped the title screen to have better dynamic scaling of elements.
 ~ Now includes shaders by default with a Quality and Performance configuration to choose from.
-~ New mob animations from 'FreshAnimations'.
+~ Caves are now completely dark.
+~ Added new mob animations from 'FreshAnimations'.
 ~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
 
 Mods added:
@@ -12,6 +13,7 @@ Mods added:
 + Traveler's Titles [Client]
 + Your Options Shall Be Respected(YOSBR) [Client]
 + True Darkness [Client]
++ LambDynamicLights
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -45,3 +47,4 @@ Config Changes:
 = Disabled biome titles: [Travelers Titles], [Client]
 = Disabled darkness from Nether and End dimensions: [True Darkness], [Client]
 = Changed so that the mod only affects block light: [True Darkness], [Client]
+= Moved multiple configs to be handled by YOSBR so that they dont get overwritten with each update('Inventory Profiles Next', ): [YOSBR], [Client]

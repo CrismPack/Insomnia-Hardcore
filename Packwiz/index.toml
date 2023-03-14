@@ -865,6 +865,11 @@ hash = "905dc99e6d4dc14b83a740e8b3272f1077e2759889d6ae133061c0bea2ca5126"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "531d8c87df493544f0fe91f525bf7e65a77c065e66614b976a362dff7abecbc7"
+metafile = true
+
+[[files]]
 file = "mods/lan-server-properties.pw.toml"
 hash = "53239118747370d2e879bc36ccfc08caf2a20e3254397161f28ffca241f7f1ef"
 metafile = true

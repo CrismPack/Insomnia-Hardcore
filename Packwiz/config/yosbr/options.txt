@@ -1,0 +1,23 @@
+version:3218
+guiScale:3
+autoJump:false
+enableVsync:false
+soundCategory_master:0.50
+soundCategory_music:0.25
+skipMultiplayerWarning:true
+key_gui.xaero_open_map:key.keyboard.m
+key_zoomify.key.zoom:key.keyboard.z
+key_key.itemswapper.itemswitcher:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
+key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.caps.lock
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","loadmyresources.hiddenpack","continuity/glass_pane_culling_fix","continuity/default","file/EclecticTrove-noconfig-1.18.1-1.1.0.zip","file/Slightly-Improved-Font-1.0.0.zip","global:Insomnia Custom Lang.zip"]

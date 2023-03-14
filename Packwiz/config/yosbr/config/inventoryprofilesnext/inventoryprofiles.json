@@ -1,7 +1,6 @@
 {
     "ModSettings": {
         "highlight_foused_items": false,
-        "enable_updates_check": false,
         "first_run": false
     },
     "GuiSettings": {
@@ -10,11 +9,7 @@
         "show_continuous_crafting_checkbox": false,
         "continuous_crafting_saved_value": false
     },
-    "LockedSlotsSettings": {
-        "also_show_locked_slots_in_hotbar": false
-    },
     "AutoRefillSettings": {
-        "ignore_locked_slots": false,
         "refill_armor": false,
         "refill_before_tool_break": false
     }
