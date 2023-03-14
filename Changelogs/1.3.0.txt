@@ -37,4 +37,4 @@ Config Changes:
 = Moved the buttons closer to the center to ensure that they can't move outside of the game window depending on scale/window size: [FancyMenu], [Client]
 = Logo now always stays in the middle between the buttons and the top of the screen: [FancyMenu], [Client]
 = Changed cave ligting to "Very Dark": [ComplementaryReimagined], [Client]
-= Disabled Biome titles: [Travelers Titles], Client
+= Disabled biome titles: [Travelers Titles], [Client]
