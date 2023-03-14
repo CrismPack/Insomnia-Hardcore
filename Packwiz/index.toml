@@ -29,6 +29,10 @@ file = "config/charm.toml"
 hash = "9db663bc7546701003e62830d47269af3cbead0f905d09f8b11ee360c9a231d8"
 
 [[files]]
+file = "config/darkness.properties"
+hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
+
+[[files]]
 file = "config/defaultoptions.toml"
 hash = "291fed0d386b6de7076d4392314c3e3ee1f17afb55f74e7ed3ceeab73caa6118"
 
@@ -153,10 +157,6 @@ file = "config/immersive_portals_fabric.json"
 hash = "65522d19087db539b5f547818a9363922a51436fbada59a4368d706b3a04a27a"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "e13a0265433cb39ed9c394bffeab788bb6ace4a26e3002eb13151884d8451857"
-
-[[files]]
 file = "config/itlt-client.toml"
 hash = "a86e570871f4a39324231585df97d679609ebb80cddac1c1188298f332fc9ef2"
 
@@ -213,6 +213,10 @@ file = "config/torohealth.json"
 hash = "85be8586f2b343ebab59cc6db45c7c051e854439222e5603ed35d03649ac1025"
 
 [[files]]
+file = "config/travelerstitles-fabric-1_18.toml"
+hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
+
+[[files]]
 file = "config/waila/waila.json"
 hash = "7a4e767b9a24f560a769b58245e78e3f810891de192a10b486873a314fca4a35"
 
@@ -231,6 +235,46 @@ hash = "e7faf2f124703ddb0d6c88411fdd27d9bbbea503d4b9ec23b9863a595d91f440"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "837ab5247d7460132e08d0a8c57f847362880a594c7ab5c4ade56a65e753d395"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
+
+[[files]]
+file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
+hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "fd7f6d208aa1717f7ccd3a1d2e4e00a3dc35b510b883163ad214651dd08436f5"
+
+[[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "53d973bb2b12bccfc41fd04a8d82c429283eb09a0857e608c9329654a290cb68"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "f90756eebe46acd7b1980d032ea790fdd12af7c7e1d110ff2b2a27149fb033d9"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "f56dab1f19b2f20de8c3c49ed9444331cc0b7c453ec97807e022c6216f1641bd"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "b6b48c45b24b9077c91073e035e5a5680b28cbd59a9c19af4f178850cebd7ff2"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "82ab07425170e90ca3db45374cbaf962084298cee1582e04de4483fb593090de"
 
 [[files]]
 file = "config/zoomify.json"
@@ -425,6 +469,10 @@ hash = "ad2930a8365abb127464ffdd6b4d34d00a9d6c4eb3794cdc929815477da63b62"
 metafile = true
 
 [[files]]
+file = "mods/cem-0.7.1_S8_1.18.jar"
+hash = "9f71d97edb6a2103d63c08f852fadc8329d211cfcf2696bdb2d36b2ff2fbef90"
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "45086e2baab1c96f628e8faed67373ee06f36396eaf00f8db1d6c66b72c03a8b"
 metafile = true
@@ -531,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.pw.toml"
-hash = "cbaa4e61bef107e4788f084fe334feea2f399d8b14a89ef1c065c07bf33d6598"
+hash = "d57af0857b2ff3ebff82c83325e1475fbda1d7351306bd0a3910bb2a914e03e4"
 metafile = true
 
 [[files]]
@@ -866,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "531d8c87df493544f0fe91f525bf7e65a77c065e66614b976a362dff7abecbc7"
+hash = "3a07183a871951408d9dc4a87c2483f12709d9b3dc0c3e0666812c15defe216b"
 metafile = true
 
 [[files]]
@@ -1211,12 +1259,12 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
-hash = "06e67496f26ce72320a5ed6ee106171cfe28ad0674b89499307d5cef6d6ac199"
+hash = "43731697babc64a22b2151415c1067643585537d5ebec4d511e1b3a339561c21"
 metafile = true
 
 [[files]]
 file = "mods/true-darkness.pw.toml"
-hash = "d413ae74c827d46b1c4f48b527bc93ffddebd9304815b2c0d6b1e3c0152b9b16"
+hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
 metafile = true
 
 [[files]]
@@ -1305,13 +1353,21 @@ hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
 metafile = true
 
 [[files]]
+file = "resourcepacks/FreshAnimations_v1.7_Add_S10.zip"
+hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.7_S10.zip"
+hash = "f2e372fec6c8fad1a733cc4acd0bebc2e60c9afde039f887a4ce20a918283cdd"
+
+[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "2f22b3ef24cac4bc38598f789a80d7581f2a8804c6d75621f1c6f37d64c4713b"
+hash = "8427f6b3ccf06150654b59741dd656dda54843d651a4a12dd453abc15cfad16c"
 metafile = true
 
 [[files]]
@@ -1321,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
-hash = "84dc4ef3fb4a79979789491901f9ef19044128fc250ed677bd9cc5dbdb6eeea8"
+hash = "2de3e217afd005376b5c8d296201ec548ac229d55ed6ad3d294d702570691dc4"
 metafile = true
 
 [[files]]
@@ -1331,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "0a6b61ef2290659b4707f3bb268d19dd9f263aa84bbb66dc0d9f6257c1cbb597"
+hash = "bf0a7d3a52a99256cacfa20750cc82651e1ce7e420e9906979c9783372b5bc58"
 metafile = true
 
 [[files]]
@@ -1409,8 +1465,3 @@ hash = "ecc4f37980ee247e6688f89f20d9706f569223a95eba82396de37ea1c1ca100b"
 [[files]]
 file = "shaderpacks/[Quality] ComplementaryReimagined_r2.0.3.zip.txt"
 hash = "02871d5dfc176a59662f00d464b0fa143ec47008f52b62b7bfefdc9e0a408767"
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8ebf87629dc877eecd4bb6bff5ab7d4ebc50b8d45b36a8c19f162e0b791db9ec"
-metafile = true
