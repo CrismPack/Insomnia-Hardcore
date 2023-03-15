@@ -1323,6 +1323,11 @@ hash = "973b23acf84af8e57c04f395a497f307cb929316d33b19e245228328c457d14f"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "25e787d94b83fcb4bfb327c61f731b15ae85fdb56339467c63c48bc8db0a524e"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-dungeons-fabric.pw.toml"
 hash = "155eda7a63a53cce08924e9f9c64aa505b5d7a848f1a592e7ec061154012115d"
 metafile = true
