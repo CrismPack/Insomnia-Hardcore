@@ -1,24 +1,30 @@
 v1.3.0 - Major Update
+Disclaimer: This version is not compatible with worlds generated prior to the update.
 
 Fabric version: Fabric-0.14.17
 Update summary: 
 ~ Revamped the title screen to have better dynamic scaling of elements.
 ~ Now includes shaders by default with a Quality and Performance configuration to choose from.
 ~ Caves are now completely dark.
+~ Torches held by players now emit light.
 ~ Added new mob animations from 'FreshAnimations'.
 ~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
+~ Added a bunch of overhauls for vanilla buildings.
+~ Re-added Nullscape. (Bundled the datapack version as that is the only way to get it working on 1.18.2. The mod version has however been added in a disabled state so that the creator still gets their download stat)
 
 Mods added:
 + Custom Entity Models Fork [Client]
 + Traveler's Titles [Client]
 + Your Options Shall Be Respected(YOSBR) [Client]
 + True Darkness [Client]
-+ LambDynamicLights
++ LambDynamicLights [Client]
 + YUNG's Better Desert Temples
 + YUNG's Better Ocean Monuments
 + YUNG's Better Witch Huts
 + YUNG's Better Nether Fortresses
 + Immersive Weathering
++ Nullscape
++ Probably Chests
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -28,13 +34,14 @@ Resource/Shader Packs added:
 + Tissou's Zombie Pack
 
 Data Packs added:
-+ 
++ Nullscape
 
 Mods removed: 
 - Default Options
 
 Mods disabled: 
 - Custom Entity Models
+- Nullscape
 
 Data Packs removed:
 - 

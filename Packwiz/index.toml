@@ -137,10 +137,6 @@ file = "config/fancymenu/panoramas/insomniapanorama/properties.txt"
 hash = "861f0b727321bbdd029bf2a5e2321f944843fe7698d1ea47de9b0ad2c91e0c67"
 
 [[files]]
-file = "config/fpsreducer/fpsreducer-client.toml"
-hash = "a59044a9c04b7b31b8e8b36dffa248597f51f676e516ff6cd6679ea56151a71e"
-
-[[files]]
 file = "config/goblintraders.toml"
 hash = "e75319393baf8bd8271155cdc263f8fad29c92a4528b14b37baf9bbb091f2135"
 
@@ -274,7 +270,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "82ab07425170e90ca3db45374cbaf962084298cee1582e04de4483fb593090de"
+hash = "1c7b2d9444a185fd13934aba9b4329a17d70388e5e3fcef9895305ec8bbc9646"
 
 [[files]]
 file = "config/zoomify.json"
@@ -808,6 +804,11 @@ hash = "8c77154f4a41064393711f144358cb56d5adde9ee3ed9d9f43fcbfa106ca51b2"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "623014e55885a6f3e61e54d1acdda801145019de02954c7254eca827be787688"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders-fabric.pw.toml"
 hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
 metafile = true
@@ -1078,6 +1079,11 @@ hash = "83e84b53985e3217dcc23e74f2e0f432279e4d7101bece8c5bf17e0e071855b0"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "36d11120f7b29d438f0c786c54b547b1427d06d9724ddaa7010ff9b2717914df"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "e0ac0cf39029a1100dfcf122a424d36c5117d753df96c36c787490ec19867eec"
 metafile = true
@@ -1110,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "50d6d667147118ffda56b61c98fc362cd70f016bf156c05a65c138aa59873f4e"
+metafile = true
+
+[[files]]
+file = "mods/probably-chests.pw.toml"
+hash = "9e9e1425152e5303571873b9b7d42c630681810c096a04b55c2248735f47bd05"
 metafile = true
 
 [[files]]
