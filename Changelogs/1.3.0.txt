@@ -47,4 +47,4 @@ Config Changes:
 = Disabled biome titles: [Travelers Titles], [Client]
 = Disabled darkness from Nether and End dimensions: [True Darkness], [Client]
 = Changed so that the mod only affects block light: [True Darkness], [Client]
-= Moved multiple configs to be handled by YOSBR so that they dont get overwritten with each update('Inventory Profiles Next', ): [YOSBR], [Client]
+= Moved multiple configs to be handled by YOSBR so that they dont get overwritten with each update('Inventory Profiles Next', 'FPS Reducer'): [YOSBR], [Client]
