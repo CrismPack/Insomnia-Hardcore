@@ -15,6 +15,7 @@ Mods added:
 + True Darkness [Client]
 + LambDynamicLights
 + YUNG's Better Desert Temples
++ YUNG's Better Ocean Monuments
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
