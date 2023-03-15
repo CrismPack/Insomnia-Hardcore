@@ -18,6 +18,7 @@ Mods added:
 + YUNG's Better Ocean Monuments
 + YUNG's Better Witch Huts
 + YUNG's Better Nether Fortresses
++ Immersive Weathering
 
 Resource/Shader Packs added:
 + ComplementaryReimagined

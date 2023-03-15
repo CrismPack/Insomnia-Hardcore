@@ -838,6 +838,11 @@ hash = "aad777b70996cf404d0df4b18cdbc315aa8d85e14909e0f3b43110e2d1c03d44"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering-fabric.pw.toml"
+hash = "9868d8821e44560d3b600e0653bfda422220d4e5118d6560c00776cc0ee32825"
+metafile = true
+
+[[files]]
 file = "mods/improved-stations.pw.toml"
 hash = "ef482a5d506e2a86ceef718953c165b3bdb585c1ba3f1364f373c441ce2f2ee2"
 metafile = true
