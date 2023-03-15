@@ -17,6 +17,7 @@ Mods added:
 + YUNG's Better Desert Temples
 + YUNG's Better Ocean Monuments
 + YUNG's Better Witch Huts
++ YUNG's Better Nether Fortresses
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
