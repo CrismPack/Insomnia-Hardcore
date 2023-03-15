@@ -1348,6 +1348,11 @@ hash = "ddb9cf5438bf572b458b64eafcddfb42fb9f719b8cb4bf07412d8da73eb72ce6"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "8bcd6a559fe83e7639a8d0b716043be1dad66f3bdc7994602c94fb840c304b31"
+metafile = true
+
+[[files]]
 file = "mods/yungs-bridges-fabric.pw.toml"
 hash = "f5e31a96c4fa606b9be31feb224160b35ee7fdfe425aaba792a6a108d706b985"
 metafile = true

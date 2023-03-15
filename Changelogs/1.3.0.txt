@@ -16,6 +16,7 @@ Mods added:
 + LambDynamicLights
 + YUNG's Better Desert Temples
 + YUNG's Better Ocean Monuments
++ YUNG's Better Witch Huts
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
