@@ -1,13 +1,13 @@
 name = "Towns and Towers"
-filename = "Towns-and-Towers-v.1.10.1-B-FABRIC-1.18.2.jar"
+filename = "towns_and_towers_fabric-1.10.0.1+1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fa84cbe1463f2e4bdc74bbfde28dd30906feb741"
+hash = "40fedd3b5adb862be1e40c18876ea64200086190"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4102879
+file-id = 4167575
 project-id = 626761
