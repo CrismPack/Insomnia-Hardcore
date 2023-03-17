@@ -11,6 +11,8 @@ Update summary:
 ~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
 ~ Added a bunch of overhaul mods for vanilla buildings.
 ~ Re-added 'Nullscape'.
+~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption upon respawning.
+~ Players now spawn at random locations.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -101,4 +103,7 @@ Config Changes:
 = Disabled darkness from Nether and End dimensions: [True Darkness], [Client]
 = Changed so that the mod only affects block light: [True Darkness], [Client]
 = Moved multiple configs to be handled by YOSBR so that they dont get overwritten with each update('Inventory Profiles Next', 'FPS Reducer'): [YOSBR], [Client]
-= Set "use_new_model_creation_fix" to false for 'FreshAnimation' compatibility: [Custom Entity Models]
+= Set "use_new_model_creation_fix" to false for 'FreshAnimation' compatibility: [Custom Entity Models], [Client]
+= Disabled variant mob textures as it conflicts with 'FreshAnimation': [Charm], [Client]
+= Sets gamerule "spawnRadius" to 5000 on first startup so each player spawns in a random location: [Insomnia Respawn], [Server]
+= Gutted the villager textures to prevent conflict with 'FreshAnimation': [Tissou's Zombie Pack], [Client]

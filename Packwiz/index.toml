@@ -22,11 +22,11 @@ hash = "6ded0c65092f76a7d3a3758d17c20b9c484349f0d08d6750bf593aa8149cda82"
 
 [[files]]
 file = "config/cem.conf"
-hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 
 [[files]]
 file = "config/charm.toml"
-hash = "9db663bc7546701003e62830d47269af3cbead0f905d09f8b11ee360c9a231d8"
+hash = "affd406297650300a07954bb0d72cf758363fab5d9a62d5e126ccb37ebad512e"
 
 [[files]]
 file = "config/darkness.properties"
@@ -270,7 +270,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1c7b2d9444a185fd13934aba9b4329a17d70388e5e3fcef9895305ec8bbc9646"
+hash = "c5ca0e8bd8c45044e21551718d8a8963b862a78efc4c8fcb6ca2b5f2535f182b"
 
 [[files]]
 file = "config/zoomify.json"
@@ -281,8 +281,17 @@ file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
 hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
+file = "global_packs/required_resources/FreshAnimations_v1.7_Add_S10.zip"
+hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
+
+[[files]]
 file = "global_packs/required_resources/Insomnia Custom Lang.zip"
 hash = "8bd1950d6c4e15012888267226fb0a49abc99b6662e776c04c983215adbe4238"
+
+[[files]]
+file = "global_packs/required_resources/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
+metafile = true
 
 [[files]]
 file = "mods/additional-additions.pw.toml"
@@ -1386,19 +1395,6 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
-metafile = true
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.7_Add_S10.zip"
-hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.7_S10.zip"
-hash = "f2e372fec6c8fad1a733cc4acd0bebc2e60c9afde039f887a4ce20a918283cdd"
-
-[[files]]
-file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
 metafile = true
 
 [[files]]
