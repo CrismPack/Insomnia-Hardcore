@@ -529,6 +529,11 @@ hash = "14adeed3d8d721bc3ee4c4c08b7374159f37de25fa4a6bfdb06982c03152d2b9"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "dbad1b6a31355794f147f1d899fdd818e3f304461742fc09d042400b8c9c0f91"
+metafile = true
+
+[[files]]
 file = "mods/compact-help-command-fabric.pw.toml"
 hash = "1b7c1f05621de55961491063a0e97cc72294e174befcd806898ac39414896778"
 metafile = true
@@ -1080,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "416c95c125d799f9dfffabaea69059c40b1117c6b92c9de1b39625865028a2ab"
+hash = "e982e34a28f9fc7addf7390ebe5b32ee2eb9e139767ffc9c2162e98887f5cbf5"
 metafile = true
 
 [[files]]

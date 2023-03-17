@@ -25,6 +25,7 @@ Mods added:
 + Immersive Weathering
 + Nullscape
 + Probably Chests
++ Collective
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -38,6 +39,7 @@ Data Packs added:
 
 Mods removed: 
 - Default Options
+- Collective (Legacy Fabric)
 
 Mods disabled: 
 - Custom Entity Models
