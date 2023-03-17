@@ -524,11 +524,6 @@ hash = "9fcaa1b18b580609c015d67317379c73d854ab2b34899163f77f938782ccc893"
 metafile = true
 
 [[files]]
-file = "mods/collective-fabric.pw.toml"
-hash = "14adeed3d8d721bc3ee4c4c08b7374159f37de25fa4a6bfdb06982c03152d2b9"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "dbad1b6a31355794f147f1d899fdd818e3f304461742fc09d042400b8c9c0f91"
 metafile = true
@@ -804,11 +799,6 @@ hash = "e9ed2a5a9149be067a0b6a46b6ffb68020511a4192c8f16ddd164b4a1aca0d87"
 metafile = true
 
 [[files]]
-file = "mods/furnace-recycle-fabric.pw.toml"
-hash = "8c77154f4a41064393711f144358cb56d5adde9ee3ed9d9f43fcbfa106ca51b2"
-metafile = true
-
-[[files]]
 file = "mods/furnace-recycle.pw.toml"
 hash = "968beb7dc80c0ae3e7ed1246434bec94bff8ff5908722ee369adf7d935feff6a"
 metafile = true
@@ -1069,11 +1059,6 @@ hash = "9ceadffba42a6e625fd97d153be73f1d155f5cdda07dd1c970f9eca9e23a1ae8"
 metafile = true
 
 [[files]]
-file = "mods/nether-portal-spread-fabric.pw.toml"
-hash = "a884476e176e1568dd082d73564593edc9e1527c7c1ef027223a458f417d9a7d"
-metafile = true
-
-[[files]]
 file = "mods/nether-portal-spread.pw.toml"
 hash = "b05cb322ee3ec0bf2424bd82c86d06dc23cd00e21480eaad9f3857b57744fa59"
 metafile = true
@@ -1224,11 +1209,6 @@ hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
 metafile = true
 
 [[files]]
-file = "mods/starter-kit-fabric.pw.toml"
-hash = "fe9945294fc238bc194706ee7ea16fd5642c78794b3f82c08c16be74abd79dea"
-metafile = true
-
-[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "6c1ec65fbb2ede2953e410e07735ddfe33474a294e07586d874c23ea31ecddd1"
 metafile = true
@@ -1309,13 +1289,8 @@ hash = "958ea288bbb86dd19ead37c32bcedd345997321d1f88734c038e0753b57b11a0"
 metafile = true
 
 [[files]]
-file = "mods/village-spawn-point-fabric.pw.toml"
-hash = "c64c498834063991b57e24d4c419fa5623d922c6ae9500a854745e4bbd80ca8a"
-metafile = true
-
-[[files]]
 file = "mods/village-spawn-point.pw.toml"
-hash = "fbb2593d0eb714fea2aabee7e7c6755354f2c452aade86b80e7835eff6571bd6"
+hash = "3779d9d2ae51741a7a3eccd719b659157edf60b76e51fed6ba96c1cc02436e3e"
 metafile = true
 
 [[files]]

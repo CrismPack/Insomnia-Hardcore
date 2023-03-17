@@ -28,7 +28,7 @@ Mods added:
 + Collective
 + Furnace Recycle
 + Nether Portal Spread
-+ Village Spawn Point
++ Village Spawn Point [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -48,7 +48,8 @@ Mods removed:
 - Village Spawn Point (Legacy Fabric)
 
 Mods disabled: 
-- Custom Entity Models
+- Custom Entity Models [Client]
+- 
 
 Data Packs removed:
 - 
@@ -100,3 +101,4 @@ Config Changes:
 = Disabled darkness from Nether and End dimensions: [True Darkness], [Client]
 = Changed so that the mod only affects block light: [True Darkness], [Client]
 = Moved multiple configs to be handled by YOSBR so that they dont get overwritten with each update('Inventory Profiles Next', 'FPS Reducer'): [YOSBR], [Client]
+= Set "use_new_model_creation_fix" to false for 'FreshAnimation' compatibility: [Custom Entity Models]
