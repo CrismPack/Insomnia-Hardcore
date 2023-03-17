@@ -809,6 +809,11 @@ hash = "8c77154f4a41064393711f144358cb56d5adde9ee3ed9d9f43fcbfa106ca51b2"
 metafile = true
 
 [[files]]
+file = "mods/furnace-recycle.pw.toml"
+hash = "968beb7dc80c0ae3e7ed1246434bec94bff8ff5908722ee369adf7d935feff6a"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "623014e55885a6f3e61e54d1acdda801145019de02954c7254eca827be787688"
 metafile = true

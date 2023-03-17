@@ -26,6 +26,7 @@ Mods added:
 + Nullscape
 + Probably Chests
 + Collective
++ Furnace Recycle
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -40,6 +41,7 @@ Data Packs added:
 Mods removed: 
 - Default Options
 - Collective (Legacy Fabric)
+- Furnace Recycle (Legacy Fabric)
 
 Mods disabled: 
 - Custom Entity Models
