@@ -27,7 +27,8 @@ Mods added:
 + Probably Chests
 + Collective
 + Furnace Recycle
-- Nether Portal Spread
++ Nether Portal Spread
++ Village Spawn Point
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -44,6 +45,7 @@ Mods removed:
 - Collective (Legacy Fabric)
 - Furnace Recycle (Legacy Fabric)
 - Nether Portal Spread (Legacy Fabric)
+- Village Spawn Point (Legacy Fabric)
 
 Mods disabled: 
 - Custom Entity Models

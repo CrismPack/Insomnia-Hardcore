@@ -1309,6 +1309,11 @@ hash = "c64c498834063991b57e24d4c419fa5623d922c6ae9500a854745e4bbd80ca8a"
 metafile = true
 
 [[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "fbb2593d0eb714fea2aabee7e7c6755354f2c452aade86b80e7835eff6571bd6"
+metafile = true
+
+[[files]]
 file = "mods/villagers-respawn.pw.toml"
 hash = "b17ac5e0c6b103f9178efa2c0eba0f18429a99b26cc904a05d6d6f08c94b6e86"
 metafile = true
