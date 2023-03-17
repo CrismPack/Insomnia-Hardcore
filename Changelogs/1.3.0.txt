@@ -10,7 +10,7 @@ Update summary:
 ~ Added new mob animations from 'FreshAnimations'.
 ~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
 ~ Added a bunch of overhaul mods for vanilla buildings.
-~ Re-added Nullscape. (Bundled the datapack version as that is the only way to get it working on 1.18.2. The mod version has however been added in a disabled state so that the creator still gets their download stat)
+~ Re-added 'Nullscape'.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -34,14 +34,13 @@ Resource/Shader Packs added:
 + Tissou's Zombie Pack
 
 Data Packs added:
-+ Nullscape
++ 
 
 Mods removed: 
 - Default Options
 
 Mods disabled: 
 - Custom Entity Models
-- Nullscape
 
 Data Packs removed:
 - 
@@ -52,6 +51,7 @@ Mods updated:
 > Balm
 > Bookshelf
 > Concurrent Chunk Management Engine
+> Continuity
 > Create Fabric
 > Dark Paintings
 > Dyed

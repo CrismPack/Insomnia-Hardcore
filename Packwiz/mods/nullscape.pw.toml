@@ -1,16 +1,16 @@
 name = "Nullscape"
-filename = "Nullscape_v1.1_Fabric+Forge.jar"
+filename = "Nullscape_1.18.2_v1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3b7ac6ce0b5b1bf429ffbd646482e6e56ec4deab"
+hash = "99b0e320ab57cf0aa39890576332a34dc87f867e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3614046
+file-id = 4441289
 project-id = 570354
 
 [option]
-optional = true
+optional = false
