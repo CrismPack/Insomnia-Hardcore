@@ -1,5 +1,7 @@
 scoreboard objectives add isDead deathCount "isDead"
+gamerule spectatorsGenerateChunks false
 
+#Runs some code only the first time the datapack is loaded
 scoreboard objectives add testFirst dummy
 execute unless score isFirst testFirst matches 1 run scoreboard players set isFirst testFirst 0
 execute if score isFirst testFirst matches 0 run function insomniarespawn:run_once
