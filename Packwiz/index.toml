@@ -1074,6 +1074,11 @@ hash = "a884476e176e1568dd082d73564593edc9e1527c7c1ef027223a458f417d9a7d"
 metafile = true
 
 [[files]]
+file = "mods/nether-portal-spread.pw.toml"
+hash = "b05cb322ee3ec0bf2424bd82c86d06dc23cd00e21480eaad9f3857b57744fa59"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
 hash = "5bd687c12768ec0a0c5d00e55be80d7e0334ee9dfabbbea59a8a07d8379671f7"
 metafile = true

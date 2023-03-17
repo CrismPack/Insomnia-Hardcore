@@ -27,6 +27,7 @@ Mods added:
 + Probably Chests
 + Collective
 + Furnace Recycle
+- Nether Portal Spread
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -42,6 +43,7 @@ Mods removed:
 - Default Options
 - Collective (Legacy Fabric)
 - Furnace Recycle (Legacy Fabric)
+- Nether Portal Spread (Legacy Fabric)
 
 Mods disabled: 
 - Custom Entity Models
