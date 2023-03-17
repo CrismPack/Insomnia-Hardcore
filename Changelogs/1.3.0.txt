@@ -9,7 +9,7 @@ Update summary:
 ~ Torches held by players now emit light.
 ~ Added new mob animations from 'FreshAnimations'.
 ~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
-~ Added a bunch of overhauls for vanilla buildings.
+~ Added a bunch of overhaul mods for vanilla buildings.
 ~ Re-added Nullscape. (Bundled the datapack version as that is the only way to get it working on 1.18.2. The mod version has however been added in a disabled state so that the creator still gets their download stat)
 
 Mods added:
@@ -47,7 +47,39 @@ Data Packs removed:
 - 
 
 Mods updated: 
-> 
+> Alternate Current
+> Architectury API
+> Balm
+> Bookshelf
+> Concurrent Chunk Management Engine
+> Create Fabric
+> Dark Paintings
+> Dyed
+> Enchantment Descriptions
+> Entity Texture Features
+> Entity Culling
+> Essential Commands
+> Fabric API
+> Fabric Language Kotlin
+> Fabric Shield Lib
+> Fabric Waystones
+> FancyMenu
+> Fastload
+> Forgotten Graves
+> I Know What I'm Doing (IKWID)
+> Incendium
+> Inventory Profiles Next
+> InvMove
+> Iris Shaders
+> libIPN
+> NetherPortalFix
+> Raised
+> Roughly Enough Items
+> Sodium Extra
+> Towns and Towers
+> Wavey Capes
+> Xaero's World Map
+> YUNG's API
 
 Config Changes: 
 = Changed the "Official Server" button to just open the multiplayer (Having it connect directly to the server rarely worked): [FancyMenu], [Client]
