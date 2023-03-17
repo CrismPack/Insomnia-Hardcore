@@ -107,3 +107,5 @@ Config Changes:
 = Disabled variant mob textures as it conflicts with 'FreshAnimation': [Charm], [Client]
 = Sets gamerule "spawnRadius" to 5000 on first startup so each player spawns in a random location: [Insomnia Respawn], [Server]
 = Gutted the villager textures to prevent conflict with 'FreshAnimation': [Tissou's Zombie Pack], [Client]
+= Players now get absorption upon respawning: [Insomnia Respawn], [Server]
+= Players can have multiple lives (1 extra for now): [Insomnia Respawn], [Server]
