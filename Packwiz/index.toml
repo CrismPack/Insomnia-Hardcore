@@ -1229,6 +1229,11 @@ hash = "fe9945294fc238bc194706ee7ea16fd5642c78794b3f82c08c16be74abd79dea"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "6c1ec65fbb2ede2953e410e07735ddfe33474a294e07586d874c23ea31ecddd1"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-timer.pw.toml"
 hash = "a1229278e1d9b55a477ec02ea62618b01307dd54055ea654acb0b48c137ee190"
 metafile = true
