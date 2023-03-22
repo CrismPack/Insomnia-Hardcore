@@ -1133,6 +1133,11 @@ hash = "9e9e1425152e5303571873b9b7d42c630681810c096a04b55c2248735f47bd05"
 metafile = true
 
 [[files]]
+file = "mods/productive-villagers.pw.toml"
+hash = "d344194534f0522d7a6ba38cb86556fc32402cdf8454aa91a71dcf7fbebb35c5"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a7d8fddaafd5827d0bf38c24d214d79029ddbd6edf0bb43dbbb733f6eb30e0db"
 metafile = true
