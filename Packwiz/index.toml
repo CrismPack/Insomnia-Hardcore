@@ -388,6 +388,11 @@ hash = "fce15627d07e623eebe804d2d425504fc66f86ef0b4bd55e77a3bf96e792e833"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "6f6c74efc00d02259c1783806501b7f57bd54f0685410d157f79a725d1643a19"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
 metafile = true
@@ -714,11 +719,6 @@ metafile = true
 [[files]]
 file = "mods/erroring-entity-remover.pw.toml"
 hash = "4b97fceda7cfebee47b46b8ba721793073c59a2007ec471d9c3256848783f81e"
-metafile = true
-
-[[files]]
-file = "mods/essential-commands.pw.toml"
-hash = "d8f099b74b3062cb6acac7847a7047943b89771da72ea2eac105a4fd39247954"
 metafile = true
 
 [[files]]
@@ -1087,6 +1087,11 @@ hash = "3b695c715b0500ffa0934bb6b688cd54f63fdc44f69e3706308eaf708fe9a17b"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
+metafile = true
+
+[[files]]
 file = "mods/phantom-config.pw.toml"
 hash = "0df6a92dd6fad7290f91dd849491a52d96c4ec2fa8bd5235028e237d4db09d1e"
 metafile = true
@@ -1094,6 +1099,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier-fabric.pw.toml"
 hash = "c2b43fbe72af37127a89832e64d80c2b5fe182cbc8bc1b65104dbd067e82b0b8"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c8847c0bc53d308abb70c1cc77aeebb72841b448faaf957159d708113e70fc9f"
 metafile = true
 
 [[files]]

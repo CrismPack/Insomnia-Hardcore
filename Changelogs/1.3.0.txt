@@ -30,6 +30,9 @@ Mods added:
 + Nether Portal Spread
 + Village Spawn Point [Client]
 + Productive Villagers
++ Better Combat
++ playerAnimator
++ Patchouli
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -48,6 +51,7 @@ Mods removed:
 - Nether Portal Spread (Legacy Fabric)
 - Village Spawn Point (Legacy Fabric)
 - Amplified Nether
+- Essential Commands
 
 Mods disabled: 
 - Custom Entity Models [Client]
