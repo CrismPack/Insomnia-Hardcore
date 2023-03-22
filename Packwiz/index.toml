@@ -848,11 +848,6 @@ hash = "aad777b70996cf404d0df4b18cdbc315aa8d85e14909e0f3b43110e2d1c03d44"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering-fabric.pw.toml"
-hash = "9868d8821e44560d3b600e0653bfda422220d4e5118d6560c00776cc0ee32825"
-metafile = true
-
-[[files]]
 file = "mods/improved-stations.pw.toml"
 hash = "ef482a5d506e2a86ceef718953c165b3bdb585c1ba3f1364f373c441ce2f2ee2"
 metafile = true
@@ -1125,11 +1120,6 @@ metafile = true
 [[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "50d6d667147118ffda56b61c98fc362cd70f016bf156c05a65c138aa59873f4e"
-metafile = true
-
-[[files]]
-file = "mods/probably-chests.pw.toml"
-hash = "9e9e1425152e5303571873b9b7d42c630681810c096a04b55c2248735f47bd05"
 metafile = true
 
 [[files]]
