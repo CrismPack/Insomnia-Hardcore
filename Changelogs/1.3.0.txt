@@ -33,6 +33,7 @@ Mods added:
 + Better Combat
 + playerAnimator
 + Patchouli
++ Simply Swords
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -55,7 +56,6 @@ Mods removed:
 
 Mods disabled: 
 - Custom Entity Models [Client]
-- 
 
 Data Packs removed:
 - 
