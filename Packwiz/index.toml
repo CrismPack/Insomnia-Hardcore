@@ -289,9 +289,8 @@ file = "global_packs/required_resources/Insomnia Custom Lang.zip"
 hash = "8bd1950d6c4e15012888267226fb0a49abc99b6662e776c04c983215adbe4238"
 
 [[files]]
-file = "global_packs/required_resources/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
-metafile = true
+file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
+hash = "3ce6f08890861f6250cb37ee916ea812c9cbce67e133b837331875781ab17e1e"
 
 [[files]]
 file = "mods/additional-additions.pw.toml"
@@ -331,11 +330,6 @@ metafile = true
 [[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "91b3205001c2d059aca57e199e84b428717dba550b6ba7a21067f5b67e7bb384"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
 metafile = true
 
 [[files]]
@@ -810,11 +804,6 @@ metafile = true
 [[files]]
 file = "mods/furnace-recycle.pw.toml"
 hash = "968beb7dc80c0ae3e7ed1246434bec94bff8ff5908722ee369adf7d935feff6a"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "623014e55885a6f3e61e54d1acdda801145019de02954c7254eca827be787688"
 metafile = true
 
 [[files]]
@@ -1393,6 +1382,11 @@ hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
 metafile = true
 
 [[files]]
+file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "8427f6b3ccf06150654b59741dd656dda54843d651a4a12dd453abc15cfad16c"
 metafile = true
@@ -1404,7 +1398,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
-hash = "2de3e217afd005376b5c8d296201ec548ac229d55ed6ad3d294d702570691dc4"
+hash = "de4e6789d5d43c73db635d80c3994e584b4575c4137afe1ee425c801d115c596"
 metafile = true
 
 [[files]]

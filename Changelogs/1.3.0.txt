@@ -12,7 +12,7 @@ Update summary:
 ~ Added a bunch of overhaul mods for vanilla buildings.
 ~ Re-added 'Nullscape'.
 ~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption upon respawning.
-~ Players now spawn at random locations.
+~ Players now spawn at random locations on servers.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -47,6 +47,7 @@ Mods removed:
 - Furnace Recycle (Legacy Fabric)
 - Nether Portal Spread (Legacy Fabric)
 - Village Spawn Point (Legacy Fabric)
+- Amplified Nether
 
 Mods disabled: 
 - Custom Entity Models [Client]
