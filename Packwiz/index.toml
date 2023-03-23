@@ -901,11 +901,6 @@ hash = "160321d9f30d6f1efce1c229eab0bb06c222f4bd0906398e8928617eb81fb9f4"
 metafile = true
 
 [[files]]
-file = "mods/medievalweapons.pw.toml"
-hash = "f8f713843f3dfcbcb342ce81181c3b40d6c834d943672eff16b3ba8fbd677ea8"
-metafile = true
-
-[[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "dbf35e7e39ffba4762dcd6812db17657e90ffbfc4120959d348d21728db371ec"
 metafile = true

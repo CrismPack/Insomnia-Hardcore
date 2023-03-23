@@ -5,14 +5,15 @@ Fabric version: Fabric-0.14.17
 Update summary: 
 ~ Revamped the title screen to have better dynamic scaling of elements.
 ~ Now includes shaders by default with a Quality and Performance configuration to choose from.
-~ Caves are now completely dark.
+~ Caves now get completely dark.
 ~ Torches held by players now emit light.
-~ Added new mob animations from 'FreshAnimations'.
+~ Improved monster and animal animations from 'FreshAnimations'.
 ~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
-~ Added a bunch of overhaul mods for vanilla buildings.
-~ Re-added 'Nullscape'.
+~ Added overhauls for a bunch of vanilla buildings.
+~ Re-added 'Nullscape' for vastly improved world generation in The End.
 ~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption upon respawning.
-~ Players now spawn at random locations on servers.
+~ Player spawn locations are now random on servers.
+~ New combat system and additional weapons.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -56,6 +57,7 @@ Mods removed:
 - Amplified Nether
 - Essential Commands
 - Additional Additions
+- MedievalWeapons
 
 Mods disabled: 
 - Custom Entity Models [Client]
