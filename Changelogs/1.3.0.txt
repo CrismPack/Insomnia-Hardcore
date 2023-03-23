@@ -129,3 +129,5 @@ Config Changes:
 = Improved the warning text on the hardcore death screen to more precisely conway to new players what clicking the "Accept your fate" button does: [FancyMenu], [Client]
 = The "Title Screen" button in the death screen is now only visible when playing singleplayer: [FancyMenu], [Client]
 = Toned down the range of sound and gain of the reverb: [Sound Physics Remastered], [Both]
+= Players now also start with 16 torches: [StarterKit], [Both]
+= Players now get a Recall Potion when respawning: [Insomnia Respawn], [Server]

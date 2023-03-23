@@ -6,7 +6,7 @@
 0 : '{Count:1b,id:"minecraft:wooden_sword",tag:{Damage:0}}',
 1 : '{Count:16b,id:"minecraft:bread"}',
 2 : '{Count:1b,id:"minecraft:potion",tag:{Potion:"minecraft:revivify_potion"}}',
-3 : '',
+3 : '{Count:16b,id:"minecraft:torch"}',
 4 : '',
 5 : '',
 6 : '',
