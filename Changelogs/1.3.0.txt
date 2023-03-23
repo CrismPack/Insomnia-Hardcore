@@ -34,6 +34,7 @@ Mods added:
 + playerAnimator
 + Patchouli
 + Simply Swords
++ Combat Roll
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -113,3 +114,5 @@ Config Changes:
 = Gutted the villager and zombie villager textures to prevent conflict with 'FreshAnimation': [Tissou's Zombie Pack], [Client]
 = Players now get absorption upon respawning: [Insomnia Respawn], [Server]
 = Players can have multiple lives (1 extra for now): [Insomnia Respawn], [Server]
+= Players now become frozen in place when dead: [Insomnia Respawn], [Server]
+= Disabled all keybinds that conflict with 'Combat Roll': [YOSBR], [Client]

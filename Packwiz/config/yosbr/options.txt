@@ -109,11 +109,11 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_Reload Menu | CTRL + ALT + :key.keyboard.r
+key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.namepain.showculled:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.period
-key_key.charm.open_atlas:key.keyboard.r
+key_key.charm.open_atlas:key.keyboard.unknown
 key_key.cleanview.togglecleanview:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
@@ -146,7 +146,7 @@ key_gui.xaero_toggle_pac_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.z
 key_zoomify.key.gui:key.keyboard.f8
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:0.5

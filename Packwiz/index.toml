@@ -537,6 +537,11 @@ hash = "dbad1b6a31355794f147f1d899fdd818e3f304461742fc09d042400b8c9c0f91"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "079adcdf7c240a19c1947789aa1964bb7ca4fbdcfd4a3beb592ec2b36c18bfc4"
+metafile = true
+
+[[files]]
 file = "mods/compact-help-command-fabric.pw.toml"
 hash = "1b7c1f05621de55961491063a0e97cc72294e174befcd806898ac39414896778"
 metafile = true
