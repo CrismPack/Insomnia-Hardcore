@@ -1,7 +1,7 @@
 v1.3.0 - Major Update
 Disclaimer: This version is not compatible with worlds generated prior to the update.
 
-Fabric version: Fabric-0.14.17
+Fabric version: Fabric-0.14.18
 Update summary: 
 ~ Revamped the title screen to have better dynamic scaling of elements.
 ~ Now includes shaders by default with a Quality and Performance configuration to choose from.
@@ -15,6 +15,7 @@ Update summary:
 ~ Player spawn locations are now random on servers.
 ~ New combat system and additional weapons.
 ~ Added proximity voice chat functionality.
+~ Replaced home teleport commands with a potion which is also given to players upon respawning.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -131,4 +132,5 @@ Config Changes:
 = The "Title Screen" button in the death screen is now only visible when playing singleplayer: [FancyMenu], [Client]
 = Toned down the range of sound and gain of the reverb: [Sound Physics Remastered], [Both]
 = Players now also start with 16 torches: [StarterKit], [Both]
-= Players now get a Recall Potion when respawning: [Insomnia Respawn], [Server]
+= Players is now given a Recall Potion when respawning: [Insomnia Respawn], [Server]
+= Items no longer gets picked up directly into inventory by default: [Inventory Profiles Next], [Client]
