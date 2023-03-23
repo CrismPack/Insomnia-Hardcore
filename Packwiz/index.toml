@@ -162,7 +162,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "c35910890c8e0b51c742b972fa4b5720a646685e5f94c65f22e01d9ee951e5da"
+hash = "1076660f6dca0c4f62c212616fe0db871962d996dfcd0d7f99ffd69e874051a0"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -182,7 +182,7 @@ hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "fd7f6d208aa1717f7ccd3a1d2e4e00a3dc35b510b883163ad214651dd08436f5"
+hash = "863d9a92d43ab50b56a9ff3fb43f11925af4eb5e2e5a536bbc55573ae1804eee"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
@@ -474,11 +474,6 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "079adcdf7c240a19c1947789aa1964bb7ca4fbdcfd4a3beb592ec2b36c18bfc4"
-metafile = true
-
-[[files]]
-file = "mods/compact-help-command-fabric.pw.toml"
-hash = "1b7c1f05621de55961491063a0e97cc72294e174befcd806898ac39414896778"
 metafile = true
 
 [[files]]

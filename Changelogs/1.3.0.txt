@@ -53,16 +53,17 @@ Data Packs added:
 + 
 
 Mods removed: 
-- Default Options
+- Default Options [Client]
 - Collective (Legacy Fabric)
 - Furnace Recycle (Legacy Fabric)
 - Nether Portal Spread (Legacy Fabric)
 - Village Spawn Point (Legacy Fabric)
 - Amplified Nether
-- Essential Commands
+- Essential Commands [Server]
 - Additional Additions
 - MedievalWeapons
-- Dynamic Sound Filters
+- Dynamic Sound Filters [Client]
+- Compact Help Command (Legacy Fabric) [Server]
 
 Mods disabled: 
 - Custom Entity Models [Client]
