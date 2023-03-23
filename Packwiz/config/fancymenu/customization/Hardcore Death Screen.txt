@@ -23,9 +23,9 @@ customization {
   x = 98
   actionid = 3ae026c8-8cbc-4257-a93c-9711e31d140d1656858845212
   action = addtext
-  y = -52
+  y = -38
   alignment = centered
-  value = §c§lClicking "Accept your fate" will take away one of your lives!
+  value = §f§lClicking "Accept your fate" will take away one of your lives!
   vr:showif:multiplayer = true
 }
 
@@ -37,11 +37,11 @@ customization {
   x = 97
   actionid = 25cd8bf8-3e2f-43c0-b9f4-a293f7cf988d1656858977384
   action = addtext
-  y = -16
+  y = 31
   scale = 0.85
   vr_custom:value:fancymenu_visibility_requirement_is_server_ip = insomnia.crismpack.net
   alignment = centered
-  value = §e§lIf a respawn event has occured after your death, clicking "Accept your fate" will simply respawn you.
+  value = §a§lIf a respawn event has occured after your death, clicking "Accept your fate" will simply respawn you.
 }
 
 customization {
@@ -54,23 +54,22 @@ customization {
   x = 98
   actionid = 261b2e34-68d0-4517-9d77-dfe58ea96b8b1679534878937
   action = addtext
-  y = -42
+  y = -28
   alignment = centered
-  value = §c§lIf your lives reaches "0" you will not respawn and will instead enter a permadeath state...
+  value = §f§lIf your lives reaches "0" you will not respawn and will instead enter a permadeath state.
   vr:showif:multiplayer = true
 }
 
 customization {
-  orientation = element
+  orientation = mid-centered
   shadow = false
-  vr_custom:showif:fancymenu_visibility_requirement_is_variable_value = false
-  scale = 2.0
   vr_custom:value:fancymenu_visibility_requirement_is_variable_value = <variable_name>:<value_to_check_for>
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 98
+  vr_custom:showif:fancymenu_visibility_requirement_is_variable_value = false
+  x = 0
   actionid = 04cd4f46-6b7d-4d30-9248-cea3e65f4e471679535049337
   action = addtext
-  y = -76
+  y = -103
+  scale = 2.0
   alignment = centered
   value = §c§lWarning!
   vr:showif:multiplayer = true
@@ -86,9 +85,9 @@ customization {
   x = 98
   actionid = 479cdefa-4cee-4313-ad32-39cf3ea524ac1679535259642
   action = addtext
-  y = -32
+  y = -18
   alignment = centered
-  value = §c§lEither get a friend to come and rescue you, or simply accept your fate and await a respawn wave!
+  value = §f§lEither get a friend to come and rescue you, or simply accept your fate and await a respawn wave!
   vr:showif:multiplayer = true
 }
 

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/adaptive_performance_tweaks-common.toml"
-hash = "88e7cb8d3a51c3263b505be63eeb65e565826d2c0abbe71ed0cd947deb667c7b"
-
-[[files]]
 file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
@@ -33,22 +29,6 @@ file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
 
 [[files]]
-file = "config/defaultoptions.toml"
-hash = "291fed0d386b6de7076d4392314c3e3ee1f17afb55f74e7ed3ceeab73caa6118"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "6ff8195b03900d17303cf3f5db0ef19ad67e995e2a3ecc8ad056213f6447139e"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "767c7d2cea21b0a777b5b843fd7b30e818d72df8a45ce6a0de1de407d24deab0"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "92dcbb2d35cddf8b0f2fc8c58033a8469fd7fa69870e07f46955bdd8ec259322"
-
-[[files]]
 file = "config/dusk.json"
 hash = "7da062edd2a9cb42424ff5c57ba4dc3c1bc490b76aca28e9f4d00b54b092a624"
 
@@ -66,7 +46,7 @@ hash = "b712223cdfd2cc6861f5284df369278ebc6964f92ddd20a79d487cf0a75b1d56"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
-hash = "b10986e734713cddd61acd76572a6c48e06cb3cf2c61ea82fc688e121802f5b7"
+hash = "73260e78c75370dd95f2489a626ff8ac013fc0df26644a39a830e83f09e484c0"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
@@ -141,30 +121,6 @@ file = "config/goblintraders.toml"
 hash = "e75319393baf8bd8271155cdc263f8fad29c92a4528b14b37baf9bbb091f2135"
 
 [[files]]
-file = "config/hardcorerevival.toml"
-hash = "777223f795161fbc9b7447a7c8beb08c47d200461639f74354b969632ef8148f"
-
-[[files]]
-file = "config/hqm/config.json5"
-hash = "5f306940c96ebff52f9b37488145311e072db1d32eac65c9849284f6997ce61c"
-
-[[files]]
-file = "config/immersive_portals_fabric.json"
-hash = "65522d19087db539b5f547818a9363922a51436fbada59a4368d706b3a04a27a"
-
-[[files]]
-file = "config/itlt-client.toml"
-hash = "a86e570871f4a39324231585df97d679609ebb80cddac1c1188298f332fc9ef2"
-
-[[files]]
-file = "config/itlt/icon.png"
-hash = "08ddccc686c0c1f20ba05a360ade077cd1d6586c82a2c12657557d7ff7cf121d"
-
-[[files]]
-file = "config/itlt/servers.json"
-hash = "82c7079135658c7495f8dc9167e4e65a27ce8bf222ff91083437337a38d3ec82"
-
-[[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "a6487a92015ef8fab1bffbd909c959e6c05ecde96d62be59c21b4e2200d20fab"
 
@@ -185,16 +141,8 @@ file = "config/revive.json5"
 hash = "96d8d36cc83e7f1aeb56c48bf3e0af1418a77e89a80a4c887f2bb2c93a93e131"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "d5d5d31aa7a39d9137a85f2f9daf6686a30d4564da0e6b9789f72c035928e06c"
-
-[[files]]
 file = "config/simple-rpc.toml"
 hash = "6246721338504428b5e9576363ef221f0d28bf19b244a04086a640241d7e0765"
-
-[[files]]
-file = "config/sodium-extra-options.json"
-hash = "f131de299f3a7466418fd5eca15adf8bfd5f3306bf704c6fe292c33e9d00e53d"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -205,36 +153,12 @@ file = "config/supplementaries-client.toml"
 hash = "14517377fb2dd13bb65a287472b2f2a3d4b0d9547380a2744ca630fa7ef7dc49"
 
 [[files]]
-file = "config/torohealth.json"
-hash = "85be8586f2b343ebab59cc6db45c7c051e854439222e5603ed35d03649ac1025"
-
-[[files]]
 file = "config/travelerstitles-fabric-1_18.toml"
 hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
 
 [[files]]
-file = "config/waila/waila.json"
-hash = "7a4e767b9a24f560a769b58245e78e3f810891de192a10b486873a314fca4a35"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "9be8d4ac96ccb818381d2de4797524d917d95934530dd83f72d5bd592bbf0e3c"
-
-[[files]]
 file = "config/waystones/config.json"
 hash = "bd36709060c28755ee102a08e3e03dfce90d01e9f3be85902ba46efef5745a50"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "e7faf2f124703ddb0d6c88411fdd27d9bbbea503d4b9ec23b9863a595d91f440"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "837ab5247d7460132e08d0a8c57f847362880a594c7ab5c4ade56a65e753d395"
-
-[[files]]
-file = "config/yosbr/config/cem.conf"
-hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 
 [[files]]
 file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
@@ -245,24 +169,20 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "fd7f6d208aa1717f7ccd3a1d2e4e00a3dc35b510b883163ad214651dd08436f5"
 
 [[files]]
-file = "config/yosbr/config/litematica.json"
-hash = "53d973bb2b12bccfc41fd04a8d82c429283eb09a0857e608c9329654a290cb68"
-
-[[files]]
-file = "config/yosbr/config/minihud.json"
-hash = "f90756eebe46acd7b1980d032ea790fdd12af7c7e1d110ff2b2a27149fb033d9"
-
-[[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "f56dab1f19b2f20de8c3c49ed9444331cc0b7c453ec97807e022c6216f1641bd"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "b6b48c45b24b9077c91073e035e5a5680b28cbd59a9c19af4f178850cebd7ff2"
+hash = "f131de299f3a7466418fd5eca15adf8bfd5f3306bf704c6fe292c33e9d00e53d"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "e7faf2f124703ddb0d6c88411fdd27d9bbbea503d4b9ec23b9863a595d91f440"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
@@ -270,7 +190,11 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c5ca0e8bd8c45044e21551718d8a8963b862a78efc4c8fcb6ca2b5f2535f182b"
+hash = "8d1a3d836ce09f048e9773a5b0c64af102757e2b3b6dc8fd787494fc97aabc93"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "b5652f9c42506f51a8b9ef25cf9cfae11bb022a5d4d1fa2fdb84ee2f7d43c5e7"
 
 [[files]]
 file = "config/zoomify.json"
@@ -290,7 +214,7 @@ hash = "8bd1950d6c4e15012888267226fb0a49abc99b6662e776c04c983215adbe4238"
 
 [[files]]
 file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
-hash = "3ce6f08890861f6250cb37ee916ea812c9cbce67e133b837331875781ab17e1e"
+hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
 
 [[files]]
 file = "mods/adorn.pw.toml"
