@@ -133,6 +133,10 @@ file = "config/lithium.properties"
 hash = "4a4dda2b52473167b9ead56c2db4e14d7a3b30047385f87672bbe3e548b51cb5"
 
 [[files]]
+file = "config/memorysettings.json"
+hash = "877253327afbd8e9c5d777f2aebb9312c0a14cb6fdd043e84e1d42b041e69468"
+
+[[files]]
 file = "config/phantomconfig.json5"
 hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
@@ -178,7 +182,7 @@ hash = "f131de299f3a7466418fd5eca15adf8bfd5f3306bf704c6fe292c33e9d00e53d"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
-hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
+hash = "010b3433e705792e8ae0cb39a14b86f124f8ea304b5f9276bb737debae9e10c6"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -288,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "1cd501c016fc860acc4cb6763b9e0d92502a3021b9626f92d3debefadb52a54a"
+hash = "249447b59ab2f738d4554ec853681741e340a9567ead02f3b83232a6c3104196"
 metafile = true
 
 [[files]]
@@ -667,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
+hash = "5858378ff07e1e05822a24372e113d4d745ce26ab16e8348476a454f27f5ba5a"
 metafile = true
 
 [[files]]
@@ -903,6 +907,11 @@ metafile = true
 [[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "dbf35e7e39ffba4762dcd6812db17657e90ffbfc4120959d348d21728db371ec"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "e92dac9eaf502c8e2ac0db76f2b8a1aae0f75fd25ee1a73326190d1664804b01"
 metafile = true
 
 [[files]]

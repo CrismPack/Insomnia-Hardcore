@@ -37,6 +37,7 @@ Mods added:
 + Simply Swords
 + Combat Roll
 + Simple Voice Chat
++ MemoryLeakFix
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
