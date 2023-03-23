@@ -149,6 +149,18 @@ file = "config/simple-rpc.toml"
 hash = "6246721338504428b5e9576363ef221f0d28bf19b244a04086a640241d7e0765"
 
 [[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "92295f730c20e0a9c64d9986e2c417c704d725314419739b4906f0e3e1ee39f6"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "6ec72c0a83caccc31cb3521e999840ad652367ecb3606f40f4b10ec65c547713"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
+
+[[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "c35910890c8e0b51c742b972fa4b5720a646685e5f94c65f22e01d9ee951e5da"
 
