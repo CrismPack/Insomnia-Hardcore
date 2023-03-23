@@ -590,11 +590,6 @@ hash = "7daa3de7c55f1662ff36fd48f8e0de47907e83d37900e037f31bbbfc63103908"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-sound-filters.pw.toml"
-hash = "c80866756973d1d0286b378d5ce1aab544fef8d5fedd53d59c37aff3cfe3c333"
-metafile = true
-
-[[files]]
 file = "mods/easy-magic-fabric.pw.toml"
 hash = "766db1a7a5caa28598f243008b53911f48efa01aa91ac8687e09836c97ee2d98"
 metafile = true
@@ -1137,6 +1132,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ef4c9832e3b850deb78e8a59fe5da9725289094a2d7bea88bcf7792c413638eb"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
 metafile = true
 
 [[files]]

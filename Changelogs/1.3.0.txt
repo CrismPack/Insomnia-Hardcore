@@ -7,13 +7,14 @@ Update summary:
 ~ Now includes shaders by default with a Quality and Performance configuration to choose from.
 ~ Caves now get completely dark.
 ~ Torches held by players now emit light.
-~ Improved monster and animal animations from 'FreshAnimations'.
+~ Added improved monster and animal animations from 'FreshAnimations'.
 ~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
-~ Added overhauls for a bunch of vanilla buildings.
-~ Re-added 'Nullscape' for vastly improved world generation in The End.
+~ Added overhauls for a bunch of the vanilla buildings.
+~ Re-added 'Nullscape' for vastly improved world generation in The End dimension.
 ~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption upon respawning.
 ~ Player spawn locations are now random on servers.
 ~ New combat system and additional weapons.
+~ Added proximity voice chat functionality.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -38,6 +39,7 @@ Mods added:
 + Combat Roll
 + Simple Voice Chat
 + MemoryLeakFix
++ Sound Physics Remastered
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -59,6 +61,7 @@ Mods removed:
 - Essential Commands
 - Additional Additions
 - MedievalWeapons
+- Dynamic Sound Filters
 
 Mods disabled: 
 - Custom Entity Models [Client]
@@ -124,3 +127,4 @@ Config Changes:
 = Hardcore death screen nw only shows multiplayer related warnings when playing multiplayer: [FancyMenu], [Client]
 = Improved the warning text on the hardcore death screen to more precisely conway to new players what clicking the "Accept your fate" button does: [FancyMenu], [Client]
 = The "Title Screen" button in the death screen is now only visible when playing singleplayer: [FancyMenu], [Client]
+= Toned down the range of sound and gain of the reverb: [Sound Physics Remastered], [Both]
