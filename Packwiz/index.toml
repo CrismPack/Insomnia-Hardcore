@@ -293,11 +293,6 @@ file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager
 hash = "3ce6f08890861f6250cb37ee916ea812c9cbce67e133b837331875781ab17e1e"
 
 [[files]]
-file = "mods/additional-additions.pw.toml"
-hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
-metafile = true
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
 metafile = true

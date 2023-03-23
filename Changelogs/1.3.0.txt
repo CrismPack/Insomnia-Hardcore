@@ -35,6 +35,7 @@ Mods added:
 + Patchouli
 + Simply Swords
 + Combat Roll
++ Simple Voice Chat
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -54,6 +55,7 @@ Mods removed:
 - Village Spawn Point (Legacy Fabric)
 - Amplified Nether
 - Essential Commands
+- Additional Additions
 
 Mods disabled: 
 - Custom Entity Models [Client]
@@ -107,7 +109,7 @@ Config Changes:
 = Disabled biome titles: [Travelers Titles], [Client]
 = Disabled darkness from Nether and End dimensions: [True Darkness], [Client]
 = Changed so that the mod only affects block light: [True Darkness], [Client]
-= Moved multiple configs to be handled by YOSBR so that they dont get overwritten with each update('Inventory Profiles Next', 'FPS Reducer'): [YOSBR], [Client]
+= Moved multiple configs to be handled by YOSBR so that they dont get overwritten with each update('Inventory Profiles Next', 'FPS Reducer', 'Rougly Enough Items', 'Simple Voice Chat', 'Sodium Extra Options' and 'Xaero's World Map'): [YOSBR], [Client]
 = Set "use_new_model_creation_fix" to false for 'FreshAnimation' compatibility: [Custom Entity Models], [Client]
 = Disabled variant mob textures as it conflicts with 'FreshAnimation': [Charm], [Client]
 = Sets gamerule "spawnRadius" to 5000 on first startup so each player spawns in a random location: [Insomnia Respawn], [Server]
@@ -116,3 +118,6 @@ Config Changes:
 = Players can have multiple lives (1 extra for now): [Insomnia Respawn], [Server]
 = Players now become frozen in place when dead: [Insomnia Respawn], [Server]
 = Disabled all keybinds that conflict with 'Combat Roll': [YOSBR], [Client]
+= Hardcore death screen nw only shows multiplayer related warnings when playing multiplayer: [FancyMenu], [Client]
+= Improved the warning text on the hardcore death screen to more precisely conway to new players what clicking the "Accept your fate" button does: [FancyMenu], [Client]
+= The "Title Screen" button in the death screen is now only visible when playing singleplayer: [FancyMenu], [Client]
