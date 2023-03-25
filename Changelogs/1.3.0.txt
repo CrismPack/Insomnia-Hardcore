@@ -132,5 +132,7 @@ Config Changes:
 = The "Title Screen" button in the death screen is now only visible when playing singleplayer: [FancyMenu], [Client]
 = Toned down the range of sound and gain of the reverb: [Sound Physics Remastered], [Both]
 = Players now also start with 16 torches: [StarterKit], [Both]
+= Players now starts with an Iron Katana instead of a Wooden Sword: [StarterKit], [Both]
+= Players now starts with 16 Pumpkin Pie instead of Bread: [StarterKit], [Both]
 = Players is now given a Recall Potion when respawning: [Insomnia Respawn], [Server]
 = Items no longer gets picked up directly into inventory by default: [Inventory Profiles Next], [Client]

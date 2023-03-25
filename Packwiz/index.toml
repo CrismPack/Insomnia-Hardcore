@@ -162,7 +162,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "1076660f6dca0c4f62c212616fe0db871962d996dfcd0d7f99ffd69e874051a0"
+hash = "5c31ad96d4c6eed22462713159859e561ae1d00eebe250902f0f6cfa6e4919b1"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -182,7 +182,7 @@ hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "863d9a92d43ab50b56a9ff3fb43f11925af4eb5e2e5a536bbc55573ae1804eee"
+hash = "78b59b94ed172fcc923e785f64f618624fb605db6af7c9f0cdaf500a1a1c189a"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
