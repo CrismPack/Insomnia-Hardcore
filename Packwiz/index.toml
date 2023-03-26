@@ -6,7 +6,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "cbe72feabee80e0088bc35b7916cadb346b590bfb0c755dce47bb5b7205b46ea"
+hash = "51a9cb4bb732d8dd74f2d7aace75408aa751bc1ae272195e6079113f10442c1d"
 
 [[files]]
 file = "config/bhmenu/bhmenu-client.properties"
@@ -162,7 +162,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "5c31ad96d4c6eed22462713159859e561ae1d00eebe250902f0f6cfa6e4919b1"
+hash = "458d06a29c96bb525ddb9bd55be63766df46f918d01993284ae1d99f38d09083"
 
 [[files]]
 file = "config/supplementaries-client.toml"
