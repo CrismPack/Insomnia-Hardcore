@@ -5,14 +5,13 @@ Fabric version: Fabric-0.14.18
 Update summary: 
 ~ Revamped the title screen to have better dynamic scaling of elements.
 ~ Now includes shaders by default with a Quality and Performance configuration to choose from.
-~ Caves now get completely dark.
-~ Torches held by players now emit light.
+~ Caves now get completely dark and torches held by players now emit light.
 ~ Added improved monster and animal animations from 'FreshAnimations'.
 ~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
 ~ Added overhauls for a bunch of the vanilla buildings.
 ~ Re-added 'Nullscape' for vastly improved world generation in The End dimension.
-~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption upon respawning.
-~ Player spawn locations are now random on servers.
+~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption effect upon respawning.
+~ Player spawn locations are now randomized on servers.
 ~ New combat system and additional weapons.
 ~ Added proximity voice chat functionality.
 ~ Replaced home teleport commands with a potion which is also given to players upon respawning.
