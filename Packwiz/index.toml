@@ -778,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
-hash = "2d643e84df47afddd9e1dd20df7bfc41e8dfdb607427b2a2458beedd05b32798"
+hash = "75f2a6a655d66ed1c09401061261377657517d222229fec3b98fb82c39ffc4ad"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "e982e34a28f9fc7addf7390ebe5b32ee2eb9e139767ffc9c2162e98887f5cbf5"
+hash = "fbe1e340a321cb9b982525af77fa7bf58483898c131c2f12b1586c483d229339"
 metafile = true
 
 [[files]]
