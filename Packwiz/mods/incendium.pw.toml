@@ -1,5 +1,5 @@
 name = "Incendium"
-filename = "Incendium_v5.0.6.jar"
+filename = "Incendium_v5.0.7.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4402958
+file-id = 4452499
 project-id = 591388
