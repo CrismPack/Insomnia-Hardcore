@@ -622,11 +622,6 @@ hash = "66fd361228ea995cd226b1dba00f454c1c041f5788d8853e415a167e4bdc81b0"
 metafile = true
 
 [[files]]
-file = "mods/end-goblin-traders-fabric.pw.toml"
-hash = "57e12d65ef6078aa9e016e895a6ab98d189e18075ec3466a95d4a30c6a1999b4"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "9c287b212b19c39e0357dc51417c063cb1543c18124a480f1b1fc629957a3ae3"
 metafile = true
@@ -989,11 +984,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
 hash = "5bd687c12768ec0a0c5d00e55be80d7e0334ee9dfabbbea59a8a07d8379671f7"
-metafile = true
-
-[[files]]
-file = "mods/no-angled-brackets.pw.toml"
-hash = "3174e711d4a698469e52255efd240e3013d95065435de8b5b3aab105b68902c6"
 metafile = true
 
 [[files]]

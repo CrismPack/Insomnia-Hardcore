@@ -64,6 +64,8 @@ Mods removed:
 - MedievalWeapons
 - Dynamic Sound Filters [Client]
 - Compact Help Command (Legacy Fabric) [Server]
+- No Angled Brackets [Client]
+- End Goblin Traders
 
 Mods disabled: 
 - Custom Entity Models [Client]
@@ -135,3 +137,4 @@ Config Changes:
 = Players now starts with 16 Pumpkin Pie instead of Bread: [StarterKit], [Both]
 = Players is now given a Recall Potion when respawning: [Insomnia Respawn], [Server]
 = Items no longer gets picked up directly into inventory by default: [Inventory Profiles Next], [Client]
+= Changed some of the text in the Discord rich presence: [Simple Discord RPC], [Client]
