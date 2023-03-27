@@ -65,7 +65,11 @@ Mods removed:
 - Dynamic Sound Filters [Client]
 - Compact Help Command (Legacy Fabric) [Server]
 - No Angled Brackets [Client]
-- End Goblin Traders
+- End Goblin Traders (Spam in server console)
+- Concurrent Chunk Management Engine (Incompatibility with 'Nullscape')
+- Universal Ores
+- Dawn
+- Flytre Lib
 
 Mods disabled: 
 - Custom Entity Models [Client]

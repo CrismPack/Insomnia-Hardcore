@@ -146,7 +146,7 @@ hash = "96d8d36cc83e7f1aeb56c48bf3e0af1418a77e89a80a4c887f2bb2c93a93e131"
 
 [[files]]
 file = "config/simple-rpc.toml"
-hash = "6246721338504428b5e9576363ef221f0d28bf19b244a04086a640241d7e0765"
+hash = "e2ea4419e3b5a1d88779bc67932a26635dedcdadf307462e6986d3a28db0d298"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -398,11 +398,6 @@ hash = "a781f898a0b88ee1da0a925818c6939135f10d18783b0d4811adf18efde78017"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "f0ab9701ddcf90b49d8851f0bbcf05eceb26c9fb235a8b49f841949ff0b74056"
-metafile = true
-
-[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "ad2930a8365abb127464ffdd6b4d34d00a9d6c4eb3794cdc929815477da63b62"
 metafile = true
@@ -539,11 +534,6 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "a5e06db439995ab7598658474517bfb6e45215ffe351fbb2f1375545885ae727"
-metafile = true
-
-[[files]]
-file = "mods/dawn.pw.toml"
-hash = "341886dcf5776acf3b8c02724a1a4cb74694292dbeab983724f6b4e271893c91"
 metafile = true
 
 [[files]]
@@ -864,11 +854,6 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "2db6d51d1f4556fc9d9f643006bd5b4c2769e3d985bcfdd84c2daedeac6b4b9c"
-metafile = true
-
-[[files]]
-file = "mods/lib.pw.toml"
-hash = "440c3684ef8e18e0787e29db7884acc50f5b02605525d50e9a83b6ea6af8cae6"
 metafile = true
 
 [[files]]
@@ -1224,11 +1209,6 @@ metafile = true
 [[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
-metafile = true
-
-[[files]]
-file = "mods/universal-ores-fabric.pw.toml"
-hash = "958ea288bbb86dd19ead37c32bcedd345997321d1f88734c038e0753b57b11a0"
 metafile = true
 
 [[files]]
