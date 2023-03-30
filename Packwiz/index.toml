@@ -29,6 +29,10 @@ file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
 
 [[files]]
+file = "config/droplight-common.toml"
+hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
+
+[[files]]
 file = "config/dusk.json"
 hash = "7da062edd2a9cb42424ff5c57ba4dc3c1bc490b76aca28e9f4d00b54b092a624"
 
@@ -642,6 +646,11 @@ hash = "4b97fceda7cfebee47b46b8ba721793073c59a2007ec471d9c3256848783f81e"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "00900323d7bee9513be8eaa584141d038b38e1d56b24cdb55a75d0c9d4f39293"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
 metafile = true
@@ -758,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "899c686b904e0b4d28d61756249aac0a13c5c82326d4fc21ce2601e7c191e09c"
+hash = "740d514ff1fdf3a403e08cbb9bb85a9d6654f4dcd9a55a28391eb4be9d706354"
 metafile = true
 
 [[files]]
@@ -794,11 +803,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "23483701df4536ce1dcda709764f96982ba2997e3d338596671aaaa698532f18"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs-updated.pw.toml"
-hash = "b3e801c52607bee63d6829d06cc514efa8f2f9cd3c27ca39e669fc408f1cc19e"
 metafile = true
 
 [[files]]

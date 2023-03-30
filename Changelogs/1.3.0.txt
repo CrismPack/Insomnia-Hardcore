@@ -42,8 +42,8 @@ Mods added:
 + Sound Physics Remastered
 + Recall Potion Backport
 + Droplight
-+ Inventory Tabs [Client]
 + ImmediatelyFast [Client]
++ Exordium [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
