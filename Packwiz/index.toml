@@ -757,6 +757,11 @@ hash = "aad777b70996cf404d0df4b18cdbc315aa8d85e14909e0f3b43110e2d1c03d44"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "899c686b904e0b4d28d61756249aac0a13c5c82326d4fc21ce2601e7c191e09c"
+metafile = true
+
+[[files]]
 file = "mods/improved-stations.pw.toml"
 hash = "ef482a5d506e2a86ceef718953c165b3bdb585c1ba3f1364f373c441ce2f2ee2"
 metafile = true
@@ -793,7 +798,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs-updated.pw.toml"
-hash = "22f69887e8b7f97a149ba8008592ab9a25d1a437e48015e33e1a56f96b714840"
+hash = "b3e801c52607bee63d6829d06cc514efa8f2f9cd3c27ca39e669fc408f1cc19e"
 metafile = true
 
 [[files]]
@@ -904,11 +909,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "e92dac9eaf502c8e2ac0db76f2b8a1aae0f75fd25ee1a73326190d1664804b01"
-metafile = true
-
-[[files]]
-file = "mods/merchant-markers-fabric.pw.toml"
-hash = "1b649056119da93e5cd68c25d430ca3c2b862352d98a7265f7b788d8135861a3"
 metafile = true
 
 [[files]]

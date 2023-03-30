@@ -42,8 +42,8 @@ Mods added:
 + Sound Physics Remastered
 + Recall Potion Backport
 + Droplight
-+ Merchant Markers [Client]
 + Inventory Tabs [Client]
++ ImmediatelyFast [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
