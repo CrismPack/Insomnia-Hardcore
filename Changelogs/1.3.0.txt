@@ -19,7 +19,7 @@ Update summary:
 Mods added:
 + Custom Entity Models Fork [Client]
 + Traveler's Titles [Client]
-+ Your Options Shall Be Respected(YOSBR) [Client]
++ Your Options Shall Be Respected [Client]
 + True Darkness [Client]
 + LambDynamicLights [Client]
 + YUNG's Better Desert Temples
@@ -30,7 +30,6 @@ Mods added:
 + Collective
 + Furnace Recycle
 + Nether Portal Spread
-+ Village Spawn Point [Client]
 + Productive Villagers
 + Better Combat
 + playerAnimator
@@ -44,6 +43,7 @@ Mods added:
 + Droplight
 + ImmediatelyFast [Client]
 + Exordium [Client]
++ Prefab
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -60,8 +60,7 @@ Mods removed:
 - Collective (Legacy Fabric)
 - Furnace Recycle (Legacy Fabric)
 - Nether Portal Spread (Legacy Fabric)
-- Village Spawn Point (Legacy Fabric)
-- Amplified Nether
+- Amplified Nether (Incompatible with 'Incendium')
 - Essential Commands [Server]
 - Additional Additions
 - MedievalWeapons
@@ -73,6 +72,7 @@ Mods removed:
 - Universal Ores
 - Dawn
 - Flytre Lib
+- Village Spawn Point (Incompatible with 'Towns & Towers')
 
 Mods disabled: 
 - Custom Entity Models [Client]
@@ -145,3 +145,6 @@ Config Changes:
 = Players is now given a Recall Potion when respawning: [Insomnia Respawn], [Server]
 = Items no longer gets picked up directly into inventory by default: [Inventory Profiles Next], [Client]
 = Changed some of the text in the Discord rich presence: [Simple Discord RPC], [Client]
+= Changed beam height to "2" and set it to the pixelated mode: [Droplight], [Client]
+= Made building items uncraftable so that they may only be optained by being spawned in: [Prefab], [Both]
+= Disabled items spawning in the chests of the starter house: [Prefab], [Both]

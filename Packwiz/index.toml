@@ -1041,6 +1041,11 @@ hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
 metafile = true
 
 [[files]]
+file = "mods/prefab-fabric.pw.toml"
+hash = "8e0e36d285123de637737015ef5cbc9f719e2bd01ba2f682c42e4a356c006f53"
+metafile = true
+
+[[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "50d6d667147118ffda56b61c98fc362cd70f016bf156c05a65c138aa59873f4e"
 metafile = true
@@ -1228,11 +1233,6 @@ metafile = true
 [[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
-metafile = true
-
-[[files]]
-file = "mods/village-spawn-point.pw.toml"
-hash = "3779d9d2ae51741a7a3eccd719b659157edf60b76e51fed6ba96c1cc02436e3e"
 metafile = true
 
 [[files]]
