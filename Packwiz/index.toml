@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Prefab.json"
+hash = "656ea21d3acce17195962e71a60a497f9e40f8bcd6d1dab0535436f1dada8c62"
+
+[[files]]
 file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
@@ -166,7 +170,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "458d06a29c96bb525ddb9bd55be63766df46f918d01993284ae1d99f38d09083"
+hash = "04a414dac9782eebd8cbdc68e10445ba1cdc0e4731f290da488ea05a561bb2fb"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -179,6 +183,10 @@ hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
 [[files]]
 file = "config/waystones/config.json"
 hash = "bd36709060c28755ee102a08e3e03dfce90d01e9f3be85902ba46efef5745a50"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "b165e3691326a07db658f7121e885ba4f874a8c1140893543ef7f4ce808421b0"
 
 [[files]]
 file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
@@ -646,11 +654,6 @@ hash = "4b97fceda7cfebee47b46b8ba721793073c59a2007ec471d9c3256848783f81e"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "00900323d7bee9513be8eaa584141d038b38e1d56b24cdb55a75d0c9d4f39293"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
 metafile = true
@@ -673,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "5858378ff07e1e05822a24372e113d4d745ce26ab16e8348476a454f27f5ba5a"
+metafile = true
+
+[[files]]
+file = "mods/fabrictpa.pw.toml"
+hash = "499c0a5e7cefd6e7833f88b740616ff79ef6f9f57c7645f879e1481df47ef6fd"
 metafile = true
 
 [[files]]

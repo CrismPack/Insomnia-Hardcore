@@ -13,8 +13,9 @@ Update summary:
 ~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption effect upon respawning.
 ~ Player spawn locations are now randomized on servers.
 ~ New combat system and additional weapons.
-~ Added proximity voice chat functionality.
+~ Added proximity voice chat functionality with realistic reverb.
 ~ Replaced home teleport commands with a potion which is also given to players upon respawning.
+~ Players now get a starter house when joining for the first time.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -42,12 +43,12 @@ Mods added:
 + Recall Potion Backport
 + Droplight
 + ImmediatelyFast [Client]
-+ Exordium [Client]
 + Prefab
++ FabricTPA [Server]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
-+ Fresh Animations CEM Fork (Is not enabled by default)
++ Fresh Animations CEM Fork
 + Fresh Animations (Not selectable since the normal version is incompatible with CEM)
 + Visual Traveler's Titles
 + Tissou's Zombie Pack
@@ -148,3 +149,5 @@ Config Changes:
 = Changed beam height to "2" and set it to the pixelated mode: [Droplight], [Client]
 = Made building items uncraftable so that they may only be optained by being spawned in: [Prefab], [Both]
 = Disabled items spawning in the chests of the starter house: [Prefab], [Both]
+= Disabled advancements from the mod to prevent spam in the chat upon creating a new world: [Charm], [Both]
+= Added some Recall Potions to the starter kit: [StarterKit], [Both]
