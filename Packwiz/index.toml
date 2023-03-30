@@ -572,6 +572,11 @@ hash = "1687a184e03cea8a82d2e3f48a7e8293889e97907afaf61b5aed4fa4db543149"
 metafile = true
 
 [[files]]
+file = "mods/droplight.pw.toml"
+hash = "90501a9361aeb97c0a50341e04c9aa3bfdcd349717370c6af6010e1b26efb759"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "5e6d7951a08c552cacd6c38a7501d48b5be0b68750d2e601aa8008194deeb09f"
 metafile = true
@@ -787,6 +792,11 @@ hash = "23483701df4536ce1dcda709764f96982ba2997e3d338596671aaaa698532f18"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "22f69887e8b7f97a149ba8008592ab9a25d1a437e48015e33e1a56f96b714840"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "aa03db7dfbec7a6db9bab2a988df5f106219d621e69e2f3baabf3a74b938c906"
 metafile = true
@@ -894,6 +904,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "e92dac9eaf502c8e2ac0db76f2b8a1aae0f75fd25ee1a73326190d1664804b01"
+metafile = true
+
+[[files]]
+file = "mods/merchant-markers-fabric.pw.toml"
+hash = "1b649056119da93e5cd68c25d430ca3c2b862352d98a7265f7b788d8135861a3"
 metafile = true
 
 [[files]]
