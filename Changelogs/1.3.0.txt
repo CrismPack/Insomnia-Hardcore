@@ -42,8 +42,8 @@ Mods added:
 + Sound Physics Remastered
 + Recall Potion Backport
 + Droplight
-+ Merchant Markers
-+ Inventory Tabs
++ Merchant Markers [Client]
++ Inventory Tabs [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
