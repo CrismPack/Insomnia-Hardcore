@@ -1,5 +1,5 @@
 name = "Nullscape"
-filename = "Nullscape_1.18.2_v1.1.3.jar"
+filename = "Nullscape_1.18.2_v1.1.2.jar"
 side = "both"
 
 [download]
@@ -9,7 +9,7 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4452491
+file-id = 4441289
 project-id = 570354
 
 [option]
