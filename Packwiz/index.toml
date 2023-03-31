@@ -26,7 +26,7 @@ hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 
 [[files]]
 file = "config/charm.toml"
-hash = "affd406297650300a07954bb0d72cf758363fab5d9a62d5e126ccb37ebad512e"
+hash = "1b9bdfa0fc3e4e96864a49d1a38815cf3411c63a167176c809a1347c6e8b0e57"
 
 [[files]]
 file = "config/darkness.properties"
