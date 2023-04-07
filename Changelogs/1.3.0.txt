@@ -1,20 +1,18 @@
 v1.3.0 - Major Update
 Disclaimer: This version is not compatible with worlds generated prior to the update.
 
-Fabric version: Fabric-0.14.18
+Fabric version: Fabric-0.14.19
 Update summary: 
-~ Revamped the title screen to have better dynamic scaling of elements.
-~ Now includes shaders by default with a Quality and Performance configuration to choose from.
-~ Caves now get completely dark and torches held by players now emit light.
-~ Added improved monster and animal animations from 'FreshAnimations'.
-~ New zombie textures and sounds from 'Tissou's Zombie Pack'.
-~ Added overhauls for a bunch of the vanilla buildings.
-~ Re-added 'Nullscape' for vastly improved world generation in The End dimension.
+~ Revamped title screen with better dynamic scaling of elements.
+~ Now includes shaderspacks with a Quality and Performance configuration to choose from.
+~ Caves now get completely dark and torches held by players emit light.
+~ Added improved monster and animal animations.
+~ Overhauls for a bunch of the vanilla buildings.
 ~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption effect upon respawning.
 ~ Player spawn locations are now randomized on servers.
 ~ New combat system and additional weapons.
 ~ Added proximity voice chat functionality with realistic reverb.
-~ Replaced home teleport commands with a potion which is also given to players upon respawning.
+~ Replaced home teleport commands with a recall potion.
 ~ Players now get a starter house when joining for the first time.
 
 Mods added:
@@ -45,6 +43,8 @@ Mods added:
 + ImmediatelyFast [Client]
 + Prefab
 + FabricTPA [Server]
++ Waystone Towers
++ Resource Pack Overrides [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -57,7 +57,6 @@ Data Packs added:
 + 
 
 Mods removed: 
-- Default Options [Client]
 - Collective (Legacy Fabric)
 - Furnace Recycle (Legacy Fabric)
 - Nether Portal Spread (Legacy Fabric)
@@ -74,12 +73,13 @@ Mods removed:
 - Dawn
 - Flytre Lib
 - Village Spawn Point (Incompatible with 'Towns & Towers')
+- Fastload (New version incompatible with 'Terralith')
 
 Mods disabled: 
 - Custom Entity Models [Client]
 
 Data Packs removed:
-- 
+- Towers of the Wild: Reworked
 
 Mods updated: 
 > Alternate Current
@@ -135,7 +135,7 @@ Config Changes:
 = Players now get absorption upon respawning: [Insomnia Respawn], [Server]
 = Players can have multiple lives (1 extra for now): [Insomnia Respawn], [Server]
 = Players now become frozen in place when dead: [Insomnia Respawn], [Server]
-= Disabled all keybinds that conflict with 'Combat Roll': [YOSBR], [Client]
+= Disabled all keybinds that conflict with 'Combat Roll': [Default Options], [Client]
 = Hardcore death screen nw only shows multiplayer related warnings when playing multiplayer: [FancyMenu], [Client]
 = Improved the warning text on the hardcore death screen to more precisely conway to new players what clicking the "Accept your fate" button does: [FancyMenu], [Client]
 = The "Title Screen" button in the death screen is now only visible when playing singleplayer: [FancyMenu], [Client]
@@ -152,3 +152,4 @@ Config Changes:
 = Disabled advancements from the mod to prevent spam in the chat upon creating a new world: [Charm], [Both]
 = Added some Recall Potions to the starter kit: [StarterKit], [Both]
 = Re-configured BH-mod, so that the new "View public servers" should show a list of servers using the modpack: [BisectHosting Integration], [Client]
+= Configured to ensure that the correct resourcepacks gets loaded: [Resource Pack Overrides], [Client]

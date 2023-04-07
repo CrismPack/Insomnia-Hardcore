@@ -17,6 +17,10 @@ file = "config/bhmenu/bhmenu-client.properties"
 hash = "3c2654de9374872cb807c7b81705a28bac234f741eaa634ce981d3d993e34128"
 
 [[files]]
+file = "config/bhmenu/bhmenu-general.properties"
+hash = "e24233426e63032b8f10460f888a71734d6e153a3d40e545cad4307b4080b43a"
+
+[[files]]
 file = "config/boringbackgrounds.json"
 hash = "6ded0c65092f76a7d3a3758d17c20b9c484349f0d08d6750bf593aa8149cda82"
 
@@ -31,6 +35,18 @@ hash = "1b9bdfa0fc3e4e96864a49d1a38815cf3411c63a167176c809a1347c6e8b0e57"
 [[files]]
 file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "943325a798b6b7eb9c53532f53f2d79b9b7f170cc9a1f865fded4833dad73f5a"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "56c142aa5e6351e341832b8ab96038daaf9170b7b31fb737405b2454a16d8aca"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "b5652f9c42506f51a8b9ef25cf9cfae11bb022a5d4d1fa2fdb84ee2f7d43c5e7"
 
 [[files]]
 file = "config/droplight-common.toml"
@@ -58,7 +74,7 @@ hash = "73260e78c75370dd95f2489a626ff8ac013fc0df26644a39a830e83f09e484c0"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "f56fd0a980b6a0141df45883e109ad0aa4c1afa9a4ad61353bda0c034d348e5f"
+hash = "1d341bb1988d501fee409932a9da680cfc2eef4021d162f094aab6d950a4d681"
 
 [[files]]
 file = "config/fancymenu/customization/Spectator Death Message.txt"
@@ -149,6 +165,10 @@ file = "config/phantomconfig.json5"
 hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "787bf035b82ea57393905ec2f5fda6ca1b566570f071c9031cc18a08090cc2fe"
+
+[[files]]
 file = "config/revive.json5"
 hash = "96d8d36cc83e7f1aeb56c48bf3e0af1418a77e89a80a4c887f2bb2c93a93e131"
 
@@ -215,14 +235,6 @@ hash = "e7faf2f124703ddb0d6c88411fdd27d9bbbea503d4b9ec23b9863a595d91f440"
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "8d1a3d836ce09f048e9773a5b0c64af102757e2b3b6dc8fd787494fc97aabc93"
-
-[[files]]
-file = "config/yosbr/servers.dat"
-hash = "b5652f9c42506f51a8b9ef25cf9cfae11bb022a5d4d1fa2fdb84ee2f7d43c5e7"
 
 [[files]]
 file = "config/zoomify.json"
@@ -559,6 +571,11 @@ hash = "f656cceafd2c7c50a3cca0997da62fdadad4a5525528dafccffc860f2b0f3ffa"
 metafile = true
 
 [[files]]
+file = "mods/default-options-fabric.pw.toml"
+hash = "cde5089014a5417120ace820110a9c1aa81ecca0abe5fd449b00c52e74d49ada"
+metafile = true
+
+[[files]]
 file = "mods/dense-ores-refabricated.pw.toml"
 hash = "18ba8ea0f2913bb8f3d49659ddeebc530942effa5e49fa1307addabde83f84a3"
 metafile = true
@@ -675,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
+hash = "5858378ff07e1e05822a24372e113d4d745ce26ab16e8348476a454f27f5ba5a"
 metafile = true
 
 [[files]]
@@ -696,11 +713,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "f5a63f7098aff652010fbf06a7cb93ff042fb59345a2b2255f03063499c5951e"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "fbe01809194c481c572e8898772623f545f9d21b731702afb3da306a52c24db0"
 metafile = true
 
 [[files]]
@@ -1005,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "b846bd2515b80b91cf8ec26c78eb03f5707d0596f957b33268a248954ed8aa26"
+hash = "e982e34a28f9fc7addf7390ebe5b32ee2eb9e139767ffc9c2162e98887f5cbf5"
 metafile = true
 
 [[files]]
@@ -1086,6 +1098,11 @@ metafile = true
 [[files]]
 file = "mods/red-bits.pw.toml"
 hash = "063b9735693b3c7f899801278d1a32faa1956caa935768ebbb55c23ef72cd9c6"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "7302a9199e271c48f00249b87457e6c61913027c38897e8f774ede7142c5cd12"
 metafile = true
 
 [[files]]
@@ -1264,6 +1281,11 @@ hash = "e206e608862b5528f380b19d183b9439b3f291e506973960b4c469f261823d11"
 metafile = true
 
 [[files]]
+file = "mods/waystone-towers.pw.toml"
+hash = "80f80e4f58c760e67f61231738648308f24872a04834c597d9997a17b88dd569"
+metafile = true
+
+[[files]]
 file = "mods/wmitaf.pw.toml"
 hash = "a646314e15d3da9f9095506edf4c1ecaaf3ab142cc1dcc950cab565c8a2ee912"
 metafile = true
@@ -1356,11 +1378,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "de4e6789d5d43c73db635d80c3994e584b4575c4137afe1ee425c801d115c596"
-metafile = true
-
-[[files]]
-file = "resourcepacks/towers-of-the-wild-reworked-datapack.pw.toml"
-hash = "921eca940e9aaa5b35e2b8d84efe68deaf502e834b7bf2a637645666d35934b7"
 metafile = true
 
 [[files]]

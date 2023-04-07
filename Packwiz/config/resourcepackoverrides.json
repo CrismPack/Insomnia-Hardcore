@@ -1,0 +1,42 @@
+{
+    "schema_version": 1,
+    "failed_reloads_per_session": 5,
+    // These two packs will be enabled by default when "options.txt" is first created or when resource reloading fails and is reset to a bare-bones state
+    // Packs included here can still be manually disabled by the user, this can be prevented with overrides below though
+    "default_packs": [
+      "minecraft/supporteatinganimation",
+      "continuity/glass_pane_culling_fix",
+      "continuity/default",
+      "file/Slightly-Improved-Font-1.0.0.zip",
+      "file/Visual Titles.zip",
+      "file/EclecticTrove-noconfig-1.18-1.2.0.zip"
+    ],
+    // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
+    "default_overrides": {
+      "force_compatible": true
+    },
+    "pack_overrides": {
+      // The title and description are overridden for the vanilla assets pack
+      "vanilla": {
+        "title": "\"Vanilla Assets\"",
+        "description": "\"Resource pack from Minecraft\""
+      },
+      // The resource pack provided by the current server is added below user enabled resource packs
+      // Also allows for being moved up or down on the pack selection screen
+      "server": {
+        "default_position": "BOTTOM",
+        "force_compatible": true,
+        "fixed_position": false
+      },
+      // A new group is defined, the id is arbitrary
+      "1": [
+        ""
+      ],
+      // Attributes are configured for all packs in group "1"
+      // Note that referencing a group id must begin with "$"
+      "$1": {
+        "hidden": true,
+        "required": true
+      }
+    }
+  }
