@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e6463553198770c9e070e2903ad644f6260761aef51e79cef06038a471a2d599"
+hash = "8b43732e1dc08c45bcdffe04dd0c9314765140d14a11592caa9a843b16d26c0f"
 metafile = true
 
 [[files]]
@@ -704,11 +704,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "f5a63f7098aff652010fbf06a7cb93ff042fb59345a2b2255f03063499c5951e"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "fbe01809194c481c572e8898772623f545f9d21b731702afb3da306a52c24db0"
 metafile = true
 
 [[files]]
