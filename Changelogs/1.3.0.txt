@@ -44,6 +44,7 @@ Mods added:
 + FabricTPA [Server]
 + Waystone Towers
 + Resource Pack Overrides [Client]
++ Your Options Shall Be Respected [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -73,6 +74,7 @@ Mods removed:
 - Flytre Lib
 - Village Spawn Point (Incompatible with 'Towns & Towers')
 - Fastload (New version incompatible with 'Terralith')
+- Default Options
 
 Mods disabled: 
 - Custom Entity Models [Client]

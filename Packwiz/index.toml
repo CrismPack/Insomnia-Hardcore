@@ -50,11 +50,11 @@ hash = "78b59b94ed172fcc923e785f64f618624fb605db6af7c9f0cdaf500a1a1c189a"
 
 [[files]]
 file = "config/defaultoptions/extra/config/roughlyenoughitems/config.json5"
-hash = "f56dab1f19b2f20de8c3c49ed9444331cc0b7c453ec97807e022c6216f1641bd"
+hash = "1ce90c9538637b4cb9047f3d182427fd0d1b6a2dd6f3e780650937ed34d8deb6"
 
 [[files]]
 file = "config/defaultoptions/extra/config/sodium-extra-options.json"
-hash = "f131de299f3a7466418fd5eca15adf8bfd5f3306bf704c6fe292c33e9d00e53d"
+hash = "d9fd4bea8da7514cf4b6b0e0257b1e9d26e3179e9292b467d3af44274e59615a"
 
 [[files]]
 file = "config/defaultoptions/extra/config/voicechat/voicechat-client.properties"
@@ -572,11 +572,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "f656cceafd2c7c50a3cca0997da62fdadad4a5525528dafccffc860f2b0f3ffa"
-metafile = true
-
-[[files]]
-file = "mods/default-options-fabric.pw.toml"
-hash = "49accc7d596322e4f3882ae369697a87cae3264e092f69eb52a895b65807480e"
 metafile = true
 
 [[files]]
@@ -1302,6 +1297,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "1a280f25d8b7113e34a44c94f106fd5772f06c05019642166c570719b34f70df"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
