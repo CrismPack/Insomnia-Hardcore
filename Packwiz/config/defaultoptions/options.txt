@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","continuity/glass_pane_culling_fix","continuity/default","file/Slightly-Improved-Font-1.0.0.zip","file/Visual Titles.zip","file/EclecticTrove-noconfig-1.18-1.2.0.zip","global:Insomnia Custom Lang.zip"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.7_Add_S10.zip"]
+resourcePacks:[]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:

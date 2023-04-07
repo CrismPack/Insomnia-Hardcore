@@ -37,16 +37,20 @@ file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
 
 [[files]]
+file = "config/defaultoptions.toml"
+hash = "291fed0d386b6de7076d4392314c3e3ee1f17afb55f74e7ed3ceeab73caa6118"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "943325a798b6b7eb9c53532f53f2d79b9b7f170cc9a1f865fded4833dad73f5a"
+hash = "aaac58374bae5f2bcdf979fce943ee192a4e7a05c87643c6c426f07121b1b5c0"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "56c142aa5e6351e341832b8ab96038daaf9170b7b31fb737405b2454a16d8aca"
+hash = "214dc079b8333487b68a8b39ca4e1e283f62f18a3320a190382c1e56b2ffad92"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "b5652f9c42506f51a8b9ef25cf9cfae11bb022a5d4d1fa2fdb84ee2f7d43c5e7"
+hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
 
 [[files]]
 file = "config/droplight-common.toml"
@@ -692,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
+hash = "4300f02d81a56049bb98dd966cdf9c274ed3d21280347f5bd6ac94e90fd1a099"
 metafile = true
 
 [[files]]
