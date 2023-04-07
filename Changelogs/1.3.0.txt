@@ -42,7 +42,6 @@ Mods added:
 + ImmediatelyFast [Client]
 + Prefab
 + FabricTPA [Server]
-+ Waystone Towers
 + Resource Pack Overrides [Client]
 + Your Options Shall Be Respected [Client]
 
@@ -80,7 +79,7 @@ Mods disabled:
 - Custom Entity Models [Client]
 
 Data Packs removed:
-- Towers of the Wild: Reworked
+- 
 
 Mods updated: 
 > Alternate Current

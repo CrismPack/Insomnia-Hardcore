@@ -707,6 +707,11 @@ hash = "f5a63f7098aff652010fbf06a7cb93ff042fb59345a2b2255f03063499c5951e"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "fbe01809194c481c572e8898772623f545f9d21b731702afb3da306a52c24db0"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "4868e6e89468da8b94c88e7153028ab2b22c8454f2f75fe847d86fae7406910a"
 metafile = true
