@@ -18,7 +18,6 @@ Update summary:
 Mods added:
 + Custom Entity Models Fork [Client]
 + Traveler's Titles [Client]
-+ Your Options Shall Be Respected [Client]
 + True Darkness [Client]
 + LambDynamicLights [Client]
 + YUNG's Better Desert Temples
@@ -129,7 +128,7 @@ Config Changes:
 = Disabled biome titles: [Travelers Titles], [Client]
 = Disabled darkness from Nether and End dimensions: [True Darkness], [Client]
 = Changed so that the mod only affects block light: [True Darkness], [Client]
-= Moved multiple configs to be handled by YOSBR so that they dont get overwritten with each update('Inventory Profiles Next', 'FPS Reducer', 'Rougly Enough Items', 'Simple Voice Chat', 'Sodium Extra Options' and 'Xaero's World Map'): [YOSBR], [Client]
+= Moved multiple configs to be handled by 'DefaultOptions' so that they dont get overwritten with each update('Inventory Profiles Next', 'FPS Reducer', 'Rougly Enough Items', 'Simple Voice Chat', 'Sodium Extra Options' and 'Xaero's World Map'): [Default Options], [Client]
 = Set "use_new_model_creation_fix" to false for 'FreshAnimation' compatibility: [Custom Entity Models], [Client]
 = Disabled variant mob textures as it conflicts with 'FreshAnimation': [Charm], [Client]
 = Sets gamerule "spawnRadius" to 5000 on first startup so each player spawns in a random location: [Insomnia Respawn], [Server]
