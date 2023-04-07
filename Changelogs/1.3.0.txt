@@ -74,7 +74,7 @@ Mods removed:
 - Flytre Lib
 - Village Spawn Point (Incompatible with 'Towns & Towers')
 - Fastload (New version incompatible with 'Terralith')
-- Default Options
+- Default Options [Client]
 
 Mods disabled: 
 - Custom Entity Models [Client]

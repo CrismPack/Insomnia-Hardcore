@@ -37,50 +37,6 @@ file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
 
 [[files]]
-file = "config/defaultoptions.toml"
-hash = "291fed0d386b6de7076d4392314c3e3ee1f17afb55f74e7ed3ceeab73caa6118"
-
-[[files]]
-file = "config/defaultoptions/extra/config/fpsreducer/fpsreducer-client.toml"
-hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
-
-[[files]]
-file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "78b59b94ed172fcc923e785f64f618624fb605db6af7c9f0cdaf500a1a1c189a"
-
-[[files]]
-file = "config/defaultoptions/extra/config/roughlyenoughitems/config.json5"
-hash = "1ce90c9538637b4cb9047f3d182427fd0d1b6a2dd6f3e780650937ed34d8deb6"
-
-[[files]]
-file = "config/defaultoptions/extra/config/sodium-extra-options.json"
-hash = "d9fd4bea8da7514cf4b6b0e0257b1e9d26e3179e9292b467d3af44274e59615a"
-
-[[files]]
-file = "config/defaultoptions/extra/config/voicechat/voicechat-client.properties"
-hash = "010b3433e705792e8ae0cb39a14b86f124f8ea304b5f9276bb737debae9e10c6"
-
-[[files]]
-file = "config/defaultoptions/extra/config/xaerominimap.txt"
-hash = "e7faf2f124703ddb0d6c88411fdd27d9bbbea503d4b9ec23b9863a595d91f440"
-
-[[files]]
-file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
-hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "aaac58374bae5f2bcdf979fce943ee192a4e7a05c87643c6c426f07121b1b5c0"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "c9cb630fd57774d880e1cd6e58e3f539c9fdaf3e7b0af55fd26b2d3fd2c89cef"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
-
-[[files]]
 file = "config/droplight-common.toml"
 hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
@@ -239,6 +195,42 @@ hash = "bd36709060c28755ee102a08e3e03dfce90d01e9f3be85902ba46efef5745a50"
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "b165e3691326a07db658f7121e885ba4f874a8c1140893543ef7f4ce808421b0"
+
+[[files]]
+file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
+hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "78b59b94ed172fcc923e785f64f618624fb605db6af7c9f0cdaf500a1a1c189a"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "1ce90c9538637b4cb9047f3d182427fd0d1b6a2dd6f3e780650937ed34d8deb6"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "d9fd4bea8da7514cf4b6b0e0257b1e9d26e3179e9292b467d3af44274e59615a"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "010b3433e705792e8ae0cb39a14b86f124f8ea304b5f9276bb737debae9e10c6"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "e7faf2f124703ddb0d6c88411fdd27d9bbbea503d4b9ec23b9863a595d91f440"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "182641c2474cee2472b13e95447f57f31a22c26e598ef4945702f2c1f9860cfe"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "92dcbb2d35cddf8b0f2fc8c58033a8469fd7fa69870e07f46955bdd8ec259322"
 
 [[files]]
 file = "config/zoomify.json"
@@ -1301,7 +1293,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+hash = "ff9bbf3a811c1959f7d3ef0865c394a8528734fbd44dd8de498444b31fcc506d"
 metafile = true
 
 [[files]]
