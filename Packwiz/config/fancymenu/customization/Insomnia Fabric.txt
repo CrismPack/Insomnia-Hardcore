@@ -171,6 +171,11 @@ customization {
 }
 
 customization {
+  identifier = %id=352394%
+  action = hidebutton
+}
+
+customization {
   orientation = top-left
   hidden = true
   x = 2
@@ -372,7 +377,7 @@ customization {
   action = addbutton
   y = 24
   backgroundnormal = resources\mainmenu\longbutton_normal.png
-  value = com.bisecthosting.mods.bhmenu.BHMultiplayerScreen
+  value = com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen
   height = 20
 }
 

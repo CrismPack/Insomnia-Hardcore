@@ -151,3 +151,4 @@ Config Changes:
 = Disabled items spawning in the chests of the starter house: [Prefab], [Both]
 = Disabled advancements from the mod to prevent spam in the chat upon creating a new world: [Charm], [Both]
 = Added some Recall Potions to the starter kit: [StarterKit], [Both]
+= Re-configured BH-mod, so that the new "View public servers" should show a list of servers using the modpack: [BisectHosting Integration], [Client]
