@@ -1272,11 +1272,6 @@ hash = "e206e608862b5528f380b19d183b9439b3f291e506973960b4c469f261823d11"
 metafile = true
 
 [[files]]
-file = "mods/waystone-towers.pw.toml"
-hash = "80f80e4f58c760e67f61231738648308f24872a04834c597d9997a17b88dd569"
-metafile = true
-
-[[files]]
 file = "mods/wmitaf.pw.toml"
 hash = "a646314e15d3da9f9095506edf4c1ecaaf3ab142cc1dcc950cab565c8a2ee912"
 metafile = true
@@ -1369,6 +1364,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "de4e6789d5d43c73db635d80c3994e584b4575c4137afe1ee425c801d115c596"
+metafile = true
+
+[[files]]
+file = "resourcepacks/towers-of-the-wild-reworked-datapack.pw.toml"
+hash = "921eca940e9aaa5b35e2b8d84efe68deaf502e834b7bf2a637645666d35934b7"
 metafile = true
 
 [[files]]
