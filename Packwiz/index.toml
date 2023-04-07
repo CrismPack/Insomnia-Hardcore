@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/FabricTPA.properties"
+hash = "9a65dce4b8f9f00dfd5565680c31c9d8cb8fff9e29bbdb248fff2a14bd1db0f5"
+
+[[files]]
 file = "config/Prefab.json"
 hash = "656ea21d3acce17195962e71a60a497f9e40f8bcd6d1dab0535436f1dada8c62"
 
@@ -147,6 +151,10 @@ hash = "4a4dda2b52473167b9ead56c2db4e14d7a3b30047385f87672bbe3e548b51cb5"
 [[files]]
 file = "config/memorysettings.json"
 hash = "877253327afbd8e9c5d777f2aebb9312c0a14cb6fdd043e84e1d42b041e69468"
+
+[[files]]
+file = "config/mostructures-config-v5.json5"
+hash = "6000f1341424d2a49768291e426409f7b79e4179b4b083edc9f758cb875c0fa6"
 
 [[files]]
 file = "config/phantomconfig.json5"
@@ -1083,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/recall-potion-backport-fabric.pw.toml"
-hash = "ad40dff55f25ea43711826330e144da742871e6f9fd18768d3b612068e6945a6"
+hash = "47c5979db44dcf4041d4ff9c1d3267594775091c28e927d0f5ab91ec72dec1fe"
 metafile = true
 
 [[files]]
@@ -1189,11 +1197,6 @@ metafile = true
 [[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "b1b6ca79f51aee17c4dac0014cae2cc0cccb6647a93c889446c142e6102ba1eb"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
 metafile = true
 
 [[files]]
