@@ -85,6 +85,7 @@ Mods updated:
 > Alternate Current
 > Architectury API
 > Balm
+> BisectHosting Server Integration Menu
 > Bookshelf
 > Concurrent Chunk Management Engine
 > Continuity
@@ -100,7 +101,6 @@ Mods updated:
 > Fabric Shield Lib
 > Fabric Waystones
 > FancyMenu
-> Fastload
 > Forgotten Graves
 > I Know What I'm Doing (IKWID)
 > Incendium
@@ -108,10 +108,12 @@ Mods updated:
 > InvMove
 > Iris Shaders
 > libIPN
+> MemoryLeakFix
 > NetherPortalFix
 > Raised
 > Roughly Enough Items
 > Sodium Extra
+> Simple Discord RPC
 > Towns and Towers
 > Wavey Capes
 > Xaero's World Map
