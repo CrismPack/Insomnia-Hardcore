@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options-fabric.pw.toml"
-hash = "cde5089014a5417120ace820110a9c1aa81ecca0abe5fd449b00c52e74d49ada"
+hash = "49accc7d596322e4f3882ae369697a87cae3264e092f69eb52a895b65807480e"
 metafile = true
 
 [[files]]
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "5858378ff07e1e05822a24372e113d4d745ce26ab16e8348476a454f27f5ba5a"
+hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "e982e34a28f9fc7addf7390ebe5b32ee2eb9e139767ffc9c2162e98887f5cbf5"
+hash = "b846bd2515b80b91cf8ec26c78eb03f5707d0596f957b33268a248954ed8aa26"
 metafile = true
 
 [[files]]
@@ -1102,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "7302a9199e271c48f00249b87457e6c61913027c38897e8f774ede7142c5cd12"
+hash = "0cc064b4922e95200a903de606d70fc4a7aef6d4b8a566babc3ca92f6fb3b875"
 metafile = true
 
 [[files]]
