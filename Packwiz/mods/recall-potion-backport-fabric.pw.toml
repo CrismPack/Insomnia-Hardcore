@@ -1,5 +1,5 @@
 name = "Recall Potion Backport [Fabric]"
-filename = "recallpotion-1.18.2-1.0.1.jar"
+filename = "recallpotion-1.18.2-1.0.2.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4452159
+file-id = 4479825
 project-id = 840851
