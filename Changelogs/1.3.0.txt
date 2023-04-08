@@ -6,7 +6,7 @@ Update summary:
 ~ Revamped title screen with better dynamic scaling of elements.
 ~ Now includes shaderspacks with a Quality and Performance configuration to choose from.
 ~ Caves now get completely dark and torches held by players emit light.
-~ Added improved monster and animal animations.
+~ Added improved monster and animal models, animations and textures.
 ~ Overhauls for a bunch of the vanilla buildings.
 ~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption effect upon respawning.
 ~ Player spawn locations are now randomized on servers.
