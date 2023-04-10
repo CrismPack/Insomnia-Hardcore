@@ -1,13 +1,13 @@
 name = "Recall Potion Backport [Fabric]"
-filename = "recallpotion-1.18.2-1.1.0.jar"
+filename = "recallpotion-1.18.2-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2c1aa6031c5894c9eeeb3131a9e2ac1423db82a9"
+hash = "c76ad7fe70ed57c1bd6f0d6f56e1d269380edfee"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4480158
+file-id = 4484852
 project-id = 840851
