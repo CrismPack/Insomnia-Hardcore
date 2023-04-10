@@ -75,6 +75,7 @@ Mods removed:
 - Default Options [Client]
 - Structory
 - Incendium (Incompatible with 'Amplified Nether' and causes 'Terralith' SeedFix to break)
+- Better Fps - Render Distance [Client]
 
 Mods disabled: 
 - Custom Entity Models [Client]
