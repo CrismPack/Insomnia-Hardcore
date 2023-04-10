@@ -44,6 +44,7 @@ Mods added:
 + FabricTPA [Server]
 + Resource Pack Overrides [Client]
 + Your Options Shall Be Respected [Client]
++ Bygone Nether
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
