@@ -59,7 +59,6 @@ Mods removed:
 - Collective (Legacy Fabric)
 - Furnace Recycle (Legacy Fabric)
 - Nether Portal Spread (Legacy Fabric)
-- Amplified Nether (Incompatible with 'Incendium')
 - Essential Commands [Server]
 - Additional Additions
 - MedievalWeapons
@@ -75,6 +74,7 @@ Mods removed:
 - Fastload (New version incompatible with 'Terralith')
 - Default Options [Client]
 - Structory
+- Incendium (Incompatible with 'Amplified Nether' and causes 'Terralith' SeedFix to break)
 
 Mods disabled: 
 - Custom Entity Models [Client]
