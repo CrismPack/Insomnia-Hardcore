@@ -66,7 +66,7 @@ Mods removed:
 - Dynamic Sound Filters [Client]
 - Compact Help Command (Legacy Fabric) [Server]
 - No Angled Brackets [Client]
-- End Goblin Traders (Spam in server console)
+- End Goblin Traders (Spam in server console) [Server]
 - Concurrent Chunk Management Engine (Incompatibility with 'Nullscape')
 - Universal Ores
 - Dawn
@@ -77,6 +77,7 @@ Mods removed:
 - Structory
 - Incendium (Incompatible with 'Amplified Nether' and causes 'Terralith' SeedFix to break)
 - Better Fps - Render Distance [Client]
+- Boring Backgrounds (causes 'Terralith' SeedFix to break) [Client]
 
 Mods disabled: 
 - Custom Entity Models [Client]
@@ -161,3 +162,4 @@ Config Changes:
 = Disabled REI keybinds for "A" and "R" as cause indesired behavior with 'InvMove' and 'CombatRoll' respectively: [Roughly Enough Items], [Client]
 = Disabled killer_bunny_castle structure: [Mo' Structures], [Both]
 = Increased timeout timer to 300 seconds: [FabricTPA], [Server]
+= Created 'Insomnia Textures' resourcepack to change the menu background texture: [Insomnia Textures], [Client]

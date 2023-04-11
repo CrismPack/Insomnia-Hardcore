@@ -261,6 +261,11 @@ file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager
 hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
 
 [[files]]
+file = "mods/additional-structures-fabric.pw.toml"
+hash = "da95efac9a62a949a29f1ea9d3c21a974b12a3c17e06c107fee4cd1cea705931"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
 metafile = true
@@ -408,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b5243051016ee9b33e501fd3520c50bd2ad1fba93158b2adf42318c2f062c421"
-metafile = true
-
-[[files]]
-file = "mods/boring-backgrounds.pw.toml"
-hash = "8344e037fc174e4440566b3a559f567deace52ee740295407f2465105f902f3f"
 metafile = true
 
 [[files]]
@@ -587,11 +587,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "4f4d02777a242e836ac6eaca39c9f7c08bb451645a731a64c048dc0b1127813f"
-metafile = true
-
-[[files]]
-file = "mods/dimension-fix-some-forge-patches-ported.pw.toml"
-hash = "83018bfaec9493e66af18393f6d7452ac08563ae37d510cfcef17e1fde6d2553"
 metafile = true
 
 [[files]]
