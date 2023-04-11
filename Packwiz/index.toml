@@ -257,12 +257,8 @@ file = "global_packs/required_resources/Insomnia Custom Lang.zip"
 hash = "8bd1950d6c4e15012888267226fb0a49abc99b6662e776c04c983215adbe4238"
 
 [[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/options_background.png"
-hash = "3530d878540a036669bbab0e78abf6d6d245fc5fda102b872190e27c9dc0bd23"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/pack.mcmeta"
-hash = "6ddd814b1ad149914554f52c6d87bd6c1d5a8c0b93bdb609380fdf5857cbcd2c"
+file = "global_packs/required_resources/Insomnia Textures.zip"
+hash = "8f66a6858f51fb44bae2de0e3cb01e605a2ed46b741aa8e2de6487d16aff24df"
 
 [[files]]
 file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
