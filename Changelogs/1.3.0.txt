@@ -46,6 +46,7 @@ Mods added:
 + Your Options Shall Be Respected [Client]
 + Bygone Nether
 + Let Me Despawn
++ AntiXray [Server]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
