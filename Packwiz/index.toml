@@ -257,13 +257,16 @@ file = "global_packs/required_resources/Insomnia Custom Lang.zip"
 hash = "8bd1950d6c4e15012888267226fb0a49abc99b6662e776c04c983215adbe4238"
 
 [[files]]
-file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
-hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/options_background.png"
+hash = "3530d878540a036669bbab0e78abf6d6d245fc5fda102b872190e27c9dc0bd23"
 
 [[files]]
-file = "mods/additional-structures-fabric.pw.toml"
-hash = "da95efac9a62a949a29f1ea9d3c21a974b12a3c17e06c107fee4cd1cea705931"
-metafile = true
+file = "global_packs/required_resources/Insomnia Textures/pack.mcmeta"
+hash = "6ddd814b1ad149914554f52c6d87bd6c1d5a8c0b93bdb609380fdf5857cbcd2c"
+
+[[files]]
+file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
+hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -587,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "4f4d02777a242e836ac6eaca39c9f7c08bb451645a731a64c048dc0b1127813f"
+metafile = true
+
+[[files]]
+file = "mods/dimension-fix-some-forge-patches-ported.pw.toml"
+hash = "83018bfaec9493e66af18393f6d7452ac08563ae37d510cfcef17e1fde6d2553"
 metafile = true
 
 [[files]]
