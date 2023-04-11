@@ -45,6 +45,7 @@ Mods added:
 + Resource Pack Overrides [Client]
 + Your Options Shall Be Respected [Client]
 + Bygone Nether
++ Let Me Despawn
 
 Resource/Shader Packs added:
 + ComplementaryReimagined

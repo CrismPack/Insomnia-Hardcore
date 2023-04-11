@@ -894,6 +894,11 @@ hash = "2db6d51d1f4556fc9d9f643006bd5b4c2769e3d985bcfdd84c2daedeac6b4b9c"
 metafile = true
 
 [[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "4f4db9b1764ee925a73b31c4df7f7fbcbfc315dac57707d390458f2f801e97b8"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "f9990bc188be8fad696a3159230c4a6cb935260363c146af03ad4b584c9e91b0"
 metafile = true
