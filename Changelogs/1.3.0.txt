@@ -74,7 +74,6 @@ Mods removed:
 - Dawn
 - Flytre Lib
 - Village Spawn Point (Incompatible with 'Towns & Towers')
-- Fastload (New version incompatible with 'Terralith')
 - Default Options [Client]
 - Structory
 - Incendium (Incompatible with 'Amplified Nether' and causes 'Terralith' SeedFix to break)
@@ -124,6 +123,7 @@ Mods updated:
 > Wavey Capes
 > Xaero's World Map
 > YUNG's API
+> Fastload
 
 Config Changes: 
 = Changed the "Official Server" button to just open the multiplayer (Having it connect directly to the server rarely worked): [FancyMenu], [Client]

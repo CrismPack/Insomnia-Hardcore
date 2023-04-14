@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
+hash = "8758706157083e9cc68e04dc69694e8b86e867d12070bd8e1a7c122edb25e2e1"
+=======
 hash = "2100cc68fcc75484a11667ecb6005d8b994ed2226d1d10da29fb45869b8f8113"
+>>>>>>> parent of e232b54 (Added 'Better Leaves Bush' resourcepack)
 
 [versions]
 fabric = "0.14.19"
