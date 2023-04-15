@@ -82,6 +82,7 @@ Mods removed:
 
 Mods disabled: 
 - Custom Entity Models [Client]
+- Nullscape
 
 Data Packs removed:
 - 
@@ -108,7 +109,6 @@ Mods updated:
 > FancyMenu
 > Forgotten Graves
 > I Know What I'm Doing (IKWID)
-> Incendium
 > Inventory Profiles Next
 > InvMove
 > Iris Shaders
