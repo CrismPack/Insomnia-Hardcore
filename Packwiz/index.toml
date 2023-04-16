@@ -1044,6 +1044,11 @@ hash = "83e84b53985e3217dcc23e74f2e0f432279e4d7101bece8c5bf17e0e071855b0"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "a81678ea551c7bcfa9319829d4ed3fcf96f9ae4123442d2978a0f25037a4a605"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "e0ac0cf39029a1100dfcf122a424d36c5117d753df96c36c787490ec19867eec"
 metafile = true
