@@ -1,6 +1,6 @@
 name = "Fastload"
 filename = "Fastload+1.18.2-1.19.4-3.3.3.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
