@@ -355,6 +355,11 @@ hash = "103ea177e72231aae9c6878d6fd77fa149a7948844e66bf6856b19859334fa12"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "8f52f5944d10f634090ae8a456931fdc58310186a512a6f5e1fc4da737b1c93f"
 metafile = true
@@ -392,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "b831a7f0de8fbe6d8d1e9bba0acd2c6e80ebc7efd8bfdf9cff62804079660ec8"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
 metafile = true
 
 [[files]]

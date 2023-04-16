@@ -46,8 +46,9 @@ Mods added:
 + Bygone Nether
 + Let Me Despawn
 + AntiXray [Server]
-+ BCLib (Dependency of 'Enderscape')
 + Log Begone [Server]
++ Better End
++ BCLib (Dependency of 'Better End')
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
