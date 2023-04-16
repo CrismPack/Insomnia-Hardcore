@@ -1389,6 +1389,16 @@ hash = "6e24ae778c75cc884458cc506629d9bfd12b5caaf35a9484aa2ecdc1272300f7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/stay-true-modded-compats.pw.toml"
+hash = "ad403e48146411027af5f4adc8813c1ba710c9cefd59ca822a1deca2058ecbb4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "f09cd5f1b0d71c8e70be3e00b6091de249d5a50f5c5a40b463fddaea504516cc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "de4e6789d5d43c73db635d80c3994e584b4575c4137afe1ee425c801d115c596"
 metafile = true

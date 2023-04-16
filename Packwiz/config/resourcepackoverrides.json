@@ -9,7 +9,10 @@
       "continuity/default",
       "file/Slightly-Improved-Font-1.0.0.zip",
       "file/Visual Titles.zip",
-      "file/EclecticTrove-noconfig-1.18-1.2.0.zip"
+      "file/EclecticTrove-noconfig-1.18-1.2.0.zip",
+      "file/NoBushyLeaves.zip",
+      "file/Stay_True_1.18.zip",
+      "file/Stay True Compats v6 [1.19].zip"
     ],
     // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
     "default_overrides": {
