@@ -13,6 +13,10 @@ file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
+file = "config/advancementplaques.json5"
+hash = "dc8a09f780bfe789046103f70df97ace0ef2d52c6acf6fb9b1ced50a16bf1a7f"
+
+[[files]]
 file = "config/bcc.json"
 hash = "51a9cb4bb732d8dd74f2d7aace75408aa751bc1ae272195e6079113f10442c1d"
 
@@ -158,7 +162,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "6100314a736b3b959257ae4fbae097beb51b8c6423c10ec6c4a489c720bfab59"
+hash = "70811ca2cc1dbf848ff9c994d3e1d3988247b45fabe2ec228634d54d1e04b80b"
 
 [[files]]
 file = "config/revive.json5"
