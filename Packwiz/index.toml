@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "4b6cc779ac18a87e452769e7f95bcc1971f7dac6cf5cd947e09dbfd17e0a6465"
+hash = "cdfb2eee948c5e4f8109c46108f8a55ba66585fa444bd2d91de802a2aa54afd4"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "8b43732e1dc08c45bcdffe04dd0c9314765140d14a11592caa9a843b16d26c0f"
+hash = "e6463553198770c9e070e2903ad644f6260761aef51e79cef06038a471a2d599"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "afe5546bb41430d19ea8667cb9a78088b55abc1bb13101e29722a52ce7f14041"
+hash = "616af603a7b3a4a4dcd09c934bbaa7173277bbf63be582cd4ab6dadca73465fa"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "d98ae64442c9c171ba733c378d94583c332d526d043c17d6952218b7a4b5b705"
+hash = "3807f9f5b7e8d44031e5c0b8133199bd7c0a348b3807296da84826f3fb6ff560"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.pw.toml"
-hash = "0163f98414a145c00920fabcfedb5550e56230cf320346e62ad28b9105f8bb0b"
+hash = "a5d9d8f9b4a789d316cb7c14f282241bfc69ccd92b842e0f94ae87da24e542db"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "740d514ff1fdf3a403e08cbb9bb85a9d6654f4dcd9a55a28391eb4be9d706354"
+hash = "70e530f5dd6b34dc32a491b2250493a4464172d6484b1a59484b79d9e3d3c147"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "377767f423f0dd2a9c7f01c49c7fdff7bc7dc3c60abe8d3e7e59b51bb27f7a85"
+hash = "7f544f416e23ec03ed210a7cae66e25b7d0a01e57e523501748a5fc18444de9b"
 metafile = true
 
 [[files]]
@@ -960,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "d377c76998c65ac9c1a98e976190953b195ebe774d4d4e127c86d99d4046e104"
+hash = "16028256de8bb7d44dfe511461f1d904b65769cfe955f02c0a39fb93d21e76b9"
 metafile = true
 
 [[files]]
@@ -1165,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6e66c1ba2ee8a6b27080e447ddd44022d0403f47b471599b0b9ffea78e933ec7"
+hash = "b9550b8ce62d942362f57f28412ad16caa2278d9461e5519f3a7fe9e1e7a4d8f"
 metafile = true
 
 [[files]]

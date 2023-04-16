@@ -125,6 +125,7 @@ Mods updated:
 > Xaero's World Map
 > YUNG's API
 > Fastload
+> Guard Villagers
 
 Config Changes: 
 = Changed the "Official Server" button to just open the multiplayer (Having it connect directly to the server rarely worked): [FancyMenu], [Client]
