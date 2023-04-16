@@ -162,7 +162,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "beaec2bf9f0b390496b5f45efc491cec798fbb8d504c4f7177c9b865407b0536"
+hash = "787bf035b82ea57393905ec2f5fda6ca1b566570f071c9031cc18a08090cc2fe"
 
 [[files]]
 file = "config/revive.json5"
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "92d493def68e0a0184a4e35917cb6138231fc25e8c3f552e9f53056ad0eaa5db"
+hash = "740e42c8c84b23d16babc7490db1d0bae97619944b86ed28a207c3dd4d30c156"
 metafile = true
 
 [[files]]
@@ -919,6 +919,11 @@ hash = "577cc9489d9aef40073c99c113d8574b80651e87ecc868290b5ff8cde31dab81"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "42f0899c9ab20e19cbf2bc51cb6ad6f83ae1e8611993bc73072bd6a45ee3dd3b"
+metafile = true
+
+[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "ef86081747bd21760cc3bc89d5edd6bc9bb4151699915c448e4905403103b567"
 metafile = true
@@ -1026,11 +1031,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "83e84b53985e3217dcc23e74f2e0f432279e4d7101bece8c5bf17e0e071855b0"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "416c95c125d799f9dfffabaea69059c40b1117c6b92c9de1b39625865028a2ab"
 metafile = true
 
 [[files]]

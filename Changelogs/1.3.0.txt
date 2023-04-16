@@ -24,13 +24,12 @@ Mods added:
 + YUNG's Better Ocean Monuments
 + YUNG's Better Witch Huts
 + YUNG's Better Nether Fortresses
-+ Nullscape
 + Collective
 + Furnace Recycle
 + Nether Portal Spread
 + Productive Villagers
 + Better Combat
-+ playerAnimator
++ playerAnimator (Dependency of 'Better Combat')
 + Patchouli
 + Simply Swords
 + Combat Roll
@@ -47,6 +46,8 @@ Mods added:
 + Bygone Nether
 + Let Me Despawn
 + AntiXray [Server]
++ BCLib (Dependency of 'Enderscape')
++ Log Begone [Server]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -69,7 +70,7 @@ Mods removed:
 - Compact Help Command (Legacy Fabric) [Server]
 - No Angled Brackets [Client]
 - End Goblin Traders (Spam in server console) [Server]
-- Concurrent Chunk Management Engine (Incompatibility with 'Nullscape')
+- Concurrent Chunk Management Engine
 - Universal Ores
 - Dawn
 - Flytre Lib
@@ -82,7 +83,6 @@ Mods removed:
 
 Mods disabled: 
 - Custom Entity Models [Client]
-- Nullscape
 
 Data Packs removed:
 - 
