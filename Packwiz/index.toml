@@ -162,7 +162,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "70811ca2cc1dbf848ff9c994d3e1d3988247b45fabe2ec228634d54d1e04b80b"
+hash = "929b7a23ba111a856419c88adaf1c69ce36d149452a3b2ca58f17df62d9a00d2"
 
 [[files]]
 file = "config/revive.json5"
@@ -254,7 +254,7 @@ hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Custom Lang.zip"
-hash = "8bd1950d6c4e15012888267226fb0a49abc99b6662e776c04c983215adbe4238"
+hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "a81678ea551c7bcfa9319829d4ed3fcf96f9ae4123442d2978a0f25037a4a605"
+hash = "e69bdffba42952f9e78ea411c07bfbc707dd19b4d558b46b2761c035b87def8a"
 metafile = true
 
 [[files]]
@@ -1383,8 +1383,12 @@ file = "resourcepacks/NoBushyLeaves.zip"
 hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
 
 [[files]]
-file = "resourcepacks/diegetic-gui.pw.toml"
-hash = "d92febc37da43367e34213b440623679c4bde93ca49721f83811dc0b9cab8555"
+file = "resourcepacks/colourful-containers-dark-mode-gui-optifine.toml"
+hash = "875d84ec37c8f71255b7c548b28f691a0c6aba3431af40a5552c64ed5861912b"
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "ec8a039fe7f29f8934d829066d28c73eaa8662da289d8786382ead3b74f3d83f"
 metafile = true
 
 [[files]]

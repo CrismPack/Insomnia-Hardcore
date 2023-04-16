@@ -14,6 +14,7 @@ Update summary:
 ~ Added proximity voice chat functionality with realistic reverb.
 ~ Replaced home teleport commands with a recall potion.
 ~ Players now get a starter house when joining for the first time.
+~ All inventory and container screens have gotten a facelift as well as now being dark.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -49,6 +50,7 @@ Mods added:
 + Log Begone [Server]
 + Better End
 + BCLib (Dependency of 'Better End')
++ OptiGUI [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -56,11 +58,12 @@ Resource/Shader Packs added:
 + Fresh Animations (Not selectable since the normal version is incompatible with CEM)
 + Visual Traveler's Titles
 + Tissou's Zombie Pack
-+ Diegetic GUI - immersive fancy menus
 + Stay True
 + Stay True Modded Compats
 + StayTrue NoBushyLeaves
 + Dark Embellished Stone
++ Colourful Containers Dark Mode GUI
++ Default Dark Mode
 
 Data Packs added:
 + 
