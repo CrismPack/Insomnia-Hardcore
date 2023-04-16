@@ -1378,11 +1378,6 @@ file = "resourcepacks/NoBushyLeaves.zip"
 hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
 
 [[files]]
-file = "resourcepacks/dark-embellished-stone-advancement-plaques.pw.toml"
-hash = "18f6c90e771c99915f793ea583db2a0f96ad2381bd4a88eaba6fdf6660402d61"
-metafile = true
-
-[[files]]
 file = "resourcepacks/diegetic-gui.pw.toml"
 hash = "d92febc37da43367e34213b440623679c4bde93ca49721f83811dc0b9cab8555"
 metafile = true
@@ -1390,6 +1385,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
+metafile = true
+
+[[files]]
+file = "resourcepacks/embellished-stone-advancement-plaques.pw.toml"
+hash = "d358f5937169d1f58203e7aa07aa0ad32be7be53dd02813855bda74524737cef"
 metafile = true
 
 [[files]]
