@@ -168,3 +168,4 @@ Config Changes:
 = Increased timeout timer to 300 seconds: [FabricTPA], [Server]
 = Created 'Insomnia Textures' resourcepack to change the menu background texture: [Insomnia Textures], [Client]
 = Disabled "the_castle_in_the_sky" structure: [Mo' Structures], [Both]
+= Deleted unused spectator death message: [FancyMenu], [Client]
