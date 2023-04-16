@@ -56,6 +56,10 @@ Resource/Shader Packs added:
 + Fresh Animations (Not selectable since the normal version is incompatible with CEM)
 + Visual Traveler's Titles
 + Tissou's Zombie Pack
++ Diegetic GUI - immersive fancy menus
++ Stay True
++ Stay True Modded Compats
++ StayTrue NoBushyLeaves
 
 Data Packs added:
 + 

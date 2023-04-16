@@ -58,7 +58,7 @@ hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "b712223cdfd2cc6861f5284df369278ebc6964f92ddd20a79d487cf0a75b1d56"
+hash = "9e6fba9cf03b6f7b085696cc1df20a849b94d07ea7dc3efa275ae263dfdbddbf"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
@@ -67,10 +67,6 @@ hash = "73260e78c75370dd95f2489a626ff8ac013fc0df26644a39a830e83f09e484c0"
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
 hash = "1d341bb1988d501fee409932a9da680cfc2eef4021d162f094aab6d950a4d681"
-
-[[files]]
-file = "config/fancymenu/customization/Spectator Death Message.txt"
-hash = "be6a1ea1843decef5138808439e7db3ce9fb60b45077d6cbe7a8eeb4d8f4d00f"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -162,7 +158,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "787bf035b82ea57393905ec2f5fda6ca1b566570f071c9031cc18a08090cc2fe"
+hash = "6100314a736b3b959257ae4fbae097beb51b8c6423c10ec6c4a489c720bfab59"
 
 [[files]]
 file = "config/revive.json5"
@@ -198,7 +194,7 @@ hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
 
 [[files]]
 file = "config/waystones/config.json"
-hash = "bd36709060c28755ee102a08e3e03dfce90d01e9f3be85902ba46efef5745a50"
+hash = "70cfce60aed29aaa64c42e44e3e5cf8ae51e62c7a1c555040d46685476945671"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -258,7 +254,7 @@ hash = "8bd1950d6c4e15012888267226fb0a49abc99b6662e776c04c983215adbe4238"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "8f66a6858f51fb44bae2de0e3cb01e605a2ed46b741aa8e2de6487d16aff24df"
+hash = "92c923c27d9ace16d211e670e1916caba18d89e5b3c4a288340385138dde0388"
 
 [[files]]
 file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
@@ -1371,6 +1367,15 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
+metafile = true
+
+[[files]]
+file = "resourcepacks/NoBushyLeaves.zip"
+hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
+
+[[files]]
+file = "resourcepacks/diegetic-gui.pw.toml"
+hash = "d92febc37da43367e34213b440623679c4bde93ca49721f83811dc0b9cab8555"
 metafile = true
 
 [[files]]
