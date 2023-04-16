@@ -1374,6 +1374,11 @@ file = "resourcepacks/NoBushyLeaves.zip"
 hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
 
 [[files]]
+file = "resourcepacks/dark-embellished-stone-advancement-plaques.pw.toml"
+hash = "18f6c90e771c99915f793ea583db2a0f96ad2381bd4a88eaba6fdf6660402d61"
+metafile = true
+
+[[files]]
 file = "resourcepacks/diegetic-gui.pw.toml"
 hash = "d92febc37da43367e34213b440623679c4bde93ca49721f83811dc0b9cab8555"
 metafile = true
