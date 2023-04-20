@@ -205,6 +205,10 @@ file = "config/xaerominimap.txt"
 hash = "b165e3691326a07db658f7121e885ba4f874a8c1140893543ef7f4ce808421b0"
 
 [[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "ec4ba2e18bbdd910b401f9a1c2467563281cb97ddccff761062bfd68b2da6706"
+
+[[files]]
 file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
 hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
@@ -453,6 +457,11 @@ hash = "6723727adf10478be69981df7c08313aa6738a254b69d4e9a6aeb4d5cc95b48b"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "f0ab9701ddcf90b49d8851f0bbcf05eceb26c9fb235a8b49f841949ff0b74056"
+metafile = true
+
+[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "ad2930a8365abb127464ffdd6b4d34d00a9d6c4eb3794cdc929815477da63b62"
 metafile = true
@@ -698,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "9fa880505eac66cdbc7c0207186891a56d8f6365f51aab275bea9eeda4b68aef"
+hash = "00900323d7bee9513be8eaa584141d038b38e1d56b24cdb55a75d0c9d4f39293"
 metafile = true
 
 [[files]]
