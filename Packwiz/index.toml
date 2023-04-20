@@ -249,6 +249,10 @@ file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
 hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
+file = "global_packs/required_resources/Colourful-Containers-Darkmode.zip"
+hash = "b3258db8c83f805dcb95736f4defa67ec280ab5e7e439ffbb82ced302aa66396"
+
+[[files]]
 file = "global_packs/required_resources/FreshAnimations_v1.7_Add_S10.zip"
 hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
 
@@ -258,7 +262,11 @@ hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "92c923c27d9ace16d211e670e1916caba18d89e5b3c4a288340385138dde0388"
+hash = "e35e3fc3e4468e004ed95383538a9aa6151a5568d22c31057869851fd11ac477"
+
+[[files]]
+file = "global_packs/required_resources/NoBushyLeaves.zip"
+hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
 
 [[files]]
 file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
@@ -686,6 +694,11 @@ metafile = true
 [[files]]
 file = "mods/erroring-entity-remover.pw.toml"
 hash = "4b97fceda7cfebee47b46b8ba721793073c59a2007ec471d9c3256848783f81e"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "9fa880505eac66cdbc7c0207186891a56d8f6365f51aab275bea9eeda4b68aef"
 metafile = true
 
 [[files]]
@@ -1377,14 +1390,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
 metafile = true
-
-[[files]]
-file = "resourcepacks/NoBushyLeaves.zip"
-hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
-
-[[files]]
-file = "resourcepacks/colourful-containers-dark-mode-gui-optifine.toml"
-hash = "875d84ec37c8f71255b7c548b28f691a0c6aba3431af40a5552c64ed5861912b"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"

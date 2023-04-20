@@ -51,6 +51,7 @@ Mods added:
 + Better End
 + BCLib (Dependency of 'Better End')
 + OptiGUI [Client]
++ Exordium [Client]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -179,3 +180,4 @@ Config Changes:
 = Deleted unused spectator death message: [FancyMenu], [Client]
 = Removed spawning of additional waystone stuctures in 'Towns & Towers' villages (They were added to the natural generation of 'Towns & Towers'): [Fabric Waystones], [Both]
 = Changed "titleColor" to be more visible with the new texture: [Advancement Plaques], [Client]
+= Changed the framerate of the buffered HUD to 60 fps by default: [Exordium], [Client]
