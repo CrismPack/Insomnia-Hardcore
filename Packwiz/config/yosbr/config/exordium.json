@@ -1,10 +1,10 @@
 {
   "configVersion": 1,
   "enabledGui": true,
-  "targetFPSIngameGui": 60,
+  "targetFPSIngameGui": 20,
   "enabledGuiAnimationSpeedup": true,
   "targetFPSIngameGuiAnimated": 60,
-  "enabledScreens": true,
+  "enabledScreens": false,
   "targetFPSIngameScreens": 60,
   "enableSignBuffering": true,
   "targetFPSNameTags": 60,

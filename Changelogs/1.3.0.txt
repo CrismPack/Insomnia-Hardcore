@@ -179,4 +179,4 @@ Config Changes:
 = Deleted unused spectator death message: [FancyMenu], [Client]
 = Removed spawning of additional waystone stuctures in 'Towns & Towers' villages (They were added to the natural generation of 'Towns & Towers'): [Fabric Waystones], [Both]
 = Changed "titleColor" to be more visible with the new texture: [Advancement Plaques], [Client]
-= Changed the framerate of the buffered HUD to 60 fps by default: [Exordium], [Client]
+= Disabled "enabledScreens" to fix flickering issue with 'Advancement Plaques': [Exordium], [Client]
