@@ -10,7 +10,11 @@
     "file/Visual Titles.zip",
     "file/EclecticTrove-noconfig-1.18-1.2.0.zip",
     "file/Stay_True_1.18.zip",
-    "file/Slightly-Improved-Font-1.0.0.zip"
+    "file/Slightly-Improved-Font-1.0.0.zip",
+    "global:FreshAnimations_v1.7_Add_S10.zip",
+    "global:Tissou's Zombie Pack 1.18_2.6_novillager.zip",
+    "global:Insomnia Custom Lang.zip",
+    "global:Insomnia Textures.zip"
   ],
   // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
   "default_overrides": {
