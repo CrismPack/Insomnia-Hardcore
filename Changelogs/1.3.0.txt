@@ -175,3 +175,4 @@ Config Changes:
 = Disabled "enabledScreens" to fix flickering issue with 'Advancement Plaques': [Exordium], [Client]
 = Relocated some of the inventory buttons slightly: [Inventory Profiles Next], [Client]
 = Disabled the "Move All Items" button by default: [Inventory Profiles Next], [Client]
+= Disabled connected textures by default: [Continuity], [Client]
