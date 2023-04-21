@@ -312,11 +312,6 @@ hash = "91b3205001c2d059aca57e199e84b428717dba550b6ba7a21067f5b67e7bb384"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "740e42c8c84b23d16babc7490db1d0bae97619944b86ed28a207c3dd4d30c156"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58accb1b3e5102588ddc5665c91a1a9506c51b92170cf7330a5d6e8c03f46e15"
 metafile = true
@@ -843,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "00fa49468abfa5f13fa55a08602250f8f6d3c28167c6d7330f7a8aab727292b9"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "af6ce872489e50d988401e87601020ad9acb94b8b7a41de84a1c29eac3ec14c3"
 metafile = true
 
 [[files]]

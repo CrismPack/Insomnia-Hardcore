@@ -81,9 +81,9 @@ Mods removed:
 - Village Spawn Point (Incompatible with 'Towns & Towers')
 - Default Options [Client]
 - Structory
-- Incendium (Incompatible with 'Amplified Nether')
 - Better Fps - Render Distance [Client]
 - Boring Backgrounds [Client]
+- Amplified Netheer (Incompatible with 'Incendium')
 
 Mods disabled: 
 - Custom Entity Models [Client]
