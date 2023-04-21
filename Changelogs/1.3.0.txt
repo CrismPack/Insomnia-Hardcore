@@ -1,19 +1,18 @@
-v1.3.0 - Major Update
-Disclaimer: This version is not compatible with worlds generated prior to the update.
+v1.3.0 - A Very Major Update
 
 Fabric version: Fabric-0.14.19
 Update summary: 
-~ Revamped title screen with better dynamic scaling of elements.
-~ Now includes shaderspacks with a Quality and Performance configuration to choose from.
+~ New combat system and some additional weapons to go along with it.
 ~ Caves now get completely dark and torches held by players emit light.
-~ Added improved monster and animal models, animations and textures.
-~ Overhauls for a bunch of the vanilla buildings.
-~ Reworked the respawning system to allow for players to get a second chance as well as getting absorption effect upon respawning.
-~ Player spawn locations are now randomized on servers.
-~ New combat system and additional weapons.
-~ Added proximity voice chat functionality with realistic reverb.
-~ Replaced home teleport commands with a recall potion.
-~ Players now get a starter house when joining for the first time.
+~ Proximity voice chat functionality with realistic reverb.
+~ Now includes a shaderspacks with a Quality and Performance configuration to choose from.
+~ New improved monster and animal models, animations and textures.
+~ Overhauls for a bunch of vanilla buildings.
+~ Reworked respawning system that allows for players to get a second chance as well as getting absorption effect upon respawning.
+~ Player spawn locations are now completely randomized on servers.
+~ Players now get an instantly built starter house.
+~ Home teleport commands replaced with a recall potion.
+~ Improved title screen with better dynamic scaling of elements.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -175,4 +174,4 @@ Config Changes:
 = Removed spawning of additional waystone stuctures in 'Towns & Towers' villages (They were added to the natural generation of 'Towns & Towers'): [Fabric Waystones], [Both]
 = Disabled "enabledScreens" to fix flickering issue with 'Advancement Plaques': [Exordium], [Client]
 = Relocated some of the inventory buttons slightly: [Inventory Profiles Next], [Client]
-= Disabled the move all items button by default: [Inventory Profiles Next], [Client]
+= Disabled the "Move All Items" button by default: [Inventory Profiles Next], [Client]
