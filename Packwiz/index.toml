@@ -166,7 +166,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "984e35c3a7137e951132d63ca5721480b7771faf9b824eb6dd7cf7da6cb302f8"
+hash = "2c66e874f52939f651d8437da4e22792b4546ada84c6793285ffc72ce4bd900f"
 
 [[files]]
 file = "config/revive.json5"
@@ -270,7 +270,7 @@ hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "a2d21f60402d58ed762572d682ee23c426962bc3632d05eaab1df1098817c50e"
+hash = "28159fe2d4b6813bb225ec2066b41abe8525108fdcf43f993ba07dc4938b7a79"
 
 [[files]]
 file = "global_packs/required_resources/NoBushyLeaves.zip"

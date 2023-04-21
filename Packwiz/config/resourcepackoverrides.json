@@ -29,19 +29,30 @@
       "force_compatible": true,
       "fixed_position": false
     },
-    // A new group is defined, the id is arbitrary
+    // Hidden and required.
     "1": [
       "minecraft/supporteatinganimation",
       "file/EclecticTrove-noconfig-1.18-1.2.0.zip",
       "file/Visual Titles.zip",
       "continuity/default",
-      "global:NoBushyLeaves.zip"
+      "global:NoBushyLeaves.zip",
+      "lambdabettergrass/default"
     ],
     // Attributes are configured for all packs in group "1"
     // Note that referencing a group id must begin with "$"
     "$1": {
       "hidden": true,
       "required": true
+    },
+    // Hidden, not required
+    "2": [
+      "file/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip"
+    ],
+    // Attributes are configured for all packs in group "1"
+    // Note that referencing a group id must begin with "$"
+    "$2": {
+      "hidden": true,
+      "required": false
     }
   }
 }
