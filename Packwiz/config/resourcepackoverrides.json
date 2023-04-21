@@ -7,7 +7,6 @@
     "minecraft/supporteatinganimation",
     "continuity/glass_pane_culling_fix",
     "continuity/default",
-    "file/Visual Titles.zip",
     "file/EclecticTrove-noconfig-1.18-1.2.0.zip",
     "file/Stay_True_1.18.zip",
     "file/Slightly-Improved-Font-1.0.0.zip",
@@ -15,8 +14,10 @@
     "global:Tissou's Zombie Pack 1.18_2.6_novillager.zip",
     "file/FreshAnimations_v1.7_Add_S10.zip",
     "file/Tissou's Zombie Pack 1.18_2.6_novillager.zip",
+    "file/Visual Titles.zip",
     "global:Insomnia Custom Lang.zip",
-    "global:Insomnia Textures.zip"
+    "global:Insomnia Textures.zip",
+    "global:§bGUI Reimagined§8-[v1.1].zip"
   ],
   // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
   "default_overrides": {
@@ -52,7 +53,8 @@
     },
     // Hidden, not required
     "2": [
-      "file/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip"
+      "file/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip",
+      "file/§bGUI Reimagined§8-[v1.1].zip"
     ],
     // Attributes are configured for all packs in group "1"
     // Note that referencing a group id must begin with "$"

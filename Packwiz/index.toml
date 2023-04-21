@@ -129,6 +129,10 @@ file = "config/fancymenu/panoramas/insomniapanorama/properties.txt"
 hash = "861f0b727321bbdd029bf2a5e2321f944843fe7698d1ea47de9b0ad2c91e0c67"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "c1452102f48cd754746e9c4678e2588cd8cb95664a52a1502a5b22175774b81c"
+
+[[files]]
 file = "config/goblintraders.toml"
 hash = "e75319393baf8bd8271155cdc263f8fad29c92a4528b14b37baf9bbb091f2135"
 
@@ -166,7 +170,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "8adac41670cc640828b1042061c9f31fb89dae127536640a78d3b49288203493"
+hash = "e8e55107671ec908371e875b706b8f371e3247e973552c1a1b0310839f2ae178"
 
 [[files]]
 file = "config/revive.json5"
@@ -271,10 +275,6 @@ hash = "28159fe2d4b6813bb225ec2066b41abe8525108fdcf43f993ba07dc4938b7a79"
 [[files]]
 file = "global_packs/required_resources/NoBushyLeaves.zip"
 hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
-
-[[files]]
-file = "global_packs/required_resources/§bGUI Reimagined§8-[v1.1].zip"
-hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -1420,7 +1420,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gui-reimagined.pw.toml"
-hash = "6604f0705062921ad5386678b08f85b2a595469108b9a525c1cbbcfd01b13cf6"
+hash = "0517ec8aa1ba4339f7fb59b7c7128e0502b92f9fbd62d3cfe3e6a3511c74d6b6"
 metafile = true
 
 [[files]]
