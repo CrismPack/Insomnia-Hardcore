@@ -166,7 +166,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "2c66e874f52939f651d8437da4e22792b4546ada84c6793285ffc72ce4bd900f"
+hash = "8adac41670cc640828b1042061c9f31fb89dae127536640a78d3b49288203493"
 
 [[files]]
 file = "config/revive.json5"
@@ -261,10 +261,6 @@ file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
 hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
-file = "global_packs/required_resources/FreshAnimations_v1.7_Add_S10.zip"
-hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
-
-[[files]]
 file = "global_packs/required_resources/Insomnia Custom Lang.zip"
 hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 
@@ -275,10 +271,6 @@ hash = "28159fe2d4b6813bb225ec2066b41abe8525108fdcf43f993ba07dc4938b7a79"
 [[files]]
 file = "global_packs/required_resources/NoBushyLeaves.zip"
 hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
-
-[[files]]
-file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
-hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
 
 [[files]]
 file = "global_packs/required_resources/§bGUI Reimagined§8-[v1.1].zip"
@@ -1407,6 +1399,14 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
 metafile = true
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.7_Add_S10.zip"
+hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
+
+[[files]]
+file = "resourcepacks/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
+hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
