@@ -281,6 +281,10 @@ file = "global_packs/required_resources/Tissou's Zombie Pack 1.18_2.6_novillager
 hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
 
 [[files]]
+file = "global_packs/required_resources/§bGUI Reimagined§8-[v1.1].zip"
+hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
 metafile = true
@@ -1416,7 +1420,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gui-reimagined.pw.toml"
-hash = "1af9f81916d61f51251c099b180cd3ef35ad76ab06f69d3b6df3dbe91ca3b5a6"
+hash = "6604f0705062921ad5386678b08f85b2a595469108b9a525c1cbbcfd01b13cf6"
 metafile = true
 
 [[files]]
