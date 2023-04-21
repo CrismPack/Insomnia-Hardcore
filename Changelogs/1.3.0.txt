@@ -83,7 +83,7 @@ Mods removed:
 - Structory
 - Better Fps - Render Distance [Client]
 - Boring Backgrounds [Client]
-- Amplified Netheer (Incompatible with 'Incendium')
+- Incendium (Incompatible with 'Amplified Nether' and causes Terraliths SeedFix to break)
 
 Mods disabled: 
 - Custom Entity Models [Client]

@@ -13,10 +13,6 @@ file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
-file = "config/advancementplaques.json5"
-hash = "dc8a09f780bfe789046103f70df97ace0ef2d52c6acf6fb9b1ced50a16bf1a7f"
-
-[[files]]
 file = "config/bcc.json"
 hash = "51a9cb4bb732d8dd74f2d7aace75408aa751bc1ae272195e6079113f10442c1d"
 
@@ -137,6 +133,14 @@ file = "config/goblintraders.toml"
 hash = "e75319393baf8bd8271155cdc263f8fad29c92a4528b14b37baf9bbb091f2135"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "97712ae50083ac3a476cff30e5426067379c3ee0beb6c42ad87f6f8449d0ce75"
+
+[[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "a6487a92015ef8fab1bffbd909c959e6c05ecde96d62be59c21b4e2200d20fab"
 
@@ -162,7 +166,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "929b7a23ba111a856419c88adaf1c69ce36d149452a3b2ca58f17df62d9a00d2"
+hash = "984e35c3a7137e951132d63ca5721480b7771faf9b824eb6dd7cf7da6cb302f8"
 
 [[files]]
 file = "config/revive.json5"
@@ -205,8 +209,12 @@ file = "config/xaerominimap.txt"
 hash = "b165e3691326a07db658f7121e885ba4f874a8c1140893543ef7f4ce808421b0"
 
 [[files]]
+file = "config/yosbr/config/continuity.json"
+hash = "f59bb9447f03baa60f57e6bb0fdd8f39ce7d26f811560ec5e3bf2a876af6f656"
+
+[[files]]
 file = "config/yosbr/config/exordium.json"
-hash = "ec4ba2e18bbdd910b401f9a1c2467563281cb97ddccff761062bfd68b2da6706"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
 
 [[files]]
 file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
@@ -214,11 +222,11 @@ hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "78b59b94ed172fcc923e785f64f618624fb605db6af7c9f0cdaf500a1a1c189a"
+hash = "279461599358b77d2a8b3bcebe1c67801b581a2967d3aa8b510387322636aa8f"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "1ce90c9538637b4cb9047f3d182427fd0d1b6a2dd6f3e780650937ed34d8deb6"
+hash = "2d7e3c46899f979c7eda83ad70722d3e508aa2ecb33883838e0970c572a8080c"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -253,10 +261,6 @@ file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
 hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
-file = "global_packs/required_resources/Colourful-Containers-Darkmode.zip"
-hash = "b3258db8c83f805dcb95736f4defa67ec280ab5e7e439ffbb82ced302aa66396"
-
-[[files]]
 file = "global_packs/required_resources/FreshAnimations_v1.7_Add_S10.zip"
 hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
 
@@ -266,7 +270,7 @@ hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "e35e3fc3e4468e004ed95383538a9aa6151a5568d22c31057869851fd11ac477"
+hash = "a2d21f60402d58ed762572d682ee23c426962bc3632d05eaab1df1098817c50e"
 
 [[files]]
 file = "global_packs/required_resources/NoBushyLeaves.zip"
@@ -309,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "91b3205001c2d059aca57e199e84b428717dba550b6ba7a21067f5b67e7bb384"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
 metafile = true
 
 [[files]]
@@ -838,11 +847,6 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "00fa49468abfa5f13fa55a08602250f8f6d3c28167c6d7330f7a8aab727292b9"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "af6ce872489e50d988401e87601020ad9acb94b8b7a41de84a1c29eac3ec14c3"
 metafile = true
 
 [[files]]
@@ -1401,18 +1405,8 @@ hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
 metafile = true
 
 [[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "ec8a039fe7f29f8934d829066d28c73eaa8662da289d8786382ead3b74f3d83f"
-metafile = true
-
-[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "e05fe3188413b8e63d8792d3be431e45f41ea2881300afd5f3da81a113606641"
-metafile = true
-
-[[files]]
-file = "resourcepacks/embellished-stone-advancement-plaques.pw.toml"
-hash = "d358f5937169d1f58203e7aa07aa0ad32be7be53dd02813855bda74524737cef"
+hash = "4625b47bc35ca8d03c372d5153572c1a0d0baa44147a6e83107de967753ecf5b"
 metafile = true
 
 [[files]]
@@ -1422,22 +1416,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gui-reimagined.pw.toml"
-hash = "1c9a67ee58d6a7b9f349adc96c9681816b70376d1a3ea05306b74270ec78adaf"
+hash = "1af9f81916d61f51251c099b180cd3ef35ad76ab06f69d3b6df3dbe91ca3b5a6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
-hash = "6e24ae778c75cc884458cc506629d9bfd12b5caaf35a9484aa2ecdc1272300f7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stay-true-modded-compats.pw.toml"
-hash = "ad403e48146411027af5f4adc8813c1ba710c9cefd59ca822a1deca2058ecbb4"
+hash = "3c150011a956ccde3d6a26fd4b5f0b1fd09a1f0b8b9123ded097506174c06ca5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
-hash = "f09cd5f1b0d71c8e70be3e00b6091de249d5a50f5c5a40b463fddaea504516cc"
+hash = "c76d5ed5dd44f2422253e3799acdf7de499e6731f42e2bee8c63ff67b0810e13"
 metafile = true
 
 [[files]]
