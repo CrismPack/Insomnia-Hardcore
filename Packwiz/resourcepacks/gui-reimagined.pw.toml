@@ -1,0 +1,13 @@
+name = "GUI Reimagined"
+filename = "§bGUI Reimagined§8-[v1.1].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf111effe38a58614113224154b3adfa2bb036da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3778240
+project-id = 610153

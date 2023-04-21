@@ -1421,6 +1421,11 @@ hash = "8427f6b3ccf06150654b59741dd656dda54843d651a4a12dd453abc15cfad16c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/gui-reimagined.pw.toml"
+hash = "1c9a67ee58d6a7b9f349adc96c9681816b70376d1a3ea05306b74270ec78adaf"
+metafile = true
+
+[[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "6e24ae778c75cc884458cc506629d9bfd12b5caaf35a9484aa2ecdc1272300f7"
 metafile = true

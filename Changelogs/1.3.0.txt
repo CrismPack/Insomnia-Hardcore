@@ -180,3 +180,5 @@ Config Changes:
 = Removed spawning of additional waystone stuctures in 'Towns & Towers' villages (They were added to the natural generation of 'Towns & Towers'): [Fabric Waystones], [Both]
 = Changed "titleColor" to be more visible with the new texture: [Advancement Plaques], [Client]
 = Disabled "enabledScreens" to fix flickering issue with 'Advancement Plaques': [Exordium], [Client]
+= Relocated some of the inventory buttons slightly: [Inventory Profiles Next], [Client]
+= Disabled the move all items button by default: [Inventory Profiles Next], [Client]

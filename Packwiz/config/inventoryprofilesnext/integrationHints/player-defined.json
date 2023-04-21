@@ -1,0 +1,94 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -3,
+                "bottom": 2
+            },
+            "SORT": {
+                "horizontalOffset": -3,
+                "bottom": 2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -3,
+                "bottom": 2
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -3,
+                "bottom": 2
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 1
+            },
+            "SETTINGS": {
+                "top": 1
+            }
+        }
+    },
+    "net.minecraft.class_479": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -6,
+                "bottom": 4
+            }
+        }
+    },
+    "net.minecraft.class_481": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 3,
+                "bottom": 3
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 3,
+                "bottom": 3
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 3,
+                "bottom": 3
+            }
+        }
+    },
+    "net.minecraft.class_476": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 30
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 30
+            }
+        }
+    },
+    "net.minecraft.class_480": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -1,
+                "top": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -1,
+                "top": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -1,
+                "top": 1
+            }
+        }
+    },
+    "net.minecraft.class_495": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 30
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 30
+            }
+        }
+    }
+}

@@ -10,13 +10,19 @@
         "enable_inventory_editor_button": {
             "value": false
         },
+        "enable_inventory_settings_button": {
+            "value": false
+        },
         "enable_profiles_ui": {
             "value": false
         },
         "show_continuous_crafting_checkbox": {
             "value": false
         },
-        "continuous_crafting_saved_value": false
+        "continuous_crafting_saved_value": false,
+        "show_move_all_button": {
+            "value": false
+        }
     },
     "LockedSlotsSettings": {
         "locked_slots_empty_hotbar_as_semi_locked": {
