@@ -1,6 +1,6 @@
 name = "Eclectic Trove (Legendary Tooltips)"
 filename = "EclecticTrove-noconfig-1.18-1.2.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

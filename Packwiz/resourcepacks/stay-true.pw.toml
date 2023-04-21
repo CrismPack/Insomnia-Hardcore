@@ -1,6 +1,6 @@
 name = "Stay True"
 filename = "Stay_True_1.18.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
