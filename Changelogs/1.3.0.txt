@@ -14,7 +14,6 @@ Update summary:
 ~ Added proximity voice chat functionality with realistic reverb.
 ~ Replaced home teleport commands with a recall potion.
 ~ Players now get a starter house when joining for the first time.
-~ All inventory and container screens have gotten a facelift as well as now being dark.
 
 Mods added:
 + Custom Entity Models Fork [Client]
@@ -60,11 +59,8 @@ Resource/Shader Packs added:
 + Visual Traveler's Titles
 + Tissou's Zombie Pack
 + Stay True
-+ Stay True Modded Compats
 + StayTrue NoBushyLeaves
-+ Dark Embellished Stone
-+ Colourful Containers Dark Mode GUI
-+ Default Dark Mode
++ GUI Reimagined
 
 Data Packs added:
 + 
@@ -80,16 +76,15 @@ Mods removed:
 - Compact Help Command (Legacy Fabric) [Server]
 - No Angled Brackets [Client]
 - End Goblin Traders (Spam in server console) [Server]
-- Concurrent Chunk Management Engine
 - Universal Ores
 - Dawn
 - Flytre Lib
 - Village Spawn Point (Incompatible with 'Towns & Towers')
 - Default Options [Client]
 - Structory
-- Incendium (Incompatible with 'Amplified Nether' and causes 'Terralith' SeedFix to break)
+- Incendium (Incompatible with 'Amplified Nether')
 - Better Fps - Render Distance [Client]
-- Boring Backgrounds (causes 'Terralith' SeedFix to break) [Client]
+- Boring Backgrounds [Client]
 
 Mods disabled: 
 - Custom Entity Models [Client]
@@ -110,7 +105,6 @@ Mods updated:
 > Enchantment Descriptions
 > Entity Texture Features
 > Entity Culling
-> Essential Commands
 > Fabric API
 > Fabric Language Kotlin
 > Fabric Shield Lib
@@ -171,7 +165,8 @@ Config Changes:
 = Added some Recall Potions to the starter kit: [StarterKit], [Both]
 = Re-configured BH-mod, so that the new "View public servers" should show a list of servers using the modpack: [BisectHosting Integration], [Client]
 = Configured to ensure that the correct resourcepacks gets loaded: [Resource Pack Overrides], [Client]
-= Disabled REI keybinds for "A" and "R" as cause indesired behavior with 'InvMove' and 'CombatRoll' respectively: [Roughly Enough Items], [Client]
+= Disabled the "Favorite Entry" keybind by default as it causes indesired behavior with 'InvMove': [Roughly Enough Items], [Client]
+= Changed the "Show Recipe" keybind to be on the "Y" key by default: [Roughly Enough Items], [Client]
 = Disabled killer_bunny_castle structure: [Mo' Structures], [Both]
 = Increased timeout timer to 300 seconds: [FabricTPA], [Server]
 = Created 'Insomnia Textures' resourcepack to change the menu background texture: [Insomnia Textures], [Client]

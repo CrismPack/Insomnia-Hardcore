@@ -9,7 +9,7 @@
 		"keyBindings": {
 			"recipeKeybind": {
 				"keyCode": "key.keyboard.unknown",
-				"modifier": 0
+				"modifier": y
 			},
 			"usageKeybind": {
 				"keyCode": "key.keyboard.u",
