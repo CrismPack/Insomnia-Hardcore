@@ -177,3 +177,4 @@ Config Changes:
 = Relocated some of the inventory buttons slightly: [Inventory Profiles Next], [Client]
 = Disabled the "Move All Items" button by default: [Inventory Profiles Next], [Client]
 = Disabled connected textures by default: [Continuity], [Client]
+= Enabled "always_defer_chunk_updates" by default to prioritize and stabilize the framerate in singleplayer: [Sodium], [Client]
