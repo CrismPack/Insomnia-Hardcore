@@ -54,7 +54,8 @@
     // Hidden, not required
     "2": [
       "file/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip",
-      "file/§bGUI Reimagined§8-[v1.1].zip"
+      "file/§bGUI Reimagined§8-[v1.1].zip",
+      "file/terratonic-1-18-2.zip"
     ],
     // Attributes are configured for all packs in group "1"
     // Note that referencing a group id must begin with "$"
