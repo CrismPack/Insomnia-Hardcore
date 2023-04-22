@@ -170,7 +170,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e8e55107671ec908371e875b706b8f371e3247e973552c1a1b0310839f2ae178"
+hash = "3a70c88df02017538a7e713333816f90232479d673a5a55f1a3a8b0cb5a4d473"
 
 [[files]]
 file = "config/revive.json5"
@@ -1261,6 +1261,11 @@ hash = "be89d8e3aaa87c58d93262f8432334aca2b87ce7f60a214f0e58679c3b4e4de0"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "487c4b7d24a44db0be521e6cf57b0dacafbfe5dc14a10c55186eb6f7843181c1"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
 metafile = true
@@ -1420,7 +1425,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gui-reimagined.pw.toml"
-hash = "0517ec8aa1ba4339f7fb59b7c7128e0502b92f9fbd62d3cfe3e6a3511c74d6b6"
+hash = "12ae8cd319f9dfa4be6f4e8110cd351d778b78ccbf8b3f04f99a23fc42275937"
 metafile = true
 
 [[files]]

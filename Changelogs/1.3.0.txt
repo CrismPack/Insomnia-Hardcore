@@ -50,6 +50,7 @@ Mods added:
 + BCLib (Dependency of 'Better End')
 + OptiGUI [Client]
 + Exordium [Client]
++ Tectonic
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
