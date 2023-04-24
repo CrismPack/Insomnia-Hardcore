@@ -1,5 +1,6 @@
 scoreboard objectives add isDead deathCount "isDead"
-gamerule spectatorsGenerateChunks false
+gamerule spectatorsGenerateChunks true
+gamerule spawnRadius 5000
 
 #Runs some code only the first time the datapack is loaded
 scoreboard objectives add testFirst dummy
@@ -7,5 +8,7 @@ execute unless score isFirst testFirst matches 1 run scoreboard players set isFi
 execute if score isFirst testFirst matches 0 run function insomniarespawn:run_once
 execute if score isFirst testFirst matches 1 run tellraw @a {"text":"Not first load, continuing...", "color": "#55FF55"}
 scoreboard players set isFirst testFirst 1
+
+scoreboard objectives add respawnCountdown dummy
 
 tellraw @a {"text":"Insomnia Respawn Datapack has loaded", "color": "#55FF55"}
