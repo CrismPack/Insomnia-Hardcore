@@ -51,6 +51,15 @@ Mods added:
 + OptiGUI [Client]
 + Exordium [Client]
 + Chunky
++ ShulkerBoxTooltip
++ Roughly Enough Trades [Client]
++ Fix Experience Bug
++ Farmer's Knives
++ Immersive Armors
++ It Takes a Pillage
++ Iris & Oculus Flywheel Compat [Client]
++ End Remastered
++ Enderite Mod
 
 Resource/Shader Packs added:
 + ComplementaryReimagined

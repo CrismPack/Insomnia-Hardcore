@@ -254,7 +254,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "78eade26b9ceeb7e819475258b644c74599c6557cf95e4ffdb4a367ce5277b51"
+hash = "d0587019bcd6093a57763b2372fc866e37356eb65d09b3e3d18a93c53c882699"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -690,6 +690,16 @@ hash = "66fd361228ea995cd226b1dba00f454c1c041f5788d8853e415a167e4bdc81b0"
 metafile = true
 
 [[files]]
+file = "mods/enderite-mod-for-fabric.pw.toml"
+hash = "b7a8e79ac2051fa00f1d2cfb47fba3cb73b582331bf615d725265387ec7226d2"
+metafile = true
+
+[[files]]
+file = "mods/endremastered-fabric.pw.toml"
+hash = "32d8c813e2b6d92d718cb39f7008fd0fb16093aab6d16d807ae9dc0e913a085f"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "9c287b212b19c39e0357dc51417c063cb1543c18124a480f1b1fc629957a3ae3"
 metafile = true
@@ -745,11 +755,6 @@ hash = "4300f02d81a56049bb98dd966cdf9c274ed3d21280347f5bd6ac94e90fd1a099"
 metafile = true
 
 [[files]]
-file = "mods/fabric2discord.pw.toml"
-hash = "6bc9340db7151e4e9ea09f28e803efa094eb47dd6b78cf15b5ed1ac4863ac3bb"
-metafile = true
-
-[[files]]
 file = "mods/fabrictpa.pw.toml"
 hash = "499c0a5e7cefd6e7833f88b740616ff79ef6f9f57c7645f879e1481df47ef6fd"
 metafile = true
@@ -770,6 +775,11 @@ hash = "f5a63f7098aff652010fbf06a7cb93ff042fb59345a2b2255f03063499c5951e"
 metafile = true
 
 [[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "c7c5f4223dbbc5aa0bf523541f5bc644e50bb211b3e7059c4d00c0d47bb3e852"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "3807f9f5b7e8d44031e5c0b8133199bd7c0a348b3807296da84826f3fb6ff560"
 metafile = true
@@ -787,6 +797,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
+metafile = true
+
+[[files]]
+file = "mods/fix-experience-bug.pw.toml"
+hash = "e326d593b81cd24964147dea21ed0b057c93790a6c8d96d4d00d47153f4ed205"
 metafile = true
 
 [[files]]
@@ -850,6 +865,11 @@ hash = "70e530f5dd6b34dc32a491b2250493a4464172d6484b1a59484b79d9e3d3c147"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "e344de99f5dfd42563e635b438aa8573448c8c65cecf7bdd84fe0d13a0c98fc3"
+metafile = true
+
+[[files]]
 file = "mods/improved-stations.pw.toml"
 hash = "ef482a5d506e2a86ceef718953c165b3bdb585c1ba3f1364f373c441ce2f2ee2"
 metafile = true
@@ -890,8 +910,18 @@ hash = "5663c9c96be09cc3dc7441203979830a73023ee8ead809e7e255211e60b114a1"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "01c7458f0cf74259032c55f3e03505f5cd72d7aad13a6b8ff4c59a6edfdea996"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "7f544f416e23ec03ed210a7cae66e25b7d0a01e57e523501748a5fc18444de9b"
+metafile = true
+
+[[files]]
+file = "mods/it-takes-a-pillage-fabric.pw.toml"
+hash = "36fd468b2a708d11cd74a6f4d7e5cac35670be8c93681be3aec2d7e7593bd909"
 metafile = true
 
 [[files]]
@@ -902,6 +932,11 @@ metafile = true
 [[files]]
 file = "mods/itemflexer.pw.toml"
 hash = "87dec3c9684662a95f78ad3b60e204754722bd428f0a6848134aaa2042d90ad6"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "baeb71a5105f762e4053b51f903839dad97f4008a442c3cf1ed617644fbaae46"
 metafile = true
 
 [[files]]
@@ -1195,8 +1230,18 @@ hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "1fe0a94aa7ec650fd7792c80730944b99cf54befbfeac8b091cad8ee33f8f12d"
+metafile = true
+
+[[files]]
 file = "mods/saplanting.pw.toml"
 hash = "a112bdb92470fd0aa99235207e088cb228c525badc884c4dcd5250ed15e7b841"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "4393018c3eaa70408a7ecf8aa63e8c8d1c950c7930e981082ba55301d8fb2e1d"
 metafile = true
 
 [[files]]
