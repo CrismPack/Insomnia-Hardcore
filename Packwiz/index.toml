@@ -170,7 +170,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "3a70c88df02017538a7e713333816f90232479d673a5a55f1a3a8b0cb5a4d473"
+hash = "3c9397cf896080b3865ddbdb1d4739935c7c7a2c4bc66fb26f57a4d1e419fdcd"
 
 [[files]]
 file = "config/revive.json5"
@@ -237,6 +237,10 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "d9fd4bea8da7514cf4b6b0e0257b1e9d26e3179e9292b467d3af44274e59615a"
 
 [[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "ab053a6e6d59f6ee6779a7ede9be01549a98da73216a43b07da6a152b2a96264"
+
+[[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "010b3433e705792e8ae0cb39a14b86f124f8ea304b5f9276bb737debae9e10c6"
 
@@ -250,7 +254,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "182641c2474cee2472b13e95447f57f31a22c26e598ef4945702f2c1f9860cfe"
+hash = "78eade26b9ceeb7e819475258b644c74599c6557cf95e4ffdb4a367ce5277b51"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -458,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f0ab9701ddcf90b49d8851f0bbcf05eceb26c9fb235a8b49f841949ff0b74056"
+hash = "8ff8f480169a6acb7ca734caf3c4d1148521dce8d181010e7bd956b11d660bd3"
 metafile = true
 
 [[files]]
@@ -1258,11 +1262,6 @@ metafile = true
 [[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "be89d8e3aaa87c58d93262f8432334aca2b87ce7f60a214f0e58679c3b4e4de0"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "487c4b7d24a44db0be521e6cf57b0dacafbfe5dc14a10c55186eb6f7843181c1"
 metafile = true
 
 [[files]]
