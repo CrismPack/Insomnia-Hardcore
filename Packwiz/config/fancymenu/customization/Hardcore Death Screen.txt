@@ -14,57 +14,61 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
+  [loading_requirement:fancymenu_loading_requirement_is_singpleplayer][requirement_mode:if][req_id:96ef2980-ea78-479f-b289-25a593c8244f1682371772753] = 
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
   orientation = element
-  shadow = false
-  vr_custom:showif:fancymenu_visibility_requirement_is_variable_value = false
-  scale = 0.85
-  vr_custom:value:fancymenu_visibility_requirement_is_variable_value = <variable_name>:<value_to_check_for>
+  shadow = true
+  [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if][req_id:bd373ea2-75d8-4d76-98da-cc9aae40110e1682371772752] = 
   orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
   x = 98
   actionid = 3ae026c8-8cbc-4257-a93c-9711e31d140d1656858845212
   action = addtext
   y = -38
+  scale = 0.85
   alignment = centered
   value = §f§lClicking "Accept your fate" will take away one of your lives!
-  vr:showif:multiplayer = true
 }
 
 customization {
   orientation = element
-  shadow = false
+  shadow = true
   orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  vr_custom:showif:fancymenu_visibility_requirement_is_server_ip = true
   x = 97
   actionid = 25cd8bf8-3e2f-43c0-b9f4-a293f7cf988d1656858977384
   action = addtext
-  y = 31
+  y = 55
   scale = 0.85
-  vr_custom:value:fancymenu_visibility_requirement_is_server_ip = insomnia.crismpack.net
   alignment = centered
   value = §a§lIf a respawn event has occured after your death, clicking "Accept your fate" will simply respawn you.
 }
 
 customization {
   orientation = element
-  shadow = false
-  vr_custom:showif:fancymenu_visibility_requirement_is_variable_value = false
-  scale = 0.85
-  vr_custom:value:fancymenu_visibility_requirement_is_variable_value = <variable_name>:<value_to_check_for>
+  shadow = true
+  [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if][req_id:2c399dfd-97ae-4226-922f-152c84a0c7441682371772753] = 
   orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
   x = 98
   actionid = 261b2e34-68d0-4517-9d77-dfe58ea96b8b1679534878937
   action = addtext
   y = -28
+  scale = 0.85
   alignment = centered
   value = §f§lIf your lives reaches "0" you will not respawn and will instead enter a permadeath state.
-  vr:showif:multiplayer = true
 }
 
 customization {
+  [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if][req_id:b8af4b3b-aaca-4bd8-85cb-8d74ff50e59a1682371772753] = 
   orientation = mid-centered
-  shadow = false
-  vr_custom:value:fancymenu_visibility_requirement_is_variable_value = <variable_name>:<value_to_check_for>
-  vr_custom:showif:fancymenu_visibility_requirement_is_variable_value = false
+  shadow = true
   x = 0
   actionid = 04cd4f46-6b7d-4d30-9248-cea3e65f4e471679535049337
   action = addtext
@@ -72,28 +76,49 @@ customization {
   scale = 2.0
   alignment = centered
   value = §c§lWarning!
-  vr:showif:multiplayer = true
 }
 
 customization {
   orientation = element
-  shadow = false
-  vr_custom:showif:fancymenu_visibility_requirement_is_variable_value = false
-  scale = 0.85
-  vr_custom:value:fancymenu_visibility_requirement_is_variable_value = <variable_name>:<value_to_check_for>
+  shadow = true
+  [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if][req_id:e295fa95-d75c-41af-b0d6-cd5f81e8d6ef1682371772753] = 
   orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
   x = 98
   actionid = 479cdefa-4cee-4313-ad32-39cf3ea524ac1679535259642
   action = addtext
   y = -18
+  scale = 0.85
   alignment = centered
   value = §f§lEither get a friend to come and rescue you, or simply accept your fate and await a respawn wave!
-  vr:showif:multiplayer = true
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
-  action = vanilla_button_visibility_requirements
-  vr:showif:singleplayer = true
+  identifier = %id=button_compatibility_id:mc_deathscreen_respawn_button%
+  action = setbuttonlabel
+  value = Accept your fate
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_deathscreen_respawn_button%
+  action = sethoverlabel
+  label = §eTake away a life
+}
+
+customization {
+  identifier = %id=400370%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=4003701%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+  x = 0
+  action = movebutton
+  y = 24
 }
 
