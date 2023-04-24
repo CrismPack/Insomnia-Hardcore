@@ -254,7 +254,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d0587019bcd6093a57763b2372fc866e37356eb65d09b3e3d18a93c53c882699"
+hash = "78eade26b9ceeb7e819475258b644c74599c6557cf95e4ffdb4a367ce5277b51"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -932,11 +932,6 @@ metafile = true
 [[files]]
 file = "mods/itemflexer.pw.toml"
 hash = "87dec3c9684662a95f78ad3b60e204754722bd428f0a6848134aaa2042d90ad6"
-metafile = true
-
-[[files]]
-file = "mods/itemswapper.pw.toml"
-hash = "baeb71a5105f762e4053b51f903839dad97f4008a442c3cf1ed617644fbaae46"
 metafile = true
 
 [[files]]
