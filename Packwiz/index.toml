@@ -237,10 +237,6 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "d9fd4bea8da7514cf4b6b0e0257b1e9d26e3179e9292b467d3af44274e59615a"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "ab053a6e6d59f6ee6779a7ede9be01549a98da73216a43b07da6a152b2a96264"
-
-[[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "010b3433e705792e8ae0cb39a14b86f124f8ea304b5f9276bb737debae9e10c6"
 
