@@ -490,6 +490,11 @@ hash = "99e6be01d3770f351a4a76444ec15fa43a30dc04b5bb4bf0b0c359c4b4f464b9"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "f315d7054a2af1da81d5f93be84dce68484fd9546d4d8200f5cf6d43aa5d4082"
 metafile = true
@@ -737,6 +742,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "4300f02d81a56049bb98dd966cdf9c274ed3d21280347f5bd6ac94e90fd1a099"
+metafile = true
+
+[[files]]
+file = "mods/fabric2discord.pw.toml"
+hash = "6bc9340db7151e4e9ea09f28e803efa094eb47dd6b78cf15b5ed1ac4863ac3bb"
 metafile = true
 
 [[files]]
