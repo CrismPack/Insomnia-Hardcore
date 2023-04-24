@@ -14,6 +14,24 @@ customization {
 }
 
 customization {
+  identifier = %id=400370%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=4003701%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
   action = hidebutton
 }
@@ -47,6 +65,7 @@ customization {
   action = addtext
   y = 55
   scale = 0.85
+  [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if][req_id:1d30c67c-96b2-4257-b4f7-d3a07e9e77491682380078302] = 
   alignment = centered
   value = §a§lIf a respawn event has occured after your death, clicking "Accept your fate" will simply respawn you.
 }
@@ -102,23 +121,5 @@ customization {
   identifier = %id=button_compatibility_id:mc_deathscreen_respawn_button%
   action = sethoverlabel
   label = §eTake away a life
-}
-
-customization {
-  identifier = %id=400370%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 0
-  action = movebutton
-  y = 24
-}
-
-customization {
-  identifier = %id=4003701%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 0
-  action = movebutton
-  y = 24
 }
 
