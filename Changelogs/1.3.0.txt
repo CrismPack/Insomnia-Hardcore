@@ -189,3 +189,4 @@ Config Changes:
 = Relocated some of the inventory buttons slightly: [Inventory Profiles Next], [Client]
 = Disabled the "Move All Items" button by default: [Inventory Profiles Next], [Client]
 = Disabled connected textures by default: [Continuity], [Client]
+= Disabled "REPLACE_IRON_GOLEMS": [It Takes a Pillage], [Both]

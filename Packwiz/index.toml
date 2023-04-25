@@ -62,7 +62,7 @@ hash = "9e6fba9cf03b6f7b085696cc1df20a849b94d07ea7dc3efa275ae263dfdbddbf"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
-hash = "7c13474c5c54018568e76dbeab8bcef528f109951868acbbf5c323ab435c9493"
+hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
@@ -170,7 +170,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "3c9397cf896080b3865ddbdb1d4739935c7c7a2c4bc66fb26f57a4d1e419fdcd"
+hash = "d868471a9cfc34b95160c000b7b8a1303266e22ef722edf877120988160c01d1"
 
 [[files]]
 file = "config/revive.json5"
@@ -548,11 +548,6 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "172ed4fe39624f927d8a828d6600dae258eca55b93127355813e62b349e09cca"
-metafile = true
-
-[[files]]
-file = "mods/consistencyplus.pw.toml"
-hash = "fbda18457a2e84aeb60aaf0b4c54ca6cde7827291c390a0263ce9bc20c7d0173"
 metafile = true
 
 [[files]]
@@ -1157,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "50d6d667147118ffda56b61c98fc362cd70f016bf156c05a65c138aa59873f4e"
+hash = "86486e00eb288473e18348c8d1ccde3aa1d070e0cf9c348c927ea58448e6ed0e"
 metafile = true
 
 [[files]]
