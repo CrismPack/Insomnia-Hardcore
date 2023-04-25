@@ -94,6 +94,7 @@ Mods removed:
 - Better Fps - Render Distance [Client]
 - Boring Backgrounds [Client]
 - Incendium (Incompatible with 'Amplified Nether' and causes Terraliths SeedFix to break)
+- Consistency+ (Causes issues with messages in the server console. Making them not write properly)
 
 Mods disabled: 
 - Custom Entity Models [Client]
