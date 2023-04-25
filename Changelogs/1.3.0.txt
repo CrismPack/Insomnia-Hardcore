@@ -60,6 +60,7 @@ Mods added:
 + Iris & Oculus Flywheel Compat [Client]
 + End Remastered
 + Enderite Mod
++ Starter Items [Server]
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -164,9 +165,9 @@ Config Changes:
 = Improved the warning text on the hardcore death screen to more precisely conway to new players what clicking the "Accept your fate" button does: [FancyMenu], [Client]
 = The "Title Screen" button in the death screen is now only visible when playing singleplayer: [FancyMenu], [Client]
 = Toned down the range of sound and gain of the reverb: [Sound Physics Remastered], [Both]
-= Players now also start with 16 torches: [StarterKit], [Both]
-= Players now starts with an Iron Katana instead of a Wooden Sword: [StarterKit], [Both]
-= Players now starts with 16 Pumpkin Pie instead of Bread: [StarterKit], [Both]
+= Players now also start with 16 torches: [StarterKit], [Client]
+= Players now starts with an Iron Katana instead of a Wooden Sword: [StarterKit], [Client]
+= Players now starts with 16 Bone Broth instead of Bread: [StarterKit], [Client]
 = Players is now given a Recall Potion when respawning: [Insomnia Respawn], [Server]
 = Items no longer gets picked up directly into inventory by default: [Inventory Profiles Next], [Client]
 = Changed some of the text in the Discord rich presence: [Simple Discord RPC], [Client]
@@ -174,7 +175,7 @@ Config Changes:
 = Made building items uncraftable so that they may only be optained by being spawned in: [Prefab], [Both]
 = Disabled items spawning in the chests of the starter house: [Prefab], [Both]
 = Disabled advancements from the mod to prevent spam in the chat upon creating a new world: [Charm], [Both]
-= Added some Recall Potions to the starter kit: [StarterKit], [Both]
+= Added some Recall Potions to the starter kit: [StarterKit], [Client]
 = Re-configured BH-mod, so that the new "View public servers" should show a list of servers using the modpack: [BisectHosting Integration], [Client]
 = Configured to ensure that the correct resourcepacks gets loaded: [Resource Pack Overrides], [Client]
 = Disabled the "Favorite Entry" keybind by default as it causes indesired behavior with 'InvMove': [Roughly Enough Items], [Client]
@@ -190,3 +191,8 @@ Config Changes:
 = Disabled the "Move All Items" button by default: [Inventory Profiles Next], [Client]
 = Disabled connected textures by default: [Continuity], [Client]
 = Disabled "REPLACE_IRON_GOLEMS": [It Takes a Pillage], [Both]
+= Swapped the leather armor in favor of wooden armor from 'Immersive Armors': [StarterKit], [Client]
+= Added a book that explains the usage of the Recall potion: [StarterKit], [Client]
+= Configured mod to give the same base items as those 'StarterKit' gives in singleplayer: [Starter Items], [Server]
+= Added a book that explains the usage of the Revivify potion: [Starter Items], [Server]
+= Sends a message that lets the player know that they have a life to spare when joining a server for the first time: [Starter Items], [Server]

@@ -1,0 +1,85 @@
+{
+  //Set to true to clear the player's inventory of any non-starter items listed in this config upon player login. [default = false]
+  //This is useful for cases where mods in a modpack may actually add their own items to a player's inventory when
+  //	they first join a world.  Setting this to true will attempt to load StarterItems's logic AFTER other mods, and
+  //	clear the inventory before.  There is a chance that other mods try to do the same, in which case, if you notice
+  //	the player's inventory is not actually cleared before adding starterItems, please submit an issue to
+  //	https://github.com/spoorn/StarterItems/issues, and I can add compatibility.
+  "clearInventoryBeforeGivingItems": false,
+  //List of items that should be given to a player when they first join a world.  This should be the full item Identifier.
+  //The item identifier can be prefixed with the count for that item to give to the player.
+  //The item identifier can be followed by NBT data for the item stack.  See below for an example NBT data on an iron_sword.
+  //
+  //Example:
+  //	"starterItems": [
+  //		"minecraft:diamond",
+  //		"minecraft:iron_sword {Damage:10}",
+  //		"5 minecraft:apple",
+  //		"20 minecraft:bread"
+  //	]
+  "starterItems": [
+    "simplyswords:iron_katana",
+    "16 farmersdelight:bone_broth",
+    "16 minecraft:torch",
+    "8 minecraft:potion {Potion:\u0027recallpotion:recall\u0027}",
+    "minecraft:potion {Potion:\u0027minecraft:supportive_revivify_potion\u0027}",
+    "minecraft:written_book {author:\"CrismPack\",pages:[\"\u0027Potion of Recall\u0027: Drinking this potion teleports you to your home bed! (You need to have attempted to sleep in the bed first)\"],resolved:1b,title:\"Recall\"}",
+    "minecraft:written_book {author:\"CrismPack\",pages:[\"\u0027Potion of Supportive Revivify\u0027: Using this potion on a fallen ally will bring them back from the brink of death! (Drinking it has no affects)\"],resolved:1b,title:\"Revivify\"}",
+    "immersive_armors:wooden_helmet",
+    "immersive_armors:wooden_chestplate",
+    "immersive_armors:wooden_leggings",
+    "immersive_armors:wooden_boots"
+  ],
+  //List of messages to send to players when they join a world for the first time.  Each string in the array will be
+  //a separate message sent to the player.
+  //This is a list of Message objects which contain a required 'text' string field, and optional formatting fields such as color.
+  //
+  //Message Specification:
+  //	{
+  //		"text": "Message Text",
+  //		(optional) "color": "<#Hex Color>|<RGB Decimal>"
+  //	}
+  //
+  //Example:
+  //	"firstJoinMessages": [
+  //		{
+  //			"text": "Welcome to the Oasis!",
+  //			"color": "#47f5af"
+  //		},
+  //		{
+  //			"text": "Ready Player One?",
+  //			"color": "16074611"
+  //		}
+  //	]
+  "firstJoinMessages": [
+    {
+      "text": "A new journey begins...",
+      "color": "#47f5af"
+    },
+    {
+      "text": "You have 1 life!",
+      "color": "#FFFF55"
+    }
+  ],
+  //List of messages to send to players every time they join the world, except for the first time.  If you want
+  //to send messages to players for the first time they join the world, set messages in firstJoinMessages.
+  //The schema for this list is the same in firstJoinMessages.  See the documentation above for details and examples.
+  "welcomeMessages": [
+    {
+      "text": "The adventure continues...",
+      "color": "#47f5af"
+    }
+  ],
+  //List of commands to trigger on each server startup.
+  //Make sure if the command contains Strings, that you escape the quote characters (i.e. \")
+  //For example, this can be used to disable Terralith Traveler's Map for Terralith version v2.2.1a due to
+  //	timeout issues: https://github.com/spoorn/myLoot/issues/22#issuecomment-1193212917
+  //
+  //Example:
+  //	"serverStartCommands": [
+  //		"/scoreboard objectives add tr.disable_maps dummy",
+  //		"/scoreboard players set %DISABLE_MAP tr.disable_maps 1",
+  //		"/gamerule playersSleepingPercentage 25"
+  //	]
+  "serverStartCommands": []
+}
