@@ -15,9 +15,9 @@
     "file/FreshAnimations_v1.7_Add_S10.zip",
     "file/Tissou's Zombie Pack 1.18_2.6_novillager.zip",
     "file/Visual Titles.zip",
+    "global:§bGUI Reimagined§8-[v1.1].zip",
     "global:Insomnia Custom Lang.zip",
-    "global:Insomnia Textures.zip",
-    "global:§bGUI Reimagined§8-[v1.1].zip"
+    "global:Insomnia Textures.zip"
   ],
   // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
   "default_overrides": {

@@ -36,7 +36,7 @@ Mods added:
 + MemoryLeakFix
 + Sound Physics Remastered
 + Recall Potion Backport
-+ Droplight
++ Droplight [Client]
 + ImmediatelyFast [Client]
 + Prefab
 + FabricTPA [Server]
