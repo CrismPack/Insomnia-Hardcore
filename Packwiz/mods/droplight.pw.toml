@@ -1,6 +1,6 @@
 name = "Droplight"
 filename = "Droplight-1.18.2-fabric-1.0.5.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
