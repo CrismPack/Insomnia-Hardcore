@@ -36,22 +36,6 @@
     "minecraft:village/savanna/houses": "village_waystone",
     "minecraft:village/desert/houses": "desert_village_waystone",
     "minecraft:village/snowy/houses": "village_waystone",
-    "minecraft:village/taiga/houses": "village_waystone",
-	"kaisyn:village/badlands_pueblo/houses": "village_waystone",
-	"kaisyn:village/birch_forest_romanian/houses": "village_waystone",
-	"kaisyn:village/flower_forest_japanese/houses": "village_waystone",
-	"kaisyn:village/forest_ruins/houses": "village_waystone",
-	"kaisyn:village/jungle_tribal/houses": "village_waystone",
-	"kaisyn:village/meadow_swiss/houses": "village_waystone",
-	"kaisyn:village/mushroom_fields_fantasy/houses": "village_waystone",
-	"kaisyn:village/old_growth_taiga_polish/houses": "village_waystone",
-	"kaisyn:village/sparse_jungle_hawaii/houses": "village_waystone",
-	"kaisyn:village/swamp_poor/houses": "village_waystone",
-	"kaisyn:village/wooded_badlands_teepee/houses": "village_waystone",
-	"kaisyn:village/exclusives/classic/houses": "village_waystone",
-	"kaisyn:village/exclusives/mediterranean/houses/regular": "village_waystone",
-	"kaisyn:village/exclusives/swedish/houses": "village_waystone",
-	"kaisyn:village/exclusives/tatooine/houses": "village_waystone",
-	"kaisyn:village/exclusives/tudor/houses": "village_waystone"
+    "minecraft:village/taiga/houses": "village_waystone"
   }
 }
