@@ -15,6 +15,7 @@
     "file/FreshAnimations_v1.7_Add_S10.zip",
     "file/Tissou's Zombie Pack 1.18_2.6_novillager.zip",
     "file/Visual Titles.zip",
+    "file/GUI Reimagined-[v1.1].zip",
     "global:§bGUI Reimagined§8-[v1.1].zip",
     "global:Insomnia Custom Lang.zip",
     "global:Insomnia Textures.zip"
@@ -54,14 +55,21 @@
     // Hidden, not required
     "2": [
       "file/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip",
-      "file/§bGUI Reimagined§8-[v1.1].zip",
-      "file/terratonic-1-18-2.zip"
+      "file/§bGUI Reimagined§8-[v1.1].zip"
     ],
-    // Attributes are configured for all packs in group "1"
-    // Note that referencing a group id must begin with "$"
     "$2": {
       "hidden": true,
       "required": false
+    },
+    // Fixed position, required
+    "3": [
+      "file/FreshAnimations_v1.7_Add_S10.zip",
+      "file/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
+    ],
+    "$3": {
+      "hidden": false,
+      "required": false,
+      "fixed_position": true
     }
   }
 }

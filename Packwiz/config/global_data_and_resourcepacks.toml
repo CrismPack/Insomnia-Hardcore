@@ -4,8 +4,7 @@
 [resourcepacks]
 required = [
     #"other_folder/random_pack.zip" # You can also point at specific files!
-    "global_packs/required_resources/",
-    "resourcepacks/§bGUI Reimagined§8-[v1.1].zip"
+    "global_packs/required_resources/"
 ]
 
 [datapacks]
