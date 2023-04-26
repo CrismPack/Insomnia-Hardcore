@@ -1,5 +1,5 @@
 name = "OptiGUI"
-filename = "optigui-2.0.0-alpha.5.jar"
+filename = "optigui-1.1.6.jar"
 side = "client"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4431549
+file-id = 4010508
 project-id = 619986

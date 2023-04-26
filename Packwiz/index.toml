@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
+hash = "4300f02d81a56049bb98dd966cdf9c274ed3d21280347f5bd6ac94e90fd1a099"
 metafile = true
 
 [[files]]
@@ -1106,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e69bdffba42952f9e78ea411c07bfbc707dd19b4d558b46b2761c035b87def8a"
+hash = "f45299895f192389589f5044fde713d103563f24307cc96c4d4ff62508ab5a36"
 metafile = true
 
 [[files]]
@@ -1276,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d72d0a4fd4456fb782dcc0bf5848f39eda019ccbc352edf3c286a0b62f788078"
+hash = "c3a46dd5b279a4a2e08e9246e5e7ae142810f433abe608662b8ec6397fb0cb79"
 metafile = true
 
 [[files]]
