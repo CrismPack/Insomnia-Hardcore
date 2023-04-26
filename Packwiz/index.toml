@@ -153,6 +153,10 @@ file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "97712ae50083ac3a476cff30e5426067379c3ee0beb6c42ad87f6f8449d0ce75"
 
 [[files]]
+file = "config/iris.properties"
+hash = "8a4dd954daa3279c91a55d498710aa5ff0ec3ddc14c10ff1adb9c4e0a2fee144"
+
+[[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "a6487a92015ef8fab1bffbd909c959e6c05ecde96d62be59c21b4e2200d20fab"
 
@@ -178,7 +182,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "08aa6f5f4d99f560298618f219b99105163e0135480c937c45fbec81ae2b2bff"
+hash = "a28b4b207de00ee74b34a04003ba3940cbf2f43709858feaa3d051b201484ed0"
 
 [[files]]
 file = "config/revive.json5"
@@ -366,6 +370,16 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "a7495e12d42dbed5489c5cf318364bb320af116806f63ef05d3651f26018f63d"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-nether-fabric.pw.toml"
+hash = "8113ba75eaa9cc1610b5ef7e2f29728f9e7b6b72bb8268357c20c1618bd58779"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-the-end-fabric.pw.toml"
+hash = "771438550251fd24928f968adf6bc58257f3323cefdddd0ace5afdc796e2378d"
 metafile = true
 
 [[files]]
@@ -990,6 +1004,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "a6514f411dcf81b10afb35e61acd8de0674f84bac8fce9ec780ece1cf6c12afb"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-fabric.pw.toml"
+hash = "3e077e30397f32f1d9e86f63c17ce2d32247a06e9753e75e900aa26696db853a"
 metafile = true
 
 [[files]]

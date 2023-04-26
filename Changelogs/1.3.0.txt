@@ -62,6 +62,9 @@ Mods added:
 + Enderite Mod
 + Starter Items [Server]
 + Xaero's Minimap (Fair-play Edition)
++ Awesome Dungeon The End edition
++ Awesome Dungeon Nether edition
++ Library Ferret (Dependency of both'Awesome Dungeon' mods)
 
 Resource/Shader Packs added:
 + ComplementaryReimagined

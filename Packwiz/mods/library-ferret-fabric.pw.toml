@@ -1,0 +1,13 @@
+name = "Library Ferret - Fabric"
+filename = "libraryferret-fabric-1.18.2-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c364d3b30c417888f02c95d7283b94b726da470"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4435494
+project-id = 532730
