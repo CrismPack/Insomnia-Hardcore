@@ -61,6 +61,7 @@ Mods added:
 + End Remastered
 + Enderite Mod
 + Starter Items [Server]
++ Xaero's Minimap (Fair-play Edition)
 
 Resource/Shader Packs added:
 + ComplementaryReimagined
@@ -139,6 +140,8 @@ Mods updated:
 > YUNG's API
 > Fastload
 > Guard Villagers
+> Spark
+> TieFix
 
 Config Changes: 
 = Changed the "Official Server" button to just open the multiplayer (Having it connect directly to the server rarely worked): [FancyMenu], [Client]
