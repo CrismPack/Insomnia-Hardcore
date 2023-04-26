@@ -130,7 +130,7 @@ hash = "861f0b727321bbdd029bf2a5e2321f944843fe7698d1ea47de9b0ad2c91e0c67"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "c1452102f48cd754746e9c4678e2588cd8cb95664a52a1502a5b22175774b81c"
+hash = "b30c37d522297798263882bc833c53618b220f52cc8b063915076044d353e1ba"
 
 [[files]]
 file = "config/goblintraders.toml"
@@ -170,7 +170,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d868471a9cfc34b95160c000b7b8a1303266e22ef722edf877120988160c01d1"
+hash = "a46407ea5fdf5430746153db1ba152e33726b02c4c0d8864c0fce5262d1c7a56"
 
 [[files]]
 file = "config/revive.json5"
@@ -194,11 +194,15 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "04a414dac9782eebd8cbdc68e10445ba1cdc0e4731f290da488ea05a561bb2fb"
+hash = "8210d4ee26dd22644511e3e98fcdc5872ed45460cd1fe075e13ae0735e424ad6"
 
 [[files]]
 file = "config/supplementaries-client.toml"
 hash = "14517377fb2dd13bb65a287472b2f2a3d4b0d9547380a2744ca630fa7ef7dc49"
+
+[[files]]
+file = "config/takesapillage.json"
+hash = "7fe9e7d22086ac115c6a85448cf6207792487ef50f506460dc816fd4ad08b1f2"
 
 [[files]]
 file = "config/travelerstitles-fabric-1_18.toml"
@@ -1282,12 +1286,12 @@ metafile = true
 
 [[files]]
 file = "mods/starter-items.pw.toml"
-hash = "61a8cac27d616fc7c1014ed103807770174d4ca98d830b0062599de667ccb48f"
+hash = "7f6d4fdd6746a55fa8eed3668b1997df461e9b578e6e2d2942de7a50737375f0"
 metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "6c1ec65fbb2ede2953e410e07735ddfe33474a294e07586d874c23ea31ecddd1"
+hash = "c9dced8cd576a9e1a2a223ed5526136be3949837ee6c3ea00e08451818b306ab"
 metafile = true
 
 [[files]]
@@ -1455,6 +1459,10 @@ file = "resourcepacks/FreshAnimations_v1.7_Add_S10.zip"
 hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
 
 [[files]]
+file = "resourcepacks/GUI Reimagined-[v1.1].zip"
+hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
+
+[[files]]
 file = "resourcepacks/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
 hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
 
@@ -1470,7 +1478,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gui-reimagined.pw.toml"
-hash = "12ae8cd319f9dfa4be6f4e8110cd351d778b78ccbf8b3f04f99a23fc42275937"
+hash = "6604f0705062921ad5386678b08f85b2a595469108b9a525c1cbbcfd01b13cf6"
 metafile = true
 
 [[files]]

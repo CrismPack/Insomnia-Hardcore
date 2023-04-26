@@ -69,7 +69,8 @@
     "$3": {
       "hidden": false,
       "required": false,
-      "fixed_position": true
+      "fixed_position": true,
+      "force_compatible": true
     }
   }
 }
