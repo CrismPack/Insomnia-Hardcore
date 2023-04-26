@@ -170,7 +170,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a46407ea5fdf5430746153db1ba152e33726b02c4c0d8864c0fce5262d1c7a56"
+hash = "733e1f31e813feca793b5deae432293eac59f3a6591b7140bd50596f20a1eec0"
 
 [[files]]
 file = "config/revive.json5"
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e6463553198770c9e070e2903ad644f6260761aef51e79cef06038a471a2d599"
+hash = "52dd7de706aaf245018507ad17149b683838e63feb29cdcb2bbcd554b5a08369"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
+hash = "a1793fb3d541ce4e7a6d606b180287ffe0e08d660a2e03db33bcb06815e25668"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "616af603a7b3a4a4dcd09c934bbaa7173277bbf63be582cd4ab6dadca73465fa"
+hash = "4777045fdfef40fa5c9de2c867b99e69e7bbc29db23b75d868aef287ad765bb3"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3807f9f5b7e8d44031e5c0b8133199bd7c0a348b3807296da84826f3fb6ff560"
+hash = "0ef8fd29b8851fcf4e6daa69c4bacde9893175d0ad9164c9c38e12631be20083"
 metafile = true
 
 [[files]]
@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "ff69c905e7305163684db3d15185777607988110f223228be3f9410e760f3666"
+hash = "c2068329b94dfef239a75ae9bf02d43c12485a4d5ee884841f36be6a344471e6"
 metafile = true
 
 [[files]]
@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "7f544f416e23ec03ed210a7cae66e25b7d0a01e57e523501748a5fc18444de9b"
+hash = "c2826f23f5d5df569f19dbe0517d65233ca3c889ebfdd3e5b5e8b786e3b68703"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "f9990bc188be8fad696a3159230c4a6cb935260363c146af03ad4b584c9e91b0"
+hash = "a6514f411dcf81b10afb35e61acd8de0674f84bac8fce9ec780ece1cf6c12afb"
 metafile = true
 
 [[files]]
@@ -1136,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "c8847c0bc53d308abb70c1cc77aeebb72841b448faaf957159d708113e70fc9f"
+hash = "639b2cf8a4557ec101841e03a8690e3e9d9fb1fce362c2be5e66382fbb259293"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b9550b8ce62d942362f57f28412ad16caa2278d9461e5519f3a7fe9e1e7a4d8f"
+hash = "cbd275796512e5bd5100506364926e12188e830733c2ae8e3785d8ffa27fe6b8"
 metafile = true
 
 [[files]]
@@ -1276,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "cd182c74e318b804bb29df863bb4bb22fcd42fb53a29923c792f29e190bd569f"
+hash = "d72d0a4fd4456fb782dcc0bf5848f39eda019ccbc352edf3c286a0b62f788078"
 metafile = true
 
 [[files]]
@@ -1326,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiefix.pw.toml"
-hash = "d84dd3a73cf4afa7fdee89b9466f1967d5b82455d4b31389bd7870c04999688c"
+hash = "827394106bae90197b51baf684dfe0f729153d40f0909875aca49a5365729a4e"
 metafile = true
 
 [[files]]
@@ -1391,7 +1391,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1a280f25d8b7113e34a44c94f106fd5772f06c05019642166c570719b34f70df"
+hash = "f72f262c2ffa467a5a5bedaa83db49fd4e4b2b472210e35954ebdf9197637a97"
 metafile = true
 
 [[files]]
