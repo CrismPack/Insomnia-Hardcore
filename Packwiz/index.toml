@@ -17,12 +17,16 @@ file = "config/bcc.json"
 hash = "51a9cb4bb732d8dd74f2d7aace75408aa751bc1ae272195e6079113f10442c1d"
 
 [[files]]
-file = "config/bhmenu/bhmenu-client.properties"
-hash = "3c2654de9374872cb807c7b81705a28bac234f741eaa634ce981d3d993e34128"
+file = "config/bhmenu/bhmenu-general.properties"
+hash = "d1001b1dfecdbd527b452765c546b73ecb928f87e3aecd6cfaca07ab324ea025"
 
 [[files]]
-file = "config/bhmenu/bhmenu-general.properties"
-hash = "e24233426e63032b8f10460f888a71734d6e153a3d40e545cad4307b4080b43a"
+file = "config/bhmenu/bhmenu-public_server_list.properties"
+hash = "29d4a0e7d2339febfe7450dd71d859c3de4b2b5e43016df9a73317ad6a04bf7d"
+
+[[files]]
+file = "config/bhmenu/bhmenu-server_creator_banner.properties"
+hash = "7b14c42c20676b5b28e3c90b7f9056aec4b9a9f07cabe6c751ae53d1370dc724"
 
 [[files]]
 file = "config/boringbackgrounds.json"
@@ -58,7 +62,7 @@ hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9e6fba9cf03b6f7b085696cc1df20a849b94d07ea7dc3efa275ae263dfdbddbf"
+hash = "4e61c162b4e79f73ae6e9d611dee53a080f1a5a42e6da02253f50c15da8157ab"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
@@ -67,6 +71,10 @@ hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
 hash = "1d341bb1988d501fee409932a9da680cfc2eef4021d162f094aab6d950a4d681"
+
+[[files]]
+file = "config/fancymenu/customization/optionsmenu.txt"
+hash = "65ba6886ecf23ec324a59c1f3e86460cf970a32790b916fc853ad85b578db2fc"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -102,27 +110,27 @@ hash = "bec8cfba0639c651f552366d4f01273f6eaabe0d3cbfc4c1aa5d30489726ec4b"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_0.png"
-hash = "2fe3adf18151f291693cab15e00b7a71625f87f966113c33055cf5a58d8dd52a"
+hash = "c0ea003e5f87089502fe025006c876414a4dadc81921fc406a581c56eace7f1b"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_1.png"
-hash = "fa31a89b790fbd7de7ae77d81ea9530cc0c06f0c6a440dc58edc7d52fd61f1a4"
+hash = "81ba1381aa7c154a838cfbd0ac63e8be0c6f8e59bb9f91440423970f1ba54beb"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_2.png"
-hash = "15f541aa2c9ab7bc8f8188ee37c475555d8f93256e921903df5078a76e9624af"
+hash = "80cd30322a9e9e837140a6d1ae82642cb22707273080762203f030b4d152d0d8"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_3.png"
-hash = "4c5409a7c45af0240d2e6d1074e86d8880c7c8b00ec35adb23bced6117203816"
+hash = "1e764c5eedd049d8eb0c52931cc73406d0740d2765b9e606d4a700c057401b4d"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_4.png"
-hash = "afbf8e5253a90a1aaccd0a18c1b9ff15fbd03257a16c6a3e7f36dd4ad36d5700"
+hash = "623872a2d0ec48bce51bd6f2e7d197bcb1c54a3350f560dc7947b7a147cb77e9"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_5.png"
-hash = "3691b6afebc43c20f01d1577c7773b3ff71fecf8c695c511abd9beef459bcce1"
+hash = "eed1b8d2e5afbc49cd86bbb69f803c044efca931d9eee06f08f88820c50674c4"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/properties.txt"
@@ -170,7 +178,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "733e1f31e813feca793b5deae432293eac59f3a6591b7140bd50596f20a1eec0"
+hash = "08aa6f5f4d99f560298618f219b99105163e0135480c937c45fbec81ae2b2bff"
 
 [[files]]
 file = "config/revive.json5"
