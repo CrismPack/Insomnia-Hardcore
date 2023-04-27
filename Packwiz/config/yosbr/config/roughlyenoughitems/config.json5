@@ -8,8 +8,8 @@
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
-				"keyCode": "key.keyboard.unknown",
-				"modifier": y
+				"keyCode": "key.keyboard.r",
+				"modifier": 0
 			},
 			"usageKeybind": {
 				"keyCode": "key.keyboard.u",

@@ -246,7 +246,7 @@ hash = "279461599358b77d2a8b3bcebe1c67801b581a2967d3aa8b510387322636aa8f"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "2d7e3c46899f979c7eda83ad70722d3e508aa2ecb33883838e0970c572a8080c"
+hash = "7f6da2b380b28165889f4cc9631418378a8dd8b522c8116ff8f89dfc5b1ea26a"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -266,7 +266,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "78eade26b9ceeb7e819475258b644c74599c6557cf95e4ffdb4a367ce5277b51"
+hash = "468c9b082dd49903698c8064555a39e745f1ae8612c7fd06bb1677531c0e98cd"
 
 [[files]]
 file = "config/yosbr/servers.dat"
