@@ -100,6 +100,7 @@ Mods removed:
 - Boring Backgrounds [Client]
 - Incendium (Incompatible with 'Amplified Nether' and causes Terraliths SeedFix to break)
 - Consistency+ (Causes issues with messages in the server console. Making them not write properly)
+- Fastload (Causes crash on server and poor framerate stability in singleplayer)
 
 Mods disabled: 
 - Custom Entity Models [Client]
@@ -141,7 +142,6 @@ Mods updated:
 > Wavey Capes
 > Xaero's World Map
 > YUNG's API
-> Fastload
 > Guard Villagers
 > TieFix
 
@@ -201,3 +201,4 @@ Config Changes:
 = Sends a message that lets the player know that they have a life to spare when joining a server for the first time: [Starter Items], [Server]
 = CombatRoll keybind has been moved to "C" by default: [YOSBR], [Client]
 = Moved Crawl keybind to "X" by default: [YOSBR], [Client]
+= New background panorama: [FancyMenu], [Client]

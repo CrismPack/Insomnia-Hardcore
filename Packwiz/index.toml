@@ -266,7 +266,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "468c9b082dd49903698c8064555a39e745f1ae8612c7fd06bb1677531c0e98cd"
+hash = "a0eb84eda2eb5e885968623555e8d4eae2e418effb4c4013a99931df5a4c380e"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -794,11 +794,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-knives.pw.toml"
 hash = "c7c5f4223dbbc5aa0bf523541f5bc644e50bb211b3e7059c4d00c0d47bb3e852"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "0ef8fd29b8851fcf4e6daa69c4bacde9893175d0ad9164c9c38e12631be20083"
 metafile = true
 
 [[files]]
