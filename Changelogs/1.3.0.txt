@@ -199,5 +199,5 @@ Config Changes:
 = Configured mod to give the same base items as those 'StarterKit' gives in singleplayer: [Starter Items], [Server]
 = Added a book that explains the usage of the Revivify potion: [Starter Items], [Server]
 = Sends a message that lets the player know that they have a life to spare when joining a server for the first time: [Starter Items], [Server]
-= CombatRoll keybind has been moved to "C": [YOSBR], [Client]
-= Moved Crawl keybind to "X": [YOSBR], [Client]
+= CombatRoll keybind has been moved to "C" by default: [YOSBR], [Client]
+= Moved Crawl keybind to "X" by default: [YOSBR], [Client]
