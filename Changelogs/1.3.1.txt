@@ -1,0 +1,29 @@
+v1.3.1
+
+Fabric version: Fabric-0.14.19
+Update summary: 
+~ Disabled Blazeborn origin on servers.
+
+Mods added:
++ 
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ No Blazeborn [Server]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Data Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Config Changes: 
+= 
