@@ -3,6 +3,7 @@ v1.3.1
 Fabric version: Fabric-0.14.19
 Update summary: 
 ~ Disabled Blazeborn origin on servers.
+~ Added compatibility for Origins with several other mods for foods, shields and ranged weapons.
 
 Mods added:
 + 
@@ -11,7 +12,8 @@ Resource/Shader Packs added:
 + 
 
 Data Packs added:
-+ No Blazeborn [Server]
++ Origins: No Blazeborn [Server]
++ Origins: Tags Compat
 
 Mods removed: 
 - 
