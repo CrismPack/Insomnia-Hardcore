@@ -28,4 +28,4 @@ Mods updated:
 > 
 
 Config Changes: 
-= 
+= Increased login protection from 100 to 200 ticks: [Login Protection], [Server]
