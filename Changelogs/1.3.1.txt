@@ -12,7 +12,7 @@ Mods added:
 + Open Parties and Claims
 + TieredZ
 + AutoTag
-+ BisectHosting Integration (Just added to the serverside too)
++ BisectHosting Integration (Added to the server-side)
 
 Resource/Shader Packs added:
 + 
@@ -35,6 +35,6 @@ Mods updated:
 
 Config Changes: 
 = Increased login protection from 100 to 200 ticks: [Login Protection], [Server]
-= FreshAnimations is no longer locked may now be moved around in the resourcepack menu: [Resource Pack Overrides], [Client]
+= FreshAnimations is no longer locked and may now be moved around in the resourcepack menu: [Resource Pack Overrides], [Client]
 = Changed the default simulation distance to "8": [YOSBR], [Client]
-= Changed the default simulation distance of servers to "8": [Server]
+= Changed the default simulation distance of servers to "8": [Server] 
