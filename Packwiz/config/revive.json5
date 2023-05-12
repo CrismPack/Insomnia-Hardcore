@@ -1,5 +1,4 @@
 {
-	"test": 60.0,
 	// Time in ticks: -1 disables timer
 	"timer": -1,
 	// Drops player loot directly
@@ -7,17 +6,18 @@
 	// Drops player inventory items randomly
 	"dropRandom": false,
 	// Drops random items when killed by explosion
-	"dropRandomOnExplosion": true,
+	"dropRandomOnExplosion": false,
 	// Chance for each inventory item to drop
 	"dropChance": 0.30000001192092896,
 	// Mainly for compatibility with RpgZ
 	"allowLootablePlayer": true,
 	"reviveHealthPoints": 2,
+	"reviveSupportiveHealthPoints": 10,
 	"showDeathCoordinates": true,
 	"thirdPersonOnDeath": false,
-	// Apply bad effects on revival
+	"rotationSpeed": 0.4000000059604645,
+	// Apply effects on revival
 	"reviveEffects": true,
-	"effectSlowness": 600,
-	"effectHunger": 300,
-	"effectWeakness": 900
+	"effectLivelyAftermath": 300,
+	"effectAftermath": 600
 }

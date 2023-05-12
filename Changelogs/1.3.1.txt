@@ -38,3 +38,4 @@ Config Changes:
 = FreshAnimations is no longer locked and may now be moved around in the resourcepack menu: [Resource Pack Overrides], [Client]
 = Changed the default simulation distance to "8": [YOSBR], [Client]
 = Changed the default simulation distance of servers to "8": [Server] 
+= Disabled "dropRandomOnExplosion": [Revive], [Both]
