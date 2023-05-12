@@ -373,6 +373,11 @@ hash = "a7495e12d42dbed5489c5cf318364bb320af116806f63ef05d3651f26018f63d"
 metafile = true
 
 [[files]]
+file = "mods/autotag.pw.toml"
+hash = "cdc29fa84be37876cfb01090de0267fb08c7fcdf78ec99ffaebebdc5802e48af"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-nether-fabric.pw.toml"
 hash = "8113ba75eaa9cc1610b5ef7e2f29728f9e7b6b72bb8268357c20c1618bd58779"
 metafile = true
@@ -1127,6 +1132,11 @@ hash = "83e84b53985e3217dcc23e74f2e0f432279e4d7101bece8c5bf17e0e071855b0"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "bd83ee0f24a97a76727f42dee0b8d03acb744b0a245677d1c5db048616dfa29c"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "f45299895f192389589f5044fde713d103563f24307cc96c4d4ff62508ab5a36"
 metafile = true
@@ -1349,6 +1359,11 @@ metafile = true
 [[files]]
 file = "mods/tiefix.pw.toml"
 hash = "827394106bae90197b51baf684dfe0f729153d40f0909875aca49a5365729a4e"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "556d7487fa010e3e61922a96c785c4c23852ca7f615d01d7b88ebb88a6e94252"
 metafile = true
 
 [[files]]

@@ -61,12 +61,12 @@
       "hidden": true,
       "required": false
     },
-    // Fixed position, required
+    // Fixed position, not required
     "3": [
-      "file/FreshAnimations_v1.7_Add_S10.zip",
       "file/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
     ],
     "$3": {
+      "default_position": "TOP",
       "hidden": false,
       "required": true,
       "fixed_position": true,

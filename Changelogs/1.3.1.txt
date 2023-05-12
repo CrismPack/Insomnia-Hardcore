@@ -4,16 +4,22 @@ Fabric version: Fabric-0.14.19
 Update summary: 
 ~ Disabled Blazeborn origin on servers.
 ~ Added compatibility for Origins with several other mods for foods, shields and ranged weapons.
+~ Fixed Origins compatibility with 'Farmers Delight'.
+~ Added chunk claiming.
+~ Fixed zombie textures not being randomized.
 
 Mods added:
-+ 
++ Open Parties and Claims
++ TieredZ
++ AutoTag
++ BisectHosting Integration (Just added to the serverside too)
 
 Resource/Shader Packs added:
 + 
 
 Data Packs added:
-+ Origins: No Blazeborn [Server]
-+ Origins: Tags Compat
++ Origins: No Blazeborn (Custom) [Server]
++ Origins: Tags Compat (Custom)
 
 Mods removed: 
 - 
@@ -29,3 +35,6 @@ Mods updated:
 
 Config Changes: 
 = Increased login protection from 100 to 200 ticks: [Login Protection], [Server]
+= FreshAnimations is no longer locked may now be moved around in the resourcepack menu: [Resource Pack Overrides], [Client]
+= Changed the default simulation distance to "8": [YOSBR], [Client]
+= Changed the default simulation distance of servers to "8": [Server]
