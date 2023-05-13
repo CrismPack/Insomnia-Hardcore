@@ -3,10 +3,11 @@
 [logbegone]
 # If a log message has one of these phrases, it will be filtered out from logging
 phrases = [
-    "the_aether", 
-    "Server already running",
-    "Server ran command Start",
-    "[bclib]"
+    "the_aether",
+    "netty",
+    "Netty",
+    "[bclib]",
+    "[ShulkerBoxTooltip]"
     ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
