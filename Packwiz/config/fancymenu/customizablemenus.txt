@@ -18,3 +18,6 @@ net.minecraft.class_408 {
 net.minecraft.class_429 {
 }
 
+com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen {
+}
+
