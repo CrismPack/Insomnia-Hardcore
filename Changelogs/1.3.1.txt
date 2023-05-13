@@ -25,6 +25,7 @@ Data Packs added:
 
 Mods removed: 
 - Puzzle (Causes crash with 'CEM Fork')
+- C2ME
 
 Mods disabled: 
 - 
