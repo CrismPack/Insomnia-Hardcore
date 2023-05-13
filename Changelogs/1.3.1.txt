@@ -40,3 +40,5 @@ Config Changes:
 = Changed the default simulation distance of servers to "8": [Server] 
 = Disabled "dropRandomOnExplosion": [Revive], [Both]
 = Moved "Public Servers" button a bit in the multiplayer menu to be in line with the other buttons: [FancyMenu], [Client]
+= Disabled graves from servers: [Forgotten Graves], [Server]
+= Enabled "TotemOfPreserving" on servers: [Charm], [Server]
