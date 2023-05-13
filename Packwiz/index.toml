@@ -512,11 +512,6 @@ hash = "6723727adf10478be69981df7c08313aa6738a254b69d4e9a6aeb4d5cc95b48b"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "8ff8f480169a6acb7ca734caf3c4d1148521dce8d181010e7bd956b11d660bd3"
-metafile = true
-
-[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "ad2930a8365abb127464ffdd6b4d34d00a9d6c4eb3794cdc929815477da63b62"
 metafile = true
