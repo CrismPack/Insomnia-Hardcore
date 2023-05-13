@@ -42,3 +42,5 @@ Config Changes:
 = Moved "Public Servers" button a bit in the multiplayer menu to be in line with the other buttons: [FancyMenu], [Client]
 = Disabled graves from servers: [Forgotten Graves], [Server]
 = Enabled "TotemOfPreserving" on servers: [Charm], [Server]
+= Added modded ores to the hiddenBlocks list: [AntiXray], [Server]
+= Changed overworld engine mode to 1: [AntiXray], [Server]
