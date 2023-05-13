@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e0917e3b5febe243fef9f8353440137bfa3f5bddc3f383a4538160f00b1434b4"
+hash = "3b39d3a2bea559be8777c65db90a2f15377d6656e17cbc3400be746c5ec0ebc0"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "cdfb2eee948c5e4f8109c46108f8a55ba66585fa444bd2d91de802a2aa54afd4"
+hash = "c3fce71814525ce69c3e2784dd39085fedc7032ccec02602d14b853b3b043382"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/dyed.pw.toml"
-hash = "7daa3de7c55f1662ff36fd48f8e0de47907e83d37900e037f31bbbfc63103908"
+hash = "d90aae110379ef73bec8ba661e848dbb4b5535626ff654e36f3c890c0be44fc6"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "4300f02d81a56049bb98dd966cdf9c274ed3d21280347f5bd6ac94e90fd1a099"
+hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
 metafile = true
 
 [[files]]
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "c2068329b94dfef239a75ae9bf02d43c12485a4d5ee884841f36be6a344471e6"
+hash = "66a989a0538dc3b4378a296c00b0cdfc30e01643dda0b5b3d862d9eea68ee49c"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "7b89e64defee8ce3fcbfa3effdea0f7651fd3dd1ae5d35adc2f017c3b277a261"
+hash = "14096650b4020297ad9d5b71520bc1e6343bc0cdd68682da09a27cc262d3fb5d"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "a6514f411dcf81b10afb35e61acd8de0674f84bac8fce9ec780ece1cf6c12afb"
+hash = "a1c0a36b765002b39f0bfe57d880d398453aa729c75e7c9a52e6bc5659bcc277"
 metafile = true
 
 [[files]]
@@ -1018,7 +1018,7 @@ metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "42f0899c9ab20e19cbf2bc51cb6ad6f83ae1e8611993bc73072bd6a45ee3dd3b"
+hash = "c9a7aebfca7cd59252e201f76f0b687f8dca3f3e15b32e80ff753d166bfcbaf9"
 metafile = true
 
 [[files]]
@@ -1138,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f45299895f192389589f5044fde713d103563f24307cc96c4d4ff62508ab5a36"
+hash = "e69bdffba42952f9e78ea411c07bfbc707dd19b4d558b46b2761c035b87def8a"
 metafile = true
 
 [[files]]
@@ -1278,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cbd275796512e5bd5100506364926e12188e830733c2ae8e3785d8ffa27fe6b8"
+hash = "c1ab64d2abd46547ba451d29fce2130314f2315fb7ad3e4fe4160b2a3d1558e9"
 metafile = true
 
 [[files]]
@@ -1313,7 +1313,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c3a46dd5b279a4a2e08e9246e5e7ae142810f433abe608662b8ec6397fb0cb79"
+hash = "695788019af926f4d82351eb5ff8d539c4a2ecbd18203fee2e010b3e4939adc2"
 metafile = true
 
 [[files]]
@@ -1438,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f72f262c2ffa467a5a5bedaa83db49fd4e4b2b472210e35954ebdf9197637a97"
+hash = "134d97506da279cbdbbcaaa2dde3c24ef4173b5b6f9a70262ab5cea88e56f67a"
 metafile = true
 
 [[files]]
