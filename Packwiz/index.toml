@@ -1262,6 +1262,11 @@ hash = "a112bdb92470fd0aa99235207e088cb228c525badc884c4dcd5250ed15e7b841"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "3225849e4fa268c4675e3aacaac4ddb3e70d9155fe39e1d6db10598e8fd08deb"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4393018c3eaa70408a7ecf8aa63e8c8d1c950c7930e981082ba55301d8fb2e1d"
 metafile = true

@@ -12,7 +12,7 @@ Mods added:
 + Open Parties and Claims
 + TieredZ
 + AutoTag
-+ BisectHosting Integration (Added to the server-side)
++ ServerCore [Server]
 
 Resource/Shader Packs added:
 + 
@@ -22,7 +22,7 @@ Data Packs added:
 + Origins: Tags Compat (Custom)
 
 Mods removed: 
-- 
+- Puzzle (Incompatible with 'CEM Fork')
 
 Mods disabled: 
 - 
@@ -39,3 +39,4 @@ Config Changes:
 = Changed the default simulation distance to "8": [YOSBR], [Client]
 = Changed the default simulation distance of servers to "8": [Server] 
 = Disabled "dropRandomOnExplosion": [Revive], [Both]
+= Moved "Public Servers" button a bit in the multiplayer menu to be in line with the other buttons: [FancyMenu], [Client]

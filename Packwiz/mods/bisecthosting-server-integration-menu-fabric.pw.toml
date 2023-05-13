@@ -1,6 +1,6 @@
 name = "BisectHosting Server Integration Menu [FABRIC]"
 filename = "BHMenu-Fabric-1.17.1-1.18.2-2.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
