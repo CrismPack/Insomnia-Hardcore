@@ -14,7 +14,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "51a9cb4bb732d8dd74f2d7aace75408aa751bc1ae272195e6079113f10442c1d"
+hash = "5d09e086c7f4e093e2a79c756ec1447ce4472545dd30a7fa3d59051a0e594447"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -71,6 +71,10 @@ hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
 hash = "1d341bb1988d501fee409932a9da680cfc2eef4021d162f094aab6d950a4d681"
+
+[[files]]
+file = "config/fancymenu/customization/mp_fix.txt"
+hash = "0cc146638ee57a24d812e5ee6603b159701cd1cce378913b482a9bafe6b80c80"
 
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
@@ -182,11 +186,11 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a28b4b207de00ee74b34a04003ba3940cbf2f43709858feaa3d051b201484ed0"
+hash = "77a6baff7b1c75150567359063be49dfd900128ca44d8e13f5231393639ceafe"
 
 [[files]]
 file = "config/revive.json5"
-hash = "96d8d36cc83e7f1aeb56c48bf3e0af1418a77e89a80a4c887f2bb2c93a93e131"
+hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
 
 [[files]]
 file = "config/simple-rpc.toml"
@@ -266,7 +270,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a0eb84eda2eb5e885968623555e8d4eae2e418effb4c4013a99931df5a4c380e"
+hash = "18d6fd395305183642556fd716def72af17093f2a5086f6ce40ec1f4f781bb94"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -275,6 +279,26 @@ hash = "92dcbb2d35cddf8b0f2fc8c58033a8469fd7fa69870e07f46955bdd8ec259322"
 [[files]]
 file = "config/zoomify.json"
 hash = "f17ef0190ff39ee3dd672cc15e80dbfaffd57885b1738b2c95d4ddfb43cfc973"
+
+[[files]]
+file = "global_packs/required_data/Origins - Tags Compat Data/data/origins/tags/items/ignore_diet.json"
+hash = "3cbf8ce6ea206c72230f9876c62bc96f5bb878653607f6e83f759bacf612b898"
+
+[[files]]
+file = "global_packs/required_data/Origins - Tags Compat Data/data/origins/tags/items/meat.json"
+hash = "97289f25513e73b389cc1505cf6170c88b15723c23ee1909d7788c4d777bd1d1"
+
+[[files]]
+file = "global_packs/required_data/Origins - Tags Compat Data/data/origins/tags/items/ranged_weapons.json"
+hash = "3c37e11f957ddaf7d3eef44fcdf466e3fee74d2683d7abb9116b17b982f5e6e7"
+
+[[files]]
+file = "global_packs/required_data/Origins - Tags Compat Data/data/origins/tags/items/shields.json"
+hash = "a226367df1183c74837c1bfa46d57b5b1475b8b036fd8cab4d49b0d1c21fb6d7"
+
+[[files]]
+file = "global_packs/required_data/Origins - Tags Compat Data/pack.mcmeta"
+hash = "0be242752edcffb93c72713450ee2167bf344aa30a76c2bbab19afd16a15d04e"
 
 [[files]]
 file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
@@ -495,6 +519,16 @@ metafile = true
 [[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "ad2930a8365abb127464ffdd6b4d34d00a9d6c4eb3794cdc929815477da63b62"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "bb38aebe2b268dee1f7cf053a052e906300cf3060e98d132ad215eb9304f1dda"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
 metafile = true
 
 [[files]]
@@ -773,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
+hash = "4300f02d81a56049bb98dd966cdf9c274ed3d21280347f5bd6ac94e90fd1a099"
 metafile = true
 
 [[files]]
@@ -1138,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e69bdffba42952f9e78ea411c07bfbc707dd19b4d558b46b2761c035b87def8a"
+hash = "f45299895f192389589f5044fde713d103563f24307cc96c4d4ff62508ab5a36"
 metafile = true
 
 [[files]]
@@ -1194,11 +1228,6 @@ metafile = true
 [[files]]
 file = "mods/productive-villagers.pw.toml"
 hash = "d344194534f0522d7a6ba38cb86556fc32402cdf8454aa91a71dcf7fbebb35c5"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "a7d8fddaafd5827d0bf38c24d214d79029ddbd6edf0bb43dbbb733f6eb30e0db"
 metafile = true
 
 [[files]]
@@ -1263,7 +1292,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "3225849e4fa268c4675e3aacaac4ddb3e70d9155fe39e1d6db10598e8fd08deb"
+hash = "e2c1dcf70e457128c6b218acf990eec609261180106a00b0f1afa5297bbacad3"
 metafile = true
 
 [[files]]
@@ -1599,7 +1628,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "0b27bac776e7501089020bad0490967ac0a95297d795a52e635aa4fade51ca10"
+hash = "aca87a753ec66872685b8a1f413d185d27da44267f9ec79826a8bc77f4a57921"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"

@@ -13,6 +13,8 @@ Mods added:
 + TieredZ
 + AutoTag
 + ServerCore [Server]
++ Carpet
++ Carpet-Fixes
 
 Resource/Shader Packs added:
 + 
@@ -22,7 +24,7 @@ Data Packs added:
 + Origins: Tags Compat (Custom)
 
 Mods removed: 
-- Puzzle (Incompatible with 'CEM Fork')
+- Puzzle (Causes crash with 'CEM Fork')
 
 Mods disabled: 
 - 
@@ -31,7 +33,16 @@ Data Packs removed:
 - 
 
 Mods updated: 
-> 
+> Architectury API
+> BisectHosting Server Integration Menu
+> Dyed
+> Inventory Profiles Next
+> Konkrete
+> libIPN
+> Log Begone
+> Simple Voice Chat
+> spark
+> Xaero's World Map
 
 Config Changes: 
 = Increased login protection from 100 to 200 ticks: [Login Protection], [Server]
@@ -42,5 +53,5 @@ Config Changes:
 = Moved "Public Servers" button a bit in the multiplayer menu to be in line with the other buttons: [FancyMenu], [Client]
 = Disabled graves from servers: [Forgotten Graves], [Server]
 = Enabled "TotemOfPreserving" on servers: [Charm], [Server]
-= Added modded ores to the hiddenBlocks list: [AntiXray], [Server]
+= Added modded ores and chests to the hiddenBlocks list: [AntiXray], [Server]
 = Changed overworld engine mode to 1: [AntiXray], [Server]
