@@ -54,4 +54,3 @@ Config Changes:
 = Disabled graves from servers: [Forgotten Graves], [Server]
 = Enabled "TotemOfPreserving" on servers: [Charm], [Server]
 = Added modded ores and chests to the hiddenBlocks list: [AntiXray], [Server]
-= Changed overworld engine mode to 1: [AntiXray], [Server]

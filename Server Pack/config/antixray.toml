@@ -6,7 +6,7 @@ enabled = false
 # World specific values
 [overworld]
 enabled = true
-engineMode = 1
+engineMode = 2
 maxBlockHeight = 256
 updateRadius = 2
 lavaObscures = false
