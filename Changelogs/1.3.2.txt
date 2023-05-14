@@ -1,0 +1,30 @@
+v1.3.2
+
+Fabric version: Fabric-0.14.19
+Update summary: 
+~ Added 'Hephaestus' which is a fork of 'Tinkers Construct'.
+~ Added compatibility between 'Hephaestus' and 'Better Combat'.
+
+Mods added:
++ Hephaestus Fabric
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ Hephaestus - Better Combat Compat (Custom)
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Data Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Config Changes: 
+= 

@@ -886,6 +886,11 @@ hash = "a5d9d8f9b4a789d316cb7c14f282241bfc69ccd92b842e0f94ae87da24e542db"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus-fabric.pw.toml"
+hash = "a52409ba3c303af6dd37529f002e933ace622e485c279f9bf3212e95b73d9c65"
+metafile = true
+
+[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "432ac37a83f894d02d8fb12e03c8a54420377cb9511c8f7a52dab732ad6c7aa6"
 metafile = true
