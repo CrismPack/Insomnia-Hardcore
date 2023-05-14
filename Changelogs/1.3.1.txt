@@ -4,9 +4,9 @@ Fabric version: Fabric-0.14.19
 Update summary: 
 ~ Disabled Blazeborn origin on servers.
 ~ Added compatibility for Origins with several other mods for foods, shields and ranged weapons.
-~ Fixed Origins compatibility with 'Farmers Delight'.
 ~ Added chunk claiming.
 ~ Fixed zombie textures not being randomized.
+~ Fixed items being lost when dying to a creeper.
 
 Mods added:
 + Open Parties and Claims
