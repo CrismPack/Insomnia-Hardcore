@@ -546,6 +546,11 @@ hash = "99e6be01d3770f351a4a76444ec15fa43a30dc04b5bb4bf0b0c359c4b4f464b9"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "040fb7ad737156a3b2528a27a771b6300f23fde26c0838ce0b07774fad07052c"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
 metafile = true

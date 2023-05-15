@@ -7,6 +7,7 @@ Update summary:
 
 Mods added:
 + Hephaestus Fabric
++ Chunk Sending
 
 Resource/Shader Packs added:
 + 
@@ -27,4 +28,4 @@ Mods updated:
 > 
 
 Config Changes: 
-= 
+Disabled loading of spawn chunks: [ServerCore], [Server]
