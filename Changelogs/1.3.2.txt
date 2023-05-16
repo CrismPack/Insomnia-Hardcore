@@ -28,4 +28,7 @@ Mods updated:
 > 
 
 Config Changes: 
-Disabled loading of spawn chunks: [ServerCore], [Server]
+= Disabled loading of spawn chunks: [ServerCore], [Server]
+= Added waystones to forcedBlockProtectionExceptionList: [Open Parties and Claims], [Server]
+= Decreased maxPlayerClaims from 500 to just 50: [Open Parties and Claims], [Server]
+= Decreased maxPlayerClaimForceloads from 10 to 5: [Open Parties and Claims], [Server]
