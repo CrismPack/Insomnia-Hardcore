@@ -1563,6 +1563,11 @@ hash = "6604f0705062921ad5386678b08f85b2a595469108b9a525c1cbbcfd01b13cf6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/insomnia-compat.pw.toml"
+hash = "ba6f4ddd010b9421f0333743880d1a2817d0a704f39eb528b72c35c140b555ee"
+metafile = true
+
+[[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "3c150011a956ccde3d6a26fd4b5f0b1fd09a1f0b8b9123ded097506174c06ca5"
 metafile = true

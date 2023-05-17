@@ -1,0 +1,13 @@
+name = "Insomnia Compat"
+filename = "Insomnia-Compat-1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75d8acf9769a335dc425af07bfcdbd9dbff5a7df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4539732
+project-id = 862656

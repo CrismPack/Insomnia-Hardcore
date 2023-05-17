@@ -14,7 +14,7 @@ Resource/Shader Packs added:
 + 
 
 Data Packs added:
-+ Hephaestus - Better Combat Compat (Custom)
++ Insomnia Compat
 
 Mods removed: 
 - Auth Me
@@ -23,7 +23,7 @@ Mods disabled:
 - 
 
 Data Packs removed:
-- 
+- Origins: Tags Compat [Bundled] (Replaced with 'Insomnia Compat')
 
 Mods updated: 
 > 
