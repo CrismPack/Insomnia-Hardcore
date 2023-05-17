@@ -14,7 +14,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "5d09e086c7f4e093e2a79c756ec1447ce4472545dd30a7fa3d59051a0e594447"
+hash = "76bba39b1898d752fc8e1075f6cc2b9845504a24f9b763f92a331f161a595167"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -186,7 +186,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "77a6baff7b1c75150567359063be49dfd900128ca44d8e13f5231393639ceafe"
+hash = "1bdd4056b731c6ac39e8c26357f2bf8c6bfb49e5e69fd62964f9f3bde2f77db9"
 
 [[files]]
 file = "config/revive.json5"
@@ -219,6 +219,10 @@ hash = "14517377fb2dd13bb65a287472b2f2a3d4b0d9547380a2744ca630fa7ef7dc49"
 [[files]]
 file = "config/takesapillage.json"
 hash = "7fe9e7d22086ac115c6a85448cf6207792487ef50f506460dc816fd4ad08b1f2"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "5fbd1a91ff93cecc3ea20936cb44bacfcaa1ba2ac6b127abf581a8dd6b8aa144"
 
 [[files]]
 file = "config/travelerstitles-fabric-1_18.toml"
@@ -279,26 +283,6 @@ hash = "92dcbb2d35cddf8b0f2fc8c58033a8469fd7fa69870e07f46955bdd8ec259322"
 [[files]]
 file = "config/zoomify.json"
 hash = "f17ef0190ff39ee3dd672cc15e80dbfaffd57885b1738b2c95d4ddfb43cfc973"
-
-[[files]]
-file = "global_packs/required_data/Origins - Tags Compat Data/data/origins/tags/items/ignore_diet.json"
-hash = "3cbf8ce6ea206c72230f9876c62bc96f5bb878653607f6e83f759bacf612b898"
-
-[[files]]
-file = "global_packs/required_data/Origins - Tags Compat Data/data/origins/tags/items/meat.json"
-hash = "97289f25513e73b389cc1505cf6170c88b15723c23ee1909d7788c4d777bd1d1"
-
-[[files]]
-file = "global_packs/required_data/Origins - Tags Compat Data/data/origins/tags/items/ranged_weapons.json"
-hash = "3c37e11f957ddaf7d3eef44fcdf466e3fee74d2683d7abb9116b17b982f5e6e7"
-
-[[files]]
-file = "global_packs/required_data/Origins - Tags Compat Data/data/origins/tags/items/shields.json"
-hash = "a226367df1183c74837c1bfa46d57b5b1475b8b036fd8cab4d49b0d1c21fb6d7"
-
-[[files]]
-file = "global_packs/required_data/Origins - Tags Compat Data/pack.mcmeta"
-hash = "0be242752edcffb93c72713450ee2167bf344aa30a76c2bbab19afd16a15d04e"
 
 [[files]]
 file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
@@ -389,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "1f11e5764ec8585bd0edb068010c47cae9162a8740ab87506d52c6aa81ac48d5"
-metafile = true
-
-[[files]]
-file = "mods/auth-me.pw.toml"
-hash = "a7495e12d42dbed5489c5cf318364bb320af116806f63ef05d3651f26018f63d"
 metafile = true
 
 [[files]]
@@ -547,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "040fb7ad737156a3b2528a27a771b6300f23fde26c0838ce0b07774fad07052c"
+hash = "fc8ad76f15cb34367a0f04f13c85611b879a69ea5f41ae397f4a8cfe4b89a9db"
 metafile = true
 
 [[files]]
@@ -1638,7 +1617,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "aca87a753ec66872685b8a1f413d185d27da44267f9ec79826a8bc77f4a57921"
+hash = "18ed94fc513ad05ddf352a36ae706664d0f529623b1ec8d97db915092b8618fd"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"
