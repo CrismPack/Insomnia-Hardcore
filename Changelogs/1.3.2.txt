@@ -7,8 +7,9 @@ Update summary:
 ~ Fixed "Failed to log in: null" error when trying to join servers.
 
 Mods added:
-+ Hephaestus Fabric
++ Hephaestus
 + Chunk Sending
++ Connectivity
 
 Resource/Shader Packs added:
 + 
