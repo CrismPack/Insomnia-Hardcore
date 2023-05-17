@@ -4,6 +4,7 @@ Fabric version: Fabric-0.14.19
 Update summary: 
 ~ Added 'Hephaestus' which is a fork of 'Tinkers Construct'.
 ~ Added compatibility between 'Hephaestus' and 'Better Combat'.
+~ Fixed "Failed to log in: null" error when trying to join servers.
 
 Mods added:
 + Hephaestus Fabric
@@ -16,7 +17,7 @@ Data Packs added:
 + Hephaestus - Better Combat Compat (Custom)
 
 Mods removed: 
-- 
+- Auth Me
 
 Mods disabled: 
 - 
