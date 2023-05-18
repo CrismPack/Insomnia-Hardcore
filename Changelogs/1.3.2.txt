@@ -9,8 +9,8 @@ Update overview:
 
 Mods added:
 + Hephaestus
-+ Chunk Sending
-+ Chat Patches
++ Chunk Sending [Server]
++ Chat Patches [Client]
 + Mining Dimensions
 
 Resource/Shader Packs added:
@@ -37,3 +37,4 @@ Config Changes:
 = Disabled loading of spawn chunks: [ServerCore], [Server]
 = Added waystones to forcedBlockProtectionExceptionList: [Open Parties and Claims], [Server]
 = Decreased maxPlayerClaims from 500 to just 50: [Open Parties and Claims], [Server]
+= Disabled "time": [Chat Patches], [Client]
