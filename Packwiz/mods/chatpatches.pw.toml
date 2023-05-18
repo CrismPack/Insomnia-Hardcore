@@ -1,0 +1,13 @@
+name = "Chat Patches"
+filename = "chatpatches-182.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b0794e68d417ad53f5d51acbb1d5ff68ebf06558"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4393581
+project-id = 560042

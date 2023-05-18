@@ -9,7 +9,7 @@ Update summary:
 Mods added:
 + Hephaestus
 + Chunk Sending
-+ Connectivity
++ Chat Patches
 
 Resource/Shader Packs added:
 + 
@@ -19,6 +19,8 @@ Data Packs added:
 
 Mods removed: 
 - Auth Me
+- Don't Clear Chat History
+- More Chat History
 
 Mods disabled: 
 - 
