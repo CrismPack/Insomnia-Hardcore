@@ -38,3 +38,4 @@ Config Changes:
 = Added waystones to forcedBlockProtectionExceptionList: [Open Parties and Claims], [Server]
 = Decreased maxPlayerClaims from 500 to just 50: [Open Parties and Claims], [Server]
 = Disabled "time": [Chat Patches], [Client]
+= Changed name formatting: [Chat Patches], [Client]

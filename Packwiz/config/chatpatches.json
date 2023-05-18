@@ -16,6 +16,6 @@
   "saveChat": true,
   "shiftChat": 10,
   "chatWidth": 0,
-  "nameFormat": "\u003c$\u003e",
+  "nameFormat": "$:",
   "maxMsgs": 16384
 }
