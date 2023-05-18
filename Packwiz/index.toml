@@ -186,7 +186,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1bdd4056b731c6ac39e8c26357f2bf8c6bfb49e5e69fd62964f9f3bde2f77db9"
+hash = "375320b974460bfc9701d1bbe82046d3aff3221c2de5bb32985656a0806aa7cc"
 
 [[files]]
 file = "config/revive.json5"
@@ -294,7 +294,7 @@ hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "28159fe2d4b6813bb225ec2066b41abe8525108fdcf43f993ba07dc4938b7a79"
+hash = "e57cb125739eae292d28938e1632935962831ff328f0b76bb3efa57627b07a49"
 
 [[files]]
 file = "global_packs/required_resources/NoBushyLeaves.zip"
@@ -1520,10 +1520,6 @@ file = "resourcepacks/GUI Reimagined-[v1.1].zip"
 hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
 
 [[files]]
-file = "resourcepacks/Tissou's Zombie Pack 1.18_2.6_novillager.zip"
-hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
-
-[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "4625b47bc35ca8d03c372d5153572c1a0d0baa44147a6e83107de967753ecf5b"
 metafile = true
@@ -1560,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
-hash = "de4e6789d5d43c73db635d80c3994e584b4575c4137afe1ee425c801d115c596"
+hash = "239b2b7c8315d3f602b1dd97a473b7b81f2284f18deab65316719407e9d4260b"
 metafile = true
 
 [[files]]
