@@ -506,10 +506,6 @@ hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
 metafile = true
 
 [[files]]
-file = "mods/cem-0.7.1_S8_1.18.jar"
-hash = "9f71d97edb6a2103d63c08f852fadc8329d211cfcf2696bdb2d36b2ff2fbef90"
-
-[[files]]
 file = "mods/charm.pw.toml"
 hash = "45086e2baab1c96f628e8faed67373ee06f36396eaf00f8db1d6c66b72c03a8b"
 metafile = true
@@ -622,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "52dd7de706aaf245018507ad17149b683838e63feb29cdcb2bbcd554b5a08369"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem-fork.pw.toml"
+hash = "9ef3841cedd48fe3b9955701c90d7a63850ea8a10b4b44f2d5e5517c524c4707"
 metafile = true
 
 [[files]]
@@ -1252,11 +1253,6 @@ metafile = true
 [[files]]
 file = "mods/revive.pw.toml"
 hash = "c54b7e0735a0c5b69f427289ac00276595c2d057c3c4f4933038cb4dcdcd7829"
-metafile = true
-
-[[files]]
-file = "mods/right-click-harvest.pw.toml"
-hash = "1b05810e30a220182a020210f3e79f70fcbc6590624d782ff93c72f6e2774d02"
 metafile = true
 
 [[files]]

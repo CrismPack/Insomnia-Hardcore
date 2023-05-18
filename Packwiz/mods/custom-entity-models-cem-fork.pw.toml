@@ -1,0 +1,14 @@
+name = "Custom Entity Models Fork (CEM)"
+filename = "cem-0.7.1_S8_1.18.jar"
+side = "client"
+
+[download]
+url = "https://github.com/YoungSoulluoS/cemFork/releases/download/Soul_Fork_10_1.19.4/cem-0.7.1_S8_1.18.x.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "725d4c79f8652f256705eed5a6f97e1c6dc3fea5c0db3f3c13c2c1fb664142af"
+
+[option]
+optional = false
