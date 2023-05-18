@@ -1,15 +1,17 @@
 v1.3.2
 
 Fabric version: Fabric-0.14.19
-Update summary: 
+Update overview: 
 ~ Added 'Hephaestus' which is a fork of 'Tinkers Construct'.
-~ Added compatibility between 'Hephaestus' and 'Better Combat'.
+~ Added Mining Dimensions.
+~ Compatibility between 'Hephaestus' and 'Better Combat'.
 ~ Fixed "Failed to log in: null" error when trying to join servers.
 
 Mods added:
 + Hephaestus
 + Chunk Sending
 + Chat Patches
++ Mining Dimensions
 
 Resource/Shader Packs added:
 + 

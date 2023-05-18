@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "627f2f6533e367b6cb97db4e8b60706034d03a5173ce33c8ea899797de3817d1"
+hash = "c2921d9471e6c3ffeb45bbab0edcce71eb2b5a070fb1fd8304e8b36062f0be6b"
 metafile = true
 
 [[files]]
@@ -1086,6 +1086,11 @@ hash = "2bf3e625d2cd0a6690bcc64f98e232fbf3e2e8d285dc99c9716920676581bbe9"
 metafile = true
 
 [[files]]
+file = "mods/mining-dimensions-fabric.pw.toml"
+hash = "5d0abd306c1c56d85476691d5b3926e7e0f7fca7f6bb07c09bee943d26d64001"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
@@ -1511,10 +1516,6 @@ hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
 metafile = true
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.7_Add_S10.zip"
-hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
-
-[[files]]
 file = "resourcepacks/GUI Reimagined-[v1.1].zip"
 hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
 
@@ -1525,6 +1526,11 @@ hash = "284fcb577894bd9ea601e09483606d537fe499f130f1c8d17f68b4a0a50eeb3b"
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "4625b47bc35ca8d03c372d5153572c1a0d0baa44147a6e83107de967753ecf5b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-cem-fork.pw.toml"
+hash = "46d3f88f6a7b297436b30ac2c304fac42036a4f0dab6f20c4d322d549d4732a8"
 metafile = true
 
 [[files]]

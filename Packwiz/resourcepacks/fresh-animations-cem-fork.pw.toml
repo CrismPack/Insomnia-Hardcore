@@ -1,0 +1,14 @@
+name = "Fresh Animations CEM fork"
+filename = "FreshAnimations_v1.7_Add_S10.zip"
+side = "client"
+
+[download]
+url = "https://github.com/YoungSoulluoS/Fresh-Animations-CEM-fork/releases/download/v1.7_S9/FreshAnimations_v1.7_Add_S10.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fcba063160869c46cf2ba82b2f518e68c1b253a661cc4c31b2eb1647d838d903"
+
+[option]
+optional = false
