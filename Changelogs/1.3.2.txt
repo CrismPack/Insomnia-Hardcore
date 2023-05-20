@@ -12,6 +12,7 @@ Mods added:
 + Chunk Sending [Server]
 + Chat Patches [Client]
 + Mining Dimensions
++ Create Support for Open Parties and Claims
 
 Resource/Shader Packs added:
 + 
