@@ -41,6 +41,10 @@ file = "config/charm.toml"
 hash = "1b9bdfa0fc3e4e96864a49d1a38815cf3411c63a167176c809a1347c6e8b0e57"
 
 [[files]]
+file = "config/chatpatches.json"
+hash = "f61cb7c41385d61c6ac2ba01bd9f54934457a6ba1a7845354ee801ef24d56251"
+
+[[files]]
 file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
 
