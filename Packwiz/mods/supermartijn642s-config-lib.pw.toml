@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Config Lib"
+filename = "supermartijn642configlib-1.1.6-fabric-mc1.18.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "285e0f4e4b2f15f35fd84658b5bdcef6a4799a1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4494777
+project-id = 438332
