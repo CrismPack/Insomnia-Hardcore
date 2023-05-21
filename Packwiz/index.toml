@@ -1445,11 +1445,6 @@ hash = "35740d35d3d0a74652fb771a9b456b13bbe41c606b4ebf62d556cf1c17976308"
 metafile = true
 
 [[files]]
-file = "mods/wandering-trapper.pw.toml"
-hash = "0b2ee6bdd88b0e63f564beef8cdc3b39914712f5c95f0b4c1afcd6fa47876519"
-metafile = true
-
-[[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "e206e608862b5528f380b19d183b9439b3f291e506973960b4c469f261823d11"
 metafile = true
