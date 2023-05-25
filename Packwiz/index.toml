@@ -985,6 +985,11 @@ hash = "87dec3c9684662a95f78ad3b60e204754722bd428f0a6848134aaa2042d90ad6"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "ef132244f99dd5898b80bd2b53f050a0e10e4a807c6cbc7d6fb29e26923eb2ea"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "14096650b4020297ad9d5b71520bc1e6343bc0cdd68682da09a27cc262d3fb5d"
 metafile = true

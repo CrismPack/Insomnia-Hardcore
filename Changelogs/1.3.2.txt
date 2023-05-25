@@ -15,6 +15,7 @@ Mods added:
 + Create Support for Open Parties and Claims
 + Durability Tooltip [Client]
 + SuperMartijn642's Config Lib [Client]
++ Jade 🔍
 
 Resource/Shader Packs added:
 + 
