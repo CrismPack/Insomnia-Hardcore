@@ -725,6 +725,11 @@ hash = "6441eb30b80c28d8cf60cc84d0c96888d7cb02906ec3f5a331d6056418679b03"
 metafile = true
 
 [[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "0b83212ba3243977d6c491a5d492f211b7781a0cf833859031d2a0ca4deb2beb"
+metafile = true
+
+[[files]]
 file = "mods/emerald-geodes.pw.toml"
 hash = "7b281914f3824946786ca9c0eb5fa36a0f10eacb765faf618eb9830907861627"
 metafile = true

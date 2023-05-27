@@ -6,6 +6,7 @@ Update overview:
 ~ Added Mining Dimensions.
 ~ Compatibility between 'Hephaestus' and 'Better Combat'.
 ~ Fixed "Failed to log in: null" error when trying to join servers.
+~ Quality of life improvements.
 
 Mods added:
 + Hephaestus
@@ -17,6 +18,7 @@ Mods added:
 + SuperMartijn642's Config Lib [Client]
 + Jade 🔍
 + thorium
++ Elytra Physics
 
 Resource/Shader Packs added:
 + 
