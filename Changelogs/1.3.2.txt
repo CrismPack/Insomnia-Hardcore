@@ -16,6 +16,7 @@ Mods added:
 + Durability Tooltip [Client]
 + SuperMartijn642's Config Lib [Client]
 + Jade 🔍
++ thorium
 
 Resource/Shader Packs added:
 + 

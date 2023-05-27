@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "7a6ed307edb3108e6c706b3467502db78ffce92bd8b40350c169f59007ef580c"
+hash = "7d142565dd1c83d8ade0fae7f4d7c828aad51fabd2806d9ee2b8ba2f077c5d77"
 metafile = true
 
 [[files]]
@@ -1381,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "2841b8ce02860901a196b48f40c8475da1bf703a79fd89e20c2d877c979e6d8e"
+hash = "6fa15ecc5272aaef2179e9adee23854edcb1ee0984347e2507ef08e2c1c325f2"
 metafile = true
 
 [[files]]
@@ -1397,6 +1397,11 @@ metafile = true
 [[files]]
 file = "mods/thonkutil.pw.toml"
 hash = "d227749ef001a75ad588e4f59edf1f4a97e537458bdefb414331c31c0a437d0b"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "82803f553c266087487cfdec9bae0b55d8e9b85d811d17f2fbdc564cb1b5cbe9"
 metafile = true
 
 [[files]]
