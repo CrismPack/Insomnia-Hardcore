@@ -10,21 +10,21 @@
     "maxHealthForRender": 40,
     "maxHeartsPerLine": 10,
     "fluidMode": "ANY",
-    "reachDistance": 0.0,
+    "reachDistance": 0.6914813,
     "debug": false,
     "itemModNameTooltip": true,
     "bossBarOverlapMode": "PUSH_DOWN"
   },
   "overlay": {
-    "overlayPosX": 0.5,
-    "overlayPosY": 0.9949981,
-    "overlayScale": 1.0,
-    "overlayAnchorX": 0.50210124,
-    "overlayAnchorY": 0.056319516,
+    "overlayPosX": 0.5057255,
+    "overlayPosY": 0.99137384,
+    "overlayScale": 1.0059277,
+    "overlayAnchorX": 0.5093497,
+    "overlayAnchorY": 0.0,
     "overlaySquare": true,
     "flipMainHand": false,
     "autoScaleThreshold": 0.5,
-    "alpha": 0.67606485,
+    "alpha": 0.0,
     "themes": {
       "jade:waila": {
         "id": "jade:waila",
