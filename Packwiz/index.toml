@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "05f5638f82bd94467ef8e5748dcd1aa02d1477dc93ad61ec41c84b5abd8dbcfc"
+hash = "29903f1747d58ec24e78f6a2118a9f132c8c7f67d25d50f3b7a3f1f0c1f1f141"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "93e41339d9401bf67644004e6e2182c2080fe61db0f7b3163e16e8e2dc58cee0"
+hash = "7654f0acae8e571716b26241773b7084ce10d37dc5c16c69b5e125c3d2f8dde6"
 metafile = true
 
 [[files]]
@@ -621,7 +621,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "52dd7de706aaf245018507ad17149b683838e63feb29cdcb2bbcd554b5a08369"
+hash = "9cc75aae1a834cbed304afbf51b0a2c18406a0d44c9bd8a5f80c55fc5cba6db8"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "ab70b04366b0890b287e409403acb550026c6c376c88858355037dadde8ed16f"
 metafile = true
 
 [[files]]
@@ -801,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "4300f02d81a56049bb98dd966cdf9c274ed3d21280347f5bd6ac94e90fd1a099"
+hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
 metafile = true
 
 [[files]]
@@ -951,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "66a989a0538dc3b4378a296c00b0cdfc30e01643dda0b5b3d862d9eea68ee49c"
+hash = "d390fc958c9eacfb7e4d5383c4cb46990f0b777099c584eb017ef9eca9a78c36"
 metafile = true
 
 [[files]]
@@ -1046,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "a1c0a36b765002b39f0bfe57d880d398453aa729c75e7c9a52e6bc5659bcc277"
+hash = "c68b3df50e63f678049c982f6dffc91c78c7dada85fa495335ee6a7d4f7dd960"
 metafile = true
 
 [[files]]
@@ -1101,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
-hash = "2bf3e625d2cd0a6690bcc64f98e232fbf3e2e8d285dc99c9716920676581bbe9"
+hash = "29dd959aae2ac34148cee429f9e25a5a3cb0b432adf36dfafa22dd49ba663af4"
 metafile = true
 
 [[files]]
@@ -1186,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f45299895f192389589f5044fde713d103563f24307cc96c4d4ff62508ab5a36"
+hash = "01b72f83b2a571d3bf8b7adcd6b0435359452e036df128d2d876dc06222d142a"
 metafile = true
 
 [[files]]
@@ -1276,7 +1281,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "8b643cab7d298ffbdbd67e453b2a3e59af6a8aba150288ace272a23af0f8cccb"
+hash = "b4d127dfcce0da42b0aab1fd526d49df7f067d9df6f20275281e14f61458a0a9"
 metafile = true
 
 [[files]]
@@ -1316,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c1ab64d2abd46547ba451d29fce2130314f2315fb7ad3e4fe4160b2a3d1558e9"
+hash = "1e6103105b7e4ebbed14baa120e6b4ad0a6210fc53d6ee4328e45810fe382c7b"
 metafile = true
 
 [[files]]
@@ -1396,7 +1401,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
+hash = "2d7fae264a11ebbdc8a3809581aa6d3b58013098a7cf73fc84aec1890ec46116"
 metafile = true
 
 [[files]]
@@ -1445,13 +1450,18 @@ hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
 metafile = true
 
 [[files]]
+file = "mods/unfixed-seeds.pw.toml"
+hash = "bbd527c569371c3ad9d73d4cd92aec49de0236d7840bef8c82f7e7ed6e537ce4"
+metafile = true
+
+[[files]]
 file = "mods/villagers-respawn.pw.toml"
 hash = "b17ac5e0c6b103f9178efa2c0eba0f18429a99b26cc904a05d6d6f08c94b6e86"
 metafile = true
 
 [[files]]
 file = "mods/wandering-collector.pw.toml"
-hash = "35740d35d3d0a74652fb771a9b456b13bbe41c606b4ebf62d556cf1c17976308"
+hash = "8a19272a4e6b357d6e981e4f75bd3ef5bbd04d9160571962feace5462c6d31a0"
 metafile = true
 
 [[files]]
@@ -1476,7 +1486,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "134d97506da279cbdbbcaaa2dde3c24ef4173b5b6f9a70262ab5cea88e56f67a"
+hash = "a67cd8b2e13bab1dbf84fe85bc0f03931b1abd819f5400744aac8fb5e3771812"
 metafile = true
 
 [[files]]

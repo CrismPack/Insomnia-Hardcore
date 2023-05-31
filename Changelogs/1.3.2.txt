@@ -18,6 +18,8 @@ Mods added:
 + SuperMartijn642's Config Lib [Client]
 + Jade 🔍
 + Elytra Physics
++ Cristel Lib (New dependency for 'Terralith')
++ Unfixed Seeds (New dependency for 'Terralith')
 
 Resource/Shader Packs added:
 + 
@@ -38,7 +40,19 @@ Data Packs removed:
 - Origins: Tags Compat [Bundled] (Replaced with 'Insomnia Compat')
 
 Mods updated: 
-> 
+> Bookshelf
+> Controlling
+> Create Fabric
+> Fabric Waystones
+> Inventory Profiles Next
+> libIPN
+> MinecraftCapes Mod
+> OptiGUI
+> Roughly Enough Items
+> Simple Voice Chat
+> Terralith
+> Wandering Collector
+> Xaero's World Map
 
 Config Changes: 
 = Disabled loading of spawn chunks: [ServerCore], [Server]
