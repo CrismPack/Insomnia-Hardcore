@@ -1,6 +1,6 @@
 v1.3.2
 
-Fabric version: Fabric-0.14.19
+Fabric version: Fabric-0.14.21
 Update overview: 
 ~ Added 'Hephaestus' which is a fork of 'Tinkers Construct'.
 ~ Added Mining Dimensions.

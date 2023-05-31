@@ -165,6 +165,18 @@ file = "config/iris.properties"
 hash = "8a4dd954daa3279c91a55d498710aa5ff0ec3ddc14c10ff1adb9c4e0a2fee144"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "50bf96a27c5da524c5c3981966e43bb274e4277390592565d276c3bf986f6eec"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "a1b36c54b075f7d3f7bd674155844704421bcb26aad1d005b59b4365b23185c0"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "f29c0601143092a898622a634c828f35417516245ba762f9cc67be090486514e"
+
+[[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "a6487a92015ef8fab1bffbd909c959e6c05ecde96d62be59c21b4e2200d20fab"
 
@@ -190,7 +202,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "3013f10a9c49c53004678396a4a8cf07e5782aa2e3434c95d44541bceabb59a1"
+hash = "375320b974460bfc9701d1bbe82046d3aff3221c2de5bb32985656a0806aa7cc"
 
 [[files]]
 file = "config/revive.json5"
