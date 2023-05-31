@@ -8,6 +8,7 @@ Update overview:
 ~ Added Mining Dimensions.
 ~ Compatibility between 'Hephaestus' and 'Better Combat'.
 ~ Fixed "Failed to log in: null" error when trying to join servers.
+~ Fixed modded elytras not rendering.
 ~ Quality of life improvements.
 
 Mods added:
@@ -25,6 +26,7 @@ Mods added:
 + Incendium
 + Health Overlay [Client]
 + Harvest with ease
++ Capes [Client]
 
 Resource/Shader Packs added:
 + 
@@ -39,6 +41,7 @@ Mods removed:
 - Wandering Trapper
 - Amplified Nether (Replaced by 'Incendium')
 - Right-Click-Harvest
+- MinecraftCapes Mod (Replaced by 'Capes')
 
 Mods disabled: 
 - Raised (Compatibility issue with 'Hephaestus')
@@ -65,3 +68,5 @@ Config Changes:
 = Disabled "time": [Chat Patches], [Client]
 = Changed name formatting: [Chat Patches], [Client]
 = Increased login protection to 600 ticks: [Login Protection], [Server]
+= Set the alpha value to "0": [Jade], [Client]
+= Configured to use the capes from 'MinecraftCapes' by default: [Capes], [Client]

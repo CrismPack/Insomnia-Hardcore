@@ -507,6 +507,11 @@ hash = "ad2930a8365abb127464ffdd6b4d34d00a9d6c4eb3794cdc929815477da63b62"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "4da2f2889af6ec4ab1eb629edee5265eba9b3f0a8d37711dacba72a7b72de94f"
+metafile = true
+
+[[files]]
 file = "mods/carpet-fixes.pw.toml"
 hash = "bb38aebe2b268dee1f7cf053a052e906300cf3060e98d132ad215eb9304f1dda"
 metafile = true
@@ -1119,11 +1124,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "66da572768333848a6ad0b798c955966956cf63fdf72770260db8909acfe5c4d"
-metafile = true
-
-[[files]]
-file = "mods/minecraftcapes-mod.pw.toml"
-hash = "2bf3e625d2cd0a6690bcc64f98e232fbf3e2e8d285dc99c9716920676581bbe9"
 metafile = true
 
 [[files]]
