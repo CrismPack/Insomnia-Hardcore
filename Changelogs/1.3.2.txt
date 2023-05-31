@@ -49,7 +49,6 @@ Mods updated:
 > Create Fabric
 > Inventory Profiles Next
 > libIPN
-> MinecraftCapes Mod
 > Roughly Enough Items
 > Simple Voice Chat
 > Terralith
