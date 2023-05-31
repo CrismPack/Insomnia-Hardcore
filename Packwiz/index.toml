@@ -190,7 +190,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "375320b974460bfc9701d1bbe82046d3aff3221c2de5bb32985656a0806aa7cc"
+hash = "3013f10a9c49c53004678396a4a8cf07e5782aa2e3434c95d44541bceabb59a1"
 
 [[files]]
 file = "config/revive.json5"
@@ -726,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-physics.pw.toml"
-hash = "0b83212ba3243977d6c491a5d492f211b7781a0cf833859031d2a0ca4deb2beb"
+hash = "f2826cff724589c0413242cab350bfe24096f4636e6602b8fa4fd464f600f438"
 metafile = true
 
 [[files]]
@@ -1402,11 +1402,6 @@ metafile = true
 [[files]]
 file = "mods/thonkutil.pw.toml"
 hash = "d227749ef001a75ad588e4f59edf1f4a97e537458bdefb414331c31c0a437d0b"
-metafile = true
-
-[[files]]
-file = "mods/thorium.pw.toml"
-hash = "82803f553c266087487cfdec9bae0b55d8e9b85d811d17f2fbdc564cb1b5cbe9"
 metafile = true
 
 [[files]]
