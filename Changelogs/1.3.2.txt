@@ -1,5 +1,7 @@
 v1.3.2
 
+Warning: If updating a server with an existing world, be sure to delete the Nether dimension beforehand to prevent issues.
+
 Fabric version: Fabric-0.14.21
 Update overview: 
 ~ Added 'Hephaestus' which is a fork of 'Tinkers Construct'.
@@ -20,6 +22,7 @@ Mods added:
 + Elytra Physics
 + Cristel Lib (New dependency for 'Terralith')
 + Unfixed Seeds (New dependency for 'Terralith')
++ Incendium
 
 Resource/Shader Packs added:
 + 
@@ -32,6 +35,7 @@ Mods removed:
 - Don't Clear Chat History
 - More Chat History
 - Wandering Trapper
+- Amplified Nether (Replaced by 'Incendium')
 
 Mods disabled: 
 - 
@@ -43,11 +47,9 @@ Mods updated:
 > Bookshelf
 > Controlling
 > Create Fabric
-> Fabric Waystones
 > Inventory Profiles Next
 > libIPN
 > MinecraftCapes Mod
-> OptiGUI
 > Roughly Enough Items
 > Simple Voice Chat
 > Terralith

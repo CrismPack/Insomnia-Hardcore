@@ -352,11 +352,6 @@ hash = "91b3205001c2d059aca57e199e84b428717dba550b6ba7a21067f5b67e7bb384"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58accb1b3e5102588ddc5665c91a1a9506c51b92170cf7330a5d6e8c03f46e15"
 metafile = true
@@ -818,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
+hash = "4300f02d81a56049bb98dd966cdf9c274ed3d21280347f5bd6ac94e90fd1a099"
 metafile = true
 
 [[files]]
@@ -949,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "00fa49468abfa5f13fa55a08602250f8f6d3c28167c6d7330f7a8aab727292b9"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "c1023e22bc3b7d2fdf3b19c57174ca54a0fbdd9bfc399ce46b92f4272cc6e5fa"
 metafile = true
 
 [[files]]
@@ -1203,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "01b72f83b2a571d3bf8b7adcd6b0435359452e036df128d2d876dc06222d142a"
+hash = "f45299895f192389589f5044fde713d103563f24307cc96c4d4ff62508ab5a36"
 metafile = true
 
 [[files]]
