@@ -19,10 +19,12 @@ Mods added:
 + Durability Tooltip [Client]
 + SuperMartijn642's Config Lib [Client]
 + Jade 🔍
-+ Elytra Physics
++ Elytra Physics [Client]
 + Cristel Lib (New dependency for 'Terralith')
 + Unfixed Seeds (New dependency for 'Terralith')
 + Incendium
++ Health Overlay [Client]
++ Harvest with ease
 
 Resource/Shader Packs added:
 + 
@@ -36,9 +38,10 @@ Mods removed:
 - More Chat History
 - Wandering Trapper
 - Amplified Nether (Replaced by 'Incendium')
+- Right-Click-Harvest
 
 Mods disabled: 
-- 
+- Raised (Compatibility issue with 'Hephaestus')
 
 Data Packs removed:
 - Origins: Tags Compat [Bundled] (Replaced with 'Insomnia Compat')

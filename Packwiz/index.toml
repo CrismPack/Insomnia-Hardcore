@@ -902,6 +902,11 @@ hash = "09161b76d373d20ad088e278908bd9a4ba517e5e4d1206b0ed467838ab1fcc7b"
 metafile = true
 
 [[files]]
+file = "mods/health-overlay-fabric.pw.toml"
+hash = "6a6bee4c667f75dfeb162edd441e1ce69373bc14357fc1904aa1c7c9cb2009f3"
+metafile = true
+
+[[files]]
 file = "mods/hephaestus-fabric.pw.toml"
 hash = "a52409ba3c303af6dd37529f002e933ace622e485c279f9bf3212e95b73d9c65"
 metafile = true
@@ -1268,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "3d13550324c0b4596d35b96959a57916a2ecee369e47b94f79171412c7de2d34"
+hash = "133fb576e456a61e92be015b6acffc40809e72dd8d0b9956bb0fbc46a7757181"
 metafile = true
 
 [[files]]
