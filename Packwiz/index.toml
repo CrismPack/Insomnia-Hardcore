@@ -638,11 +638,6 @@ hash = "9cc75aae1a834cbed304afbf51b0a2c18406a0d44c9bd8a5f80c55fc5cba6db8"
 metafile = true
 
 [[files]]
-file = "mods/cristel-lib.pw.toml"
-hash = "ab70b04366b0890b287e409403acb550026c6c376c88858355037dadde8ed16f"
-metafile = true
-
-[[files]]
 file = "mods/custom-entity-models-cem-fork.pw.toml"
 hash = "9ef3841cedd48fe3b9955701c90d7a63850ea8a10b4b44f2d5e5517c524c4707"
 metafile = true
@@ -1414,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "2d7fae264a11ebbdc8a3809581aa6d3b58013098a7cf73fc84aec1890ec46116"
+hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
 metafile = true
 
 [[files]]
@@ -1460,11 +1455,6 @@ metafile = true
 [[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
-metafile = true
-
-[[files]]
-file = "mods/unfixed-seeds.pw.toml"
-hash = "bbd527c569371c3ad9d73d4cd92aec49de0236d7840bef8c82f7e7ed6e537ce4"
 metafile = true
 
 [[files]]

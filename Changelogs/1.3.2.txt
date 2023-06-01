@@ -1,7 +1,5 @@
 v1.3.2
 
-Warning: If updating a server with an existing world, be sure to delete the Nether dimension beforehand to prevent issues.
-
 Fabric version: Fabric-0.14.21
 Update overview: 
 ~ Added 'Hephaestus' which is a fork of 'Tinkers Construct'.
@@ -38,6 +36,7 @@ Mods removed:
 - Wandering Trapper
 - Right-Click-Harvest
 - MinecraftCapes Mod (Replaced by 'Capes')
+- ShulkerBoxTooltip (Functionality already included in 'Charm')
 
 Mods disabled: 
 - Raised (Compatibility issue with 'Hephaestus')
