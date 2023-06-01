@@ -21,9 +21,6 @@ Mods added:
 + SuperMartijn642's Config Lib [Client]
 + Jade 🔍
 + Elytra Physics [Client]
-+ Cristel Lib (New dependency for 'Terralith')
-+ Unfixed Seeds (New dependency for 'Terralith')
-+ Incendium
 + Health Overlay [Client]
 + Harvest with ease
 + Capes [Client]
@@ -39,7 +36,6 @@ Mods removed:
 - Don't Clear Chat History
 - More Chat History
 - Wandering Trapper
-- Amplified Nether (Replaced by 'Incendium')
 - Right-Click-Harvest
 - MinecraftCapes Mod (Replaced by 'Capes')
 
@@ -57,7 +53,6 @@ Mods updated:
 > libIPN
 > Roughly Enough Items
 > Simple Voice Chat
-> Terralith
 > Wandering Collector
 > Xaero's World Map
 

@@ -166,15 +166,7 @@ hash = "8a4dd954daa3279c91a55d498710aa5ff0ec3ddc14c10ff1adb9c4e0a2fee144"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "50bf96a27c5da524c5c3981966e43bb274e4277390592565d276c3bf986f6eec"
-
-[[files]]
-file = "config/jade/plugins.json"
-hash = "a1b36c54b075f7d3f7bd674155844704421bcb26aad1d005b59b4365b23185c0"
-
-[[files]]
-file = "config/jade/usernamecache.json"
-hash = "f29c0601143092a898622a634c828f35417516245ba762f9cc67be090486514e"
+hash = "a2e0904923e63dc66ffd15c58d51ce66b0c5fe3c2d4dfd7c9b7584a5d20e77f8"
 
 [[files]]
 file = "config/leaves_us_in_peace.json"
@@ -251,6 +243,10 @@ hash = "70cfce60aed29aaa64c42e44e3e5cf8ae51e62c7a1c555040d46685476945671"
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "b165e3691326a07db658f7121e885ba4f874a8c1140893543ef7f4ce808421b0"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
 [[files]]
 file = "config/yosbr/config/continuity.json"
@@ -349,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "91b3205001c2d059aca57e199e84b428717dba550b6ba7a21067f5b67e7bb384"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
 metafile = true
 
 [[files]]
@@ -908,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/health-overlay-fabric.pw.toml"
-hash = "6a6bee4c667f75dfeb162edd441e1ce69373bc14357fc1904aa1c7c9cb2009f3"
+hash = "2b0b97a3eb8576a23b4f39f9e2d35687838ecb88e5a8a559e165510129a68268"
 metafile = true
 
 [[files]]
@@ -954,11 +955,6 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "00fa49468abfa5f13fa55a08602250f8f6d3c28167c6d7330f7a8aab727292b9"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "c1023e22bc3b7d2fdf3b19c57174ca54a0fbdd9bfc399ce46b92f4272cc6e5fa"
 metafile = true
 
 [[files]]
