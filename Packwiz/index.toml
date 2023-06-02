@@ -1318,11 +1318,6 @@ hash = "e2c1dcf70e457128c6b218acf990eec609261180106a00b0f1afa5297bbacad3"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "4393018c3eaa70408a7ecf8aa63e8c8d1c950c7930e981082ba55301d8fb2e1d"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "f1fee8b4c6472a9496e2c44a7b3316985a5bc17eff0d5df9fd9ff648ed8aabf5"
 metafile = true
