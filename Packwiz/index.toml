@@ -201,8 +201,8 @@ file = "config/revive.json5"
 hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
 
 [[files]]
-file = "config/simple-rpc.toml"
-hash = "e2ea4419e3b5a1d88779bc67932a26635dedcdadf307462e6986d3a28db0d298"
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "f8910b2f5a91fb0b669a51c38d46d619d0978a2bfe84e669e7a738d63944ae46"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
