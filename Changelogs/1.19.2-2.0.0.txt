@@ -42,6 +42,7 @@ Mods removed:
 - Recall Potion Backport
 - Status Effect Timer
 - TieFix
+- Enhanced Block Entities
 
 Mods disabled: 
 - 
