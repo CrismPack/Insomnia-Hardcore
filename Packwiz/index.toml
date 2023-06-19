@@ -194,7 +194,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "8745e1b490eec078143500fc868fa8ef45642ab9abba29c26c9d4ca02cf1c5d4"
+hash = "c965db9af38d175ae00a5cad58c7844e8385efd67957591fdadde69c8fc9c539"
 
 [[files]]
 file = "config/revive.json5"
@@ -725,11 +725,6 @@ metafile = true
 [[files]]
 file = "mods/endremastered-fabric.pw.toml"
 hash = "f7cc2ac98f6b26f8cb997c4709a72c8d98bb2d35b817a22d96da2eaabd0770df"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-block-entities.pw.toml"
-hash = "dd50e459c020a1b753a7acbed314576d2468a53389a4c981e030102b9d6b3d12"
 metafile = true
 
 [[files]]

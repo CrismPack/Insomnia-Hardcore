@@ -68,7 +68,7 @@
     "$3": {
       "default_position": "TOP",
       "hidden": false,
-      "required": true,
+      "required": false,
       "fixed_position": true,
       "force_compatible": true
     }
