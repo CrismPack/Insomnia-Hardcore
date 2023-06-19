@@ -18,6 +18,7 @@ Mods added:
 
 Resource Packs added:
 + Fresh Animations
++ Fresh Animations Extensions
 
 Data Packs added:
 + 
