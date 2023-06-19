@@ -1,0 +1,29 @@
+v1.3.3
+
+Fabric version: Fabric-0.14.21
+Update overview: 
+~ 
+
+Mods added:
++ 
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ 
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Data Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Config Changes: 
+= : [mod], [Server]
