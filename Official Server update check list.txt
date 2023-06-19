@@ -1,0 +1,3 @@
+Delete all mods except: DisFabric
+Delete "global_packs" folder
+Upload and unpack new serverpack zip

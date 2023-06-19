@@ -7,7 +7,8 @@ phrases = [
     "netty",
     "Netty",
     "[bclib]",
-    "[ShulkerBoxTooltip]"
+    "[ShulkerBoxTooltip]",
+    "players online:"
     ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
