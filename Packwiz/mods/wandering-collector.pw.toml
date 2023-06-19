@@ -1,13 +1,13 @@
 name = "Wandering Collector"
-filename = "wanderingcollector-1.2.1+mc1.18.2.jar"
+filename = "wanderingcollector-1.1.3+mc1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b309010ff8a35f6f474407fdd34decaddaf20d50"
+hash = "41f70b0e5aafc03b124280a4a69736257697c580"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4549525
+file-id = 3852016
 project-id = 443476

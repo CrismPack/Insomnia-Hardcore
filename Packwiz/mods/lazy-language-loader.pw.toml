@@ -1,13 +1,13 @@
 name = "lazy-language-loader (Fabric)"
-filename = "lazy-language-loader-0.3.0.jar"
+filename = "lazy-language-loader-0.3.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "305a2f59667ae14efbfd11eca21aa30220ee764b"
+hash = "8da85ffabf8b919704abbf566663cf3aab9dfe64"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3672438
+file-id = 3832445
 project-id = 526391

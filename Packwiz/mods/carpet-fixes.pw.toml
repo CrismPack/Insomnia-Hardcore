@@ -1,13 +1,13 @@
 name = "Carpet-Fixes"
-filename = "carpet-fixes-1.18.x-1.7.11.jar"
+filename = "carpet-fixes-1.19-1.12.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "148eb017f3c8dd903aa6a68dafecc0ecbd5cf433"
+hash = "e351e13c1dd6c5d9b96a10612aa8eba573ecef7c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3899420
+file-id = 4026788
 project-id = 529720

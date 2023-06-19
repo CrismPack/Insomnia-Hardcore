@@ -1,13 +1,13 @@
 name = "Dark Enchanting"
-filename = "dark-enchanting-1.0.0+1.18.2.jar"
+filename = "dark-enchanting-1.0.2+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "854bde1252f7f01836bbfbef1cdd8286c0ce1fd3"
+hash = "e77c50e37fa5a7c2aa0c1c7bfb9145c7af68a2fe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3777836
+file-id = 4465138
 project-id = 473553

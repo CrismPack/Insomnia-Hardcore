@@ -1,13 +1,13 @@
 name = "Towers of the Wild: Additions"
-filename = "totw_additions-1.2.1-1.18.2-fabric-polymer.jar"
+filename = "totw_additions-1.2.4-1.19.x-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9874bbb6a88b8417f865b1b1dfe5fce12c25b6e8"
+hash = "e767a9ec2bec7b4af5ba7ff82a134f37ff577749"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3737798
+file-id = 4390044
 project-id = 560091

@@ -1,13 +1,13 @@
 name = "Nears [Fabric]"
-filename = "nears-fabric-1.18-1.1.8.jar"
+filename = "nears-fabric-1.19-1.2.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4d5646622f47806a7cd6f9c69440f9f42632a3db"
+hash = "7f1c8ed38b3db71496a1c59e3858a8f3d0fce046"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3758398
+file-id = 3908792
 project-id = 482621

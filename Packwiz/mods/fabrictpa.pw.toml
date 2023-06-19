@@ -1,13 +1,13 @@
 name = "FabricTPA"
-filename = "FabricTPA-3.1.1.jar"
+filename = "FabricTPA-3.2.1.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "fe66a2bfec3cdc5d262b5563e9887e50d1149ea5"
+hash = "8b473ce8a518367eb0b724a3b7bffba37b5d99d2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3651601
+file-id = 3838571
 project-id = 423295

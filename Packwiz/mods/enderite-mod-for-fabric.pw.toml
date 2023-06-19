@@ -1,13 +1,13 @@
 name = "Enderite Mod (for Fabric)"
-filename = "enderitemc-enderitemod-1.3.5-1.18.2.jar"
+filename = "enderitemc-enderitemod-1.4.1-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "25cad33042fa3b0564a8cc43ace559f7a7480d69"
+hash = "308c558730d01878caed700ac21fe88d6d8c7f91"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3671091
+file-id = 4278624
 project-id = 399221

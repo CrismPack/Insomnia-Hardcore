@@ -1,13 +1,13 @@
 name = "Dense Ores: Refabricated"
-filename = "denseores-1.2.2+1.18.2.jar"
+filename = "denseores-1.2.3+1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "355fcae3b9240c972053bc7e703d8157fb5b75e7"
+hash = "65668f3470c98b3dfc6d7820fb9c4386a8b3fcae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3669946
+file-id = 4075611
 project-id = 527045

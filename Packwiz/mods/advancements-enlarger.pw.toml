@@ -1,13 +1,13 @@
 name = "Advancements Enlarger"
-filename = "advancements-enlarger-0.2.4.jar"
+filename = "advancements-enlarger-0.3.0-1.19.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "dd71aa1ea18f2ff81a0604db151bb05be212dc38"
+hash = "83ac092f17f360e57df843739f3e198c14a2d4ae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3329360
+file-id = 4104551
 project-id = 355583

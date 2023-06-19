@@ -1,13 +1,13 @@
 name = "Better Sodium Video Settings Button"
-filename = "bsvsb-2.0.5.jar"
+filename = "bsvsb-3.0.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "bad1e2720ee3d28bb31955b64e6f06c3ede02da2"
+hash = "4f177244f8c776589b439ec96746c30c177cb178"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3769487
+file-id = 3926121
 project-id = 437443

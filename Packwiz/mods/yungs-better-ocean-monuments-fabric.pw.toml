@@ -1,13 +1,13 @@
 name = "YUNG's Better Ocean Monuments (Fabric)"
-filename = "YungsBetterOceanMonuments-1.18.2-Fabric-1.0.3.jar"
+filename = "YungsBetterOceanMonuments-1.19.2-Fabric-2.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8a9356312cd7959ff02dd9a13f28c52e52fefe4b"
+hash = "7fe58a1297c56fec6bfb43258e8b14b40de805f9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4032733
+file-id = 4031419
 project-id = 689252

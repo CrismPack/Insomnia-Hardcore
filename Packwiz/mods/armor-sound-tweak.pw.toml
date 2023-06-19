@@ -1,13 +1,13 @@
 name = "Armor Sound Tweak"
-filename = "ArmorSoundTweak-5.1.1-fabric.jar"
+filename = "ArmorSoundTweak-6.0.0-fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "305a21104cf27ce37a3b87043d7ec1619769ffcb"
+hash = "2727bb1fb347326b67fc0a273a8e7cbfed2feb49"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3845600
+file-id = 3845615
 project-id = 277668

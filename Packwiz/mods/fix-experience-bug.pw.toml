@@ -1,13 +1,13 @@
 name = "Fix Experience Bug (now with FABRIC and FORGE versions)"
-filename = "fabric-experiencebugfix-1.18-18.jar"
+filename = "fabric-experiencebugfix-1.19-19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "320901292a49a74e7c3d9128fc3b85bee125e1d6"
+hash = "87cc85edac21a5834cd569526349130665bc43d5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3555653
+file-id = 4365624
 project-id = 486778

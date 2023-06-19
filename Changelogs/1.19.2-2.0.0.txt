@@ -1,0 +1,58 @@
+1.19.2 - v2.0.0
+
+Fabric version: Fabric-0.14.21
+Update overview: 
+~ Migration to 1.19.2
+
+Mods added:
++ Entity Model Features (Replacement for 'Custom Entity Models Fork') [Client]
++ Iris Shaders [MR] [Client]
++ Sodium [MR] [Client]
++ Mod Menu [MR] [Client]
++ Recall Potion
++ Status Effect Bars [Client]
++ Moonlight Lib [New Dependency]
++ LibZ [New Dependency]
++ Carpet [New Dependency]
++ owo-lib [New Dependency]
+
+Resource Packs added:
++ Fresh Animations
+
+Data Packs added:
++ 
+
+Mods removed: 
+- Better Biome Blend
+- Cloth API
+- Custom Entity Models Fork (CEM)
+- Custom Entity Models (CEM)
+- Dimension Fix (Some Forge Patches Ported)
+- Erroring Entity Remover
+- Feature NBT Deadlock Be Gone
+- Hephaestus Fabric
+- Improved Stations
+- InvMoveCompats
+- Iris [CF]
+- Sodium [CF]
+- Mod Menu [CF]
+- Mobs Attempt Parkour
+- Phantom Config
+- Recall Potion Backport
+- Status Effect Timer
+- TieFix
+
+Mods disabled: 
+- 
+
+Data Packs removed:
+- 
+
+Resource Packs removed:
+- Fresh Animations CEM Fork
+
+Mods updated: 
+> All mods have been updated.
+
+Config Changes: 
+= : [mod], [Server]

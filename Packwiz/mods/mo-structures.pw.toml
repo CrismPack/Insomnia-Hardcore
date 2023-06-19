@@ -1,13 +1,13 @@
 name = "Mo' Structures (Fabric)"
-filename = "mostructures-1.4.2+1.18.2.jar"
+filename = "mostructures-1.4.3+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "39128e1b1b02c46788536bc846c7f4a35d5658a7"
+hash = "66acda08dd33a97e2611902e38d421dd429b398d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3779101
+file-id = 4468255
 project-id = 378266
