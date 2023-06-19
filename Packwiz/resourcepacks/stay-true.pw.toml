@@ -1,5 +1,5 @@
 name = "Stay True"
-filename = "Stay_True_1.18.zip"
+filename = "Stay_True_1.19.zip"
 side = "client"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3598573
+file-id = 3866221
 project-id = 353554

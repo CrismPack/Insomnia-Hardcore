@@ -7,15 +7,14 @@
     "minecraft/supporteatinganimation",
     "continuity/glass_pane_culling_fix",
     "continuity/default",
-    "file/EclecticTrove-noconfig-1.18-1.2.0.zip",
-    "file/Stay_True_1.18.zip",
+    "file/EclecticTrove-noconfig-1.19-1.2.0.zip",
+    "file/Stay_True_1.19.zip",
     "file/Slightly-Improved-Font-1.0.0.zip",
-    "global:FreshAnimations_v1.7_Add_S10.zip",
-    "global:Tissou's Zombie Pack 1.18_2.6_novillager.zip",
-    "file/FreshAnimations_v1.7_Add_S10.zip",
-    "file/Tissou's Zombie Pack 1.18_2.6_novillager.zip",
     "file/Visual Titles.zip",
     "file/GUI Reimagined-[v1.1].zip",
+    "file/FreshAnimations_v1.8.zip",
+    "file/FA+All_Addons-v1.0.zip",
+    "file/TZP_1.19.2_2.6.zip",
     "global:Insomnia Custom Lang.zip",
     "global:Insomnia Textures.zip"
   ],
@@ -39,7 +38,7 @@
     // Hidden and required.
     "1": [
       "minecraft/supporteatinganimation",
-      "file/EclecticTrove-noconfig-1.18-1.2.0.zip",
+      "file/EclecticTrove-noconfig-1.19-1.2.0.zip",
       "file/Visual Titles.zip",
       "continuity/default",
       "global:NoBushyLeaves.zip",
@@ -53,7 +52,7 @@
     },
     // Hidden, not required
     "2": [
-      "file/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip",
+      "file/Towers_Of_The_Wild_Reworked_v4.0.2_Waystones.zip",
       "file/Insomnia-Compat-1.0.0.zip"
     ],
     "$2": {
@@ -62,7 +61,7 @@
     },
     // Fixed position, not required
     "3": [
-      "file/Tissou's Zombie Pack 1.18_2.6.zip"
+      "file/TZP_1.19.2_2.6.zip"
     ],
     "$3": {
       "default_position": "TOP",

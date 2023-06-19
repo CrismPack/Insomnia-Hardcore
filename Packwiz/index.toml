@@ -194,7 +194,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "375320b974460bfc9701d1bbe82046d3aff3221c2de5bb32985656a0806aa7cc"
+hash = "8745e1b490eec078143500fc868fa8ef45642ab9abba29c26c9d4ca02cf1c5d4"
 
 [[files]]
 file = "config/revive.json5"
@@ -1533,7 +1533,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
-hash = "c76d5ed5dd44f2422253e3799acdf7de499e6731f42e2bee8c63ff67b0810e13"
+hash = "a63ac05ba1ed96162b145a32a4b830fc544d646f03bb0bf10eccafeb87461fbe"
 metafile = true
 
 [[files]]
