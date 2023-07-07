@@ -5,7 +5,7 @@ Update overview:
 ~ 
 
 Mods added:
-+ 
++ Log More Info
 
 Resource/Shader Packs added:
 + 

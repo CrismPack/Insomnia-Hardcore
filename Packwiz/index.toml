@@ -1083,6 +1083,11 @@ hash = "c9a7aebfca7cd59252e201f76f0b687f8dca3f3e15b32e80ff753d166bfcbaf9"
 metafile = true
 
 [[files]]
+file = "mods/log-more-info.pw.toml"
+hash = "24b6afa5a56c28255a6a602e09e9ce7da13b79a4946d5653278083b0ec3e42a2"
+metafile = true
+
+[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "ef86081747bd21760cc3bc89d5edd6bc9bb4151699915c448e4905403103b567"
 metafile = true
