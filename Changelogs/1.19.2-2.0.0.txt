@@ -19,10 +19,12 @@ Mods added:
 + Log More Info
 + fabric-permissions-api (New Dependency)
 + PlayerEx
-+ Data Attributes
++ Data Attributes (Dependency of 'PlayerEx')
 + Numismatic Overhaul
 + NumismaticClaim
 + Memory Leak Fix [MR]
++ AmbientSounds 5
++ CreativeCore (Dependency of 'AmbientSounds')
 
 Mods re-enabled:
 + Raised

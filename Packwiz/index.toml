@@ -352,6 +352,11 @@ hash = "6d064aeec2cc5f9dd4ffca7c81e781418619ef39d71e84596051c45e7e64271a"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "222161c6cc9458fd7de3efbf9e99a3173a0bd99ad53ca311bd1597d57c7273b8"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "180472f4a0e889f04fddb8a6ce3dac8d27701c89e652e51a751549fc1cf74f0c"
 metafile = true
@@ -619,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f432b16e70ffeb1db5c1b1c8d1dccde934852a7c3e2083913c61677bb0a13d77"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "acac8b2ad400435b7b0edfc09bc049a4c32859e41a4ce2d72ac39bbda588fd12"
 metafile = true
 
 [[files]]
