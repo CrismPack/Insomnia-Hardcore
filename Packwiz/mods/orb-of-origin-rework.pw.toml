@@ -1,0 +1,13 @@
+name = "Orb of Origin Rework"
+filename = "originsorbrework-1.19-2.0.0-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd689c396079d14a0d6620873d963c8ca8f93ea6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4365008
+project-id = 812872

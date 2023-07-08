@@ -29,7 +29,6 @@ Mods added:
 + Deeper and Darker
 + GeckoLib (Dependency of 'Deeper and Darker')
 + The Twilight Forest
-+ RpgDifficulty
 + Nameplate
 + Trinkets
 + Inmis
@@ -69,6 +68,9 @@ Mods added:
 + Runes (Dependency of 'Wizards')
 + Spell Power Attributes (Dependency of 'Wizards')
 + Save Gear on Death
++ Dungeon Difficulty
++ Projectile Damage Attribute
++ Orb of Origin Rework
 
 Mods re-enabled:
 + Raised

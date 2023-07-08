@@ -197,6 +197,10 @@ file = "config/mostructures-config-v5.json5"
 hash = "5df83b31cbdf40a7a1d2ffab12e43b38663588ece4c5bc8ea91fa5890adb62b2"
 
 [[files]]
+file = "config/nameplate.json"
+hash = "64a70899c522a0c48059f4a636cc97ec7dafeb99c4a21c081b300c70b93e4453"
+
+[[files]]
 file = "config/phantomconfig.json5"
 hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
@@ -733,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "64f923a522ddea2fa87b7c84ac51346f4562c2aab18f7fff5eb301603ee39e9a"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+hash = "646a9c26f02e574e2bcde324c27ce46c4bd187b59d3cf67df5a84fdcc95673dc"
 metafile = true
 
 [[files]]
@@ -1306,6 +1315,11 @@ hash = "7bca08e00b76fc37fdbc2c347ef62c0e87ed49ce2af2b1bada032cf41cc6f789"
 metafile = true
 
 [[files]]
+file = "mods/orb-of-origin-rework.pw.toml"
+hash = "33d5f1da12570ac201e83f74b24c25f923e5d70eb9a81a34b674eff36f978444"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "6347f1b4fd8c1a92cb4c2504d352807d1ff817f1e5146156e1135a2b6f473e28"
 metafile = true
@@ -1376,6 +1390,11 @@ hash = "333ca51ff29849a3f9c603f6993157c462c26ff6ca76ae74bfbf5d909cf37b5b"
 metafile = true
 
 [[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "36905079674be6429b32df3740a8e257f7977cd9393d0e8a0cd14309b9882725"
+metafile = true
+
+[[files]]
 file = "mods/public-gui-announcement.pw.toml"
 hash = "37c1966ce07ca0b30afe8879353658c96bb714e214f3051b836942d1e0290c67"
 metafile = true
@@ -1428,11 +1447,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-trades.pw.toml"
 hash = "8475c32e2c1bbee5dd0b21e67ef7968499e2c5d57d0864591d8f8f3c9cc31e83"
-metafile = true
-
-[[files]]
-file = "mods/rpgdifficulty.pw.toml"
-hash = "e49abac17895941b72ad74921f0a92c7460cb7b34ddbd2b654965b38f05d3525"
 metafile = true
 
 [[files]]
