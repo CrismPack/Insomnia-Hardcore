@@ -74,4 +74,5 @@ Config Changes:
 = Moved 'NoBushyLeaves' resourcepack into the regular resourcepack folder. Making it optional: [Client]
 = Made 'NoBushyLeaves' resourcepack be enabled by default: [Resource Pack Overrides], [Client]
 = Enabled connected textures by default: [Continuity], [Client]
+= Changed Discord RPC to use its own "Insomnia: Hardcore" application: [Simple Discord RPC], [Client]
 = : [mod], [Server]
