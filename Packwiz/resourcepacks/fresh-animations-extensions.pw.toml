@@ -1,6 +1,7 @@
 name = "Fresh Animations Extensions"
 filename = "FA+All_Addons-v1.0.zip"
-side = "both"
+side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"

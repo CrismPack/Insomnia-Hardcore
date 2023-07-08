@@ -22,8 +22,8 @@ Mods re-enabled:
 + Raised
 
 Resource Packs added:
-+ Fresh Animations
-+ Fresh Animations Extensions
++ Fresh Animations [Client]
++ Fresh Animations Extensions [Client]
 
 Data Packs added:
 + 
@@ -63,4 +63,5 @@ Mods updated:
 > All mods have been updated.
 
 Config Changes: 
+= Disabled BetterX startup message: [BCLib], [Client]
 = : [mod], [Server]

@@ -14,7 +14,11 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "76bba39b1898d752fc8e1075f6cc2b9845504a24f9b763f92a331f161a595167"
+hash = "529d0feed4caf4a54ca3a6893a07932211a0d37e44fc3bc119c7a9ec9b7c06a7"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -499,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "450d4f3c287018d4b22fe69cbc7f4893f33790079637519f71f95bfc8edf3f05"
+hash = "dd107823e7a391d071804ca1507a2062f0dfc4c6d7f64c22a27b12971754040c"
 metafile = true
 
 [[files]]
@@ -1214,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "b2eb3354cc0504709d51e3c88bc4e3de2100e12420d5a58d770d86e8f4948727"
+hash = "61cfa42c6d390dbc6c160268f25c53907d5c826e49afb8e749326b1fb39f3d0b"
 metafile = true
 
 [[files]]
@@ -1508,7 +1512,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "f6648f32142691592fe12bcda78d1332c869bc43471112784afc705f7cf8c3f4"
+hash = "0ccb7346b6a90df88a3a3617b713a4cb502f25db14de256391a9854160d15a5f"
 metafile = true
 
 [[files]]
@@ -1597,7 +1601,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "18ed94fc513ad05ddf352a36ae706664d0f529623b1ec8d97db915092b8618fd"
+hash = "1cf887de9e8df1530de6a3a80e5fb8cef3c26c5248611921bd860c85313a688f"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"
