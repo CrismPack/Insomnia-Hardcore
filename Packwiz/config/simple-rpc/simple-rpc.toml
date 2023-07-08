@@ -14,6 +14,28 @@
 	#Internal Version Number. NO TOUCHY!
 	version = 18
 
+#Custom Config Variables that you can use
+[custom]
+	#Must these variables be parsed along with other variables
+	enabled = true
+	#Your custom variables to add
+    
+	#Image Keys
+	[[custom.variables]]
+        name = "largeImageKey"
+        value = "insomnia"
+    [[custom.variables]]
+        name = "smallImageKey"
+        value = "https://i.imgur.com/alFUtQ5.png"
+	
+	#Image Text:
+    [[custom.variables]]
+        name = "largeImageText"
+        value = "Minecraft %mcver% with mods"
+	[[custom.variables]]
+        name = "smallImageText"
+        value = "A modpack by CrismPack"
+
 #The Game Loading event
 [init]
 	#Enable/Disable the Game Loading Event
@@ -23,13 +45,13 @@
 	#The second line of text under the app name
 	state = "Game Starting..."
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[init.buttons]]
@@ -45,13 +67,13 @@
 	#The seconds line of text under the app name
 	state = "Main Menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[main_menu.buttons]]
@@ -67,13 +89,13 @@
 	#The second line of text under the app name
 	state = "Multiplayer Menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[server_list.buttons]]
@@ -89,13 +111,13 @@
 	#The second line of text under the app name
 	state = "Realms Menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[realms_list.buttons]]
@@ -111,13 +133,13 @@
 	#The second line of text under the app name
 	state = "Loading..."
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[join_game.buttons]]
@@ -133,13 +155,13 @@
 	#The second line of text under the app name
 	state = "Playing Singleplayer"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[single_player.buttons]]
@@ -155,13 +177,13 @@
 	#The second line of text under the app name
 	state = "Playing on '%servername%' with %players% players"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[multi_player.buttons]]
@@ -177,13 +199,13 @@
 	#The second line of text under the app name
 	state = "Playing on a Realm"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[realms.buttons]]
@@ -197,25 +219,18 @@
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["insomnia"]
+	largeImageKey = ["%largeImageKey%"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "Insomnia: Hardcore - Minecraft %mcver%"
+	largeImageText = "%largeImageText%"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = ["small"]
+	smallImageKey = ["%smallImageKey%"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "%mods% mods installed"
+	smallImageText = "%smallImageText%"
 
 	#The buttons to display on Discord
 	[[generic.buttons]]
 		label = "Download 'Insomnia: Hardcore'"
 		url = "https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore"
-
-#Custom Config Variables that you can use
-[custom]
-	#Must these variables be parsed along with other variables
-	enabled = true
-	#Your custom variables to add
-	variables = []
 
 #Dimension Information Overrides
 [dimension_overrides]
@@ -230,7 +245,7 @@
 		largeImageKey = ["overworld"]
 		largeImageText = "In the Overworld"
 		smallImageKey = ["mclogo"]
-		smallImageText = "%mods% mods installed"
+		smallImageText = "%smallImageText%"
 		buttons = []
 
 	[[dimension_overrides.dimensions]]
@@ -240,7 +255,7 @@
 		largeImageKey = ["nether"]
 		largeImageText = "In the Nether"
 		smallImageKey = ["mclogo"]
-		smallImageText = "%mods% mods installed"
+		smallImageText = "%smallImageText%"
 		buttons = []
 
 	[[dimension_overrides.dimensions]]
@@ -250,6 +265,6 @@
 		largeImageKey = ["end"]
 		largeImageText = "In the End"
 		smallImageKey = ["mclogo"]
-		smallImageText = "%mods% mods installed"
+		smallImageText = "%smallImageText%"
 		buttons = []
 
