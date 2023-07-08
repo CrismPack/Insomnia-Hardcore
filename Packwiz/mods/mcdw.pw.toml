@@ -1,0 +1,13 @@
+name = "MC Dungeons Weapons"
+filename = "mcdw-5.0.13-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "befd64e6b0c363c122e150c8ef38afde91dbb599"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4603016
+project-id = 407311

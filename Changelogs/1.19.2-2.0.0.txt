@@ -25,6 +25,50 @@ Mods added:
 + Memory Leak Fix [MR]
 + AmbientSounds 5
 + CreativeCore (Dependency of 'AmbientSounds')
++ Item Borders
++ Deeper and Darker
++ GeckoLib (Dependency of 'Deeper and Darker')
++ The Twilight Forest
++ RpgDifficulty
++ Nameplate
++ Trinkets
++ Inmis
++ InmisAddon
++ Smarter Farmers
++ Public Gui Announcement
++ Cardinal Components (Dependency of 'Public Gui Announcement')
++ Too Fast
++ Philip's Ruins
++ Frostiful
++ Thermoo (Dependency of 'Frostiful')
++ Savage Ender Dragon
++ End Goblin Traders
++ Configured
++ Slot Cycler
++ YDM's Weapon Master
++ Explorify
++ EnhancedVisuals
++ Luggage
++ Async Locator
++ No Tree Punching
++ MVS - Moog's Voyager Structures"
++ The Lost Castle
++ DEUF Refabricated
++ Tiny Item Animations [Client]
++ Charm of Undying
++ Bosses of Mass Destruction
++ Cardinal Components (Dependency of 'Bosses of Mass Destruction')
++ Progressive Bosses
++ AdventureZ
++ MC Dungeons Weapons
++ Extra Origins
++ Pehkui (Dependency of 'Extra Origins')
++ Unstructured
++ Wizards
++ Spell Engine (Dependency of 'Wizards')
++ Runes (Dependency of 'Wizards')
++ Spell Power Attributes (Dependency of 'Wizards')
++ Save Gear on Death
 
 Mods re-enabled:
 + Raised

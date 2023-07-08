@@ -1,0 +1,13 @@
+name = "Nameplate"
+filename = "nameplate-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24c065abcaed5fab4d6ff0c2d786065f0f8fd314"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4548320
+project-id = 551914

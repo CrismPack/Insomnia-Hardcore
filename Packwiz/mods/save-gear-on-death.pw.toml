@@ -1,0 +1,13 @@
+name = "Save Gear on Death"
+filename = "sgod-2.0.0-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d70f5bb85f69b0f036bf7df9a7c15740e1c9b7d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3822863
+project-id = 420907

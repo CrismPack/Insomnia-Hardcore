@@ -1,0 +1,13 @@
+name = "No Tree Punching"
+filename = "notreepunching-fabric-1.19.2-6.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0e123bf2e2dbacfe957b41ac999cf8605a2d4ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4125846
+project-id = 289043
