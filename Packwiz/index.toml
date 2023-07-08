@@ -66,7 +66,7 @@ hash = "279100051fa0bc939c754bc386fd95aeb533b0c187cba53a4a4e16b5edaebb2b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
+hash = "c9a5f1ca2e880aa50dd04d41529bad9efa573fad096d13a5ecdc4ba93debb065"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -238,6 +238,10 @@ hash = "5fbd1a91ff93cecc3ea20936cb44bacfcaa1ba2ac6b127abf581a8dd6b8aa144"
 
 [[files]]
 file = "config/travelerstitles-fabric-1_18.toml"
+hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
+
+[[files]]
+file = "config/travelerstitles-fabric-1_19.toml"
 hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
 
 [[files]]
@@ -642,6 +646,11 @@ hash = "377e6bf799a616eeeac2713cce73915f189a11c617e5865e6f9530be1bd9d33c"
 metafile = true
 
 [[files]]
+file = "mods/data-attributes.pw.toml"
+hash = "a98ecb88f3b0a6ea3628ce8a57316125fd0e844bae58f264792a8bbff09c67e2"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "90dec0bb053cd7eb7a5474af1b692917c0925bb938747a4e43215f1815e423e7"
 metafile = true
@@ -769,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "67c29ef6f322a11055a415ace1b54f415bf78fe73bdc3566ad5223d5622f14bf"
+metafile = true
+
+[[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "ee95b53ae0fc4e81d544b9d0e19246290d707643043ad2da77dde6014c9d42b3"
 metafile = true
 
 [[files]]
@@ -1068,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "16028256de8bb7d44dfe511461f1d904b65769cfe955f02c0a39fb93d21e76b9"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
@@ -1142,6 +1156,16 @@ hash = "c933ff1e368c87fcb97c5c7a584d71cf15e69b0f29513394b13d63ba1315bcc7"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "7d6fbdfb13e97621047168764c68863b619064e37add3c16977445871dd9dd0f"
+metafile = true
+
+[[files]]
+file = "mods/numismaticclaim.pw.toml"
+hash = "a6e33b66290b80281b0da1d0837631a1571d11c3ccc0a462b944fb25ac8bf4fc"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "2a12fede80d8aa1e788fda98f34068fc080082a5ef0fffcb89b9d4f865909587"
 metafile = true
@@ -1184,6 +1208,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7bb7a01388f698292f1ef480f114441ce7b74f17b54c9884857266160d9dbffa"
+metafile = true
+
+[[files]]
+file = "mods/playerex.pw.toml"
+hash = "9d95b515b0ca39e2dc1c2409103e7aee57d9d01f3ec5a4cdd560ecec085d11bb"
 metafile = true
 
 [[files]]

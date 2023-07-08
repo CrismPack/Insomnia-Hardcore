@@ -4,6 +4,7 @@
   // These two packs will be enabled by default when "options.txt" is first created or when resource reloading fails and is reset to a bare-bones state
   // Packs included here can still be manually disabled by the user, this can be prevented with overrides below though
   "default_packs": [
+    "file/NoBushyLeaves.zip",
     "minecraft/supporteatinganimation",
     "continuity/glass_pane_culling_fix",
     "continuity/default",

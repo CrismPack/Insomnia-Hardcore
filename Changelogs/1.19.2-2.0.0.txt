@@ -11,13 +11,18 @@ Mods added:
 + Mod Menu [MR] [Client]
 + Recall Potion
 + Status Effect Bars [Client]
-+ Moonlight Lib [New Dependency]
-+ LibZ [New Dependency]
-+ Carpet [New Dependency]
-+ owo-lib [New Dependency]
++ Moonlight Lib (New Dependency)
++ LibZ (New Dependency)
++ Carpet (New Dependency)
++ owo-lib (New Dependency)
 + Incendium
 + Log More Info
-+ fabric-permissions-api
++ fabric-permissions-api (New Dependency)
++ PlayerEx
++ Data Attributes
++ Numismatic Overhaul
++ NumismaticClaim
++ Memory Leak Fix [MR]
 
 Mods re-enabled:
 + Raised
@@ -32,9 +37,9 @@ Data Packs added:
 Mods removed: 
 - Better Biome Blend
 - Cloth API
-- Custom Entity Models Fork (CEM)
-- Custom Entity Models (CEM)
-- Dimension Fix (Some Forge Patches Ported)
+- Custom Entity Models Fork
+- Custom Entity Models
+- Dimension Fix
 - Erroring Entity Remover
 - Feature NBT Deadlock Be Gone
 - Hephaestus Fabric
@@ -50,6 +55,7 @@ Mods removed:
 - TieFix
 - Enhanced Block Entities
 - Amplified Nether
+- Memory Leak Fix [CF]
 
 Mods disabled: 
 - 
@@ -65,4 +71,7 @@ Mods updated:
 
 Config Changes: 
 = Disabled BetterX startup message: [BCLib], [Client]
+= Moved 'NoBushyLeaves' resourcepack into the regular resourcepack folder. Making it optional: [Client]
+= Made 'NoBushyLeaves' resourcepack be enabled by default: [Resource Pack Overrides], [Client]
+= Enabled connected textures by default: [Continuity], [Client]
 = : [mod], [Server]
