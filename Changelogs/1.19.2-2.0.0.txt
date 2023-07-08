@@ -17,6 +17,7 @@ Mods added:
 + owo-lib [New Dependency]
 + Incendium
 + Log More Info
++ fabric-permissions-api
 
 Mods re-enabled:
 + Raised
