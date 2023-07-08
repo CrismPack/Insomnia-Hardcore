@@ -198,7 +198,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "c965db9af38d175ae00a5cad58c7844e8385efd67957591fdadde69c8fc9c539"
+hash = "485c17000065ee81a4f59a1a79c541992bdd9a1f7f1ae47c8ee9bfc6dfb3e309"
 
 [[files]]
 file = "config/revive.json5"
@@ -258,7 +258,7 @@ hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
 [[files]]
 file = "config/yosbr/config/continuity.json"
-hash = "f59bb9447f03baa60f57e6bb0fdd8f39ce7d26f811560ec5e3bf2a876af6f656"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
@@ -315,10 +315,6 @@ hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
 hash = "1874fe4da35020858958398e8da52e5019549c1c8397ef15c981f3ae4be82330"
-
-[[files]]
-file = "global_packs/required_resources/NoBushyLeaves.zip"
-hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -1162,7 +1158,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismaticclaim.pw.toml"
-hash = "a6e33b66290b80281b0da1d0837631a1571d11c3ccc0a462b944fb25ac8bf4fc"
+hash = "9c1ea9b9de9f5186cb7ea2944a93103d3c41f691780dfdefd10d2a942ec35c7a"
 metafile = true
 
 [[files]]
@@ -1533,6 +1529,10 @@ metafile = true
 [[files]]
 file = "resourcepacks/GUI Reimagined-[v1.1].zip"
 hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
+
+[[files]]
+file = "resourcepacks/NoBushyLeaves.zip"
+hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
