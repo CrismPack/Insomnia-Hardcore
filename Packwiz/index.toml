@@ -198,7 +198,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "485c17000065ee81a4f59a1a79c541992bdd9a1f7f1ae47c8ee9bfc6dfb3e309"
+hash = "a9872fc0284d6042a43408ca4b3bf00e8eed70b54c58081f9743b699c73ae095"
 
 [[files]]
 file = "config/revive.json5"
@@ -302,7 +302,7 @@ hash = "92dcbb2d35cddf8b0f2fc8c58033a8469fd7fa69870e07f46955bdd8ec259322"
 
 [[files]]
 file = "config/zoomify.json"
-hash = "f17ef0190ff39ee3dd672cc15e80dbfaffd57885b1738b2c95d4ddfb43cfc973"
+hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
 file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
