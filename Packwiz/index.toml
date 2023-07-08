@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "3655ded66a74cad0a768291c10060faf5b0b307c2a1d2827a43aad482fd7201f"
+hash = "6275e0275d58fa55ee243a181b740575e47a7191279ecfa6303130af41a994cc"
 metafile = true
 
 [[files]]
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "bb5f1ffa5ed8b3e7b654df07df0551266bfd42500562301d39e2c0a718f53d59"
+hash = "c1d46ff7415bea16493b24f67d93c5a9bd690cc79238298758b04859789e9c87"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "b2bc57658f23e8ece8c061fbdbb79b6da90ffd607992566a3e547ef3215de79e"
+hash = "450d4f3c287018d4b22fe69cbc7f4893f33790079637519f71f95bfc8edf3f05"
 metafile = true
 
 [[files]]
@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fb3c05dadb90256a0117efc6154f7fa8c8fd01c66d462b3758f13b61cabdd722"
+hash = "1584c24561d1b84c8a0be57cdb1c36d4330014ffa43873d030d0ea191ec89c54"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion-fabric.pw.toml"
-hash = "5716ebb5933006fc19eaec7ad465bdba9df2b96f19df71c1ec83bdb8927ea227"
+hash = "3bee0ff75dd8ef64df21826c4f8b6737888c7fa47a9e31f4dc47f90dfe4b3d4f"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "04f4fdeea7d6d29539ae6581184fb469a525ef959c5cbff5b1ed6aad9040a644"
+hash = "f432b16e70ffeb1db5c1b1c8d1dccde934852a7c3e2083913c61677bb0a13d77"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "fdf9fcb6b28364ac569976ace4adcd7f4297ef1e0a37bd5652d4cbebe38faced"
+hash = "67c29ef6f322a11055a415ace1b54f415bf78fe73bdc3566ad5223d5622f14bf"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgotten-graves.pw.toml"
-hash = "20cf420d98af5431bfb986e4fb1c465508c9a1f3e71dd5a1ffb290045f7bed13"
+hash = "1394171361b57125bfcb04beaf08f8b0a451d90c668afcde2c57cf04b4026432"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "5dd0bfc974a8282f6c73d9bc5fc8a8ab2824d5807252333e33d198ad8ced92e0"
+hash = "bd9b56aa28bdbfeaa2ef5afd523ec131bb63f93901fb2f3a18922a689be279f8"
 metafile = true
 
 [[files]]
@@ -919,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "f396be330915b752f54dd166d6a73919ad77df4e410d9ae1f82e045c25c5d19f"
+hash = "1c2e16ce07e8c09c31ee6243dd3a02e80dbd612ae41325b8ac49f421726cd6ee"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "26fcbdfe3ea829c4506b1a48baced072b9669bbff6f738465ccfb6782e9b7645"
+hash = "def531fb177a97cac31c532319c3e35218358355801625e59efa89dfd687d499"
 metafile = true
 
 [[files]]
@@ -1033,6 +1033,11 @@ hash = "3afd9d2c491d179fad21bf536bc57bbd2cfc0ce8605f6bd2cb913ee861e0950c"
 metafile = true
 
 [[files]]
+file = "mods/log-more-info.pw.toml"
+hash = "62cc21df00a92698f3d7b569ea3848bc6ea0a2c42c36a8295fd1485449dda476"
+metafile = true
+
+[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "a80160377d220c8e9aa3026a4e68941af37d23713ca1787936a3c7c98cb22ca9"
 metafile = true
@@ -1044,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/mavm.pw.toml"
-hash = "0739dad2a98bfa53a4a0fd0795bede22d20d6a2d0dddfa85266b2b3cec0df560"
+hash = "185b5172521276c9499f5395296e64f8f83761539656ecf6e22629a2a751cc41"
 metafile = true
 
 [[files]]
@@ -1054,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "mods/memory-settings.pw.toml"
-hash = "19c5ceb19c9a1d698da851e13e04395fb52cf83a45d05eeff2b9413b0e7b0a3f"
+hash = "a91a26d51be68afa23855817b753dcd56fd9415b803162667ad6eead83e43ac6"
 metafile = true
 
 [[files]]
@@ -1134,12 +1139,12 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "e719454d3b9de52979adafb34583382ca46824f7ca1685ee5589d748e46f35a3"
+hash = "2a12fede80d8aa1e788fda98f34068fc080082a5ef0fffcb89b9d4f865909587"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "3592fc3890fb608fae9d85b9358c5e624d2caf1290773be21dec4d601fed1bb5"
+hash = "3160d2b2e7fb038d306794f4f2993109d943cfd418b293100f9ed7f5985c80f3"
 metafile = true
 
 [[files]]
@@ -1184,7 +1189,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph-fabric.pw.toml"
-hash = "2c47a34f1e9c1ea09dbc1c68f4644a32978485bc5237c87a4899f9bccc37bf1a"
+hash = "7531ed67008b55c1696038baa293d0eb41fdb758ac90c930b8db2c1581a48b06"
 metafile = true
 
 [[files]]
@@ -1204,12 +1209,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5b2f3428f3de15a4a7713637dbf2d3bb333cc73a03a53bf5db6a055c0fe035bd"
+hash = "a7a2599342362f2240a4f1fee7f090d9920a3af4c7937fc6237787e7e0aa05d0"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "78fea2be63e68859393ba52d8f640a41ba619dcf94a02f72e59eebfd21e0a54b"
+hash = "b2eb3354cc0504709d51e3c88bc4e3de2100e12420d5a58d770d86e8f4948727"
 metafile = true
 
 [[files]]
@@ -1259,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "2ecbb6aec4ee06de08381ccdbc96c4da8525d9825d4e4433bcd890882a234034"
+hash = "2e814adc30cfdcd79da5ef3a711335e953decddd9009af332e413e1edb045731"
 metafile = true
 
 [[files]]
@@ -1274,7 +1279,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7345fca2b2d9fcfe16f4f8da91a54e61fe8bec5ec17bfdec0ddc428232be4f16"
+hash = "59dfd3a775d0a8027b424896e53a06ae9fe9a4e50fd296377f67b565bce1ad70"
 metafile = true
 
 [[files]]
@@ -1289,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "ad6042e4db365e6be33c7562edf9a7f6a9373d389e408da2a25a35e2d0a8bca2"
+hash = "38a365cfb83c062d1dbc81c3248e5f3884e40c014a2d3bbbcd4c2e00768aa574"
 metafile = true
 
 [[files]]
@@ -1344,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "7af92f80bd5636b31363ec55e94fb0e657f7ee6e0e299160ebbcda0cafd41350"
+hash = "253c7725b71515690a839a4147e5bdeffb0981e6e2791d97ea49e89736ee3009"
 metafile = true
 
 [[files]]
@@ -1503,7 +1508,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "c145b7bd2158d9765cc1f8119cd19cac4af9a9c2385e57ba59c1aa181faa2a65"
+hash = "f6648f32142691592fe12bcda78d1332c869bc43471112784afc705f7cf8c3f4"
 metafile = true
 
 [[files]]

@@ -15,6 +15,11 @@ Mods added:
 + LibZ [New Dependency]
 + Carpet [New Dependency]
 + owo-lib [New Dependency]
++ Incendium
++ Log More Info
+
+Mods re-enabled:
++ Raised
 
 Resource Packs added:
 + Fresh Animations
@@ -43,6 +48,7 @@ Mods removed:
 - Status Effect Timer
 - TieFix
 - Enhanced Block Entities
+- Amplified Nether
 
 Mods disabled: 
 - 
