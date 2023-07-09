@@ -668,6 +668,11 @@ hash = "a5e06db439995ab7598658474517bfb6e45215ffe351fbb2f1375545885ae727"
 metafile = true
 
 [[files]]
+file = "mods/data-attributes.pw.toml"
+hash = "fc8b8ad583b8f31120f34a72aea565804f4abe87a232883a4fb421d8808310d2"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "42aa424ca423493f8fc20a7792761e64056dd25a5684cea7f6af25c3280f315c"
 metafile = true
@@ -1235,6 +1240,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c8847c0bc53d308abb70c1cc77aeebb72841b448faaf957159d708113e70fc9f"
+metafile = true
+
+[[files]]
+file = "mods/playerex.pw.toml"
+hash = "5c143d9a7d61b1917f3705d5d49bce4fc3af79747da1616344946c84b0c7da42"
 metafile = true
 
 [[files]]
