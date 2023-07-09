@@ -968,6 +968,16 @@ hash = "62692fdc42588b54e1f8b9a3075f2d80bf33bb946ad279ff5093aa48350e90c3"
 metafile = true
 
 [[files]]
+file = "mods/inmis.pw.toml"
+hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "e1695a22aeec45bec7bca8f46dba25b7fda2a3f5a4cc0d80222d2e721d432b32"
+metafile = true
+
+[[files]]
 file = "mods/interactic.pw.toml"
 hash = "9ce65a17d61d3e9d3d91ba81ddddf30371346036c907172b61260dc999c2ea6b"
 metafile = true
