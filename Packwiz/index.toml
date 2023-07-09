@@ -348,11 +348,6 @@ hash = "91b3205001c2d059aca57e199e84b428717dba550b6ba7a21067f5b67e7bb384"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58accb1b3e5102588ddc5665c91a1a9506c51b92170cf7330a5d6e8c03f46e15"
 metafile = true
@@ -638,6 +633,11 @@ hash = "7b178f63d6d9bcc3b8f376ff7769d0086a2dc92898763a111042a4505e551bab"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "ab70b04366b0890b287e409403acb550026c6c376c88858355037dadde8ed16f"
+metafile = true
+
+[[files]]
 file = "mods/custom-entity-models-cem-fork.pw.toml"
 hash = "9ef3841cedd48fe3b9955701c90d7a63850ea8a10b4b44f2d5e5517c524c4707"
 metafile = true
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
-hash = "d17f15efcdeeb80921f3f3fdbfb7128d30ed11f9af7259207abe3e40f9124f82"
+hash = "d2393d0c6f492679d1d6977b9e63fc6f32f48f10709394a4bbe371e502a416f2"
 metafile = true
 
 [[files]]
@@ -955,6 +955,11 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "00fa49468abfa5f13fa55a08602250f8f6d3c28167c6d7330f7a8aab727292b9"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "c1023e22bc3b7d2fdf3b19c57174ca54a0fbdd9bfc399ce46b92f4272cc6e5fa"
 metafile = true
 
 [[files]]
@@ -1478,6 +1483,11 @@ hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
 metafile = true
 
 [[files]]
+file = "mods/unfixed-seeds.pw.toml"
+hash = "c6c4844ed55ff5f542625b587dd75cb7cf4df45c1b63d17b40db3051c3617ff1"
+metafile = true
+
+[[files]]
 file = "mods/villagers-respawn.pw.toml"
 hash = "b17ac5e0c6b103f9178efa2c0eba0f18429a99b26cc904a05d6d6f08c94b6e86"
 metafile = true
@@ -1672,7 +1682,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "18ed94fc513ad05ddf352a36ae706664d0f529623b1ec8d97db915092b8618fd"
+hash = "d5876dc5dbcc5e01f522044c21c1c24de43ad1179e8d38a473039122ec42665a"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"

@@ -1,5 +1,7 @@
 v1.3.3
 
+#Warning!: If updating an existing world, make sure to delete the Nether dimension to avoid issues!
+
 Fabric version: Fabric-0.14.21
 Update overview: 
 ~ 
@@ -8,6 +10,9 @@ Mods added:
 + Log More Info
 + PlayerEx
 + Data Attributes
++ Incendium
++ Unfixed Seeds
++ Cristel Lib
 
 Resource/Shader Packs added:
 + 
@@ -16,7 +21,7 @@ Data Packs added:
 + 
 
 Mods removed: 
-- 
+- Amplified Nether
 
 Mods disabled: 
 - 
@@ -25,7 +30,32 @@ Data Packs removed:
 - 
 
 Mods updated: 
-> 
+> Alternate Current
+> BisectHosting Server Integration Menu
+> Collective
+> Create Fabric
+> Global Packs
+> Entity Texture Features
+> Fabric Language Kotlin
+> Fabric Waystones
+> Harvest with ease
+> Inventory Profiles Next
+> Iris & Oculus Flywheel Compat
+> Jade 🔍
+> libIPN
+> Memory Settings
+> Create Support for Open Parties and Claims
+> Open Parties and Claims
+> OptiGUI
+> Polymorph
+> Raised
+> Roughly Enough Items
+> Simple Voice Chat
+> SuperMartijn642's Config Lib
+> Terralith
+> TieFix
+> Xaero's World Map
+> Your Options Shall Be Respected
 
 Config Changes: 
 = : [mod], [Server]

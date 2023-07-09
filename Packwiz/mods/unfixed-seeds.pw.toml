@@ -1,0 +1,13 @@
+name = "Unfixed Seeds"
+filename = "unfixed-seeds-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d644be223c1b5cfb5f3abd6380e395604ff8df7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4561618
+project-id = 850322
