@@ -1,0 +1,11 @@
+name = "fabric-permissions-api"
+filename = "fabric-permissions-api-v0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/lucko/fabric-permissions-api/releases/download/v0.2/fabric-permissions-api-v0.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6534d79ae1b7f1bba3a967311f4ab2ae73ce9b756d865c5f2406e9e9bb7285f2"
