@@ -14,7 +14,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "76bba39b1898d752fc8e1075f6cc2b9845504a24f9b763f92a331f161a595167"
+hash = "b9c50fb0e81a2619aa3489b19569b5f2e4f4c481fb5465cffe76f9455bef34ae"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -813,6 +813,11 @@ hash = "67c29ef6f322a11055a415ace1b54f415bf78fe73bdc3566ad5223d5622f14bf"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "ee95b53ae0fc4e81d544b9d0e19246290d707643043ad2da77dde6014c9d42b3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-shield-lib.pw.toml"
 hash = "cd3ea214d126a9ee8d5b4086d41dd9635070a5b4a1cb4d0f63492bc052db4c10"
 metafile = true
@@ -1475,6 +1480,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
 hash = "43731697babc64a22b2151415c1067643585537d5ebec4d511e1b3a339561c21"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]

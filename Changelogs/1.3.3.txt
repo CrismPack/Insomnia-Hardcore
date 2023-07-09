@@ -15,6 +15,7 @@ Mods added:
 + Cristel Lib
 + Iris [MR]
 + Fabric Permissions API
++ Trinkets
 
 Resource/Shader Packs added:
 + 
