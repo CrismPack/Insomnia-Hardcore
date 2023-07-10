@@ -1348,6 +1348,11 @@ hash = "a112bdb92470fd0aa99235207e088cb228c525badc884c4dcd5250ed15e7b841"
 metafile = true
 
 [[files]]
+file = "mods/save-gear-on-death.pw.toml"
+hash = "0df64444cb4d375632c11aa81b2d60abed4d456540afc1459b35455dbd9f1c55"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "e2c1dcf70e457128c6b218acf990eec609261180106a00b0f1afa5297bbacad3"
 metafile = true
@@ -1484,7 +1489,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]

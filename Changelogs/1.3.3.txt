@@ -4,7 +4,9 @@ v1.3.3
 
 Fabric version: Fabric-0.14.21
 Update overview: 
-~ 
+~ Players now keep their armor and hotbar upon death.
+~ Added player leveling.
+~ Replaced 'Amplified Nether' with 'Incendium'
 
 Mods added:
 + Log More Info
@@ -16,6 +18,7 @@ Mods added:
 + Iris [MR]
 + Fabric Permissions API
 + Trinkets
++ Save Gear on Death
 
 Resource/Shader Packs added:
 + 
