@@ -1503,6 +1503,11 @@ hash = "43731697babc64a22b2151415c1067643585537d5ebec4d511e1b3a339561c21"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
+metafile = true
+
+[[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
 metafile = true

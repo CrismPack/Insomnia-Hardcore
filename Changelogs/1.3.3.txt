@@ -17,6 +17,7 @@ Mods added:
 + Incendium
 + Inmis
 + InmisAddon
++ Trinkets
 + Unfixed Seeds
 + Cristel Lib
 + Iris [MR]
