@@ -598,6 +598,11 @@ hash = "079adcdf7c240a19c1947789aa1964bb7ca4fbdcfd4a3beb592ec2b36c18bfc4"
 metafile = true
 
 [[files]]
+file = "mods/compact-help-command.pw.toml"
+hash = "9836cf9bc80a47ca5d9ba90ededefacfa135290550134150cde9a28064261d90"
+metafile = true
+
+[[files]]
 file = "mods/companion-fabric.pw.toml"
 hash = "57386627dec02f63b532eaf99142085dc6a20f1c5d28540dd91e266ea07ff7ee"
 metafile = true
@@ -680,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "f656cceafd2c7c50a3cca0997da62fdadad4a5525528dafccffc860f2b0f3ffa"
+metafile = true
+
+[[files]]
+file = "mods/default-server-properties.pw.toml"
+hash = "74faaca20c7f4ff4ac77506523348bf7748f67434191346f560e70a280bee338"
 metafile = true
 
 [[files]]
@@ -890,6 +900,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "e9ed2a5a9149be067a0b6a46b6ffb68020511a4192c8f16ddd164b4a1aca0d87"
+metafile = true
+
+[[files]]
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "f4ce79d79d2a5bc0c7a979341494365743adceecab63424803e4154537446e46"
 metafile = true
 
 [[files]]
@@ -1470,6 +1485,11 @@ metafile = true
 [[files]]
 file = "mods/tipthescales.pw.toml"
 hash = "0b44606c411fecc9a1f3925aec4432b488e35b6b546cba9d897c2e6fdbcc4495"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "b3c24a56657db972a5ce6c214a04e15d698e3eed8543cfcc2948eab145c26173"
 metafile = true
 
 [[files]]

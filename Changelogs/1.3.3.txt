@@ -5,8 +5,9 @@ v1.3.3
 Fabric version: Fabric-0.14.21
 Update overview: 
 ~ Players now keep their armor and hotbar upon death.
-~ Added player leveling.
+~ Added RPG style player leveling.
 ~ Replaced 'Amplified Nether' with 'Incendium'
+~ Fixed default properties file not being utilized when using a hosting service. [Server]
 
 Mods added:
 + Log More Info
@@ -17,8 +18,11 @@ Mods added:
 + Cristel Lib
 + Iris [MR]
 + Fabric Permissions API
-+ Trinkets
 + Save Gear on Death
++ Compact Help Command
++ Too Fast [Server]
++ Default Server Properties [Server]
++ FullStack Watchdog [Server]
 
 Resource/Shader Packs added:
 + 
@@ -29,6 +33,7 @@ Data Packs added:
 Mods removed: 
 - Amplified Nether
 - Iris [CF]
+- Carpet-Fixes (Can cause the server to hang)
 
 Mods disabled: 
 - 
@@ -65,4 +70,4 @@ Mods updated:
 > Your Options Shall Be Respected
 
 Config Changes: 
-= : [mod], [Server]
+= Moved the default properties file into the root of the server folder and renamed it to "default-server.properties": [Default Server Properties], [Server]
