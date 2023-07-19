@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
+hash = "524093ce697993fd7da9246c2101f3f182f4be829987dd1fd8c8fa79c2089a06"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "2dac3dc4ea96f05cdd06f92adb721bd26d267630fb2e623fb2e3c20fee98b8da"
+hash = "14d50a18c5e9291aa077ee5c15b9113c9671d84f01ce9e1eb823741acfecae81"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "1ee156927a7743dbd370fa2eba969271a6dd9e02241149d73beabe8e68bf2b21"
+hash = "65eaf97696355915fe309d815fe746259b7c6d7769257e7f500e515e34e51c51"
 metafile = true
 
 [[files]]
@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "7bca08e00b76fc37fdbc2c347ef62c0e87ed49ce2af2b1bada032cf41cc6f789"
+hash = "22163183120c5a9c8cbb3f64b2ef6bc6197e7cb43757894fdd450b7a5cb37a5c"
 metafile = true
 
 [[files]]
@@ -1309,7 +1309,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "97ae59b8f3dcab39d6af5f009b613c3283c11b4b62d8cdcc5be444a89f645445"
+hash = "ffea10c0df0efa6868faa1e170477abe1788811880c5c79f2fcec9b61572c427"
 metafile = true
 
 [[files]]
@@ -1334,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "70d8b14d81013347ea95083be58dc1d5873d187f82057bc38be594e23979a369"
+hash = "844e5947450c3e91bec4d24c26bb9da39ef87b67dfc6ba168611f8149842899a"
 metafile = true
 
 [[files]]
@@ -1374,7 +1374,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "97e138f996c5eb638aad26eefcf251fe1316de17e729a91af6bad1a0c57a43c1"
+hash = "d578bbb041107a3df7587b26f2b00c9e249f0f9b55d334a6b33266ad842efc98"
 metafile = true
 
 [[files]]
