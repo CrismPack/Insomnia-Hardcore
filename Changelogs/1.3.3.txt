@@ -8,6 +8,7 @@ Update overview:
 ~ Added RPG style player leveling.
 ~ Replaced 'Amplified Nether' with 'Incendium'
 ~ Fixed default properties file not being utilized when using a hosting service. [Server]
+~ Fixed lag when a new player joins. [Server]
 
 Mods added:
 + Log More Info
@@ -23,6 +24,7 @@ Mods added:
 + Too Fast [Server]
 + Default Server Properties [Server]
 + FullStack Watchdog [Server]
++ Very Many Players [Server]
 
 Resource/Shader Packs added:
 + 

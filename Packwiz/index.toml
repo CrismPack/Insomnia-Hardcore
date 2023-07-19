@@ -508,11 +508,6 @@ hash = "0e04ac8b40672fceaa51a209bbbd7374f99420e30b81ef3deca5fc17acae5321"
 metafile = true
 
 [[files]]
-file = "mods/carpet-fixes.pw.toml"
-hash = "bb38aebe2b268dee1f7cf053a052e906300cf3060e98d132ad215eb9304f1dda"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
 metafile = true
@@ -689,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-server-properties.pw.toml"
-hash = "74faaca20c7f4ff4ac77506523348bf7748f67434191346f560e70a280bee338"
+hash = "1cab34c1075860df973f47eb2895e5621d5b8813c34c584c24e7066dd37490e5"
 metafile = true
 
 [[files]]
@@ -904,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/fullstack-watchdog.pw.toml"
-hash = "f4ce79d79d2a5bc0c7a979341494365743adceecab63424803e4154537446e46"
+hash = "d5941a5506020f5cb815baf0d940ecef61f1ad9c7c1d2acc88a8e9e478b940b7"
 metafile = true
 
 [[files]]
@@ -1489,7 +1484,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-fast.pw.toml"
-hash = "b3c24a56657db972a5ce6c214a04e15d698e3eed8543cfcc2948eab145c26173"
+hash = "f943e37468ef15356ac1d261f3aacef53b30ad8b04bca841449aa78e2caf44ce"
 metafile = true
 
 [[files]]
@@ -1508,11 +1503,6 @@ hash = "43731697babc64a22b2151415c1067643585537d5ebec4d511e1b3a339561c21"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
-metafile = true
-
-[[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
 metafile = true
@@ -1525,6 +1515,11 @@ metafile = true
 [[files]]
 file = "mods/villagers-respawn.pw.toml"
 hash = "b17ac5e0c6b103f9178efa2c0eba0f18429a99b26cc904a05d6d6f08c94b6e86"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "e24660af95fee40d65befac891a57e3dda37e064d41b10a82d32ed2d689eb0c4"
 metafile = true
 
 [[files]]
