@@ -1,4 +1,4 @@
-v1.3.3
+v1.4.0
 
 #Warning!: If updating an existing world, make sure to delete the Nether dimension to avoid issues!
 

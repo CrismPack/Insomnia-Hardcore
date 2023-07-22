@@ -14,7 +14,11 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b9c50fb0e81a2619aa3489b19569b5f2e4f4c481fb5465cffe76f9455bef34ae"
+hash = "8655cfb4159d03201a34b5ca1fa57c8c6f0760bd3fa19c8634490cde6bbf2607"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "f6f185e54f4568d1b6e9e657e0f7ac83b5dd29796ecd93d27efe8a093852b681"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -54,7 +58,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dusk.json"
-hash = "7da062edd2a9cb42424ff5c57ba4dc3c1bc490b76aca28e9f4d00b54b092a624"
+hash = "fa98ee943cdb8ebff565530a07544032a952f8f2f94ee1bd340bac45d0ce15a1"
 
 [[files]]
 file = "config/endgoblintraders.toml"
@@ -988,16 +992,6 @@ hash = "62692fdc42588b54e1f8b9a3075f2d80bf33bb946ad279ff5093aa48350e90c3"
 metafile = true
 
 [[files]]
-file = "mods/inmis.pw.toml"
-hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
-metafile = true
-
-[[files]]
-file = "mods/inmisaddon.pw.toml"
-hash = "e1695a22aeec45bec7bca8f46dba25b7fda2a3f5a4cc0d80222d2e721d432b32"
-metafile = true
-
-[[files]]
 file = "mods/interactic.pw.toml"
 hash = "9ce65a17d61d3e9d3d91ba81ddddf30371346036c907172b61260dc999c2ea6b"
 metafile = true
@@ -1508,11 +1502,6 @@ hash = "43731697babc64a22b2151415c1067643585537d5ebec4d511e1b3a339561c21"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
-metafile = true
-
-[[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "5159cd2fbc35eedbf3f4ce377ed01b9412b1a7bcf141cd636ba791da08865a01"
 metafile = true
@@ -1722,7 +1711,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "d5876dc5dbcc5e01f522044c21c1c24de43ad1179e8d38a473039122ec42665a"
+hash = "63556338d86370db835249c95d7be82a6faf40b39cbf43cb94ed25936834dae6"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"
