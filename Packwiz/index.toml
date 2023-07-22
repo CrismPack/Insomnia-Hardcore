@@ -858,6 +858,11 @@ hash = "c7c5f4223dbbc5aa0bf523541f5bc644e50bb211b3e7059c4d00c0d47bb3e852"
 metafile = true
 
 [[files]]
+file = "mods/farsighted-mobs.pw.toml"
+hash = "9c7384b9e582cb13a4335aecc4f65a06822eab66c75afdb4e20ca1e76e52b082"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "4868e6e89468da8b94c88e7153028ab2b22c8454f2f75fe847d86fae7406910a"
 metafile = true
@@ -1215,6 +1220,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
 hash = "5bd687c12768ec0a0c5d00e55be80d7e0334ee9dfabbbea59a8a07d8379671f7"
+metafile = true
+
+[[files]]
+file = "mods/no-mob-farms.pw.toml"
+hash = "44fd721e8301d14fcd08bec1d1e5a854ac956c2e67e23ba7b83f24ad34a1dfd9"
 metafile = true
 
 [[files]]

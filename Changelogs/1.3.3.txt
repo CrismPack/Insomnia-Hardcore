@@ -5,10 +5,13 @@ v1.3.3
 Fabric version: Fabric-0.14.21
 Update overview: 
 ~ Players now keep their armor and hotbar upon death.
+~ Removed Gravestones/TotemOfPreserving.
 ~ Added RPG style player leveling.
 ~ Replaced 'Amplified Nether' with 'Incendium'
 ~ Fixed default properties file not being utilized when using a hosting service. [Server]
 ~ Fixed lag when a new player joins. [Server]
+~ Greatly nerfed the effectiveness of mob farms.
+~ Mobs now target you from further away.
 
 Mods added:
 + Log More Info
@@ -25,6 +28,8 @@ Mods added:
 + Default Server Properties [Server]
 + FullStack Watchdog [Server]
 + Very Many Players [Server]
++ No Mob Farms
++ Farsighted Mobs
 
 Resource/Shader Packs added:
 + 
@@ -76,5 +81,5 @@ Mods updated:
 Config Changes: 
 = Moved the default properties file into the root of the server folder and renamed it to "default-server.properties": [Default Server Properties], [Server]
 = Disabled TotemOfPreserving: [Charm], [Server]
-= Disabled "applyPatches": [BCLib], [Both]
+= Disabled "applyPatches" due to it causing issues with the new update of Terralith/Incendium: [BCLib], [Both]
 = Increased mob spawning at night from 30% to 50% above vanilla: [Dusk], [Server]

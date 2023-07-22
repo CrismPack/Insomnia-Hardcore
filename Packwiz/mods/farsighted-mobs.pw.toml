@@ -1,0 +1,13 @@
+name = "Farsighted Mobs (Fabric)"
+filename = "farsighted-mobs-fabric-1.1-1.18-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c3947544e80ec982eb5ba4b99a8a39174b4dfdf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3870884
+project-id = 410426
