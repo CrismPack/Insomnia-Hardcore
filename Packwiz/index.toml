@@ -883,11 +883,6 @@ hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
 metafile = true
 
 [[files]]
-file = "mods/forgotten-graves.pw.toml"
-hash = "cc47768cf658dc52d727291e4e17b8ebe6ee830bbf9c03b74e98da43f8ac000d"
-metafile = true
-
-[[files]]
 file = "mods/forgottenrecipes.pw.toml"
 hash = "48378b6092816dc7e9eca543e1286bf9b2937cadbf9e536acdcb7b4e8b18d2b2"
 metafile = true

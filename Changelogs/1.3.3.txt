@@ -36,6 +36,7 @@ Mods removed:
 - Amplified Nether
 - Iris [CF]
 - Carpet-Fixes (Can cause the server to hang)
+- Forgotten Graves
 
 Mods disabled: 
 - 
@@ -74,3 +75,6 @@ Mods updated:
 
 Config Changes: 
 = Moved the default properties file into the root of the server folder and renamed it to "default-server.properties": [Default Server Properties], [Server]
+= Disabled TotemOfPreserving: [Charm], [Server]
+= Disabled "applyPatches": [BCLib], [Both]
+= Increased mob spawning at night from 30% to 50% above vanilla: [Dusk], [Server]
