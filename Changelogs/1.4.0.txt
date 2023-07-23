@@ -95,3 +95,4 @@ Config Changes:
 = Set max distance to 5000: [RandomTP], [Server]
 = Set cooldown to 300: [RandomTP], [Server]
 = Removed line that sets the spawnRadius gamerule upon load: [Insomnia Respawn], [Server]
+= Added a clock to the list of starter items: [Starter Items], [Server]
