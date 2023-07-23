@@ -55,7 +55,7 @@
 #Ebony is a very dark grey wood. Saplings can be found in Woodland Mansion chests.
 "EbonyWood Enabled" = true
 #Right-click on a sign with an empty hand to edit its text.
-"EditableSigns Enabled" = true
+"EditableSigns Enabled" = false
 #Endermites drop endermite powder that can be used to locate an End City.
 "EndermitePowder Enabled" = true
 #Adds crimson and warped wood boats.
