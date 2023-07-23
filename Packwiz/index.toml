@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/health-overlay-fabric.pw.toml"
-hash = "2b0b97a3eb8576a23b4f39f9e2d35687838ecb88e5a8a559e165510129a68268"
+hash = "6a6bee4c667f75dfeb162edd441e1ce69373bc14357fc1904aa1c7c9cb2009f3"
 metafile = true
 
 [[files]]
