@@ -98,3 +98,5 @@ Config Changes:
 = Added a clock to the list of starter items: [Starter Items], [Server]
 = Changed to use vanillas spreadplayers system, since it provides more safe teleportation: [Starter Items], [Server]
 = Disabled "EditableSigns". This is to prevent changing the text in the starter structure: [Charm], [Server]
+= Disabled most keybinds from the mod by default: [Inventory Profiles Next], [Client]
+= Disabled villager trading component by default: [Inventory Profiles Next], [Client]
