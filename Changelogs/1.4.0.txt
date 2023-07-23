@@ -96,3 +96,4 @@ Config Changes:
 = Set cooldown to 300: [RandomTP], [Server]
 = Removed line that sets the spawnRadius gamerule upon load: [Insomnia Respawn], [Server]
 = Added a clock to the list of starter items: [Starter Items], [Server]
+= Changed to use vanillas spreadplayers system, since it provides more safe teleportation: [Starter Items], [Server]
