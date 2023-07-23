@@ -23,6 +23,7 @@
     "16 minecraft:torch",
     "8 minecraft:potion {Potion:\u0027recallpotion:recall\u0027}",
     "minecraft:potion {Potion:\u0027minecraft:supportive_revivify_potion\u0027}",
+    "minecraft:clock",
     "minecraft:written_book {author:\"CrismPack\",pages:[\"\u0027Potion of Recall\u0027: Drinking this potion teleports you to your home bed! (You need to have attempted to sleep in the bed first)\"],resolved:1b,title:\"Recall\"}",
     "minecraft:written_book {author:\"CrismPack\",pages:[\"\u0027Potion of Supportive Revivify\u0027: Using this potion on a fallen ally will bring them back from the brink of death! (Drinking it has no affects)\"],resolved:1b,title:\"Revivify\"}",
     "immersive_armors:wooden_helmet",
