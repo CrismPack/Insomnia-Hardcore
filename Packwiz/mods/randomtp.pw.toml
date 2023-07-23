@@ -1,0 +1,13 @@
+name = "RandomTP"
+filename = "randomtp-6.3.0+1.18-fabric.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "3ab07226f811d66d406ff9ab8cb5962b75414ead"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4557731
+project-id = 354834

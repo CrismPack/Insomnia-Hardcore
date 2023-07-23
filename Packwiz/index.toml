@@ -14,7 +14,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8655cfb4159d03201a34b5ca1fa57c8c6f0760bd3fa19c8634490cde6bbf2607"
+hash = "03ee98ec00c45de0160de08fe8c2e9dbd54dce9f18cd8dc7c3682fddb9951abf"
 
 [[files]]
 file = "config/bclib/main.json"
@@ -225,6 +225,14 @@ file = "config/starterkit/starterkit.txt"
 hash = "8210d4ee26dd22644511e3e98fcdc5872ed45460cd1fe075e13ae0735e424ad6"
 
 [[files]]
+file = "config/starterstructure.json5"
+hash = "d160355f138e8285988f6375670f23c850a242f7d930f3fd2be2669877b0ef81"
+
+[[files]]
+file = "config/starterstructure/schematics/InsomniaSpawn.schem"
+hash = "1d70481894dfa5f4649cea93163adcf132a16c93a3c38d5a4e75ddc77c5e1c58"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "14517377fb2dd13bb65a287472b2f2a3d4b0d9547380a2744ca630fa7ef7dc49"
 
@@ -407,11 +415,6 @@ hash = "249447b59ab2f738d4554ec853681741e340a9567ead02f3b83232a6c3104196"
 metafile = true
 
 [[files]]
-file = "mods/basic-shields-fabric.pw.toml"
-hash = "103ea177e72231aae9c6878d6fd77fa149a7948844e66bf6856b19859334fa12"
-metafile = true
-
-[[files]]
 file = "mods/bclib.pw.toml"
 hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
 metafile = true
@@ -544,11 +547,6 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "f315d7054a2af1da81d5f93be84dce68484fd9546d4d8200f5cf6d43aa5d4082"
 metafile = true
 
 [[files]]
@@ -824,11 +822,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-permissions-api.pw.toml"
 hash = "ee95b53ae0fc4e81d544b9d0e19246290d707643043ad2da77dde6014c9d42b3"
-metafile = true
-
-[[files]]
-file = "mods/fabric-shield-lib.pw.toml"
-hash = "cd3ea214d126a9ee8d5b4086d41dd9635070a5b4a1cb4d0f63492bc052db4c10"
 metafile = true
 
 [[files]]
@@ -1207,6 +1200,11 @@ hash = "9ceadffba42a6e625fd97d153be73f1d155f5cdda07dd1c970f9eca9e23a1ae8"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "f82c3ffbbfbb5d9007ad3de6482e4c2f3ad8f1811301635969c03a80d6e63553"
+metafile = true
+
+[[files]]
 file = "mods/nether-portal-spread.pw.toml"
 hash = "b05cb322ee3ec0bf2424bd82c86d06dc23cd00e21480eaad9f3857b57744fa59"
 metafile = true
@@ -1309,6 +1307,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "ffea10c0df0efa6868faa1e170477abe1788811880c5c79f2fcec9b61572c427"
+metafile = true
+
+[[files]]
+file = "mods/randomtp.pw.toml"
+hash = "ab28c36f84e2bd41cb078f4b6dbc32a761095d0e2b386e8dc1f411e1c6bd0e23"
 metafile = true
 
 [[files]]
@@ -1424,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "c9dced8cd576a9e1a2a223ed5526136be3949837ee6c3ea00e08451818b306ab"
+metafile = true
+
+[[files]]
+file = "mods/starter-structure.pw.toml"
+hash = "ed933ca1b31bdf975c6d96416fe67aac60411eb2452938979811ca7daf357464"
 metafile = true
 
 [[files]]
