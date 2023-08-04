@@ -66,18 +66,22 @@ Mods updated:
 > Entity Texture Features
 > Fabric Language Kotlin
 > Fabric Waystones
+> FancyMenu
 > Harvest with ease
+> Immersive Armors
 > Inventory Profiles Next
 > Iris & Oculus Flywheel Compat
 > Jade 🔍
 > libIPN
 > Memory Settings
+> Name Pain
 > Create Support for Open Parties and Claims
 > Open Parties and Claims
 > OptiGUI
 > Polymorph
 > Raised
 > Roughly Enough Items
+> Simple Discord RPC
 > Simple Voice Chat
 > SuperMartijn642's Config Lib
 > Terralith
