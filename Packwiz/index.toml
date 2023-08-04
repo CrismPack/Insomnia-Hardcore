@@ -9,6 +9,14 @@ file = "config/Prefab.json"
 hash = "656ea21d3acce17195962e71a60a497f9e40f8bcd6d1dab0535436f1dada8c62"
 
 [[files]]
+file = "config/RandomTP/config.yml"
+hash = "9414e017018ed55add56532e54c04bb8d919a5aab21a2eab91ef8fce8a4d6421"
+
+[[files]]
+file = "config/RandomTP/messages.yml"
+hash = "3e3dcde5510f76d9396d170f9639cfeb056aa5f2deb11300b0bae4a52b2095f0"
+
+[[files]]
 file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
@@ -274,7 +282,7 @@ hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "279461599358b77d2a8b3bcebe1c67801b581a2967d3aa8b510387322636aa8f"
+hash = "88bc1fb96273806d1487b8a26062c2de1a20473fa0937d8b26be7351d4dc3a46"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
@@ -921,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/health-overlay-fabric.pw.toml"
-hash = "6a6bee4c667f75dfeb162edd441e1ce69373bc14357fc1904aa1c7c9cb2009f3"
+hash = "2b0b97a3eb8576a23b4f39f9e2d35687838ecb88e5a8a559e165510129a68268"
 metafile = true
 
 [[files]]
@@ -1311,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/randomtp.pw.toml"
-hash = "ab28c36f84e2bd41cb078f4b6dbc32a761095d0e2b386e8dc1f411e1c6bd0e23"
+hash = "e98cdc05118236c6e17a8aff0c1724f15bcf81ade4953ca35372c42522254674"
 metafile = true
 
 [[files]]

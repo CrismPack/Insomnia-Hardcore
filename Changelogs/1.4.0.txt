@@ -2,7 +2,7 @@ v1.4.0
 
 #Warning!: If updating an existing world, make sure to delete the Nether dimension to avoid issues!
 
-Fabric version: Fabric-0.14.21
+Fabric version: Fabric-0.14.22
 Update overview: 
 ~ Added RPG style attribute leveling.
 ~ Players now keep their armor and hotbar upon death.
