@@ -1,6 +1,6 @@
 name = "Starter Structure"
 filename = "starterstructure-1.18.2-3.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
