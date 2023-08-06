@@ -35,6 +35,7 @@ Mods added:
 + RandomTP [Server]
 + Starter Structure [Server]
 + Neruina - Ticking Entity Fixer
++ Basic Shields - Enchantless Fork
 
 Resource/Shader Packs added:
 + 
@@ -48,7 +49,6 @@ Mods removed:
 - Carpet-Fixes (Can cause the server to hang)
 - Forgotten Graves
 - Basic Shields
-- Fabric Shield Lib
 
 Mods disabled: 
 - 

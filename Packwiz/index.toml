@@ -423,6 +423,11 @@ hash = "249447b59ab2f738d4554ec853681741e340a9567ead02f3b83232a6c3104196"
 metafile = true
 
 [[files]]
+file = "mods/basic-shields-enchantless.pw.toml"
+hash = "1f5c5bb643ff4d20534dcd5143e9a415fe531ebb63718f6e790ba859c34fb0cf"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
 metafile = true
@@ -830,6 +835,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-permissions-api.pw.toml"
 hash = "ee95b53ae0fc4e81d544b9d0e19246290d707643043ad2da77dde6014c9d42b3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-shield-lib.pw.toml"
+hash = "cd3ea214d126a9ee8d5b4086d41dd9635070a5b4a1cb4d0f63492bc052db4c10"
 metafile = true
 
 [[files]]
