@@ -50,7 +50,7 @@ hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 
 [[files]]
 file = "config/charm.toml"
-hash = "1b9bdfa0fc3e4e96864a49d1a38815cf3411c63a167176c809a1347c6e8b0e57"
+hash = "01b0705fb8a8cf39e76602779dc8f645441cdbba95d60c26b50a3952c84a2541"
 
 [[files]]
 file = "config/chatpatches.json"
@@ -1449,7 +1449,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-structure.pw.toml"
-hash = "ed933ca1b31bdf975c6d96416fe67aac60411eb2452938979811ca7daf357464"
+hash = "003abf1e22a109b02db66deba7cc0da6939e7746445bb003148a433478914bfb"
 metafile = true
 
 [[files]]

@@ -100,7 +100,7 @@ Config Changes:
 = Set cooldown to 300: [RandomTP], [Server]
 = Removed line that sets the spawnRadius gamerule upon load: [Insomnia Respawn], [Server]
 = Added a clock to the list of starter items: [Starter Items], [Server]
-= Changed to use vanillas spreadplayers system, since it provides more safe teleportation: [RandomRTP], [Server]
+= Changed to use the vanilla spreadplayers system, since it provides more safe teleportation: [RandomRTP], [Server]
 = Disabled "EditableSigns". This is to prevent changing the text in the starter structure: [Charm], [Server]
 = Disabled most keybinds from the mod by default: [Inventory Profiles Next], [Client]
 = Disabled villager trading component by default: [Inventory Profiles Next], [Client]
