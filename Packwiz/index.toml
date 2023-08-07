@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "5aafa1c8e0f88863a59ae8587d56143df732a42d94325ae8116579f64f39ff24"
+hash = "c047c7044196b3f6f9b1630cc03fac85cd016a6aa176f60a9eba1fa5d51617c1"
 metafile = true
 
 [[files]]
@@ -515,11 +515,6 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "75bd2057f7a530765c35834444a11db0c9ead15941e39ec4c9bbc5742ab2214f"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "c312819d856814e63d3a944264f9bbb9f05e8bad527f38d9701c006682bf2b9a"
 metafile = true
 
 [[files]]
@@ -894,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "cfa604a86b1aedda3db3d7366b88fc849abd9566865a4b9ade159f7aa412a373"
+hash = "483d209bb61491ec72c5f20c4a3e9d37ac2a1e67516f9f1886448c76d940ba31"
 metafile = true
 
 [[files]]
@@ -1214,7 +1209,22 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "0aa8fe37b370103fc254fcca904b65be04f281c5815cd93e1423e63d25d71c8b"
+hash = "f0f1cf14a8393853f7ae305d7a6191777e5fe87bdd221bef51f201615c431e7e"
+metafile = true
+
+[[files]]
+file = "mods/raisedxappleskin.pw.toml"
+hash = "259cf9df766284377bf4a1dcaa86919302578d2e4afa6539da62640155e74f80"
+metafile = true
+
+[[files]]
+file = "mods/raisedxdetailarmorbar.pw.toml"
+hash = "7fb0957b087f089fa36aa09a3d0793f2003bd140f8d72974da4b7c16eba08a6a"
+metafile = true
+
+[[files]]
+file = "mods/raisedxinventoryprofilesnext.pw.toml"
+hash = "9cba51575e6e6d8625478ee8726a2e176f4608a3ffad4804c2ed8a77a27f46c7"
 metafile = true
 
 [[files]]

@@ -78,6 +78,7 @@ Mods removed:
 - ThonkUtil
 - Unfixed Seeds
 - WMITAF
+- Carpet
 
 Mods disabled: 
 - Basic Shields Fork
