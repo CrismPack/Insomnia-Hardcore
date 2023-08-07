@@ -1,13 +1,13 @@
 name = "Mo Glass"
-filename = "Mo-Glass-1.6.1-MC1.18.2.jar"
+filename = "Mo-Glass-1.6.1-MC1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2ff731493d46ecaa47685beda497b9d650dcc411"
+hash = "9c675a3826b3cd5714146022825811cb4140da07"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3667477
+file-id = 4582463
 project-id = 353426

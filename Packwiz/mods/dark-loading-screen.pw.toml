@@ -1,13 +1,13 @@
 name = "Dark Loading Screen"
-filename = "dark-loading-screen-1.6.11.jar"
+filename = "dark-loading-screen-1.6.14.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "4f93411b34bc03e6b6af00f70a6f45190aad9ba7"
+hash = "c6ce1e2c34fe4a412183431ea6b323e5e6eaf8f0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3470993
+file-id = 4557703
 project-id = 365727

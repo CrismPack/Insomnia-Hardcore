@@ -1,13 +1,13 @@
 name = "Starter Structure"
-filename = "starterstructure-1.18.2-3.1.jar"
+filename = "starterstructure-1.20.1-3.1.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "3c369eb53cf9d0b0ad18c0f064f65ec013a64923"
+hash = "b1aa620f89e0570a877ae0a7ffafb6645ca640ae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4423213
+file-id = 4583486
 project-id = 746391

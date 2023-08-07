@@ -1,6 +1,6 @@
 name = "Villagers Respawn  (Now with FORGE and FABRIC versions)"
 filename = "fabric-villagersrespawn-1.18-5.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

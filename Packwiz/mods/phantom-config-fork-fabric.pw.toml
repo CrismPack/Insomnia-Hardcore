@@ -1,0 +1,13 @@
+name = "Phantom Config Fork [Fabric]"
+filename = "PhantomConfigFork-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4df77905fda46c6099d06ea21145597fece9bddf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4686875
+project-id = 899718

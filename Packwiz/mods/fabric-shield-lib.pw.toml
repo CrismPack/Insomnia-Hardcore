@@ -1,6 +1,6 @@
 name = "Fabric Shield Lib"
 filename = "FabricShieldLib-1.7-1.18.2.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

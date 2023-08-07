@@ -1,13 +1,13 @@
 name = "HerdsPanic"
-filename = "herdspanic-1.0.5.jar"
+filename = "herdspanic-1.0.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9bc9463695298f600e05b9873917743f6f4d29c6"
+hash = "26af19c47e4537a08fd13080cd338c55beab0a12"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3793599
+file-id = 4656280
 project-id = 429383

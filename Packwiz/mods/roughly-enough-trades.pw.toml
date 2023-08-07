@@ -1,6 +1,6 @@
 name = "Roughly Enough Trades"
 filename = "RoughlyEnoughTrades-1.1.1.jar"
-side = "client"
+side = "none"
 
 [download]
 hash-format = "sha1"

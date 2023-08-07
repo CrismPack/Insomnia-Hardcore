@@ -1,6 +1,6 @@
 name = "Basic Shields - Enchantless Fork [Fabric]"
 filename = "BasicShieldsFork-1.3.2-1.18.2.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

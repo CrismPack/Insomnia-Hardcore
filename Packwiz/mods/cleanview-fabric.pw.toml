@@ -1,13 +1,13 @@
 name = "CleanView (Fabric)"
-filename = "CleanView-1.18.2-v1-fabric.jar"
+filename = "cleanview-1.20.1-v1-fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "95d8414e3f30f3132860bd14d1ffad8acd960b1b"
+hash = "289fb1924ef9b6da83e5bd44401b97aae27d2209"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3668269
+file-id = 4592938
 project-id = 375465

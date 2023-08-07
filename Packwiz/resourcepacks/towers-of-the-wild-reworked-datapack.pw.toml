@@ -1,5 +1,5 @@
 name = "Towers of the Wild: Reworked (Datapack)"
-filename = "Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip"
+filename = "Towers_Of_The_Wild_Reworked_v4.0.2_Waystones.zip"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3736817
+file-id = 3923468
 project-id = 606254

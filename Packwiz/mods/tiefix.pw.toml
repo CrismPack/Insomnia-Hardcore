@@ -1,13 +1,13 @@
 name = "TieFix"
-filename = "TieFix-1.10.0.jar"
+filename = "TieFix-1.14.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "351e3ad97d6bf4eec562c16a3523fc676bace039"
+hash = "05376a4be257cc5fe3fae7a1f9a042fe30fa3b78"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3741788
+file-id = 4575192
 project-id = 560957

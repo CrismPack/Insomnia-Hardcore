@@ -1,6 +1,6 @@
 name = "PlayerEx"
 filename = "playerex-3.4.2.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

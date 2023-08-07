@@ -1,13 +1,13 @@
 name = "Revive"
-filename = "revive-1.0.3.jar"
+filename = "revive-1.0.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a3f7adf54bc75bc6d0994e0e19ddebbcd10b8e7b"
+hash = "96f0c7e845ab66fbc413dd0854c4eab09b911a57"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3745883
+file-id = 4656297
 project-id = 533879

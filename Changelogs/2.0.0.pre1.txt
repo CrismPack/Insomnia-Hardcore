@@ -1,0 +1,97 @@
+v2.0.0.pre1
+
+Fabric version: Fabric-0.14.22
+Update overview: 
+~ 
+
+Mods added:
++ Entity Model Features
++ Colorful Hearts
++ Improved Stations Updated
++ Model Gap Fix
++ Show Me What You Got
++ Leaves Be Gone
++ Lithium [MR]
++ Branded Logs
++ Memory Leak Fix [MR]
++ Mod Menu [MR]
++ Sodium [MR]
++ Status Effect Bars
+
+Resource/Shader Packs added:
++ Fresh Animations
+
+Data Packs added:
++ 
+
+Mods removed: 
+- Advancements Debug
+- Better Biome Blend
+- Bygone Nether
+- Cloth API
+- Custom Entity Models Fork
+- Custom Entity Models
+- Data Attributes
+- Decorative Blocks
+- Dense Ores: Refabricated
+- Dimension Fix (Some Forge Patches Ported)
+- Droplight
+- Erroring Entity Remover
+- Feature NBT Deadlock Be Gone
+- Forgotten Recipes
+- Goblin Traders
+- Health Overlay
+- Hephaestus Fabric
+- I Know What I'm Doing
+- Illuminations 🔥
+- Improved Stations
+- Ingredient Extension API
+- InvMoveCompats
+- It Takes a Pillage
+- Item Model Fix
+- ItemFlexer
+- Leaf Decay
+- Lithium [CF]
+- Log More Info
+- Memory Leak Fix [CF]
+- Mining Dimensions
+- Mo' Structures
+- Mod Menu [CF]
+- Nears
+- No Mob Farms
+- Phantom Config
+- Create Support for Open Parties and Claims
+- Pling
+- Prefab
+- Recall Potion Backport
+- Red Bits
+- Save Gear on Death
+- Sodium [CF]
+- Status Effect Timer
+- Stoneholm, Underground Villages
+- ThonkUtil
+- Unfixed Seeds
+- WMITAF
+
+Mods disabled: 
+- Basic Shields Fork
+- Fabric Shield Lib
+- Charm
+- Create Fabric
+- Damage Tilt
+- InvMove
+- LambdaBetterGrass
+- PlayerEx
+- Roughly Enough Resources
+- Traveler's Titles
+- True Darkness
+- Villagers Respawn
+
+Resource Packs removed:
+- Fresh Animations CEM fork
+
+Mods updated: 
+> 
+
+Config Changes: 
+= : [mod], [Server]

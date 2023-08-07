@@ -1,5 +1,5 @@
 name = "Saplanting"
-filename = "saplanting-fabric-1.18.2-1.2.4.jar"
+filename = "saplanting-fabric-1.20-1.2.4.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4118932
+file-id = 4577647
 project-id = 576864

@@ -1,13 +1,13 @@
 name = "Adorn"
-filename = "Adorn-3.5.0+1.18.2-fabric.jar"
+filename = "Adorn-5.0.0+1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "54dc846236010b1e22bfdb6b7d06a669f6ccfb5a"
+hash = "62233b35e52e155e165060475484cb740534121c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3796954
+file-id = 4596872
 project-id = 320215

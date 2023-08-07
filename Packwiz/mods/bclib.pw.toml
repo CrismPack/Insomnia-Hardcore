@@ -1,13 +1,13 @@
 name = "BCLib"
-filename = "bclib-1.4.7.jar"
+filename = "bclib-3.0.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "afc507e93908f0f27fcf68f333370264c8d49716"
+hash = "4850fbc25fa1f2217916155ed354579af1c15205"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3814359
+file-id = 4677965
 project-id = 495191

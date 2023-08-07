@@ -1,13 +1,13 @@
 name = "Starter Items, Messages, and Commands"
-filename = "starteritems-1.5.6-1.18.2.jar"
+filename = "starteritems-3.0-1.20.1.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "5c439af333eead01afffda8367125b285b387901"
+hash = "76acaece3afa2c63e71702d1ee12017881fe0d50"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3895681
+file-id = 4627692
 project-id = 602553

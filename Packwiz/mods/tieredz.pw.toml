@@ -1,13 +1,13 @@
 name = "TieredZ"
-filename = "tiered-1.1.1.jar"
+filename = "tiered-1.2.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a4e0a886f4cd3356a451be5c2c9e5ce9d4e1124b"
+hash = "b7b2d1cf23c5149ce3486ff1ce4b67a533b3c89f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4034606
+file-id = 4686489
 project-id = 615948

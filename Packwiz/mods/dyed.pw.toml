@@ -1,13 +1,13 @@
 name = "Dyed"
-filename = "dyed-fabric-1.18.2-1.1.2.jar"
+filename = "dyed-fabric-23w18a-1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a6828c9fcef34f8fb7e1c7a650c4d79d130f8a35"
+hash = "d8a384f07ed406ef9ecd58a72c9dd74e048741c3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4524242
+file-id = 4524249
 project-id = 577468

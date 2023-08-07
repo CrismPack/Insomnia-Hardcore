@@ -1,6 +1,6 @@
 name = "Create Fabric"
 filename = "create-fabric-0.5.1-b-build.1088+mc1.18.2.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"
