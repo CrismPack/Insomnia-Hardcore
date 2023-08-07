@@ -17,6 +17,12 @@ Mods added:
 + Mod Menu [MR]
 + Sodium [MR]
 + Status Effect Bars
++ CraterLib [New dependency]
++ Cupboard [New dependency]
++ LibZ [New dependency]
++ Searchables [New dependency]
++ Moonlight Lib [New dependency]
++ oωo [New dependency]
 
 Resource/Shader Packs added:
 + Fresh Animations
