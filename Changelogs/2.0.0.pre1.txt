@@ -111,4 +111,5 @@ Config Changes:
 = Made 'Tissou's Zombie Pack' optional: [Resource Pack Overrides], [Client]
 = Fixed villager texture override to now use textures from the official 'Fresh Animations' resourcepack instead of the fork: [Insomnia Textures], [Client]
 = Replaced LargeImageKey with its GIF variant: [Simple Discord RPC], [Client]
+= Fixed config to match behavior in 1.18 version of the modpack: [Zoomify], [Client]
 = : [mod], [Server]
