@@ -104,4 +104,5 @@ Mods updated:
 Config Changes: 
 = Removed 'mp_fix' customization, since it is no longer needed: [FancyMenu], [Client]
 = Changed Discord RPC to use its own "Insomnia: Hardcore" application: [Simple Discord RPC], [Client]
+= Disabled BetterX startup message: [BCLib], [Client]
 = : [mod], [Server]
