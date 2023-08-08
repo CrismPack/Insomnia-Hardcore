@@ -23,7 +23,7 @@
 	#Image Keys
 	[[custom.variables]]
         name = "largeImageKey"
-        value = "insomnia"
+        value = "https://i.imgur.com/ut5KY0I.gif"
     [[custom.variables]]
         name = "smallImageKey"
         value = "https://i.imgur.com/alFUtQ5.png"
@@ -31,10 +31,10 @@
 	#Image Text:
     [[custom.variables]]
         name = "largeImageText"
-        value = "Minecraft %mcver% with mods"
+        value = "Insomnia: Hardcore - Minecraft %mcver%"
 	[[custom.variables]]
         name = "smallImageText"
-        value = "A modpack by CrismPack"
+        value = "Crism Modpacks"
 
 #The Game Loading event
 [init]
