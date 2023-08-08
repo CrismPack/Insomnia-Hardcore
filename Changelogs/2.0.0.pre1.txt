@@ -2,7 +2,8 @@ v2.0.0.pre1
 
 Fabric version: Fabric-0.14.22
 Update overview: 
-~ 
+~ Migration to 1.20.1
+~ Removed/disabled mods that are unavailable.
 
 Mods added:
 + Entity Model Features
@@ -101,4 +102,5 @@ Mods updated:
 > 
 
 Config Changes: 
+= Removed 'mp_fix' customization, since it is no longer needed: [FancyMenu], [Client]
 = : [mod], [Server]

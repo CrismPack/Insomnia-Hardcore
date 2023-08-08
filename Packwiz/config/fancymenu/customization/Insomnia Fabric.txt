@@ -71,11 +71,6 @@ customization {
 }
 
 customization {
-  identifier = %id=376310%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
@@ -171,11 +166,6 @@ customization {
 }
 
 customization {
-  identifier = %id=352394%
-  action = hidebutton
-}
-
-customization {
   orientation = top-left
   hidden = true
   x = 2
@@ -249,35 +239,33 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = opengui
+  buttonaction = opengui;com.terraformersmc.modmenu.gui.ModsScreen%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Mods
   loopbackgroundanimations = true
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 102
   width = 98
-  actionid = 609d582a-4470-464e-808c-2afcfed905951640212186992
   action = addbutton
+  actionid = 609d582a-4470-464e-808c-2afcfed905951640212186992
   y = 72
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
-  value = com.terraformersmc.modmenu.gui.ModsScreen
   height = 20
 }
 
 customization {
   orientation = bottom-centered
   restartbackgroundanimations = true
-  buttonaction = quitgame
+  buttonaction = quitgame;%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\longbutton_hover.png
   label = Quit Game
   loopbackgroundanimations = true
   x = -100
   width = 200
-  actionid = 635061a9-4a2c-4e09-827a-c80e6e1c00431640259329580
   action = addbutton
+  actionid = 635061a9-4a2c-4e09-827a-c80e6e1c00431640259329580
   y = -21
   backgroundnormal = resources\mainmenu\longbutton_normal.png
-  value = 
   height = 20
 }
 
@@ -309,25 +297,24 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://bisecthosting.com/CRISM%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Need a server?
   loopbackgroundanimations = true
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 102
   width = 98
-  actionid = ebbf54ed-5a92-417f-b1d8-91dfa72942fb1656430679625
   action = addbutton
+  actionid = ebbf54ed-5a92-417f-b1d8-91dfa72942fb1656430679625
   y = 48
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
-  value = https://bisecthosting.com/CRISM
   height = 20
 }
 
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://wiki.crismpack.net/modpacks/insomnia-hardcore/getting-started-guide%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\crism_hover.png
   label = 
   loopbackgroundanimations = true
@@ -335,18 +322,17 @@ customization {
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 90
   width = 20
-  actionid = 57ea1ba4-daed-4c06-b39b-0f0aab1449071667862956386
   action = addbutton
+  actionid = 57ea1ba4-daed-4c06-b39b-0f0aab1449071667862956386
   y = 96
   backgroundnormal = resources\mainmenu\crism_normal.png
-  value = https://wiki.crismpack.net/modpacks/insomnia-hardcore/getting-started-guide
   height = 20
 }
 
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://wiki.crismpack.net/modpacks/insomnia-hardcore/changelog%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\changelog_hover.png
   label = 
   loopbackgroundanimations = true
@@ -354,18 +340,17 @@ customization {
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 66
   width = 20
-  actionid = ebe28cf8-b54e-4c69-8449-f6e8e7016ebb1640212186938
   action = addbutton
+  actionid = ebe28cf8-b54e-4c69-8449-f6e8e7016ebb1640212186938
   y = 96
   backgroundnormal = resources\mainmenu\changelog_normal.png
-  value = https://wiki.crismpack.net/modpacks/insomnia-hardcore/changelog
   height = 20
 }
 
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = opengui
+  buttonaction = opengui;com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\longbutton_hover.png
   label = Official Server | %serverstatus:insomnia.crismpack.net%
   loopbackgroundanimations = true
@@ -373,18 +358,17 @@ customization {
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 0
   width = 200
-  actionid = 925c39b9-c4eb-4cfd-a9bc-1b8226eac4e91667866064487
   action = addbutton
+  actionid = 925c39b9-c4eb-4cfd-a9bc-1b8226eac4e91667866064487
   y = 24
   backgroundnormal = resources\mainmenu\longbutton_normal.png
-  value = com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen
   height = 20
 }
 
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://discord.com/invite/Kss5gBgeDA%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\discord_hover.png
   label = 
   loopbackgroundanimations = true
@@ -392,11 +376,10 @@ customization {
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 114
   width = 20
-  actionid = 2ffa363e-0860-4826-9ded-a33d493bfd3a1640212187014
   action = addbutton
+  actionid = 2ffa363e-0860-4826-9ded-a33d493bfd3a1640212187014
   y = 96
   backgroundnormal = resources\mainmenu\discord_normal.png
-  value = https://discord.com/invite/Kss5gBgeDA
   height = 20
 }
 
@@ -409,6 +392,6 @@ customization {
   y = -25
   scale = 0.8
   alignment = left
-  value = §4Insomnia: Hardcore - %randomtext:resources\mainmenu\modpackversion.txt:1%
+  value = §4Insomnia: Hardcore - %randomtext:resources\modpack\modpackversion.txt:1%
 }
 
