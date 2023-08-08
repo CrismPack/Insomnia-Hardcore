@@ -22,7 +22,11 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "03ee98ec00c45de0160de08fe8c2e9dbd54dce9f18cd8dc7c3682fddb9951abf"
+hash = "d8ff0ff78647c0dcf494fcdbef347d58786b8f83564fca8398719b0072dd8f61"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
 
 [[files]]
 file = "config/bclib/main.json"
@@ -74,7 +78,7 @@ hash = "279100051fa0bc939c754bc386fd95aeb533b0c187cba53a4a4e16b5edaebb2b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
+hash = "a2d4dc30d05c042e4a943dd816c17e0b554dbfd61f27edb96eb6a7599c817570"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -86,11 +90,7 @@ hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "1d341bb1988d501fee409932a9da680cfc2eef4021d162f094aab6d950a4d681"
-
-[[files]]
-file = "config/fancymenu/customization/mp_fix.txt"
-hash = "0cc146638ee57a24d812e5ee6603b159701cd1cce378913b482a9bafe6b80c80"
+hash = "cfb1f3f9292c40d52d37cd5579af4e94c2589d484eddd7f6cad55815992041a8"
 
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
@@ -201,12 +201,12 @@ file = "config/mostructures-config-v5.json5"
 hash = "5df83b31cbdf40a7a1d2ffab12e43b38663588ece4c5bc8ea91fa5890adb62b2"
 
 [[files]]
-file = "config/phantomconfig.json5"
+file = "config/phantomconfigfork.json5"
 hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "375320b974460bfc9701d1bbe82046d3aff3221c2de5bb32985656a0806aa7cc"
+hash = "762f529ec763e72156cd4871b96fcbc0a0ca8867474b9ce59f2976e26131a60d"
 
 [[files]]
 file = "config/revive.json5"
@@ -214,7 +214,7 @@ hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "f8910b2f5a91fb0b669a51c38d46d619d0978a2bfe84e669e7a738d63944ae46"
+hash = "b967e42f3aedc3a31171f7ff0ea7d1c3e0b5b973928b0f4dfe20531eef8601a6"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -326,11 +326,7 @@ hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "5326c886fd2c42d6aba5a5d5d68869152fa82db1a7543b5805b23e3fbc58823c"
-
-[[files]]
-file = "global_packs/required_resources/NoBushyLeaves.zip"
-hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
+hash = "1874fe4da35020858958398e8da52e5019549c1c8397ef15c981f3ae4be82330"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -1467,8 +1463,17 @@ file = "resourcepacks/GUI Reimagined-[v1.1].zip"
 hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
 
 [[files]]
+file = "resourcepacks/NoBushyLeaves.zip"
+hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
+
+[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "4625b47bc35ca8d03c372d5153572c1a0d0baa44147a6e83107de967753ecf5b"
+hash = "2871f5c327356d095c624235f23a1986a4980ce470a9fe45385f489fae3634b3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "94e89c372945c63f7d53f6c0d9e113f290bb2934994515a25dc4548302331df1"
 metafile = true
 
 [[files]]
@@ -1554,10 +1559,6 @@ hash = "f1129824f24614f51521028764d407d6b77d901f132f52faa47a8917cd9bd23a"
 [[files]]
 file = "resources/mainmenu/longbutton_normal.png"
 hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
-
-[[files]]
-file = "resources/mainmenu/modpackversion.txt"
-hash = "63556338d86370db835249c95d7be82a6faf40b39cbf43cb94ed25936834dae6"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"

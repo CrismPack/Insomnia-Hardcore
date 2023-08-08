@@ -27,6 +27,7 @@ Mods added:
 
 Resource/Shader Packs added:
 + Fresh Animations
++ Fresh Animations Extensions
 
 Data Packs added:
 + 
@@ -105,4 +106,8 @@ Config Changes:
 = Removed 'mp_fix' customization, since it is no longer needed: [FancyMenu], [Client]
 = Changed Discord RPC to use its own "Insomnia: Hardcore" application: [Simple Discord RPC], [Client]
 = Disabled BetterX startup message: [BCLib], [Client]
+= Fixed load order of Resource Packs: [Resource Pack Overrides], [Client]
+= Made 'NoBushyLeaves' optional: [Resource Pack Overrides], [Client]
+= Made 'Tissou's Zombie Pack' optional: [Resource Pack Overrides], [Client]
+= Fixed villager texture override to now use textures from the official 'Fresh Animations' resourcepack instead of the fork: [Insomnia Textures], [Client]
 = : [mod], [Server]
