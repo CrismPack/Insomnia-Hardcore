@@ -1029,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ab9645994926d59cb1e0b2c1f93adc8d2d40a2fd7671a690fc21d5be37dc4154"
+hash = "bcea27c6a8b96c8a28715534668fe8889ba72557d31a849c2fcc50d0c779202f"
 metafile = true
 
 [[files]]
@@ -1209,7 +1209,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "39a6023a25b4ef2403416e7c92ce6f7a56cca5380b1e16f374dbd03eeacba4c0"
+hash = "c519144a62deaeb63f97d69914ec9b717f6c44aa663ccbd952d800f8dd97693a"
 metafile = true
 
 [[files]]
@@ -1249,7 +1249,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "54155b0e2882a246a1e97665fcd127353340ae2232d6a89a9b9ad46159b96fcf"
+hash = "bb0ac279420c9261ab7fdbc1b13051fa8f7c794d733cb34762f231bc230d077c"
 metafile = true
 
 [[files]]
@@ -1354,7 +1354,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "844e5947450c3e91bec4d24c26bb9da39ef87b67dfc6ba168611f8149842899a"
+hash = "e5f9923037f5a5bdcc778f66ce71570ea349a9c564629a84267eb1e7755c69ad"
 metafile = true
 
 [[files]]
@@ -1394,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "225314035797cf6f04649bcc8ed0f9d48e36aa1a38c44be958e6db440e26d49b"
+hash = "f697c1c89c729aab4cff6c063a682c9cd1e39b82498dc256da4ed3c8b63ff737"
 metafile = true
 
 [[files]]
@@ -1574,7 +1574,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ff6d7192d165977865359c7cd0c752e1e95742efc4dfd1aa6fe2e7d897b550a1"
+hash = "d7cd1fe8c2e3c83d105df635ef34e7673ae74125cb082077f660381196792ffc"
 metafile = true
 
 [[files]]

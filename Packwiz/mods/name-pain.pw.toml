@@ -1,13 +1,13 @@
 name = "Name Pain"
-filename = "namepain-1.5.1 fabric-1.17-18.x.jar"
+filename = "namepain-1.5.2 fabric-1.17-18.x.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "8cee04e85e94bcac6d08dc3baad34342a63d60a0"
+hash = "a1bf948821d91167232c8c35c5253361395274e4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4681494
+file-id = 4683142
 project-id = 366263
