@@ -1,6 +1,7 @@
 name = "Iris & Oculus Flywheel Compat"
 filename = "iris-flywheel-compat-1.18.2-0.1.9-BETA.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"

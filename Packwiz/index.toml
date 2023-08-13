@@ -1024,12 +1024,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "80610b8db6c85da2d16b0037838401bc8f8ab2ef3e8d124735a93851d32f281c"
+hash = "43372c3f1c9a4c0a635cbf0dd7c15c05dd083b6b0250ed1c4fbe9d60a3d80d4d"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "e0d537afa3d3a6c965c158e778bf3ea3550ef65ec8ae0f210ead172756ed7ca1"
+hash = "6efc7f78ce94c9749267155514896c05f4322b361d378f134fc50ca73dfbd57d"
 metafile = true
 
 [[files]]
