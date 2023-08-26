@@ -6,24 +6,26 @@ Update overview:
 ~ Removed/disabled mods that are unavailable.
 
 Mods added:
-+ Entity Model Features
-+ Colorful Hearts
++ Entity Model Features [Client]
++ Colorful Hearts [Client]
 + Improved Stations Updated
-+ Model Gap Fix
-+ Show Me What You Got
-+ Leaves Be Gone
++ Model Gap Fix [Client]
++ Show Me What You Got [Replacement for 'ItemFlexer']
++ Leaves Be Gone [Replacement for 'Leaf Decay']
 + Lithium [MR]
 + Branded Logs
 + Memory Leak Fix [MR]
-+ Mod Menu [MR]
-+ Sodium [MR]
-+ Status Effect Bars
++ Mod Menu [Client] [MR]
++ Sodium [Client] [MR]
++ Status Effect Bars [Client]
 + CraterLib [New dependency]
 + Cupboard [New dependency]
 + LibZ [New dependency]
-+ Searchables [New dependency]
++ Searchables [Client] [New dependency]
 + Moonlight Lib [New dependency]
 + oωo [New dependency]
++ BlossomTpa [Server] [Replacement for 'FabricTPA']
++ BlossomLib
 
 Resource/Shader Packs added:
 + Fresh Animations

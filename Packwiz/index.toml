@@ -478,6 +478,16 @@ hash = "2ad2a03a2f7d7b70d67729cc07e07315882ba10413d38e04e3a51410eed3eb8e"
 metafile = true
 
 [[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "2d113be9b965a402b5df571f20f19ec78332e340f905e517032e170456db0498"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "c047c7044196b3f6f9b1630cc03fac85cd016a6aa176f60a9eba1fa5d51617c1"
 metafile = true
