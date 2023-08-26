@@ -26,6 +26,7 @@ Mods added:
 + oωo [New dependency]
 + BlossomTpa [Server] [Replacement for 'FabricTPA']
 + BlossomLib
++ InvMove [MR]
 
 Resource/Shader Packs added:
 + Fresh Animations
@@ -83,6 +84,7 @@ Mods removed:
 - Unfixed Seeds
 - WMITAF
 - Carpet
+- InvMove [CF]
 
 Mods disabled: 
 - Basic Shields Fork
@@ -90,7 +92,6 @@ Mods disabled:
 - Charm
 - Create Fabric
 - Damage Tilt
-- InvMove
 - LambdaBetterGrass
 - PlayerEx
 - Roughly Enough Resources

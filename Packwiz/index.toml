@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "45693ce4c78500d7c43d6c54d50ed020a33c6623cc5944d226dbca17561090a4"
+hash = "a0dec4e89195b6381232436512ca9d53b974d12b39842aa4c7b5150b66a8e7e8"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "edc3176453e7bca22ee163dd23e6fbc98a826e148622f0c009f0d36f70320259"
+hash = "bd33492eb89891efd99e695b3ec9c2fc07f89d15797221b972d99aba1fab438d"
 metafile = true
 
 [[files]]
@@ -815,11 +815,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "0b2848f6c4fdbf0b822abf23e525e9a7dcb62d65f1fc2d44be9abaad33c79e67"
-metafile = true
-
-[[files]]
-file = "mods/fabrictpa.pw.toml"
-hash = "499c0a5e7cefd6e7833f88b740616ff79ef6f9f57c7645f879e1481df47ef6fd"
 metafile = true
 
 [[files]]
@@ -944,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "f62d5f64a8b2cd86fc7185ce3b9e754ecc4659a27c22fe338bf87ce8ef058b20"
+hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
 metafile = true
 
 [[files]]
@@ -1099,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "4e026e566d9b5bf8bb9f528e8f0dbe66184e1f514cc00544a3363a21f2feb482"
+hash = "20fced7e2015be74a65981214b09b8aa6782baef49a9a05e0d200853a84fcea7"
 metafile = true
 
 [[files]]
@@ -1279,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "c39f80216f7f84dd113f80ee1877733db7dcfc94b6887e8e213fe62ebaa95d04"
+hash = "64b054b4c0c666e97d98abb9d8290d4a00d3deea35389a7eb79e9818c683f347"
 metafile = true
 
 [[files]]
@@ -1364,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
-hash = "bcd20f96626401ce2deaa104187952027372203cce06ce02cb830318efc37eeb"
+hash = "7a954b499a9d3a231d8398471a5d7dac9779af5c1a00539b9eeaacfc39b3651a"
 metafile = true
 
 [[files]]
