@@ -4,6 +4,8 @@ Fabric version: Fabric-0.14.22
 Update overview: 
 ~ Migration to 1.20.1
 ~ Removed/disabled mods that are unavailable.
+~ 'Recall Potions' has been replaced by 'Recall Staffs'.
+~ Half of the 'Bone Broth' food items have been replaced with 'Mixed Salad' to make it more fair towards vegetarian origins.
 
 Mods added:
 + Entity Model Features [Client]
@@ -28,6 +30,8 @@ Mods added:
 + BlossomLib [MR]
 + InvMove [MR]
 + True Darkness Fork [Client]
++ Recall Staffs
++ Crafting Manipulator
 
 Resource/Shader Packs added:
 + Fresh Animations
@@ -86,10 +90,11 @@ Mods removed:
 - WMITAF
 - Carpet
 - InvMove [CF]
-
-Mods disabled: 
+- True Darkness
 - Basic Shields Fork
 - Fabric Shield Lib
+
+Mods disabled: 
 - Charm
 - Create Fabric
 - Damage Tilt
@@ -97,7 +102,6 @@ Mods disabled:
 - PlayerEx
 - Roughly Enough Resources
 - Traveler's Titles
-- True Darkness
 - Villagers Respawn
 
 Resource Packs removed:
