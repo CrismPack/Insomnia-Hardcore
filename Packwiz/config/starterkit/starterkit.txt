@@ -4,7 +4,7 @@
 'legs' : '{Count:1b,id:"immersive_armors:wooden_leggings",tag:{Damage:0,set_bonus:4}}',
 'feet' : '{Count:1b,id:"immersive_armors:wooden_boots",tag:{Damage:0,set_bonus:4}}',
 0 : '{Count:1b,id:"simplyswords:iron_katana",tag:{Damage:0}}',
-1 : '{Count:1b,id:"recallstaffs:copper_recall_staff"}',
+1 : '{Count:1b,id:"recallstaffs:iron_recall_staff"}',
 2 : '{Count:16b,id:"minecraft:torch"}',
 3 : '{Count:8b,id:"farmersdelight:bone_broth"}',
 4 : '{Count:8b,id:"farmersdelight:mixed_salad"}',

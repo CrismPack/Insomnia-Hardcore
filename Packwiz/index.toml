@@ -234,7 +234,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "8210d4ee26dd22644511e3e98fcdc5872ed45460cd1fe075e13ae0735e424ad6"
+hash = "230210964a5b89b72c581700988ae04834fb3a8dc8cf6d51f32fba299933595b"
 
 [[files]]
 file = "config/starterstructure.json5"
@@ -415,11 +415,6 @@ metafile = true
 [[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "46010ea7f218dba1cddc27c3f956485060a3836a7116ed1fc26995c929f596f2"
-metafile = true
-
-[[files]]
-file = "mods/basic-shields-enchantless.pw.toml"
-hash = "5028e8e7b47262ba33b3ac3533be836698035873fc813b3e27300c6a04ca9875"
 metafile = true
 
 [[files]]
@@ -810,11 +805,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-permissions-api.pw.toml"
 hash = "ee95b53ae0fc4e81d544b9d0e19246290d707643043ad2da77dde6014c9d42b3"
-metafile = true
-
-[[files]]
-file = "mods/fabric-shield-lib.pw.toml"
-hash = "62111888b126f3c47085d7b5d0772b8670d791fcfd8bb8345b7a150128e2cf75"
 metafile = true
 
 [[files]]
@@ -1243,11 +1233,6 @@ hash = "2a483c75ceab8aab598179b78605c3f36ba24b5b8b6a1d6f20a7e5c2cd5777aa"
 metafile = true
 
 [[files]]
-file = "mods/recall-fabric.pw.toml"
-hash = "348084ac3a9f4c33e597a54c059218a8100a07ede24dd00331fd6f47e8d167bd"
-metafile = true
-
-[[files]]
 file = "mods/recall-staffs.pw.toml"
 hash = "c0e96fc8747ffede55e5962992535a70e2be35962d88746907edbb174ef95e81"
 metafile = true
@@ -1440,11 +1425,6 @@ metafile = true
 [[files]]
 file = "mods/true-darkness-fork-fabric.pw.toml"
 hash = "eee7202e08da91e99b379952556e26d2bd2fedd8451dc5dc2149946cfeb7b064"
-metafile = true
-
-[[files]]
-file = "mods/true-darkness.pw.toml"
-hash = "5a7c80c3e39fb90c340162757013fe598b3ba2619cdd6ad4897cf51955f5d143"
 metafile = true
 
 [[files]]
