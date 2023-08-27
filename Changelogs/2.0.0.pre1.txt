@@ -24,9 +24,10 @@ Mods added:
 + Searchables [Client] [New dependency]
 + Moonlight Lib [New dependency]
 + oωo [New dependency]
-+ BlossomTpa [Server] [Replacement for 'FabricTPA']
-+ BlossomLib
++ BlossomTpa [Server] [Replacement for 'FabricTPA'] [MR]
++ BlossomLib [MR]
 + InvMove [MR]
++ True Darkness Fork [Client]
 
 Resource/Shader Packs added:
 + Fresh Animations

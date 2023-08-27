@@ -1423,6 +1423,11 @@ hash = "8e57bd5e26c03dfc500484c8388b47f8a1545fa0444081040859d2e1c3611a52"
 metafile = true
 
 [[files]]
+file = "mods/true-darkness-fork-fabric.pw.toml"
+hash = "4508f5600fd0e77bc385b66410fcda4ea99150aa369c6722edc34bd2093af813"
+metafile = true
+
+[[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "5a7c80c3e39fb90c340162757013fe598b3ba2619cdd6ad4897cf51955f5d143"
 metafile = true
