@@ -633,6 +633,11 @@ hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
 metafile = true
 
 [[files]]
+file = "mods/crafting-manipulator.pw.toml"
+hash = "e1775769679e16cd1ae8292386c809bf9e5f47fc0314d0a60c4035c4f702f90a"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "94c22dadb25f121456db819b123f0918c16478df3b24832579e9c18de039df84"
 metafile = true
@@ -1238,6 +1243,16 @@ hash = "2a483c75ceab8aab598179b78605c3f36ba24b5b8b6a1d6f20a7e5c2cd5777aa"
 metafile = true
 
 [[files]]
+file = "mods/recall-fabric.pw.toml"
+hash = "348084ac3a9f4c33e597a54c059218a8100a07ede24dd00331fd6f47e8d167bd"
+metafile = true
+
+[[files]]
+file = "mods/recall-staffs.pw.toml"
+hash = "c0e96fc8747ffede55e5962992535a70e2be35962d88746907edbb174ef95e81"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "83a01df13ed574e284a625474365721a25f3c9b23f058ab48a48778b9532b57b"
 metafile = true
@@ -1424,7 +1439,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness-fork-fabric.pw.toml"
-hash = "4508f5600fd0e77bc385b66410fcda4ea99150aa369c6722edc34bd2093af813"
+hash = "eee7202e08da91e99b379952556e26d2bd2fedd8451dc5dc2149946cfeb7b064"
 metafile = true
 
 [[files]]

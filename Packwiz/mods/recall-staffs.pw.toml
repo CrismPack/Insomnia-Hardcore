@@ -1,0 +1,13 @@
+name = "Recall Staffs"
+filename = "recallstaffs-4.0.1+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c585ecbbd42756990a0429cd183439e78ac8832c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4593613
+project-id = 828251

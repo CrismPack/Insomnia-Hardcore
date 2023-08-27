@@ -117,4 +117,7 @@ Config Changes:
 = Replaced LargeImageKey with its GIF variant: [Simple Discord RPC], [Client]
 = Fixed config to match behavior in 1.18 version of the modpack: [Zoomify], [Client]
 = Disabled button_update_badge: [Mod Menu], [Client]
+= Replaced 'recallpotion' item with 'recallstaffs:copper_recall_staff': [Starter Kit | Starter Items] , [Client | Server]
+= Replaced half of the bone_broth with mixed_salad, to have something for both vegetarian and carnivore origins: [Starter Kit | Starter Items] , [Client | Server]
+= Removed the book that explains the recall potion: [Starter Kit | Starter Items] , [Client | Server]
 = : [mod], [Server]
