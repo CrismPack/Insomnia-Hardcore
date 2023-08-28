@@ -1,13 +1,13 @@
 name = "Global Packs"
-filename = "global_packs-fabric-1.19.4-1.16.1_fabric.jar"
+filename = "global_packs-quilt-1.19.4-1.16.1_quilt.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "080e8c5335764ac095b4eb877f4234bbee83a7ae"
+hash = "d61d9c6caa08d8d209eb1de8a2d622de92468830"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4570601
+file-id = 4570606
 project-id = 317134

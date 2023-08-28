@@ -1,13 +1,13 @@
 name = "LambdaBetterGrass"
-filename = "lambdabettergrass-1.2.4+1.18.jar"
-side = "none"
+filename = "lambdabettergrass-1.5.2+1.20.1.jar"
+side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "c3a7ee079b6344222d36cc1615bb2ffe1359e8ff"
+hash = "4b3658f4dc69212768db703b7931f0d51a5c5568"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3833479
+file-id = 4696020
 project-id = 400322

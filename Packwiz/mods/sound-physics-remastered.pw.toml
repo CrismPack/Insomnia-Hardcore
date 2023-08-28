@@ -1,13 +1,13 @@
 name = "Sound Physics Remastered"
-filename = "soundphysics-fabric-1.20.1-1.1.2.jar"
+filename = "soundphysics-fabric-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "75c05a34e4d22f6307aa7c22e244d7904e274262"
+hash = "4993f388e254abdaa551869650414fc92f164811"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4680051
+file-id = 4721572
 project-id = 535489

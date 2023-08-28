@@ -1,13 +1,13 @@
 name = "Better Compatibility Checker"
-filename = "BetterCompatibilityChecker-fabric-4.0.7+mc1.20.1.jar"
+filename = "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a23f3ce85037aec0b848eb4fa3b41cd6c3fd29f5"
+hash = "8aa26b0ec2f48e65598fab5cf08cea569d87dc48"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4684907
+file-id = 4688939
 project-id = 551894
