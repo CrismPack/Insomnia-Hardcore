@@ -878,6 +878,11 @@ hash = "b13412892679c921be987cb2f248d231c6d2df85a62688ca1a343f9b3de1847f"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus-fabric.pw.toml"
+hash = "dbbae91523291521b69fc9440094097e166f5bd4956f2a8b05fa3134732a3897"
+metafile = true
+
+[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "e734a5595e004e89a7e3bac49184884491f48f9daddc979b8b66be270b503b1c"
 metafile = true
@@ -934,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "cd8fb313df5cc5fa7ebf941adeaf811587697231cb1b046555c286d5480cd426"
+hash = "a0a18a41cb6b82aca7272949e9da866adce0d23ab52ed68b29b5ea2ef8587c4f"
 metafile = true
 
 [[files]]

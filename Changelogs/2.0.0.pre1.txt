@@ -57,7 +57,6 @@ Mods removed:
 - Forgotten Recipes
 - Goblin Traders
 - Health Overlay
-- Hephaestus Fabric
 - I Know What I'm Doing
 - Illuminations 🔥
 - Improved Stations
@@ -93,14 +92,12 @@ Mods removed:
 - True Darkness
 - Basic Shields Fork
 - Fabric Shield Lib
+- Fabric API
 
 Mods disabled: 
 - Charm
-- Create Fabric
 - Damage Tilt
-- LambdaBetterGrass
 - PlayerEx
-- Roughly Enough Resources
 - Traveler's Titles
 - Villagers Respawn
 
