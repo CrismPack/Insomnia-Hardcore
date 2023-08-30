@@ -6,6 +6,7 @@ Update overview:
 ~ Removed/disabled mods that are unavailable.
 ~ 'Recall Potions' has been replaced by 'Recall Staffs'.
 ~ Half of the 'Bone Broth' food items have been replaced with 'Mixed Salad' to make it more fair towards vegetarian origins.
+~ The modpack is now based upon the Quilt modloader.
 
 Mods added:
 + Entity Model Features [Client]
@@ -32,6 +33,7 @@ Mods added:
 + True Darkness Fork [Client]
 + Recall Staffs
 + Crafting Manipulator
++ LambdaBetterGrass
 
 Resource/Shader Packs added:
 + Fresh Animations
@@ -100,6 +102,8 @@ Mods disabled:
 - PlayerEx
 - Traveler's Titles
 - Villagers Respawn
+- ImmediatelyFast (Incompatible with 'MemoryLeakFix')
+- Companion 🐕 (Incompatible with Quilt???)
 
 Resource Packs removed:
 - Fresh Animations CEM fork
@@ -121,4 +125,5 @@ Config Changes:
 = Replaced 'recallpotion' item with 'recallstaffs:iron_recall_staff': [Starter Kit | Starter Items] , [Client | Server]
 = Replaced half of the bone_broth with mixed_salad, to have something for both vegetarian and carnivore origins: [Starter Kit | Starter Items] , [Client | Server]
 = Removed the book that explains the recall potion: [Starter Kit | Starter Items] , [Client | Server]
+= Set "render_item_model" to "none". This is to fix an incompatibility with 'Sodium': [Legendary Tooltips], [Client]
 = : [mod], [Server]

@@ -1,6 +1,6 @@
 name = "Companion 🐕 (Fabric)"
 filename = "Companion-1.20-fabric-5.1.0.jar"
-side = "both"
+side = "both(none)"
 
 [download]
 hash-format = "sha1"

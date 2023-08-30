@@ -1,13 +1,14 @@
 name = "Bobby"
-filename = "bobby-5.0.1.jar"
+filename = "bobby-5.0.0.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "bdc0285d4209c529019ae1c5f1f0af0e3a3cffa6"
+hash = "ee1201d0160f5cdd2a91e293d14e5de46b86655d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4706163
+file-id = 4584239
 project-id = 409301

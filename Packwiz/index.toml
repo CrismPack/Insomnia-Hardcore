@@ -90,7 +90,7 @@ hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "cfb1f3f9292c40d52d37cd5579af4e94c2589d484eddd7f6cad55815992041a8"
+hash = "3395b695130d52a38b60cc0a95f2b3c9b3c8b9ed3122ad3ab83a4181f48bbfe0"
 
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
@@ -186,7 +186,7 @@ hash = "a6487a92015ef8fab1bffbd909c959e6c05ecde96d62be59c21b4e2200d20fab"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
-hash = "da608dfc0002070edf02730914f79aa3bb481e8fd7251a513dc709314fbb6ed3"
+hash = "2edf2dc9c2a4b27d4b17d8e8693ad9ff234b96c8863bd62616192487d3a71b90"
 
 [[files]]
 file = "config/lithium.properties"
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "2b0610356bbbda539059833cd68514bcc226049ee967c320f68dfa1f75bd31f8"
+hash = "3a623ae53bab79fb083e5fdd3f407827cedb91cd18272624897edc35c79905db"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion-fabric.pw.toml"
-hash = "d9fb7585b69729746e282391499802e721e425a21a675fabd6f59c76ab6aae43"
+hash = "7f2e7927a5adc47bdd53013d94a9f69cd8e5d70a8a1058e50ad1c8ae2c858662"
 metafile = true
 
 [[files]]
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-fabric.pw.toml"
-hash = "dbbae91523291521b69fc9440094097e166f5bd4956f2a8b05fa3134732a3897"
+hash = "edee877eab63a0f71d73fffaf410fa1c68458aee8a91ebbc9c4f1b26ea31fe35"
 metafile = true
 
 [[files]]
@@ -894,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2d7dc200063b1c9ce64980fda17acc5eed90d71a6e6d206cbbcd10d9980c12ec"
+hash = "78b2ed7e61a357018a06602ab1edf3c34fe2d7b2d498fea83e42c5026dee68bf"
 metafile = true
 
 [[files]]
@@ -919,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "65040dc82aa7db076775aee56afa6ce0f64e6e85f70ef618f8ca8e182f306d50"
+hash = "3d138208f5f408c6c981e335dce163a829eb5d9114054ccf05a4bf9cf9f2ff20"
 metafile = true
 
 [[files]]
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
 
 [[files]]
@@ -1324,12 +1324,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8ff036129d70bfb24040e03bebd4b9c6594988f9bfa30de313962faf0e23ad1a"
+hash = "e6051941a54d1da5ba37cc5039472392552a61f5950132dbd2315bd9ea12b662"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
+hash = "bc9185b2c1ed3389b68455f4540ec57a676906e523675f323a148d1ebdb18ef8"
 metafile = true
 
 [[files]]

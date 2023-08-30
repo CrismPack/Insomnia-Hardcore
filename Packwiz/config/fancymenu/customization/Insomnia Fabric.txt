@@ -19,36 +19,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = -20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\longbutton_hover.png
-  backgroundnormal = resources\mainmenu\longbutton_normal.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 0
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
   action = hidebutton
 }
@@ -66,7 +36,24 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\longbutton_hover.png
+  backgroundnormal = resources\mainmenu\longbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   action = hidebutton
 }
 
@@ -96,16 +83,8 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 0
 }
 
 customization {
@@ -124,11 +103,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = hidebutton
 }
 
 customization {
@@ -163,6 +137,19 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = sethoverlabel
   label = Lang
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 0
 }
 
 customization {
@@ -393,5 +380,10 @@ customization {
   scale = 0.8
   alignment = left
   value = §4Insomnia: Hardcore - %randomtext:resources\modpack\modpackversion.txt:1%
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
 }
 
