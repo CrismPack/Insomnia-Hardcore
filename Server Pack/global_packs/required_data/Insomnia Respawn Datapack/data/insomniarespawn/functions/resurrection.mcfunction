@@ -5,5 +5,4 @@ execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead m
 execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead matches 0 run origin gui @s
 execute as @a[gamemode=spectator] at @a[gamemode=spectator] run effect give @s minecraft:absorption 300 1
 execute as @a[gamemode=spectator] at @a[gamemode=spectator] run give @s minecraft:potion{Potion:"recallpotion:recall"} 1
-execute as @a[gamemode=spectator] at @a[gamemode=spectator] run spreadplayers 0 0 0 5000 false @s
 execute as @a[gamemode=spectator] at @a[gamemode=spectator] run gamemode survival
