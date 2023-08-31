@@ -1,6 +1,7 @@
 scoreboard objectives add isDead deathCount "isDead"
 execute run gamerule spectatorsGenerateChunks true
 execute run gamerule spawnRadius 0
+execute run gamerule keepInventory true
 
 #Runs some code only the first time the datapack is loaded
 scoreboard objectives add testFirst dummy
