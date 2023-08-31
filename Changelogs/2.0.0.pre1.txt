@@ -1,12 +1,15 @@
 v2.0.0.pre1
 
-Fabric version: Fabric-0.14.22
+#Notice: This is a pre-release. Here be dragons!
+
+Quilt version: Quilt-0.20.1
 Update overview: 
 ~ Migration to 1.20.1
-~ Removed/disabled mods that are unavailable.
+~ Switched to the 'Quilt' modloader.
+~ Removed/disabled mods that are either unavailable or incompatible.
 ~ 'Recall Potions' has been replaced by 'Recall Staffs'.
 ~ Half of the 'Bone Broth' food items have been replaced with 'Mixed Salad' to make it more fair towards vegetarian origins.
-~ The modpack is now based upon the Quilt modloader.
+~ Overhauled the look of the Discord rich presense integration.
 
 Mods added:
 + Entity Model Features [Client]
@@ -19,7 +22,6 @@ Mods added:
 + Branded Logs
 + Memory Leak Fix [MR]
 + Mod Menu [Client] [MR]
-+ Sodium [Client] [MR]
 + Status Effect Bars [Client]
 + CraterLib [New dependency]
 + Cupboard [New dependency]
@@ -33,7 +35,6 @@ Mods added:
 + True Darkness Fork [Client]
 + Recall Staffs
 + Crafting Manipulator
-+ LambdaBetterGrass
 
 Resource/Shader Packs added:
 + Fresh Animations
@@ -83,7 +84,6 @@ Mods removed:
 - Recall Potion Backport
 - Red Bits
 - Save Gear on Death
-- Sodium [CF]
 - Status Effect Timer
 - Stoneholm, Underground Villages
 - ThonkUtil
@@ -104,6 +104,7 @@ Mods disabled:
 - Villagers Respawn
 - ImmediatelyFast (Incompatible with 'MemoryLeakFix')
 - Companion 🐕 (Incompatible with Quilt???)
+- Hephaestus Fabric (Crashes on startup)
 
 Resource Packs removed:
 - Fresh Animations CEM fork
