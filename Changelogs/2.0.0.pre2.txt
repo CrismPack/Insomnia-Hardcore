@@ -8,6 +8,7 @@ Update overview:
 
 Mods added:
 + YetAnotherConfigLib [New dependency]
++ Iris [CF]
 
 Resource/Shader Packs added:
 + 
@@ -18,6 +19,7 @@ Data Packs added:
 Mods removed: 
 - Quilted Fabric API
 - LambdaBetterGrass
++ Iris [MR]
 
 Mods disabled: 
 - 
