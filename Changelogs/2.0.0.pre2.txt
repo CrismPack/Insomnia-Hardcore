@@ -1,0 +1,37 @@
+v2.0.0.pre2
+
+#Notice: This is a pre-release. Here be dragons!
+
+Fabric version: Fabric-0.14.22
+Update overview: 
+~ Reverted to Fabric modloader due to issues with uploading to CurseForge. (This issue has been forwarded to the CF support team)
+
+Mods added:
++ YetAnotherConfigLib [New dependency]
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ 
+
+Mods removed: 
+- Quilted Fabric API
+- LambdaBetterGrass
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Cupboard
+> Memory Leak Fix
+> Moonlight Lib
+> Simple Voice Chat
+> Very Many Players
+> Zoomify
+
+Config Changes: 
+= : [mod], [Server]
