@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "921ae9f0d0998f5d79ec85970df2bd731d0d00c0ecc19ece97b04498ded6d897"
+hash = "f3f884edbfe1dbf265f06ce05a7e0b4d0da0ab0df9983078802d8a118b81bd1c"
 metafile = true
 
 [[files]]
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "9cefb6bce20863fb1803a19a8bb15e949298a8b552f1ff0d8d235786d501e222"
+hash = "9e051999d8094ebc6430a472ca5383064b60b3b158f0c1daf9377f6bc08621af"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "b626363a39019b5234a27be401efe08f5d6cb023c6c92b5dd9e33aca941f426d"
+hash = "d0be7b9811a7bf85253a5022521c8c2e18dd50c3a1f53450a81dfbdc0df5d79a"
 metafile = true
 
 [[files]]
@@ -894,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "b2d4fc6561d2627ebd5f20c262934507b67490b9b882fd75ea89a4d7ca791f77"
+hash = "f4e77524cf54cbf0d1248cf594543d94483446079054f7ab8cb51d54c8683daa"
 metafile = true
 
 [[files]]
@@ -944,12 +944,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "a0a18a41cb6b82aca7272949e9da866adce0d23ab52ed68b29b5ea2ef8587c4f"
+hash = "450be71e5541f14c5584d3f7885cb559ac00f147dddf698a2a6be719803b523b"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "f40c2fe49cd5bcc1ac9c3786779909dd08cfe59d92f173cce9aae6f8dc2f302a"
+hash = "17ce8fad601692bb1ccaa13693d8d07d5fc68e0b8e6dd30b4edad9e0c1ff9a67"
 metafile = true
 
 [[files]]
