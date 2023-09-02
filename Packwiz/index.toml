@@ -423,6 +423,11 @@ hash = "4c301cfb278d6625020229fd7f0b778bf622f542d865fcd1f727e095d064b5b0"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "a5c1ca06ad89bc5427440764b7444e5d589ecb4fa3e2e8037445cd2adf7463a6"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "e78d4236d6711914c9ba328ada3ad966f161665845e1135118b778fc811e1dcb"
 metafile = true
@@ -858,6 +863,11 @@ hash = "6586ad47feb3a385741cbd4a817f3dd3fdc15e9caf08cd4e05c91a630b6a9d5b"
 metafile = true
 
 [[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "d5941a5506020f5cb815baf0d940ecef61f1ad9c7c1d2acc88a8e9e478b940b7"
 metafile = true
@@ -865,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/furnace-recycle.pw.toml"
 hash = "111a1e881108c8020d3137363b54b80d6a87806bc8009ab713b48c6d0801fbd6"
+metafile = true
+
+[[files]]
+file = "mods/goblintraders-fabric.pw.toml"
+hash = "0e7933420bd4251bedce4496940b2f477a2bb2959a4250a1abd17167720e40d7"
 metafile = true
 
 [[files]]
@@ -1093,6 +1108,11 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "f0ab43de7c31dae422d47c57c1968cdfec75c4a768e1a1bc420c47bf1ac88d54"
+metafile = true
+
+[[files]]
 file = "mods/more-banner-features.pw.toml"
 hash = "14c11abd1edb03f1bb11e28a84816a2edd9ce235cb6bc3c46cc4e6a3b5669f93"
 metafile = true
@@ -1263,6 +1283,11 @@ hash = "13dc4764ba3bf407de49f19a9771a28784be5a159fa1e04fcd2530538c3144dd"
 metafile = true
 
 [[files]]
+file = "mods/ruins.pw.toml"
+hash = "728f9ffb67e893ca5275b71dacd76f2d5c2903cc26b291dc90f4e1c393d69c8f"
+metafile = true
+
+[[files]]
 file = "mods/saplanting.pw.toml"
 hash = "3a4a274ec798018448b663e3f8d0d0850c8d4c0e39027d4b1a81f5c61e41136f"
 metafile = true
@@ -1353,6 +1378,11 @@ hash = "7a954b499a9d3a231d8398471a5d7dac9779af5c1a00539b9eeaacfc39b3651a"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "68820bd83455aa1dfe22234ae980e0aee255dabe3bda2cea34e96e4eb929b495"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "bdf251ecd45fab639424ef1dc313c3ed001122bb91e726dc2fee385bc4478eb0"
 metafile = true
@@ -1375,6 +1405,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "f064ae124b259a7c58756efec9149bdcfddfc660440c576b0a70d3a70c5b943b"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-castle-fabric.pw.toml"
+hash = "55697d8f856e615c3ceb5daf1462f96a62a0157dff6ec485c968af6d6ea44949"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "235845116a1240c584acb8da96e1252a0b366aec338f0f37e524abcc9737572b"
 metafile = true
 
 [[files]]

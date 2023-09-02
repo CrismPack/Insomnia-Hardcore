@@ -1,0 +1,13 @@
+name = "Philip's Ruins"
+filename = "Philips-Ruins1.20.1-2.0[Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffbd852b64ec63a7273b7dffaddb23810d81d53d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4733019
+project-id = 569737

@@ -11,11 +11,21 @@ Update overview:
 ~ Fixed bed textures being bugged.
 ~ Fixed Cherry Leaves not respecting 'NoBushyLeaves'.
 ~ Removed the numbers in the hotbar texture.
+~ Added a bunch of new structure mods.
+~ Replaced 'Towers of the Wild' with 'Structory: Towers'.
 
 Mods added:
 + Desired Servers [Client]
 + Structure Essentials
 + ImmediatelyFast
++ Better Archeology
++ Goblin Traders
++ Framework [Dependency of 'Goblin Traders']
++ MVS - Moog's Voyager Structures
++ Structory: Towers
++ The Lost Castle
++ Tidal Towns
++ Philip's Ruins
 
 Resource/Shader Packs added:
 + 
@@ -28,12 +38,16 @@ Mods removed:
 - Connectivity (Causes crash on startup)
 - Better Beds (Causes the bed texture to render incorrectly)
 - Show Me What You Got (Doesn't work correctly due to some incompatibility)
+- Towers of the Wild: Additions
 
 Mods disabled: 
 - 
 
 Resource Packs removed:
 - 
+
+Data Packs removed:
+- Towers of the Wild: Reworked (Datapack)
 
 Resource Packs updated:
 > NoBushyLeaves
