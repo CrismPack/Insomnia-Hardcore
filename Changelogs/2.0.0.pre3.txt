@@ -4,14 +4,17 @@ v2.0.0.pre3
 
 Fabric version: Fabric-0.14.22
 Update overview: 
-~ Replaced the logo.
+~ Replaced logo with the new one.
 ~ Client now points to the new official Insomnia2 server.
 ~ Fixed flickering of block entities.
+~ Fixed creative GUI being bugged.
+~ Fixed bed textures being bugged.
+~ Fixed Cherry Leaves not respecting 'NoBushyLeaves'.
+~ Removed the numbers in the hotbar texture.
 
 Mods added:
 + Desired Servers [Client]
 + ModernFix
-+ Connectivity
 + Structure Essentials
 + ImmediatelyFast
 
@@ -23,12 +26,17 @@ Data Packs added:
 
 Mods removed: 
 - Enhanced Block Entities (Incompatibility with Create's "Flywheel" causes block entities to flicker)
+- Connectivity
+- Better Beds
 
 Mods disabled: 
 - 
 
 Resource Packs removed:
 - 
+
+Resource Packs updated:
+> NoBushyLeaves
 
 Mods updated: 
 > 

@@ -22,7 +22,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b59ab087e17eaa8d0e49d2cfc10aaa9c2ecee21387071113d26a8f73b628c601"
+hash = "4bc137ed1ad718550ac51309de80ff51a25b30f92e5f9e843874b3910579e067"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -65,6 +65,10 @@ file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
 
 [[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "a287ef1b945d92867d796b909e3bb97363e97de9fe6ab306f22422f69e14c617"
+
+[[files]]
 file = "config/droplight-common.toml"
 hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
@@ -90,7 +94,7 @@ hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "3395b695130d52a38b60cc0a95f2b3c9b3c8b9ed3122ad3ab83a4181f48bbfe0"
+hash = "1e486c76e156f6309303d5df7173590a93d2012252a6974113fe7bec599cdea2"
 
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
@@ -122,11 +126,11 @@ hash = "71950879ffee984e3913f7087bfa2745b052a14b531b1222beea29b0a724476b"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "d0cb6d9eb0c7ee7956ec39f31b20137fd030f9e4229f1fdec7ce53c398d2ed15"
+hash = "9d4247c8086e4d93a046bf831d69f3bfcf7474e35f59c6c6965ee0f9c27d91d9"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "bec8cfba0639c651f552366d4f01273f6eaabe0d3cbfc4c1aa5d30489726ec4b"
+hash = "02b739c3747fbb8a50467ff3e93f6aaca17300b001ae2c13b44aa7263afb54b5"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_0.png"
@@ -210,7 +214,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "762f529ec763e72156cd4871b96fcbc0a0ca8867474b9ce59f2976e26131a60d"
+hash = "5905e97bb72befae79d8099c729f16db100bdeb74aca786a2e086f9c9621a005"
 
 [[files]]
 file = "config/revive.json5"
@@ -311,10 +315,6 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "18d6fd395305183642556fd716def72af17093f2a5086f6ce40ec1f4f781bb94"
-
-[[files]]
-file = "config/yosbr/servers.dat"
-hash = "92dcbb2d35cddf8b0f2fc8c58033a8469fd7fa69870e07f46955bdd8ec259322"
 
 [[files]]
 file = "config/zoomify.json"
@@ -420,11 +420,6 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "4c301cfb278d6625020229fd7f0b778bf622f542d865fcd1f727e095d064b5b0"
-metafile = true
-
-[[files]]
-file = "mods/better-beds.pw.toml"
-hash = "a692ae3e8bd9ed6f2ee4ece3e47ee4fb53f903053f8293aa29172f07985646d4"
 metafile = true
 
 [[files]]
@@ -613,11 +608,6 @@ hash = "f639cf7e7dc85a5f3e1f2a35dffbbef188f2468cb4b39502a6a8c171ac238044"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "3652bc255842f4c2b8c5b1e1a6bcdf84be02203dda8926d95f85a025c8648471"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "da392d51171032ee1e96bc17e07fc3c2fa8c49a74e1c2d5c2e265a6e062c1413"
 metafile = true
@@ -694,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/desired-servers.pw.toml"
-hash = "ad800096dd20832c463e2a536a5ba835deab4a8847f08bff6971b094706f35f7"
+hash = "d4e0a27937fc09762f9095d2906251dcc86340f183eaf089a117479f2ee19416"
 metafile = true
 
 [[files]]
@@ -904,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "218df70f59aae5894d09db3857d8a02575b9df33ad5425ffe3ac1ceeb8798329"
+hash = "2d7dc200063b1c9ce64980fda17acc5eed90d71a6e6d206cbbcd10d9980c12ec"
 metafile = true
 
 [[files]]
@@ -1488,8 +1478,8 @@ hash = "ba45cf92c559d95cb74d539cbb88c70730e2b902ae6f081f3d45bcd2e46de499"
 metafile = true
 
 [[files]]
-file = "resourcepacks/GUI Reimagined-[v1.1].zip"
-hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
+file = "resourcepacks/GUI Reimagined-[HaXr Edit].zip"
+hash = "65f9e1998656199fad211f9ab5330e7c892925f6f7fd5788fd2741fa310db5f2"
 
 [[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
@@ -1579,7 +1569,7 @@ hash = "3a2521c3313e4b5894df4315900a48dd7f3236e4bde6e63de2f87258ac07afdb"
 
 [[files]]
 file = "resources/mainmenu/logo.png"
-hash = "be06423fb594d4b234fc7560d4cf574b72f577eeb61fcacc2095558283358d1d"
+hash = "4d1cf7deb6123c4079e88b232293e97a5484ffba449eb8229b498d4f690048b0"
 
 [[files]]
 file = "resources/mainmenu/longbutton_hover.png"
@@ -1607,7 +1597,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "a659194c4cb372e2bece12a526715c93f2fb7b5ed761e21d1be5d94232608a6d"
+hash = "3f6a96f002f9448641258dc6b32586b9e0f5089a6874c868cc25fed7d40073e8"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
