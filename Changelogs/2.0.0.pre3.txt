@@ -1,0 +1,32 @@
+v2.0.0.pre3
+
+#Notice: This is a pre-release. Here be dragons!
+
+Fabric version: Fabric-0.14.22
+Update overview: 
+~ New logo
+
+Mods added:
++ 
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ 
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Config Changes: 
+= Replaced the logo on the title screen with the new one: [Client], [FancyMenu]
+= : [mod], [Server]
