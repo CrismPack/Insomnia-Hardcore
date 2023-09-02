@@ -28,5 +28,6 @@ Mods updated:
 > 
 
 Config Changes: 
-= Replaced the logo on the title screen with the new one: [Client], [FancyMenu]
+= Replaced logo on the title screen with the new one: [Client], [FancyMenu]
+= Replaced window icons with new ones: [Client], [FancyMenu]
 = : [mod], [Server]
