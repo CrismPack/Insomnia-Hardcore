@@ -26,8 +26,9 @@ Data Packs added:
 
 Mods removed: 
 - Enhanced Block Entities (Incompatibility with Create's "Flywheel" causes block entities to flicker)
-- Connectivity
-- Better Beds
+- Connectivity (Causes crash on startup)
+- Better Beds (Causes the bed texture to render incorrectly)
+- Show Me What You Got (Doesn't work correctly due to some incompatibility)
 
 Mods disabled: 
 - 

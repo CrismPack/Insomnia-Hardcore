@@ -1288,11 +1288,6 @@ hash = "8b417e18ad9cd453a8b8522f1e6dbb3622dce2b0ef96a41a1832c0d49ea5e36f"
 metafile = true
 
 [[files]]
-file = "mods/show-me-what-you-got.pw.toml"
-hash = "baf6966f04cac626678b4ebe59029795f9c83a05ccc85496dffd1b8ba225fee9"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "19ab51cc0b1ca5f86bd4bb94cb0279142507c58a3f1286e356d4388ed2cf67d6"
 metafile = true
