@@ -613,6 +613,11 @@ hash = "f639cf7e7dc85a5f3e1f2a35dffbbef188f2468cb4b39502a6a8c171ac238044"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "3652bc255842f4c2b8c5b1e1a6bcdf84be02203dda8926d95f85a025c8648471"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "da392d51171032ee1e96bc17e07fc3c2fa8c49a74e1c2d5c2e265a6e062c1413"
 metafile = true
@@ -763,11 +768,6 @@ hash = "fe8743f5589bb9a250b0dfe811fc4749a536bb0ef5e746ee59bcdb287122c12b"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-block-entities.pw.toml"
-hash = "63e1916f7e0447dee1e84963ae9c847a4eb183fe338b07d836644da2e3b853b1"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "bd33492eb89891efd99e695b3ec9c2fc07f89d15797221b972d99aba1fab438d"
 metafile = true
@@ -904,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "78b2ed7e61a357018a06602ab1edf3c34fe2d7b2d498fea83e42c5026dee68bf"
+hash = "218df70f59aae5894d09db3857d8a02575b9df33ad5425ffe3ac1ceeb8798329"
 metafile = true
 
 [[files]]
@@ -1095,6 +1095,11 @@ metafile = true
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "20fced7e2015be74a65981214b09b8aa6782baef49a9a05e0d200853a84fcea7"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "03981379b17f2682b1783c226eb1a455bb8a45f6789cfd2491f9b1aba4990a61"
 metafile = true
 
 [[files]]
@@ -1365,6 +1370,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "7a954b499a9d3a231d8398471a5d7dac9779af5c1a00539b9eeaacfc39b3651a"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "bdf251ecd45fab639424ef1dc313c3ed001122bb91e726dc2fee385bc4478eb0"
 metafile = true
 
 [[files]]

@@ -6,9 +6,14 @@ Fabric version: Fabric-0.14.22
 Update overview: 
 ~ Replaced the logo.
 ~ Client now points to the new official Insomnia2 server.
+~ Fixed flickering of block entities.
 
 Mods added:
 + Desired Servers [Client]
++ ModernFix
++ Connectivity
++ Structure Essentials
++ ImmediatelyFast
 
 Resource/Shader Packs added:
 + 
@@ -17,7 +22,7 @@ Data Packs added:
 + 
 
 Mods removed: 
-- 
+- Enhanced Block Entities (Incompatibility with Create's "Flywheel" causes block entities to flicker)
 
 Mods disabled: 
 - 
