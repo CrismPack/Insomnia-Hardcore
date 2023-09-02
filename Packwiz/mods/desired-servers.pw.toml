@@ -1,0 +1,13 @@
+name = "Desired Servers"
+filename = "desiredservers-fabric-1.20.1-1.2.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "da0e49cf18c60aadde23ea77a77f274f22c0da84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4621899
+project-id = 397292

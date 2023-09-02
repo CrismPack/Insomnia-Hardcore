@@ -331,9 +331,9 @@ customization {
   restartbackgroundanimations = true
   buttonaction = opengui;com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\longbutton_hover.png
-  label = Official Server | %serverstatus:insomnia.crismpack.net%
+  label = Official Server | %serverstatus:insomnia2.crismpack.net%
   loopbackgroundanimations = true
-  hoverlabel = %serverstatus:insomnia.crismpack.net% | %serverping:insomnia.crismpack.net%ms | %serverplayercount:insomnia.crismpack.net%
+  hoverlabel = %serverstatus:insomnia2.crismpack.net% | %serverping:insomnia2.crismpack.net%ms | %serverplayercount:insomnia2.crismpack.net%
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 0
   width = 200

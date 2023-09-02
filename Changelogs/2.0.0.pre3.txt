@@ -4,10 +4,11 @@ v2.0.0.pre3
 
 Fabric version: Fabric-0.14.22
 Update overview: 
-~ New logo
+~ Replaced the logo.
+~ Client now points to the new official Insomnia2 server.
 
 Mods added:
-+ 
++ Desired Servers [Client]
 
 Resource/Shader Packs added:
 + 
@@ -30,4 +31,6 @@ Mods updated:
 Config Changes: 
 = Replaced logo on the title screen with the new one: [Client], [FancyMenu]
 = Replaced window icons with new ones: [Client], [FancyMenu]
+= Changed "Official Server" button so it points to the new Insomnia2 server: [Client], [FancyMenu]
+= Configured mod with the Insomnia2 official server address: [Client], [Desired Servers]
 = : [mod], [Server]

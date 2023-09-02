@@ -688,6 +688,11 @@ hash = "f6b1dec1cfae143633cea05231d3825cadb921bbe0ffce29dd0ae3c9c4361ee6"
 metafile = true
 
 [[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "ad800096dd20832c463e2a536a5ba835deab4a8847f08bff6971b094706f35f7"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "dc6b98484351cdf5205dd4026fa2974ea98a31458ec66a0e3dc49663423b4db5"
 metafile = true
