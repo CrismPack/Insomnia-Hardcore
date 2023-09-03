@@ -1468,6 +1468,11 @@ hash = "eee7202e08da91e99b379952556e26d2bd2fedd8451dc5dc2149946cfeb7b064"
 metafile = true
 
 [[files]]
+file = "mods/village-nullifier-mod.pw.toml"
+hash = "9574c1a4f27f40e7fdd8e006bd978400c94875dec4267f0f22b7805f865f2dc8"
+metafile = true
+
+[[files]]
 file = "mods/villagers-respawn.pw.toml"
 hash = "5445f84a6f3dcc6323979db3179a8bd152b8766bb63a5c0285f3ffa6c41186ad"
 metafile = true

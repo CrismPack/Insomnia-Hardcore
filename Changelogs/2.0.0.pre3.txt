@@ -13,6 +13,7 @@ Update overview:
 ~ Removed the numbers in the hotbar texture.
 ~ Added a bunch of new structure mods.
 ~ Replaced 'Towers of the Wild' with 'Structory: Towers'.
+~ Disabled spawning of vanilla villages.
 
 Mods added:
 + Desired Servers [Client]
@@ -27,6 +28,7 @@ Mods added:
 + Tidal Towns
 + Philip's Ruins
 + Tectonic
++ Village Nullifier
 
 Resource/Shader Packs added:
 + 
