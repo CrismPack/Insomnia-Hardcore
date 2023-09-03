@@ -26,6 +26,7 @@ Mods added:
 + The Lost Castle
 + Tidal Towns
 + Philip's Ruins
++ Tectonic
 
 Resource/Shader Packs added:
 + 
