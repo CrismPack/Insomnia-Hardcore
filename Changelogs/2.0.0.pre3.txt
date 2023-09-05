@@ -14,6 +14,7 @@ Update overview:
 ~ Added a bunch of new structure mods.
 ~ Replaced 'Towers of the Wild' with 'Structory: Towers'.
 ~ Disabled spawning of vanilla villages.
+~ Item tooltips now appear cleaner in how they represent information.
 
 Mods added:
 + Desired Servers [Client]
@@ -29,6 +30,13 @@ Mods added:
 + Philip's Ruins
 + Tectonic
 + Village Nullifier
++ Better Trim Tooltips [Client]
++ Clean Tooltips [Client]
++ Elytra Trims
++ Recipe Book Delight [Client]
+
+Mods re-enabled:
++ Create Support for Open Parties and Claims
 
 Resource/Shader Packs added:
 + 

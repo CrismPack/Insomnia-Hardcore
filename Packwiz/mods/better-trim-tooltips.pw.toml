@@ -1,0 +1,13 @@
+name = "Better Trim Tooltips"
+filename = "better-trim-tooltips-1.0.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "5cb640048145f647fd879d68b2db953607610c8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4579455
+project-id = 868132

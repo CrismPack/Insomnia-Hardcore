@@ -1,0 +1,13 @@
+name = "Recipe Book Delight"
+filename = "recipe-book-delight-0.2.0-1.20.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4ddd2c81b65a367e9b12363602d5e2a138bbf9a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4707527
+project-id = 857553

@@ -458,6 +458,11 @@ hash = "9e051999d8094ebc6430a472ca5383064b60b3b158f0c1daf9377f6bc08621af"
 metafile = true
 
 [[files]]
+file = "mods/better-trim-tooltips.pw.toml"
+hash = "9fa9b9659167f61c6a77504bd9546faf17ea3e5ba53c9f5b372a94d1f8bd2070"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "cb9a5f2a86d058074e42755671eef9117861a821114d44b59c327adc350f7beb"
 metafile = true
@@ -550,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "f086ea0825c4194d30b357a571bd12718aaaf5dfc69d8dd023a28f798d6dbf83"
+metafile = true
+
+[[files]]
+file = "mods/clean-tooltips.pw.toml"
+hash = "4eb09537a0ac45988cd0f8e32907bb1ea308c7a9c7f6935f908d0029676df857"
 metafile = true
 
 [[files]]
@@ -740,6 +750,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "beb6e0c294b7356404964ba6c5244825755f6dec7c9f723b26c29402552d3265"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "166bec2bb537d156a09dca6ddf54cda8f555cc194052916a32e26a061099510c"
 metafile = true
 
 [[files]]
@@ -1149,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "f5fbe0bf73e3e9009efda10bc607e2ca880648e2eeb67076a97f007789c92d77"
+hash = "2a12fede80d8aa1e788fda98f34068fc080082a5ef0fffcb89b9d4f865909587"
 metafile = true
 
 [[files]]
@@ -1250,6 +1265,11 @@ metafile = true
 [[files]]
 file = "mods/recall-staffs.pw.toml"
 hash = "c0e96fc8747ffede55e5962992535a70e2be35962d88746907edbb174ef95e81"
+metafile = true
+
+[[files]]
+file = "mods/recipe-book-delight.pw.toml"
+hash = "cb1b9366fa7c9da7f19e1139014624863cd7052933f62c36a90aabc1655c9e44"
 metafile = true
 
 [[files]]
@@ -1448,11 +1468,6 @@ hash = "9c686b8a69a61af3b889070efebfb049d0932036ab458a29d409bc193e63c02c"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-additions.pw.toml"
-hash = "3b6752885578c32acfda11cc640edf261eea1373aeda18e471f225f9f42471e9"
-metafile = true
-
-[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "5c34a5a8eb055b65f1ede0246c688a8f377b73c90e80c21d8bc301c1daf4e40f"
 metafile = true
@@ -1523,7 +1538,7 @@ hash = "65f9e1998656199fad211f9ab5330e7c892925f6f7fd5788fd2741fa310db5f2"
 
 [[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
-hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
+hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
@@ -1563,11 +1578,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "c5a8b7a37fc4b114341b96f6bb125687a9200c78838d4dca89e4984915dcd9df"
-metafile = true
-
-[[files]]
-file = "resourcepacks/towers-of-the-wild-reworked-datapack.pw.toml"
-hash = "d80fb7640382b0b593716e7ed235b13fae09489649756e2f14c5760fec97d0ff"
 metafile = true
 
 [[files]]
