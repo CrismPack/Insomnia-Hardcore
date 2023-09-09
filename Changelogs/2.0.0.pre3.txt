@@ -106,4 +106,5 @@ Config Changes:
 = Configured mod with the Insomnia2 official server address: [Client], [Desired Servers]
 = Now just says "In %world%" instead of "Currently in %world%": [Simple Discord RPC], [Client]
 = Now overwrites the description when in the Overworld to say "In the Overworld": [Simple Discord RPC], [Client]
+= Replaced largeImageKey with the new logo GIF: [Simple Discord RPC], [Client]
 = : [mod], [Server]

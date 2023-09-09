@@ -23,7 +23,7 @@
 	#Image Keys
 	[[custom.variables]]
         name = "largeImageKey"
-        value = "https://i.imgur.com/ut5KY0I.gif"
+        value = "https://i.imgur.com/HqWmPnT.gif"
     [[custom.variables]]
         name = "smallImageKey"
         value = "https://i.imgur.com/alFUtQ5.png"
