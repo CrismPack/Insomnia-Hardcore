@@ -35,9 +35,11 @@ Mods added:
 + Clean Tooltips [Client]
 + Elytra Trims
 + Recipe Book Delight [Client]
++ YUNG's API
 
 Mods re-enabled:
 + Create Support for Open Parties and Claims
++ Traveler's Titles [Client]
 
 Resource/Shader Packs added:
 + 
@@ -65,7 +67,28 @@ Resource Packs updated:
 > NoBushyLeaves
 
 Mods updated: 
-> 
+> BisectHosting Server Integration Menu 
+> Blockus
+> Bookshelf
+> Branded Logs
+> Cherished Worlds
+> Clickable advancements
+> Enchantment Descriptions
+> Entity Model Features
+> Exordium
+> Fabric API
+> Falling Leaves
+> Hephaestus Fabric [Still disabled]
+> ImmediatelyFast
+> Jade 🔍
+> MmmMmmMmmMmm (Target Dummy)
+> Mod Menu
+> Roughly Enough Items
+> Moonlight Lib
+> spark
+> Traveler's Titles
+> Village Nullifier
+> Xaero's World Map
 
 Config Changes: 
 = Replaced logo on the title screen with the new one: [Client], [FancyMenu]
