@@ -1533,6 +1533,46 @@ hash = "fb257e81bf597eb894b9186d56ab7cb6bc907a16d39a7cf1de50acee3c9a3a14"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "c51d9d25b725cb78a9ba076de60e3234815dcbc9d2bd182b8e55770bd7f4cb4f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "bef274c0446bf398572ad3498f5457705acea650b945dc60b7a90b7bdf03996b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
+hash = "5984e77e3a4cfb9ac92441ed5c23bc9e1a972b2b32c0d31842e622082ef8f8d9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+hash = "1100118031a3e47e4514c642f980779641b3c88daad2e3fe34a58d84aab29378"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
+hash = "67bfd6c6b7d1ed893754dbc736050b7cb700fab20b630a3b33a9979bc794b41a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
+hash = "81e81e24ef5aadd4b085ed1770f9b13d31b65675d7291a33685168fb82382181"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.pw.toml"
+hash = "febd2c27d115cd48665bf018e8d0eb9b400e635cf0d40168039e66d9b340d5f6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "63e52ab84fc032f13191ab9c4d831ba1b1804d0461a7ca159bdf11d1d2fbbd2e"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ba45cf92c559d95cb74d539cbb88c70730e2b902ae6f081f3d45bcd2e46de499"
 metafile = true
