@@ -15,7 +15,7 @@ Update overview:
 ~ Replaced 'Towers of the Wild' with 'Structory: Towers'.
 ~ Disabled spawning of vanilla villages.
 ~ Item tooltips now appear cleaner in how they represent information.
-~ Minor changes to the DiscordRPC.
+~ Minor changes to the Discord RPC integration.
 
 Mods added:
 + Desired Servers [Client]
