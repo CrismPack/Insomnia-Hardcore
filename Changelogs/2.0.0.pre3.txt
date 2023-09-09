@@ -63,7 +63,8 @@ Mods removed:
 - Towers of the Wild: Additions
 
 Mods disabled: 
-- 
+- MmmMmmMmmMmm (Target Dummy)
+- Moonlight Lib
 
 Resource Packs removed:
 - 
