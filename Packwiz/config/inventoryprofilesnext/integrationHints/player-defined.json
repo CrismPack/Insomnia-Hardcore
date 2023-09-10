@@ -37,15 +37,15 @@
         "buttonHints": {
             "SORT": {
                 "horizontalOffset": 3,
-                "bottom": 3
+                "bottom": 2
             },
             "SORT_COLUMNS": {
                 "horizontalOffset": 3,
-                "bottom": 3
+                "bottom": 2
             },
             "SORT_ROWS": {
                 "horizontalOffset": 3,
-                "bottom": 3
+                "bottom": 2
             }
         }
     },
@@ -104,6 +104,19 @@
             "SORT_ROWS": {
                 "horizontalOffset": 3,
                 "top": 53
+            }
+        }
+    },
+    "com.nhoryzon.mc.farmersdelight.client.screen.CookingPotScreen": {
+        "buttonHints": {
+            "SORT": {
+                "top": 2
+            },
+            "SORT_COLUMNS": {
+                "top": 2
+            },
+            "SORT_ROWS": {
+                "top": 2
             }
         }
     }

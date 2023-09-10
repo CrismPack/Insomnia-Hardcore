@@ -5,9 +5,9 @@ v2.0.0.pre3
 Fabric version: Fabric-0.14.22
 Update overview: 
 ~ Replaced logo with the new one.
-~ Client now points to the new official Insomnia2 server.
+~ Client now points to the new Insomnia2 server.
+~ Created "GUI Reimagined Edit" resourcepack, which is based upon the 1.20.1 version of the Reimagined resourcepack's GUI elements. In doing so, fixed a bunch of texture related issues.
 ~ Fixed flickering of block entities.
-~ Fixed creative GUI being bugged.
 ~ Fixed bed textures being bugged.
 ~ Fixed Cherry Leaves not respecting 'NoBushyLeaves'.
 ~ Removed the numbers in the hotbar texture.
@@ -50,7 +50,7 @@ Mods re-enabled:
 + Traveler's Titles [Client]
 
 Resource/Shader Packs added:
-+ 
++ GUI Reimagined Edit
 
 Data Packs added:
 + 
@@ -67,13 +67,14 @@ Mods disabled:
 - Moonlight Lib
 
 Resource Packs removed:
-- 
+- GUI Reimagined
 
 Data Packs removed:
 - Towers of the Wild: Reworked (Datapack)
 
 Resource Packs updated:
 > NoBushyLeaves
+> 
 
 Mods updated: 
 > BisectHosting Server Integration Menu 
@@ -107,4 +108,5 @@ Config Changes:
 = Now just says "In %world%" instead of "Currently in %world%": [Simple Discord RPC], [Client]
 = Now overwrites the description when in the Overworld to say "In the Overworld": [Simple Discord RPC], [Client]
 = Replaced largeImageKey with the new logo GIF: [Simple Discord RPC], [Client]
+= Moved the sorting buttons for the crafting_station, dispenser, cooking_pot and creative GUI's: [Inventory Profiles Next], [Client]
 = : [mod], [Server]
