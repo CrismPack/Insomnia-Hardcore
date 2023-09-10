@@ -214,7 +214,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5905e97bb72befae79d8099c729f16db100bdeb74aca786a2e086f9c9621a005"
+hash = "84b3c8f1662f7b892bfa6c98e321f491a54b63e7d6065bd18aca6499f13a0d35"
 
 [[files]]
 file = "config/revive.json5"
@@ -222,7 +222,7 @@ hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "13a413222275bc84be867452e758bf516d10eb8d58bbde2376a6267659e721cb"
+hash = "ba8fd95cff1dcefc15cb230247cb18f7c9036e9fec87b49ed5a6c273725c7a5a"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -261,8 +261,8 @@ file = "config/tconstruct-client.toml"
 hash = "5fbd1a91ff93cecc3ea20936cb44bacfcaa1ba2ac6b127abf581a8dd6b8aa144"
 
 [[files]]
-file = "config/travelerstitles-fabric-1_18.toml"
-hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
+file = "config/travelerstitles-fabric-1_20.toml"
+hash = "cc29964026fca4121919492493a4d2de89f82ba5d17d0993971133a3cbc63e9f"
 
 [[files]]
 file = "config/waystones/config.json"
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "8cfc4bf415500101d95145b1999ce09851ee07c8e543ba56bdf770bf8091d41a"
+hash = "f946c0ebbc692e2cf262bba84e316d1321801620d54cfc2c5801f30c9d43ba25"
 metafile = true
 
 [[files]]
@@ -1319,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a5113eafec8de7a8fe81693afcd4b4cf2c831308624447bc998e723758486e17"
+hash = "fc787284e31439e0e251feaf44aaec729bcd4943f7c225207536f3adb74bc895"
 metafile = true
 
 [[files]]
@@ -1578,10 +1578,6 @@ hash = "ba45cf92c559d95cb74d539cbb88c70730e2b902ae6f081f3d45bcd2e46de499"
 metafile = true
 
 [[files]]
-file = "resourcepacks/GUI Reimagined-[HaXr Edit].zip"
-hash = "65f9e1998656199fad211f9ab5330e7c892925f6f7fd5788fd2741fa310db5f2"
-
-[[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
 hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
@@ -1601,8 +1597,8 @@ hash = "ad30cee4a2dfa96e1901248b25dc962494f84e7be02a692487111611682e4214"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gui-reimagined.pw.toml"
-hash = "6604f0705062921ad5386678b08f85b2a595469108b9a525c1cbbcfd01b13cf6"
+file = "resourcepacks/gui-reimagined-edit.pw.toml"
+hash = "a0b0e4e9b2c2c16e830f2d2abbec67e3861b03df1492548711edcdbedf7f78a4"
 metafile = true
 
 [[files]]

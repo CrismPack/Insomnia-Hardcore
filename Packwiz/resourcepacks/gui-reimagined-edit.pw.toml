@@ -1,0 +1,14 @@
+name = "GUI Reimagined Edit"
+filename = "GUI-Reimagined-Edit.zip"
+side = "client"
+
+[download]
+url = "https://objects.githubusercontent.com/github-production-release-asset-2e65be/689481646/b5cf8f75-903b-47b3-960d-15801772e17a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230910T002700Z&X-Amz-Expires=300&X-Amz-Signature=5d15d0bb62f903145d8717de05f15547f6305c2b7cc7a6c852d0fa3320a4f80f&X-Amz-SignedHeaders=host&actor_id=20630404&key_id=0&repo_id=689481646&response-content-disposition=attachment%3B%20filename%3DGUI-Reimagined-Edit.zip&response-content-type=application%2Foctet-stream"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2cf8570b5121c7704ebba23b8bb748cc7576a27ea85f32d4b0d6c9e6f0ecc244"
+
+[option]
+optional = false
