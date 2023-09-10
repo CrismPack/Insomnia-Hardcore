@@ -174,7 +174,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "97712ae50083ac3a476cff30e5426067379c3ee0beb6c42ad87f6f8449d0ce75"
+hash = "dd53bb196fe0a9a0cb149a9a59d9657e45271e99c049eee0901254aa494391b0"
 
 [[files]]
 file = "config/iris.properties"
@@ -1598,7 +1598,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gui-reimagined-edit.pw.toml"
-hash = "e0e3ffc6886aa740e62215f5f0288b594a46eab19bfc415ca8c4260a5b0dfa4b"
+hash = "5c1f23ba9eed924b5cf0964c2ece5d4ae0e88f146f64929f44d8caff56044768"
 metafile = true
 
 [[files]]
