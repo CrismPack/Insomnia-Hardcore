@@ -65,16 +65,16 @@
     "net.minecraft.class_480": {
         "buttonHints": {
             "SORT": {
-                "horizontalOffset": -1,
-                "top": 1
+                "horizontalOffset": 10,
+                "top": 32
             },
             "SORT_COLUMNS": {
-                "horizontalOffset": -1,
-                "top": 1
+                "horizontalOffset": 22,
+                "top": 44
             },
             "SORT_ROWS": {
-                "horizontalOffset": -1,
-                "top": 1
+                "horizontalOffset": 34,
+                "top": 56
             }
         }
     },
@@ -88,6 +88,22 @@
             },
             "SORT_ROWS": {
                 "horizontalOffset": 30
+            }
+        }
+    },
+    "me.shedaniel.istations.containers.CraftingStationScreen": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 3,
+                "top": 53
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 3,
+                "top": 53
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 3,
+                "top": 53
             }
         }
     }
