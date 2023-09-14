@@ -74,7 +74,7 @@ Data Packs removed:
 
 Resource Packs updated:
 > NoBushyLeaves
-> 
+> Tissou's Zombie Pack
 
 Mods updated: 
 > BisectHosting Server Integration Menu 

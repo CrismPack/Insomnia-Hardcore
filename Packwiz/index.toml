@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "46010ea7f218dba1cddc27c3f956485060a3836a7116ed1fc26995c929f596f2"
+hash = "14f6dcfa6b1b7281fbaee759f4ee2605cafe57e997c45f884c6835e855a01dd8"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
-hash = "eeddfcc73d4840f234020c172f42582f4ec4ff53bfde52cdc6e226669e5bf575"
+hash = "a719aa2c152b1067dea8074e73cfba1cfa08ac3eaba232c188461c1abaed1a5a"
 metafile = true
 
 [[files]]
@@ -659,12 +659,12 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "a02a8416ea5aea3084f0f14ff7c64420af5aa2b26f7ca8b6b29190b8d7cdce54"
+hash = "0727a3de371e115fe90c288795eaaeb35589d31652148efbd127d47d5feb85d6"
 metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "4bd30270e79455b8b2cbc381a376b11042283c376aed755637c3564611efd046"
+hash = "adee56de36b08b1c6209ee506707dea3bebf06a74b057b7ea2a27be8d9a0f164"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusk.pw.toml"
-hash = "ccd2de21a3d516a4183947d66cb6fb49c1bca335da7f6fec7b31e7c4e44883b9"
+hash = "f973d4a1a418eab73f579547bbfde34df65184f510bb83fec606d7c81ef77715"
 metafile = true
 
 [[files]]
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "58cb08c2b129129c420b493490dec731337fffdadfd21b7321911f814dcef02b"
+hash = "65c6f3806b6d9a5dd0415ace4d41c5a6f752980f948445c8c01060d310290424"
 metafile = true
 
 [[files]]
@@ -834,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "df4cc184577f4fa0335b9b517a0280dd9402b7280bff7f05e57f749784263919"
+hash = "71b95b8e6feac87adae95dd0a50dfe7ba8525c8e6ac08293ad469af42dd4a97a"
 metafile = true
 
 [[files]]
@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.pw.toml"
-hash = "da6973a4309f9c666ec9825b46f0d7f5146e7c1132628280bd61f92b7b6814cf"
+hash = "9fdfbf611538835a91999b8e12607565ed51f98e96ed0c3a7d8ed5a3a6bb42f5"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "079750aa5918ee528bf0347bcf7929a1a3d2888a750a661da9101ca1e7cf9dd1"
+hash = "987cb94ae9c60a811784617fad5eb48b574691d8eba12eb79a1ca3640e5892f4"
 metafile = true
 
 [[files]]
@@ -1059,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "mods/mavapi.pw.toml"
-hash = "f243cda21c9ce227402054b2ef93410d3832afb985a392a7b368d80b80f88c7a"
+hash = "cc8bb1b3b19d8af2febeed8a007bb695e8a15e779c9bceaf50f5f7c14ecb98e6"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "23414ec8dfd67e04b2212aa598dc0f74af592cb94e42d51883214ee02f691e76"
+hash = "af380dcd8ee333ee9b13233c400f1ffa073a69ce4097a1408739845de4bb0531"
 metafile = true
 
 [[files]]
@@ -1189,7 +1189,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "002e327af1c7127592907dbbb617f9c79a6ef00c9189c7c285915f9737a1791c"
+hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
 
 [[files]]
@@ -1319,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "fc787284e31439e0e251feaf44aaec729bcd4943f7c225207536f3adb74bc895"
+hash = "12ec3aa1d9568e34f93ad0f08ee04e46e7e55133ff2c1bf70da8b739e8f2072c"
 metafile = true
 
 [[files]]
@@ -1349,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "a746a730133be74c0d63c51c8cb587ebe68efc0584808d5a3aeabb707312b0a6"
+hash = "2aaac7a5b39270cbbe50f800b4d8d8d14b503e01c2f29cf8a4fbd8b9b9570806"
 metafile = true
 
 [[files]]
@@ -1409,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "bb4fe587540685f79ccb3e3f2f48d90b1137894c409ad18ded231ec784b2ce50"
+hash = "b06c4ab8ded67fe92b0943cee3593654421b2fa50c888d86e764dae453152ac7"
 metafile = true
 
 [[files]]
@@ -1514,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "248141b35223ae0cab3386189cd79dd15159f8c671d19d888662937b5964d945"
+hash = "a743b452f08d80eefc3587070d2c09fe575a8dad634454ce9420c52f54dd72f7"
 metafile = true
 
 [[files]]
@@ -1618,7 +1618,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
-hash = "c5a8b7a37fc4b114341b96f6bb125687a9200c78838d4dca89e4984915dcd9df"
+hash = "d6659cf4b15cb7d52b46cdfc3a7884ca0799f522940498b83284ce10cf77686c"
 metafile = true
 
 [[files]]
