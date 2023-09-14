@@ -30,7 +30,7 @@ hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
 
 [[files]]
 file = "config/bclib/main.json"
-hash = "f6f185e54f4568d1b6e9e657e0f7ac83b5dd29796ecd93d27efe8a093852b681"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -367,6 +367,11 @@ hash = "6cdad9cfbdfa70b693e41ea74d313b023543a591935d5bcd98a070c388d1b82f"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "2c6fc03ed1b51adeab084863949767e77f7ee7cab951650042eb9bcd22b30862"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c61e23259e422098fde9b6393492f4f6e22e1bc074a397ae4c6edd686481e397"
 metafile = true
@@ -469,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "cb9a5f2a86d058074e42755671eef9117861a821114d44b59c327adc350f7beb"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "517d2bcdb24b81608e79fe6ceeed432310ef6aa409422fa2048371d60e194753"
 metafile = true
 
 [[files]]
@@ -947,11 +957,6 @@ hash = "6035dc99eebe6cf06ce56952046989133b17e601aeed3a2ea05a22dae6e880e9"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "01940a46a66444da2b3c9b82e7d74fd66ea112b9376db7a410f129f07e12a3c4"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "3d138208f5f408c6c981e335dce163a829eb5d9114054ccf05a4bf9cf9f2ff20"
 metafile = true
@@ -1132,6 +1137,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moogs-end-structures.pw.toml"
+hash = "886f7d1b60b2badf9f1055389ae94d3e2922479c1f7125031ae5a4e6d7efcdcf"
+metafile = true
+
+[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "f0ab43de7c31dae422d47c57c1968cdfec75c4a768e1a1bc420c47bf1ac88d54"
 metafile = true
@@ -1279,6 +1289,11 @@ metafile = true
 [[files]]
 file = "mods/recipe-book-delight.pw.toml"
 hash = "cb1b9366fa7c9da7f19e1139014624863cd7052933f62c36a90aabc1655c9e44"
+metafile = true
+
+[[files]]
+file = "mods/regrowth.pw.toml"
+hash = "e4463ec4154b3efc62947bf0f237a1dadee380dca137080a533657a0065f1830"
 metafile = true
 
 [[files]]

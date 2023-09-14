@@ -16,6 +16,7 @@ Update overview:
 ~ Disabled spawning of vanilla villages.
 ~ Item tooltips now appear cleaner in how they represent information.
 ~ Minor changes to the Discord RPC integration.
+~ Replaced 'Incendium' with 'Amplified Nether' & 'BetterNether'.
 
 Mods added:
 + Desired Servers [Client]
@@ -45,6 +46,10 @@ Mods added:
 + YUNG's Better Strongholds
 + YUNG's Better Witch Huts
 + LiLaC [New dependency of 'OptiGUI']
++ Amplified Nether
++ Better Nether
++ Regrowth
++ Moog's End Structures
 
 Mods re-enabled:
 + Create Support for Open Parties and Claims
@@ -62,6 +67,7 @@ Mods removed:
 - Better Beds (Causes the bed texture to render incorrectly)
 - Show Me What You Got (Doesn't work correctly due to some incompatibility)
 - Towers of the Wild: Additions
+- Incendium
 
 Mods disabled: 
 - MmmMmmMmmMmm (Target Dummy)
@@ -125,4 +131,5 @@ Config Changes:
 = Moved the sorting buttons for the crafting_station, dispenser, cooking_pot and creative GUI's: [Inventory Profiles Next], [Client]
 = Changed pack_id to match that of the new 1.20.1 version: [BHMenu], [Client]
 = "Need a server?" button now opens the BHMenu screen: [FancyMenu], [Client]
+= Enabled "applyPatches": [BCLib], [Both]
 = : [mod], [Server]
