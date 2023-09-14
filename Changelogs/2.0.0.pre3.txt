@@ -44,6 +44,7 @@ Mods added:
 + YUNG's Better Ocean Monuments
 + YUNG's Better Strongholds
 + YUNG's Better Witch Huts
++ LiLaC [New dependency of 'OptiGUI']
 
 Mods re-enabled:
 + Create Support for Open Parties and Claims
@@ -77,28 +78,41 @@ Resource Packs updated:
 > Tissou's Zombie Pack
 
 Mods updated: 
-> BisectHosting Server Integration Menu 
+> Balm
+> BisectHosting Server Integration Menu
 > Blockus
 > Bookshelf
 > Branded Logs
 > Cherished Worlds
 > Clickable advancements
+> Client Tweaks
+> Cristel Lib
+> Cupboard
+> Dusk
 > Enchantment Descriptions
 > Entity Model Features
 > Exordium
 > Fabric API
 > Falling Leaves
+> FancyMenu
+> Guard Villagers
 > Hephaestus Fabric [Still disabled]
 > ImmediatelyFast
 > Jade 🔍
+> LambDynamicLights
 > MmmMmmMmmMmm (Target Dummy)
 > Mod Menu
-> Roughly Enough Items
 > Moonlight Lib
-> spark
+> More Axolotl Variants API
+> OptiGUI
+> Roughly Enough Items
+> Smooth Chunk Save
+> Styled Chat
 > Traveler's Titles
 > Village Nullifier
 > Xaero's World Map
+> owo-lib
+> spark
 
 Config Changes: 
 = Replaced logo on the title screen with the new one: [Client], [FancyMenu]
@@ -109,4 +123,6 @@ Config Changes:
 = Now overwrites the description when in the Overworld to say "In the Overworld": [Simple Discord RPC], [Client]
 = Replaced largeImageKey with the new logo GIF: [Simple Discord RPC], [Client]
 = Moved the sorting buttons for the crafting_station, dispenser, cooking_pot and creative GUI's: [Inventory Profiles Next], [Client]
+= Changed pack_id to match that of the new 1.20.1 version: [BHMenu], [Client]
+= "Need a server?" button now opens the BHMenu screen: [FancyMenu], [Client]
 = : [mod], [Server]

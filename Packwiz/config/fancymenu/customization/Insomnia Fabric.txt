@@ -53,12 +53,42 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  identifier = %id=376322%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=376322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 0
+  action = movebutton
+  y = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
 }
 
@@ -78,11 +108,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = hidebutton
 }
 
 customization {
@@ -117,31 +142,6 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = sethoverlabel
   label = Lang
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
-  x = 0
-  action = movebutton
-  y = 48
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 98
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\shortbutton_hover.png
-  backgroundnormal = resources\mainmenu\shortbutton_normal.png
 }
 
 customization {
@@ -276,7 +276,7 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = openlink;https://bisecthosting.com/CRISM%btnaction_splitter_fm%
+  buttonaction = opengui;com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHOrderScreen%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Need a server?
   loopbackgroundanimations = true
@@ -329,7 +329,7 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = opengui;com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen%btnaction_splitter_fm%
+  buttonaction = opengui;net.minecraft.class_500%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\longbutton_hover.png
   label = Official Server | %serverstatus:insomnia2.crismpack.net%
   loopbackgroundanimations = true

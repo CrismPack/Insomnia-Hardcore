@@ -214,7 +214,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "84b3c8f1662f7b892bfa6c98e321f491a54b63e7d6065bd18aca6499f13a0d35"
+hash = "5af29e0ec778fc3a16584670c72152ec5b3c421c412bd7cea18fbbd9a15abbf0"
 
 [[files]]
 file = "config/revive.json5"
@@ -1040,6 +1040,11 @@ metafile = true
 [[files]]
 file = "mods/libz.pw.toml"
 hash = "0a723c88b5fada04ab8eb2c003b089b5e8c3b26932058a68b4875acd35a04142"
+metafile = true
+
+[[files]]
+file = "mods/lilac.pw.toml"
+hash = "db2f3f3f705ef0de8687555e98a75424caee5f1d250217c3cf654aed529ce0e8"
 metafile = true
 
 [[files]]
