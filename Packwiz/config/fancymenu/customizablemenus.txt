@@ -21,3 +21,6 @@ net.minecraft.class_429 {
 com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen {
 }
 
+net.coderbot.iris.gui.screen.ShaderPackScreen {
+}
+

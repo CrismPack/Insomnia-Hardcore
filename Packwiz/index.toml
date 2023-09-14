@@ -34,7 +34,7 @@ hash = "f6f185e54f4568d1b6e9e657e0f7ac83b5dd29796ecd93d27efe8a093852b681"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
-hash = "d1001b1dfecdbd527b452765c546b73ecb928f87e3aecd6cfaca07ab324ea025"
+hash = "884fad884027b219c8ea964fa9abb407102f4415789bc4040a4328a93ed5f7f1"
 
 [[files]]
 file = "config/bhmenu/bhmenu-public_server_list.properties"
@@ -86,7 +86,7 @@ hash = "a2d4dc30d05c042e4a943dd816c17e0b554dbfd61f27edb96eb6a7599c817570"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "a50c8f30fc1741b22639d234c49cc67e6f4022e369958691888233ad0ef5447f"
+hash = "dc5b3ab8ce7c5caa93cccb1eaa3ddf256236f80a391f90719fc9c3884e7e780c"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
@@ -94,11 +94,15 @@ hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "1e486c76e156f6309303d5df7173590a93d2012252a6974113fe7bec599cdea2"
+hash = "8594195d79f97a09f2144f8412ac4e598e89d9624019d291e46eea0ba095b163"
 
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
 hash = "65ba6886ecf23ec324a59c1f3e86460cf970a32790b916fc853ad85b578db2fc"
+
+[[files]]
+file = "config/fancymenu/customization/shadermenu.txt"
+hash = "751137c286a6bd4ae33180e0f1384fa2112c542dec123b116fd65df4e2e081bc"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -1694,6 +1698,10 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 [[files]]
 file = "resources/modpack/modpackversion.txt"
 hash = "3f6a96f002f9448641258dc6b32586b9e0f5089a6874c868cc25fed7d40073e8"
+
+[[files]]
+file = "shaderpacks/README.txt"
+hash = "2e6634fad4a551fb58785d43912e29c919184fe76f5eb5c0ca1ac1a9b53a24c7"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
