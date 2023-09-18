@@ -16,7 +16,7 @@ Update overview:
 ~ Disabled spawning of vanilla villages.
 ~ Item tooltips now appear cleaner in how they represent information.
 ~ Minor changes to the Discord RPC integration.
-~ Replaced 'Incendium' with 'Amplified Nether' & 'BetterNether'.
+~ Revamped Nether generation using a combination of 'Amplified Nether' & 'BetterNether'.
 
 Mods added:
 + Desired Servers [Client]
@@ -30,7 +30,6 @@ Mods added:
 + The Lost Castle
 + Tidal Towns
 + Philip's Ruins
-+ Tectonic
 + Village Nullifier
 + Better Trim Tooltips [Client]
 + Clean Tooltips [Client]
@@ -67,18 +66,18 @@ Mods removed:
 - Better Beds (Causes the bed texture to render incorrectly)
 - Show Me What You Got (Doesn't work correctly due to some incompatibility)
 - Towers of the Wild: Additions
-- Incendium
+- Incendium (Replaced with 'Amplified Nether' & 'BetterNether')
 
 Mods disabled: 
-- MmmMmmMmmMmm (Target Dummy)
+- MmmMmmMmmMmm
 - Moonlight Lib
-- Starlight
+- Starlight (Incompatibility with 'Create': https://github.com/Fabricators-of-Create/Create/issues/1041)
 
 Resource Packs removed:
 - GUI Reimagined
 
 Data Packs removed:
-- Towers of the Wild: Reworked (Datapack)
+- Towers of the Wild: Reworked
 
 Resource Packs updated:
 > NoBushyLeaves
