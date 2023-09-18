@@ -72,6 +72,7 @@ Mods removed:
 Mods disabled: 
 - MmmMmmMmmMmm (Target Dummy)
 - Moonlight Lib
+- Starlight
 
 Resource Packs removed:
 - GUI Reimagined
