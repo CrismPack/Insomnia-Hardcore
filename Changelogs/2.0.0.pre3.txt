@@ -54,10 +54,13 @@ Mods added:
 + ModernFix
 + Redirector
 + Tectonic
++ Easy Anvils
++ Emojiful
 
 Mods re-enabled:
 + Create Support for Open Parties and Claims
 + Traveler's Titles [Client]
++ Companion 🐕
 
 Resource/Shader Packs added:
 + GUI Reimagined Edit

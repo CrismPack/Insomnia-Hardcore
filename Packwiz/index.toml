@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion-fabric.pw.toml"
-hash = "7f2e7927a5adc47bdd53013d94a9f69cd8e5d70a8a1058e50ad1c8ae2c858662"
+hash = "d9fb7585b69729746e282391499802e721e425a21a675fabd6f59c76ab6aae43"
 metafile = true
 
 [[files]]
@@ -751,6 +751,11 @@ hash = "e80ba9f9a9e183b3c51509da688b9932f8b6fe2ada38717cb9d4c0f1e0b2acf8"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "5de69336af040225c307a9b2dfaf0c3fbab5b57271b478a4f740918a5bf2f4b1"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "e11870c3d508d66b49a6f712a72f1adf2ac552de411c86877bcb4332c935f962"
 metafile = true
@@ -778,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/emerald-geodes.pw.toml"
 hash = "a5c276ac154f56a2061f66ef2ea50c157d70f0684e4f5ea9b309cd02f48f454c"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "a463035ddfa901370ec7293103a6405ed5f476f4a2a7468cc3552f07686bd510"
 metafile = true
 
 [[files]]
@@ -822,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1d0bce63ab8bb1d0d3a114befacb75cb6bac43d1c36c5a827592af8bb98b5696"
+hash = "0097f7785b4d4bf3dadf0b18dc409ef19afd242443950a7e23c45527027305e3"
 metafile = true
 
 [[files]]
@@ -1073,6 +1083,11 @@ metafile = true
 [[files]]
 file = "mods/login-protection.pw.toml"
 hash = "5319a40014c9ccf95f72d5958c1ef5978f0fce7c5e58c3bfac7a5da5dca24300"
+metafile = true
+
+[[files]]
+file = "mods/make-bubbles-pop.pw.toml"
+hash = "1a5726af9c8d73c866f34196561e1e0379eecb066929e82cbf9374ddac641a74"
 metafile = true
 
 [[files]]
