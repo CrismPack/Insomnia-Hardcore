@@ -1,0 +1,59 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_418
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  [loading_requirement:fancymenu_loading_requirement_is_singpleplayer][requirement_mode:if][req_id:5841553d-c92a-4b3d-bc21-f557a31714ef1695051063206] = 
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=4003701%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=4003701%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+  x = 1
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=400370%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400370%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
+  [loading_requirement:fancymenu_loading_requirement_is_singpleplayer][requirement_mode:if][req_id:96ef2980-ea78-479f-b289-25a593c8244f1682371772753] = 
+  action = vanilla_button_visibility_requirements
+}
+

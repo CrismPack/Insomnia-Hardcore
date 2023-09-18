@@ -17,6 +17,7 @@ Update overview:
 ~ Item tooltips now appear cleaner in how they represent information.
 ~ Minor changes to the Discord RPC integration.
 ~ Revamped Nether generation using a combination of 'Amplified Nether' & 'BetterNether'.
+~ Greatly improved the death screens of both Multiplayer & Singleplayer.
 
 Mods added:
 + Desired Servers [Client]
@@ -133,4 +134,6 @@ Config Changes:
 = "Need a server?" button now opens the BHMenu screen: [FancyMenu], [Client]
 = Enabled "applyPatches": [BCLib], [Both]
 = Disabled "updateNotification": [Xaero's Minimap], [Client]
+= Greatly improved the death screens of both Multiplayer & Singleplayer as well as seperating them into their own layouts (Too lazy to list individual changes): [FancyMenu], [Client]
+= Made the hardcore death screen title bold and red: [Insomnia Lang], [Client]
 = : [mod], [Server]
