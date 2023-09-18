@@ -132,4 +132,5 @@ Config Changes:
 = Changed pack_id to match that of the new 1.20.1 version: [BHMenu], [Client]
 = "Need a server?" button now opens the BHMenu screen: [FancyMenu], [Client]
 = Enabled "applyPatches": [BCLib], [Both]
+= Disabled "updateNotification": [Xaero's Minimap], [Client]
 = : [mod], [Server]
