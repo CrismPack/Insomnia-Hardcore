@@ -1503,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness-fork-fabric.pw.toml"
-hash = "eee7202e08da91e99b379952556e26d2bd2fedd8451dc5dc2149946cfeb7b064"
+hash = "ec83f6b5b972bac6528a7ec65198b5db6592d2d2172bfa9064421fe8942a672a"
 metafile = true
 
 [[files]]

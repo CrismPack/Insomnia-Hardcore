@@ -1,6 +1,7 @@
 name = "True Darkness Fork [Fabric]"
 filename = "true-darkness-fork-1.0.0-1.20.1.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"
