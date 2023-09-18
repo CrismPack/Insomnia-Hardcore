@@ -55,7 +55,7 @@ Mods added:
 + Redirector
 + Tectonic
 + Easy Anvils
-+ Emojiful
++ Emojiful [Client]
 
 Mods re-enabled:
 + Create Support for Open Parties and Claims
