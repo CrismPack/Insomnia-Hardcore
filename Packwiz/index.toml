@@ -89,8 +89,12 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "dc5b3ab8ce7c5caa93cccb1eaa3ddf256236f80a391f90719fc9c3884e7e780c"
 
 [[files]]
+file = "config/fancymenu/customization/Hardcore Death Screen Singleplayer.txt"
+hash = "2cfb9cb42f6d58c51edca99e170a9948b289b1875252b148e7cd07c787c64927"
+
+[[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
-hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
+hash = "da6f4e1390d63b2cbf2a0a83239cdd15897db85ad84bad7ae58479b18d4d3920"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
@@ -274,7 +278,7 @@ hash = "70cfce60aed29aaa64c42e44e3e5cf8ae51e62c7a1c555040d46685476945671"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "b165e3691326a07db658f7121e885ba4f874a8c1140893543ef7f4ce808421b0"
+hash = "e6f8a039ba63937eee1c75bf6c9034171fe17342a1b10babca35ebfc69234002"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -330,7 +334,7 @@ hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Custom Lang.zip"
-hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
+hash = "121de1b2758a5c85bd395eb6304d6c1fc0a5378a07eeb002d83b5d845e76b1a1"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
@@ -1132,6 +1136,11 @@ hash = "20fced7e2015be74a65981214b09b8aa6782baef49a9a05e0d200853a84fcea7"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "03981379b17f2682b1783c226eb1a455bb8a45f6789cfd2491f9b1aba4990a61"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -1292,6 +1301,11 @@ hash = "cb1b9366fa7c9da7f19e1139014624863cd7052933f62c36a90aabc1655c9e44"
 metafile = true
 
 [[files]]
+file = "mods/redirectionor.pw.toml"
+hash = "72d46d6fbab947d8e809dbfcc6012e478e112fff917af3ac3987ca9e3d1b6107"
+metafile = true
+
+[[files]]
 file = "mods/regrowth.pw.toml"
 hash = "e4463ec4154b3efc62947bf0f237a1dadee380dca137080a533657a0065f1830"
 metafile = true
@@ -1398,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
+hash = "7f62c410527dc79c9aa13e5f142bc2868146eb5f5d70397cdb56e769d723eca9"
 metafile = true
 
 [[files]]
@@ -1444,6 +1458,11 @@ metafile = true
 [[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "3cf31ad618f1fa0402a77a0184d6bfc1d8ec0ebf9292da4a4c1cef440e41d4b9"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f64a59be83c91ba753e191a2b9ed313d63f22120cdc748a9ef2c2403595cab8b"
 metafile = true
 
 [[files]]
