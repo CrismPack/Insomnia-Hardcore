@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "a463035ddfa901370ec7293103a6405ed5f476f4a2a7468cc3552f07686bd510"
+hash = "9e58bc37851da235aeb6462b331205e0c68790a207cc1c96f014e8adc5858e2f"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0097f7785b4d4bf3dadf0b18dc409ef19afd242443950a7e23c45527027305e3"
+hash = "1d0bce63ab8bb1d0d3a114befacb75cb6bac43d1c36c5a827592af8bb98b5696"
 metafile = true
 
 [[files]]
@@ -1083,11 +1083,6 @@ metafile = true
 [[files]]
 file = "mods/login-protection.pw.toml"
 hash = "5319a40014c9ccf95f72d5958c1ef5978f0fce7c5e58c3bfac7a5da5dca24300"
-metafile = true
-
-[[files]]
-file = "mods/make-bubbles-pop.pw.toml"
-hash = "1a5726af9c8d73c866f34196561e1e0379eecb066929e82cbf9374ddac641a74"
 metafile = true
 
 [[files]]
