@@ -544,6 +544,11 @@ hash = "845ff9ea109c93cb66932c81a31bb5e9359f0d2fdd6b8f7cd81fe564426373b8"
 metafile = true
 
 [[files]]
+file = "mods/bygone-nether-fabric.pw.toml"
+hash = "6ae68d5b307723a7de9b9b84dc04bac85835a02bb1d0d66891c4a58ba21c07cf"
+metafile = true
+
+[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "3601930d7f1fffec0232aeff33c3c767449527f867514f8a8ef5bd711befed4a"
 metafile = true
@@ -734,6 +739,11 @@ hash = "dc6b98484351cdf5205dd4026fa2974ea98a31458ec66a0e3dc49663423b4db5"
 metafile = true
 
 [[files]]
+file = "mods/ding-for-fabric.pw.toml"
+hash = "dbf9d9cd9f79eefeb440b39a7d1259de5ad922f0f16e63298956b53bda3ba76c"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "ac9ec1bf1c0f73a78d9c16d8bbafeb24494fab7bdf36a29dbce0cd269dca8430"
 metafile = true
@@ -741,11 +751,6 @@ metafile = true
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "6a86fc0be268b1e90cb9ff397f105b14181a3df3fdcc4cb273d0357d3a49353d"
-metafile = true
-
-[[files]]
-file = "mods/durability-tooltip.pw.toml"
-hash = "17730343551d07662e534f16115bf2b9e472d84605c52106cf59d519ed071185"
 metafile = true
 
 [[files]]
@@ -1234,6 +1239,11 @@ hash = "af380dcd8ee333ee9b13233c400f1ffa073a69ce4097a1408739845de4bb0531"
 metafile = true
 
 [[files]]
+file = "mods/orb-of-origin-rework.pw.toml"
+hash = "13ce7cb19db89d4f4600ce726ce8d6f9cae663a568cd07c94e00854463da3691"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "4bd1edfe5483bed796e670584ce2915607c5653ff8bb01223280a5b648d0d0b5"
 metafile = true
@@ -1496,11 +1506,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f64a59be83c91ba753e191a2b9ed313d63f22120cdc748a9ef2c2403595cab8b"
-metafile = true
-
-[[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "70f3199354420fb3ff289a2dc6530f913ea68de729a7522d67d168eb7bbea94b"
 metafile = true
 
 [[files]]

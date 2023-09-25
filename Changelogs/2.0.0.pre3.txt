@@ -4,22 +4,23 @@ v2.0.0.pre3
 
 Fabric version: Fabric-0.14.22
 Update overview: 
+~ Revamped Nether terrain generation to make it more interesting and hopefully less laggy.
+~ Overworld terrain now generates in a more epic fasion.
 ~ Replaced logo with the new one.
 ~ Client now points to the new Insomnia2 server.
-~ Created "GUI Reimagined Edit" resourcepack, which is based upon the 1.20.1 version of the Reimagined resourcepack's GUI elements. In doing so, fixed a bunch of texture related issues.
+~ Fixed a bunch of GUI related texture issues.
 ~ Fixed flickering of block entities.
 ~ Fixed bed textures being bugged.
 ~ Fixed Cherry Leaves not respecting 'NoBushyLeaves'.
 ~ Removed the numbers in the hotbar texture.
 ~ Added a bunch of new structure mods.
 ~ Replaced 'Towers of the Wild' with 'Structory: Towers'.
-~ Disabled spawning of vanilla villages.
+~ Disabled generation of vanilla villages.
 ~ Item tooltips now appear cleaner in how they represent information.
 ~ Minor changes to the Discord RPC integration.
-~ Revamped Nether generation using a combination of 'Amplified Nether' & 'BetterNether'.
 ~ Greatly improved the death screens of both Multiplayer & Singleplayer.
-~ More epic generation of the Overworld with the addition of 'Tectonic'.
-~ Nether fog is now corralated with the view distance, just like with shaders enabled.
+~ Nether fog is now corralated with the render distance.
+~ Variations of the "Orb of Origin" item can now be found/crafted.
 
 Mods added:
 + Desired Servers [Client]
@@ -54,13 +55,16 @@ Mods added:
 + Moog's End Structures
 + ModernFix
 + Redirector
-+ Tectonic
 + Easy Anvils
 + Emojiful [Client]
 + Lithium [CF]
 + Explorer's Compass
 + Nature's Compass
 + Simple Fog Control [Client]
++ Orb of Origin Rework
++ Ding [Client]
++ Bygone Nether
++ Tectonic
 
 Mods re-enabled:
 + Create Support for Open Parties and Claims
@@ -81,6 +85,7 @@ Mods removed:
 - Towers of the Wild: Additions
 - Incendium (Replaced with 'Amplified Nether' & 'BetterNether')
 - Lithium [MR]
+- Durability Tooltip (Unneeded and causes the durability information to appear twice)
 
 Mods disabled: 
 - MmmMmmMmmMmm
