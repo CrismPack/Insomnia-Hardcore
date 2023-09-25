@@ -19,6 +19,7 @@ Update overview:
 ~ Revamped Nether generation using a combination of 'Amplified Nether' & 'BetterNether'.
 ~ Greatly improved the death screens of both Multiplayer & Singleplayer.
 ~ More epic generation of the Overworld with the addition of 'Tectonic'.
+~ Nether fog is now corralated with the view distance, just like with shaders enabled.
 
 Mods added:
 + Desired Servers [Client]
@@ -57,10 +58,9 @@ Mods added:
 + Easy Anvils
 + Emojiful [Client]
 + Lithium [CF]
-+ Regions Unexplored
-+ TerraBlender
 + Explorer's Compass
 + Nature's Compass
++ Simple Fog Control [Client]
 
 Mods re-enabled:
 + Create Support for Open Parties and Claims
@@ -149,5 +149,5 @@ Config Changes:
 = Disabled "updateNotification": [Xaero's Minimap], [Client]
 = Greatly improved the death screens of both Multiplayer & Singleplayer as well as seperating them into their own layouts (Too lazy to list individual changes): [FancyMenu], [Client]
 = Made the hardcore death screen title bold and red: [Insomnia Lang], [Client]
-= Disabled generation of nether biomes: [Regions Unexplored], [Both]
+= Disabled "customFogRendering": [BCLib], [Client]
 = : [mod], [Server]

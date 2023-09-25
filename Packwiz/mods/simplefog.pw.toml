@@ -1,0 +1,13 @@
+name = "Simple Fog Control"
+filename = "simplefog-1.4.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "321a910ac22b87c8682ee7a9b130d02f9fa5253b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4576681
+project-id = 622640

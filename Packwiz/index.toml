@@ -26,11 +26,15 @@ hash = "4bc137ed1ad718550ac51309de80ff51a25b30f92e5f9e843874b3910579e067"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "475b6b023aaed34c8710f8986b0d7161a89d0b5cdb14b1f38fbdaf114fc7ec94"
+hash = "2f61961a72ff923b4d6e7e0922c26df02b5a3920fc8d7b3924584a1bc6ffe01f"
 
 [[files]]
 file = "config/bclib/main.json"
 hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "d23f4e4ee84ffd9e61b24edbbba734eca486ac7c4ac6f1888fc4081f17ee924d"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -219,6 +223,10 @@ hash = "5df83b31cbdf40a7a1d2ffab12e43b38663588ece4c5bc8ea91fa5890adb62b2"
 [[files]]
 file = "config/phantomconfigfork.json5"
 hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
+
+[[files]]
+file = "config/regions_unexplored.conf"
+hash = "29e8025885adca0a38b7744ab444a3e02a188304a4884966c4a080e3c09af4f9"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -1326,11 +1334,6 @@ hash = "72d46d6fbab947d8e809dbfcc6012e478e112fff917af3ac3987ca9e3d1b6107"
 metafile = true
 
 [[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "25716525bd3c17a20e0c92181db5793c5cfa8292a68b0c6ea4b8815592a5a1a0"
-metafile = true
-
-[[files]]
 file = "mods/regrowth.pw.toml"
 hash = "e4463ec4154b3efc62947bf0f237a1dadee380dca137080a533657a0065f1830"
 metafile = true
@@ -1398,6 +1401,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0878fd4f4f1bc7c5f03165891e370e9919be005615869fa17e7ba02b91c97575"
+metafile = true
+
+[[files]]
+file = "mods/simplefog.pw.toml"
+hash = "2727a812716ba0829e2cb87669e40aa8e54288f4889eff865e1bdd62571fa6b5"
 metafile = true
 
 [[files]]
