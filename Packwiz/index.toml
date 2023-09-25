@@ -831,6 +831,11 @@ hash = "af91e1a3c2cd85b3493741f3e413854f83c33666eff478d02202eeb83d4cefc2"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "c2e938d1bdd1136e04b8be8c1378e2e33956ac23aa91d3a76003db6f2f75cbd1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "1d0bce63ab8bb1d0d3a114befacb75cb6bac43d1c36c5a827592af8bb98b5696"
 metafile = true
@@ -1072,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
 
 [[files]]
@@ -1178,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/name-pain.pw.toml"
 hash = "8e505577dffd9d4168a59406e45fafed8383362779feff62860c1b5565089a72"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
@@ -1313,6 +1323,11 @@ metafile = true
 [[files]]
 file = "mods/redirectionor.pw.toml"
 hash = "72d46d6fbab947d8e809dbfcc6012e478e112fff917af3ac3987ca9e3d1b6107"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "25716525bd3c17a20e0c92181db5793c5cfa8292a68b0c6ea4b8815592a5a1a0"
 metafile = true
 
 [[files]]
@@ -1473,6 +1488,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f64a59be83c91ba753e191a2b9ed313d63f22120cdc748a9ef2c2403595cab8b"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "70f3199354420fb3ff289a2dc6530f913ea68de729a7522d67d168eb7bbea94b"
 metafile = true
 
 [[files]]

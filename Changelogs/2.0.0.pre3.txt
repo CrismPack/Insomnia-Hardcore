@@ -56,6 +56,11 @@ Mods added:
 + Tectonic
 + Easy Anvils
 + Emojiful [Client]
++ Lithium [CF]
++ Regions Unexplored
++ TerraBlender
++ Explorer's Compass
++ Nature's Compass
 
 Mods re-enabled:
 + Create Support for Open Parties and Claims
@@ -75,6 +80,7 @@ Mods removed:
 - Show Me What You Got (Doesn't work correctly due to some incompatibility)
 - Towers of the Wild: Additions
 - Incendium (Replaced with 'Amplified Nether' & 'BetterNether')
+- Lithium [MR]
 
 Mods disabled: 
 - MmmMmmMmmMmm
@@ -143,4 +149,5 @@ Config Changes:
 = Disabled "updateNotification": [Xaero's Minimap], [Client]
 = Greatly improved the death screens of both Multiplayer & Singleplayer as well as seperating them into their own layouts (Too lazy to list individual changes): [FancyMenu], [Client]
 = Made the hardcore death screen title bold and red: [Insomnia Lang], [Client]
+= Disabled generation of nether biomes: [Regions Unexplored], [Both]
 = : [mod], [Server]
