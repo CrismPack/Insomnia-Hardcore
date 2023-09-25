@@ -20,7 +20,7 @@ Update overview:
 ~ Minor changes to the Discord RPC integration.
 ~ Greatly improved the death screens of both Multiplayer & Singleplayer.
 ~ Nether fog is now corralated with the render distance.
-~ Variations of the "Orb of Origin" item can now be found/crafted.
+~ Added variations of the "Orb of Origin" item that can be found/crafted.
 
 Mods added:
 + Desired Servers [Client]
