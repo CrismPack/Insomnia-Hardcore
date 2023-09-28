@@ -205,6 +205,10 @@ file = "config/lithium.properties"
 hash = "4a4dda2b52473167b9ead56c2db4e14d7a3b30047385f87672bbe3e548b51cb5"
 
 [[files]]
+file = "config/logprot.json"
+hash = "ffc115e469b3dddab530c23f8b996142171220ed3ea80fb21a3f4a4db27d52dd"
+
+[[files]]
 file = "config/memorysettings.json"
 hash = "877253327afbd8e9c5d777f2aebb9312c0a14cb6fdd043e84e1d42b041e69468"
 
@@ -1285,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
+hash = "365afda4d539b4b93038b787c8279e9dde18670ab3b1de841e589f36cb217505"
 metafile = true
 
 [[files]]
@@ -1330,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-book-delight.pw.toml"
-hash = "cb1b9366fa7c9da7f19e1139014624863cd7052933f62c36a90aabc1655c9e44"
+hash = "5da2f829b15cb920f9a48bd6e91d1fb43f4fc8ef0413f0455ccab171bd2a92e5"
 metafile = true
 
 [[files]]

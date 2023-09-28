@@ -6,7 +6,7 @@ Fabric version: Fabric-0.14.22
 Update overview: 
 ~ Overhauled Overworld and Nether terrain generation (Yes, again).
 ~ Fixed issue causing the server to crash on startup.
-~ Fixed another server issue preventing players from joining.
+~ Fixed server issue preventing players from joining. [https://github.com/melontini/recipe-book-delight/issues/3]
 ~ Fixed vegetation in certain biomes being orange.
 ~ Updated all mods to their latest version.
 
@@ -17,6 +17,10 @@ Mods added:
 Mods re-enabled:
 + Moonlight Lib
 + MmmMmmMmmMmm
+
+Mod side changes:
+= Prism [Both --> Client]
+= Recipe Book Delight [Client --> Both]
 
 Resource/Shader Packs added:
 + 
@@ -85,4 +89,5 @@ Config Changes:
 = Now overrides the colormap of grass. Making it no longer turn orange in certain biomes: [Insomnia Textures], [Client]
 = Now overrides the birch_leaves texture with the vanilla one. Making them no longer appear orange: [Insomnia Textures], [Client]
 = Disabled custom dirt blocks: [Regions Unexplored], [Both]
+= Changed "invulTime" from 600 to 1000: [Login Protection], [Both]
 = : [mod], [Server]

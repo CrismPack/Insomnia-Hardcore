@@ -1,6 +1,7 @@
 name = "Recipe Book Delight"
 filename = "recipe-book-delight-0.2.0-1.20.jar"
-side = "client"
+side = "both"
+# DONT MAKE IT CLIENT ONLY, IT WILL RESULT IN NETTY ERRORS
 
 [download]
 hash-format = "sha1"
