@@ -6,7 +6,7 @@
   "ui": {
     "showUpdateInfo [default: true]": false,
     "preferModrinthForUpdates [default: true]": true,
-    "forceBetterXPreset [default: true]": true,
+    "forceBetterXPreset [default: true]": false,
     "suppressExperimentalDialogOnLoad [default: false]": false,
     "iAmNotTheDonorType [default: false]": false
   },

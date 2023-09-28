@@ -22,19 +22,15 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "4bc137ed1ad718550ac51309de80ff51a25b30f92e5f9e843874b3910579e067"
+hash = "8cf1414be0f636b2edd7378b112e44886963ad6d3a3ab68a702b404bceac5e16"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "2f61961a72ff923b4d6e7e0922c26df02b5a3920fc8d7b3924584a1bc6ffe01f"
+hash = "96346d591f1af45d941c2dc64fe92512fd91737fc7aaa9027ed4b0e8784e223b"
 
 [[files]]
 file = "config/bclib/main.json"
 hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
-
-[[files]]
-file = "config/bclib/server.json"
-hash = "d23f4e4ee84ffd9e61b24edbbba734eca486ac7c4ac6f1888fc4081f17ee924d"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -489,11 +485,6 @@ hash = "cb9a5f2a86d058074e42755671eef9117861a821114d44b59c327adc350f7beb"
 metafile = true
 
 [[files]]
-file = "mods/betternether.pw.toml"
-hash = "517d2bcdb24b81608e79fe6ceeed432310ef6aa409422fa2048371d60e194753"
-metafile = true
-
-[[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
 hash = "50702761d44d49301519516d405872faed540099a70ffd6bb352a8a905f410b4"
 metafile = true
@@ -825,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "85a8b7a8b7edcf4956d8dfbd690ef76121766691b8e8d1b65cca1734c28b9615"
+hash = "00823a8fd9c44cdb769b9ce0979b137c5d2a0faf313ecf1817d9f95c324e6cdb"
 metafile = true
 
 [[files]]
@@ -850,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1d0bce63ab8bb1d0d3a114befacb75cb6bac43d1c36c5a827592af8bb98b5696"
+hash = "0097f7785b4d4bf3dadf0b18dc409ef19afd242443950a7e23c45527027305e3"
 metafile = true
 
 [[files]]
@@ -1025,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "02a9516ad501885aee44201b54259bee43de27bd9855def64120a521b4663abb"
+hash = "91a0e9ec52474727523be0e2b81757868255154a8e3298406023f97b7ef572fc"
 metafile = true
 
 [[files]]
@@ -1085,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/lilac.pw.toml"
-hash = "db2f3f3f705ef0de8687555e98a75424caee5f1d250217c3cf654aed529ce0e8"
+hash = "0e0c2531f6b42c6c10505614d979b2c9b6fa4f076b7e742412fbb60a571c9971"
 metafile = true
 
 [[files]]
@@ -1344,6 +1335,11 @@ hash = "72d46d6fbab947d8e809dbfcc6012e478e112fff917af3ac3987ca9e3d1b6107"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "25716525bd3c17a20e0c92181db5793c5cfa8292a68b0c6ea4b8815592a5a1a0"
+metafile = true
+
+[[files]]
 file = "mods/regrowth.pw.toml"
 hash = "e4463ec4154b3efc62947bf0f237a1dadee380dca137080a533657a0065f1830"
 metafile = true
@@ -1504,8 +1500,8 @@ hash = "3cf31ad618f1fa0402a77a0184d6bfc1d8ec0ebf9292da4a4c1cef440e41d4b9"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "f64a59be83c91ba753e191a2b9ed313d63f22120cdc748a9ef2c2403595cab8b"
+file = "mods/terrablender-fabric.pw.toml"
+hash = "70f3199354420fb3ff289a2dc6530f913ea68de729a7522d67d168eb7bbea94b"
 metafile = true
 
 [[files]]
@@ -1769,7 +1765,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "3f6a96f002f9448641258dc6b32586b9e0f5089a6874c868cc25fed7d40073e8"
+hash = "03e8dfdfb1fd5d9568404202c61487de63742d7f3d6b5a1d2e02030f43ff97ef"
 
 [[files]]
 file = "shaderpacks/README.txt"
