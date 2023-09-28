@@ -1,13 +1,13 @@
 name = "Structory: Towers"
-filename = "Structory_Towers_1.20.1_v1.0.3.jar"
+filename = "Structory_Towers_1.20.2_v1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d98c5f69c524b1018ba504a133b849c80f7a246c"
+hash = "70b755b24be8ab16187bfe4bcd030f3416471945"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4630986
+file-id = 4767397
 project-id = 783522

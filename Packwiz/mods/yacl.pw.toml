@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib"
-filename = "yet-another-config-lib-fabric-3.1.1+1.20.jar"
+filename = "yet-another-config-lib-fabric-3.2.0+1.20.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "4c4f5b2db75d92866f83a4c899fde1e619fd759a"
+hash = "6aa9b3c511261791bb10d5e1b0ec807df1bf648b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4728317
+file-id = 4767003
 project-id = 667299
