@@ -222,7 +222,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/regions_unexplored.conf"
-hash = "29e8025885adca0a38b7744ab444a3e02a188304a4884966c4a080e3c09af4f9"
+hash = "93533d9b030625f4af88b15b848cf14541bb985b61395c32ca52ac29dac6a2fa"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -235,6 +235,10 @@ hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "ba8fd95cff1dcefc15cb230247cb18f7c9036e9fec87b49ed5a6c273725c7a5a"
+
+[[files]]
+file = "config/simplefog.json"
+hash = "c37c973a398b8c78737ecc823f6e4df08473305085b79a6fa5dca8eb30ed1e07"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -342,7 +346,7 @@ hash = "121de1b2758a5c85bd395eb6304d6c1fc0a5378a07eeb002d83b5d845e76b1a1"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "1874fe4da35020858958398e8da52e5019549c1c8397ef15c981f3ae4be82330"
+hash = "1c364a0dab71ecf2ef04d3ffb58b1823a2d4ab83699e75d7b47d80f223f93744"
 
 [[files]]
 file = "mods/adorn.pw.toml"

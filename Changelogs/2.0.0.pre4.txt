@@ -4,10 +4,14 @@ v2.0.0.pre4
 
 Fabric version: Fabric-0.14.22
 Update overview: 
-~ Major terrain generation changes for both the Nether and Overworld.
+~ Overhauled Overworld and Nether terrain generation (Yes, again).
+~ Fixed issue causing the server to crash on startup.
+~ Fixed another server issue preventing players from joining.
+~ Fixed vegetation in certain biomes being orange.
 ~ Updated all mods to their latest version.
 
 Mods added:
++ Terrablender
 + Regions Unexplored
 
 Mods re-enabled:
@@ -77,4 +81,8 @@ Mods updated:
 Config Changes: 
 = Disabled "forceBetterXPreset": [BCLib], [Both]
 = Disabled a bunch of subjectively ugly biomes: [Regions Unexplored], [Both]
+= Disabled terrain & underwater fog modification: [Simple Fog Control], [Client]
+= Now overrides the colormap of grass. Making it no longer turn orange in certain biomes: [Insomnia Textures], [Client]
+= Now overrides the birch_leaves texture with the vanilla one. Making them no longer appear orange: [Insomnia Textures], [Client]
+= Disabled custom dirt blocks: [Regions Unexplored], [Both]
 = : [mod], [Server]
