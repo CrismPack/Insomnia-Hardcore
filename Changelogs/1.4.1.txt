@@ -1,0 +1,30 @@
+v1.4.1
+
+Fabric version: Fabric-0.14.22
+Update overview: 
+~ 
+
+Mods added:
++ Inv View [Server]
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ 
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Data Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Config Changes: 
+= Disabled "can_players_toggle_global_mode": [Fabric Waystones], [Both]
+= : [mod], [side]
