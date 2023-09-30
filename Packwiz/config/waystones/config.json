@@ -22,7 +22,7 @@
   "waystone_block_hardness": 4.0,
   "waystone_block_required_mining_level": 1,
   "prevent_non_owners_from_breaking_waystone": false,
-  "can_players_toggle_global_mode": true,
+  "can_players_toggle_global_mode": false,
   "teleportation_cooldown": {
     "cooldown_ticks_when_hurt": 0,
     "cooldown_ticks_from_abyss_watcher": 0,
