@@ -22,7 +22,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "03ee98ec00c45de0160de08fe8c2e9dbd54dce9f18cd8dc7c3682fddb9951abf"
+hash = "200a2419cf8fad03b885057f544fbd2a366abaf1381a6eee7df1a0b1fde508f2"
 
 [[files]]
 file = "config/bclib/main.json"
@@ -214,7 +214,7 @@ hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "f8910b2f5a91fb0b669a51c38d46d619d0978a2bfe84e669e7a738d63944ae46"
+hash = "ba8fd95cff1dcefc15cb230247cb18f7c9036e9fec87b49ed5a6c273725c7a5a"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -258,7 +258,7 @@ hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
 
 [[files]]
 file = "config/waystones/config.json"
-hash = "70cfce60aed29aaa64c42e44e3e5cf8ae51e62c7a1c555040d46685476945671"
+hash = "4074559c52ecfd21a0e392138678a8c11fa6fe2ae4c295ce99ad6d2ec5022776"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -808,11 +808,6 @@ hash = "691917962596e51eec78c81fb2805555b0de6b1055d54d359a51318461604241"
 metafile = true
 
 [[files]]
-file = "mods/erroring-entity-remover.pw.toml"
-hash = "4b97fceda7cfebee47b46b8ba721793073c59a2007ec471d9c3256848783f81e"
-metafile = true
-
-[[files]]
 file = "mods/exordium.pw.toml"
 hash = "00900323d7bee9513be8eaa584141d038b38e1d56b24cdb55a75d0c9d4f39293"
 metafile = true
@@ -1009,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/inv-view.pw.toml"
-hash = "90baef0e09b9bf0f951ef46723c9368dde94227a8d0be8cca5bef5616f421a64"
+hash = "a47453700b03d7fa0c110748fcdc5aa008cef1ef4fc13c27cd671c116ab7d0fb"
 metafile = true
 
 [[files]]
@@ -1159,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "16028256de8bb7d44dfe511461f1d904b65769cfe955f02c0a39fb93d21e76b9"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -1742,7 +1737,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "63556338d86370db835249c95d7be82a6faf40b39cbf43cb94ed25936834dae6"
+hash = "09ef6aa2d53fba7a3aeedde1ff2d6cc8846c95e3372f6c04723d5fb568b198af"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"

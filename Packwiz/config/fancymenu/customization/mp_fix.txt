@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen
+  identifier = net.minecraft.class_500
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -17,7 +17,7 @@ customization {
   identifier = %id=660946%
   orientation = element
   orientation_element = vanillabtn:554948
-  x = 104
+  x = 106
   action = movebutton
   y = 0
 }

@@ -8,6 +8,7 @@ Update overview:
 
 Mods added:
 + Inv View [Server]
++ Memory Leak Fix [MR]
 
 Resource/Shader Packs added:
 + 
@@ -16,7 +17,8 @@ Data Packs added:
 + 
 
 Mods removed: 
-- 
+- Erroring Entity Remover (Incompatible with 'Neruina - Ticking Entity Fixer')
+- Memory Leak Fix [CF]
 
 Mods disabled: 
 - 
