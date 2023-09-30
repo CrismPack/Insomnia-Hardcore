@@ -2,6 +2,8 @@ v1.4.1
 
 Fabric version: Fabric-0.14.22
 Update overview: 
+~ New logo.
+~ Overhauled Discord Rich Presense integration.
 ~ 
 
 Mods added:
@@ -23,7 +25,25 @@ Data Packs removed:
 - 
 
 Mods updated: 
-> 
+> AppleSkin
+> BisectHosting Server Integration Menu
+> Bygone Nether
+> Collective
+> Create Fabric
+> Durability Tooltip
+> Enchantment Descriptions
+> Entity Texture Features
+> Fabric Language Kotlin
+> Fabric Shield Lib
+> Inventory Profiles Next
+> libIPN
+> Neruina - Ticking Entity Fixer
+> Red Bits
+> Roughly Enough Items
+> Simple Voice Chat
+> SuperMartijn642's Config Lib
+> Xaero's Minimap (Fair-play Edition)
+> Xaero's World Map
 
 Config Changes: 
 = Disabled "can_players_toggle_global_mode": [Fabric Waystones], [Both]
