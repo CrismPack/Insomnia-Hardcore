@@ -6,6 +6,7 @@ Update overview:
 ~ Overhauled the Discord Rich Presense integration.
 ~ Added some additional optimization mods.
 ~ Nether fog is now corralated with the render distance.
+~ Disabled generation of vanilla villages.
 
 Mods added:
 + Inv View [Server]
@@ -17,6 +18,7 @@ Mods added:
 + Smooth Boot [Client]
 + Simple Fog Control [Client]
 + ModernFix
++ Village Nullifier
 
 Resource/Shader Packs added:
 + 
