@@ -1,13 +1,13 @@
 name = "Red Bits"
-filename = "redbits-1.16.0.jar"
+filename = "redbits-1.16.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "19d1746e1049b3a0f8a70fd72c8d2d8f064ff782"
+hash = "af1cd3249d1abed852da4ae5850fdd8169958cfd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4708169
+file-id = 4776145
 project-id = 403914

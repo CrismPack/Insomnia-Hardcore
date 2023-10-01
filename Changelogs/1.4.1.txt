@@ -2,13 +2,21 @@ v1.4.1
 
 Fabric version: Fabric-0.14.22
 Update overview: 
-~ New logo.
-~ Overhauled Discord Rich Presense integration.
-~ 
+~ Replaced logo with the new one.
+~ Overhauled the Discord Rich Presense integration.
+~ Added some additional optimization mods.
+~ Nether fog is now corralated with the render distance.
 
 Mods added:
 + Inv View [Server]
-+ Memory Leak Fix [MR]
++ Better chunk loading [Server]
++ Limited Chunkloading - Chunk cleanup [Server]
++ Cupboard [Server] (Dependency of 'Better chunk loading')
++ Redirector
++ FixMySpawnR [Server]
++ Smooth Boot [Client]
++ Simple Fog Control [Client]
++ ModernFix
 
 Resource/Shader Packs added:
 + 
@@ -16,9 +24,13 @@ Resource/Shader Packs added:
 Data Packs added:
 + 
 
+Metadata Changes:
+= Memory Leak Fix [CF --> MR]
+= Iris [CF --> MR]
+
 Mods removed: 
 - Erroring Entity Remover (Incompatible with 'Neruina - Ticking Entity Fixer')
-- Memory Leak Fix [CF]
+- Enhanced Block Entities (Incompatibility with Create's "Flywheel" causes block entities to flicker)
 
 Mods disabled: 
 - 
@@ -38,10 +50,14 @@ Mods updated:
 > Fabric Language Kotlin
 > Fabric Shield Lib
 > Inventory Profiles Next
+> Iris
+> Iris & Oculus Flywheel Compat
 > libIPN
+> Memory Leak Fix
 > Neruina - Ticking Entity Fixer
 > Red Bits
 > Roughly Enough Items
+> Simple Discord RPC
 > Simple Voice Chat
 > SuperMartijn642's Config Lib
 > Xaero's Minimap (Fair-play Edition)
@@ -49,4 +65,12 @@ Mods updated:
 
 Config Changes: 
 = Disabled "can_players_toggle_global_mode": [Fabric Waystones], [Both]
+= Replaced logo on the title screen with the new one: [FancyMenu], [Client]
+= Replaced window icons with new ones: [FancyMenu], [Client]
+= Changed Discord RPC to use its own "Insomnia: Hardcore" application: [Simple Discord RPC], [Client]
+= Replaced largeImageKey with the new logo GIF: [Simple Discord RPC], [Client]
+= Now just says "In %world%" instead of "Currently in %world%": [Simple Discord RPC], [Client]
+= Now overwrites the description when in the Overworld to say "In the Overworld": [Simple Discord RPC], [Client]
+= Disabled "customFogRendering": [BCLib], [Client]
+= Disabled terrain & underwater fog modification: [Simple Fog Control], [Client]
 = : [mod], [side]

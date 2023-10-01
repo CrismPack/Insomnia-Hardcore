@@ -25,6 +25,10 @@ file = "config/bcc.json"
 hash = "200a2419cf8fad03b885057f544fbd2a366abaf1381a6eee7df1a0b1fde508f2"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "570b428bdf113aea553100a33f9c960f84adb2b264466731499dd61d361ecc8e"
+
+[[files]]
 file = "config/bclib/main.json"
 hash = "f6f185e54f4568d1b6e9e657e0f7ac83b5dd29796ecd93d27efe8a093852b681"
 
@@ -78,7 +82,7 @@ hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f8e613f1fcb796ae383014508be8da2c660105e5171ef35e5ce76fca4f284af9"
+hash = "3212383a61952653be19b5deac1569ea41ccfd1871bb27258615d0413b20880c"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
@@ -95,6 +99,10 @@ hash = "e94ebc777a8cf37fe01c91109c6477e3cac5c190414a186e4bb159a522c0d935"
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
 hash = "65ba6886ecf23ec324a59c1f3e86460cf970a32790b916fc853ad85b578db2fc"
+
+[[files]]
+file = "config/fancymenu/customization/shadermenu.txt"
+hash = "751137c286a6bd4ae33180e0f1384fa2112c542dec123b116fd65df4e2e081bc"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -122,11 +130,11 @@ hash = "71950879ffee984e3913f7087bfa2745b052a14b531b1222beea29b0a724476b"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "d0cb6d9eb0c7ee7956ec39f31b20137fd030f9e4229f1fdec7ce53c398d2ed15"
+hash = "9d4247c8086e4d93a046bf831d69f3bfcf7474e35f59c6c6965ee0f9c27d91d9"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "bec8cfba0639c651f552366d4f01273f6eaabe0d3cbfc4c1aa5d30489726ec4b"
+hash = "02b739c3747fbb8a50467ff3e93f6aaca17300b001ae2c13b44aa7263afb54b5"
 
 [[files]]
 file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_0.png"
@@ -443,6 +451,11 @@ hash = "fce15627d07e623eebe804d2d425504fc66f86ef0b4bd55e77a3bf96e792e833"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "b64f3e36112d338ad3ab14464a06a52cb6e4d6a2cb869867503de49e7dd7d08e"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "6f6c74efc00d02259c1783806501b7f57bd54f0685410d157f79a725d1643a19"
 metafile = true
@@ -653,6 +666,11 @@ hash = "ab70b04366b0890b287e409403acb550026c6c376c88858355037dadde8ed16f"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "854dbeb9d2656b39ea6241be0cdc0952de32edaa36748a10dd15b0aeae275194"
+metafile = true
+
+[[files]]
 file = "mods/custom-entity-models-cem-fork.pw.toml"
 hash = "9ef3841cedd48fe3b9955701c90d7a63850ea8a10b4b44f2d5e5517c524c4707"
 metafile = true
@@ -788,11 +806,6 @@ hash = "32d8c813e2b6d92d718cb39f7008fd0fb16093aab6d16d807ae9dc0e913a085f"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-block-entities.pw.toml"
-hash = "9c287b212b19c39e0357dc51417c063cb1543c18124a480f1b1fc629957a3ae3"
-metafile = true
-
-[[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "7ea17342e8c8216866fd76c37ab3cd558ca1c33cf78a4cb849c6069a6cb1b5b8"
 metafile = true
@@ -890,6 +903,11 @@ metafile = true
 [[files]]
 file = "mods/fix-experience-bug.pw.toml"
 hash = "e326d593b81cd24964147dea21ed0b057c93790a6c8d96d4d00d47153f4ed205"
+metafile = true
+
+[[files]]
+file = "mods/fixmyspawnr.pw.toml"
+hash = "e88ac23e91f4b75ae31bad84070c4f21cb2e47bd2a3971514353f985b1d8dfba"
 metafile = true
 
 [[files]]
@@ -1024,12 +1042,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "43372c3f1c9a4c0a635cbf0dd7c15c05dd083b6b0250ed1c4fbe9d60a3d80d4d"
+hash = "0120c7f7b6ca3643c7b57e532820cbcd97af9f8b9fa6c2237d7f6ba85f887eb2"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "6efc7f78ce94c9749267155514896c05f4322b361d378f134fc50ca73dfbd57d"
+file = "mods/iris.pw.toml"
+hash = "369cfc369e41a6e9f23343a5f7d0547acf76aaf88ce0a221ba7f67d081b054fc"
 metafile = true
 
 [[files]]
@@ -1113,6 +1131,11 @@ hash = "3e077e30397f32f1d9e86f63c17ce2d32247a06e9753e75e900aa26696db853a"
 metafile = true
 
 [[files]]
+file = "mods/limited-chunkloading.pw.toml"
+hash = "25504cd7a28774fa1ca3d14c55ff80ebafdcd7249ca8f0aeab2c0fc23ec94a9c"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "577cc9489d9aef40073c99c113d8574b80651e87ecc868290b5ff8cde31dab81"
 metafile = true
@@ -1190,6 +1213,11 @@ metafile = true
 [[files]]
 file = "mods/mobs-attempt-parkour.pw.toml"
 hash = "54d7c5df7d93273d9a6c6002d13ea84a2354fa3b641c02ad548fceeca65997ed"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f2605bc4aa736c85ce48b204829bb097e73214869973fe153d691bda26cc8a03"
 metafile = true
 
 [[files]]
@@ -1339,7 +1367,12 @@ metafile = true
 
 [[files]]
 file = "mods/red-bits.pw.toml"
-hash = "23879965e3890c43d0705f6968c9ebde4bb4d89dd7af8e11e517a56b51deea6d"
+hash = "350fc3282d997f1303684dfd9004efa1e50362352033ef424e893c3ff9c121c1"
+metafile = true
+
+[[files]]
+file = "mods/redirectionor.pw.toml"
+hash = "db4951ee9ea5829260aa970f0002a2123c3a1e61f5604e5c0429a3990e0f7e4d"
 metafile = true
 
 [[files]]
@@ -1389,12 +1422,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "dd687ceb8db6c9836b95d73443eff99be35b64ef457cbf17d80348545d885414"
+hash = "27e689d5a3480a9fbb031e58f20104b6ada084bb275b25805415a4f96d9b29f1"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2a4f0e8c7656d529944c6524d5c63d81a328b305e43f232560f5acd6dd2b95f3"
+metafile = true
+
+[[files]]
+file = "mods/simplefog.pw.toml"
+hash = "0373aa61f5ab19ec6afcc77efa17034b0530e0b21b3c737709e379f15cf10603"
 metafile = true
 
 [[files]]
@@ -1405,6 +1443,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "13a460c6d252dc69cdae6d47da27124afa8565e8a708558734ca440e5c5657db"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "466bedaf493490fa967cc6c274125cc8d3facd87ac1c8dd21a5aa74926b39099"
 metafile = true
 
 [[files]]

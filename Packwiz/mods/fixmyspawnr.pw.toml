@@ -1,0 +1,13 @@
+name = "FixMySpawnR"
+filename = "FixMySpawnR-fabric-1.18.2-1.0.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "276d32c8e6b998f49747cb8f4f3fe9350044e4e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3800537
+project-id = 626476
