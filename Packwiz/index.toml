@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/bygone-nether-fabric.pw.toml"
-hash = "2d1f3662336d9117f06994db29f055c5ae2348e12bc5370ed83e63709e531752"
+hash = "acdee1d8c1d2018daf626e1c33040edab4a17ff51dc7b7ed913b88d5dc59daf2"
 metafile = true
 
 [[files]]

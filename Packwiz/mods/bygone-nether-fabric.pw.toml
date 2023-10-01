@@ -1,13 +1,14 @@
 name = "Bygone Nether (Fabric)"
-filename = "bygonenether-1.18-1.3.2.jar"
+filename = "bygonenether-1.18-1.2.2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "738d3d61a6310f776734e780bd68bb0c8660c120"
+hash = "1dbf7cdca0ed8b2e8daa7ffbe72b2dc8356f4ff0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4767706
+file-id = 4412094
 project-id = 703792
