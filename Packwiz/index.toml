@@ -78,7 +78,7 @@ hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "a50c8f30fc1741b22639d234c49cc67e6f4022e369958691888233ad0ef5447f"
+hash = "f8e613f1fcb796ae383014508be8da2c660105e5171ef35e5ce76fca4f284af9"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
@@ -86,11 +86,11 @@ hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "1d341bb1988d501fee409932a9da680cfc2eef4021d162f094aab6d950a4d681"
+hash = "f0a1f6e6ced524778fe88bc9039df1d6709263d1dcc662b710bfe8b9b3865430"
 
 [[files]]
 file = "config/fancymenu/customization/mp_fix.txt"
-hash = "0cc146638ee57a24d812e5ee6603b159701cd1cce378913b482a9bafe6b80c80"
+hash = "e94ebc777a8cf37fe01c91109c6477e3cac5c190414a186e4bb159a522c0d935"
 
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
@@ -1725,7 +1725,7 @@ hash = "3a2521c3313e4b5894df4315900a48dd7f3236e4bde6e63de2f87258ac07afdb"
 
 [[files]]
 file = "resources/mainmenu/logo.png"
-hash = "be06423fb594d4b234fc7560d4cf574b72f577eeb61fcacc2095558283358d1d"
+hash = "4d1cf7deb6123c4079e88b232293e97a5484ffba449eb8229b498d4f690048b0"
 
 [[files]]
 file = "resources/mainmenu/longbutton_hover.png"

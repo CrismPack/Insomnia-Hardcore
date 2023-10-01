@@ -1,0 +1,65 @@
+type = menu
+
+customization-meta {
+  identifier = net.coderbot.iris.gui.screen.ShaderPackScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=346949%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502949%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502949%
+  orientation = element
+  orientation_element = vanillabtn:450973
+  x = 52
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=554973%
+  orientation = element
+  orientation_element = vanillabtn:450973
+  x = 104
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=346973%
+  orientation = element
+  orientation_element = vanillabtn:450973
+  x = -104
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=450973%
+  orientation = bottom-centered
+  x = -50
+  action = movebutton
+  y = -39
+}
+
+customization {
+  identifier = %id=950961%
+  action = hidebutton
+}
+
