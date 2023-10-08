@@ -1690,6 +1690,11 @@ file = "resourcepacks/GUI Reimagined-[v1.1].zip"
 hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
 
 [[files]]
+file = "resourcepacks/disable-incendium-toxic-heap-biome.pw.toml"
+hash = "1c55e256513ed0b0c3c39fbfdacc91f0b05c797c785575365c5cb7975456e08d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "4625b47bc35ca8d03c372d5153572c1a0d0baa44147a6e83107de967753ecf5b"
 metafile = true
