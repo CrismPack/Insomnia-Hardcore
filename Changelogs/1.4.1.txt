@@ -7,13 +7,13 @@ Update overview:
 ~ Added some additional optimization mods.
 ~ Nether fog is now corralated with the render distance.
 ~ Disabled generation of vanilla villages.
+~ Disabled generation of the 'Toxic Heap' biome in The Nether.
 
 Mods added:
 + Inv View [Server]
 + Better chunk loading [Server]
 + Limited Chunkloading - Chunk cleanup [Server]
 + Cupboard [Server] (Dependency of 'Better chunk loading')
-+ Redirector
 + FixMySpawnR [Server]
 + Smooth Boot [Client]
 + Simple Fog Control [Client]
@@ -24,7 +24,7 @@ Resource/Shader Packs added:
 + 
 
 Data Packs added:
-+ 
++ Disable Incendium Toxic Heap Biome
 
 Metadata Changes:
 = Memory Leak Fix [CF --> MR]
