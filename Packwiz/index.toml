@@ -214,7 +214,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "107f4eb0ded09b1401c863b6ba5da67133a0a1ad276df80f1271f27b61141d75"
+hash = "7b00749b0baf2201d02391c1fb3800005bb0b4d06c6bdc392ac09d43a21434e6"
 
 [[files]]
 file = "config/revive.json5"
@@ -223,6 +223,10 @@ hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "ba8fd95cff1dcefc15cb230247cb18f7c9036e9fec87b49ed5a6c273725c7a5a"
+
+[[files]]
+file = "config/simplefog.json"
+hash = "c37c973a398b8c78737ecc823f6e4df08473305085b79a6fa5dca8eb30ed1e07"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -335,10 +339,6 @@ hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
 hash = "1c364a0dab71ecf2ef04d3ffb58b1823a2d4ab83699e75d7b47d80f223f93744"
-
-[[files]]
-file = "global_packs/required_resources/NoBushyLeaves.zip"
-hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -1676,8 +1676,8 @@ hash = "c08589583a36ba9536b7e3924e3a2a208fb87fa4044de3fc127bab55ed3f0931"
 metafile = true
 
 [[files]]
-file = "resourcepacks/GUI Reimagined-[v1.1].zip"
-hash = "f158a8bd182919f6092bc4dde0a587323e83dd25fd601fabfbd568e1df3ea6ff"
+file = "resourcepacks/NoBushyLeaves.zip"
+hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
 file = "resourcepacks/disable-incendium-toxic-heap-biome.pw.toml"
@@ -1701,7 +1701,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gui-reimagined.pw.toml"
-hash = "6604f0705062921ad5386678b08f85b2a595469108b9a525c1cbbcfd01b13cf6"
+hash = "ebfa4203a286cf1dfc0a76f7b4721fcbcfa0f902124342cfe075cf1df4ab6f1e"
 metafile = true
 
 [[files]]
