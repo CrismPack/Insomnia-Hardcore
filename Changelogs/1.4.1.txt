@@ -8,11 +8,12 @@ Update overview:
 ~ Nether fog is now corralated with the render distance.
 ~ Disabled generation of vanilla villages.
 ~ Disabled generation of the 'Toxic Heap' biome in The Nether.
+~ Fixed vegetation in certain biomes being orange.
+~ Fixed custom menus not rendering after changing language.
 
 Mods added:
 + Inv View [Server]
 + Better chunk loading [Server]
-+ Limited Chunkloading - Chunk cleanup [Server]
 + Cupboard [Server] (Dependency of 'Better chunk loading')
 + FixMySpawnR [Server]
 + Smooth Boot [Client]
@@ -33,6 +34,7 @@ Metadata Changes:
 Mods removed: 
 - Erroring Entity Remover (Incompatible with 'Neruina - Ticking Entity Fixer')
 - Enhanced Block Entities (Incompatibility with Create's "Flywheel" causes block entities to flicker)
+- lazy-language-loader (Incompatibility with 'FancyMenu' causes custom menus to not render after changing language)
 
 Mods disabled: 
 - 
@@ -57,6 +59,7 @@ Mods updated:
 > libIPN
 > Memory Leak Fix
 > Neruina - Ticking Entity Fixer
+> Open Parties and Claims
 > Red Bits
 > Roughly Enough Items
 > Simple Discord RPC
@@ -75,4 +78,6 @@ Config Changes:
 = Now overwrites the description when in the Overworld to say "In the Overworld": [Simple Discord RPC], [Client]
 = Disabled "customFogRendering": [BCLib], [Client]
 = Disabled terrain & underwater fog modification: [Simple Fog Control], [Client]
+= Now overrides the colormap of grass. Making it no longer turn orange in certain biomes: [Insomnia Textures], [Client]
+= Now overrides the birch_leaves texture with the vanilla one. Making them no longer appear orange: [Insomnia Textures], [Client]
 = : [mod], [side]

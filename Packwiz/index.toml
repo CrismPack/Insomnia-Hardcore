@@ -334,11 +334,11 @@ hash = "ebb901f5416364d2e3f2ef5216e72bd59f64a27e0f44d865326e7cc7129451b3"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "5326c886fd2c42d6aba5a5d5d68869152fa82db1a7543b5805b23e3fbc58823c"
+hash = "1c364a0dab71ecf2ef04d3ffb58b1823a2d4ab83699e75d7b47d80f223f93744"
 
 [[files]]
 file = "global_packs/required_resources/NoBushyLeaves.zip"
-hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
+hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -1096,11 +1096,6 @@ hash = "53239118747370d2e879bc36ccfc08caf2a20e3254397161f28ffca241f7f1ef"
 metafile = true
 
 [[files]]
-file = "mods/lazy-language-loader.pw.toml"
-hash = "808f14d106664a606f800cec2e20eb32ab38cf08401f3faa1b6f98647bd12345"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
 metafile = true
@@ -1612,7 +1607,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "e314e5fa7bd1fc5385bf34b51f94aaa4d7cb149ea6e9adc648e52632b242dcd7"
+hash = "928e5271addfb4a9d95f4ec75d1afe6db590a33205e7d1e90b4721e5d0b09208"
 metafile = true
 
 [[files]]
