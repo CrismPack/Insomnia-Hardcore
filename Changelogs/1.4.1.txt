@@ -11,6 +11,7 @@ Update overview:
 ~ Birch Leaves are no longer orange.
 ~ Fixed vegetation in certain biomes being orange.
 ~ Fixed custom menus not rendering after changing language.
+~ Mobs from 'Incendium' now have unique textures.
 
 Mods added:
 + Inv View [Server]
@@ -18,13 +19,14 @@ Mods added:
 + Limited Chunkloading - Chunk cleanup [Server]
 + Cupboard [Server] (Dependency of 'Better chunk loading')
 + FixMySpawnR [Server]
-+ Smooth Boot [Client]
 + Simple Fog Control [Client]
 + ModernFix
 + Village Nullifier
++ CIT Resewn [Client]
++ CapeTweaks
 
 Resource/Shader Packs added:
-+ 
++ Incendium Optional Resourcepack [MR]
 
 Data Packs added:
 + Disable Incendium Toxic Heap Biome
@@ -37,6 +39,7 @@ Mods removed:
 - Erroring Entity Remover (Incompatible with 'Neruina - Ticking Entity Fixer')
 - Enhanced Block Entities (Incompatibility with Create's "Flywheel" causes block entities to flicker)
 - lazy-language-loader (Incompatibility with 'FancyMenu' causes custom menus to not render after changing language)
+- Capes (Outdated and longer works with the MinecraftCapes service)
 
 Mods disabled: 
 - 
@@ -82,4 +85,6 @@ Config Changes:
 = Disabled terrain & underwater fog modification: [Simple Fog Control], [Client]
 = Now overrides the colormap of grass. Making it no longer turn orange in certain biomes: [Insomnia Textures], [Client]
 = Now overrides the birch_leaves texture with the vanilla one. Making them no longer appear orange: [Insomnia Textures], [Client]
+= Disabled "ash" and "campfire_cosy_smoke" particles by default, due to them causing poor FPS in The Nether: [Sodium Extra], [Client]
+= Disabled migration cape: [CapeTweaks], [Client]
 = : [mod], [side]

@@ -49,6 +49,10 @@ file = "config/boringbackgrounds.json"
 hash = "6ded0c65092f76a7d3a3758d17c20b9c484349f0d08d6750bf593aa8149cda82"
 
 [[files]]
+file = "config/capetweaks.properties"
+hash = "a326a1768aedc80bc207bbc1b150ba78c18c2d677e009c198fd97c45b6869c7a"
+
+[[files]]
 file = "config/cem.conf"
 hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 
@@ -214,7 +218,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "7b00749b0baf2201d02391c1fb3800005bb0b4d06c6bdc392ac09d43a21434e6"
+hash = "09f9e54c60159643ae63965733ba32bb247fa075a9dbaa3a66e078dfe09789d0"
 
 [[files]]
 file = "config/revive.json5"
@@ -536,8 +540,8 @@ hash = "ad2930a8365abb127464ffdd6b4d34d00a9d6c4eb3794cdc929815477da63b62"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "0e04ac8b40672fceaa51a209bbbd7374f99420e30b81ef3deca5fc17acae5321"
+file = "mods/capetweaks.pw.toml"
+hash = "33179ae5d1daf10445cedb21f58a9ee58fd313d6a75c0afa05baf1d97c0ba02d"
 metafile = true
 
 [[files]]
@@ -573,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "f315d7054a2af1da81d5f93be84dce68484fd9546d4d8200f5cf6d43aa5d4082"
 metafile = true
 
 [[files]]
@@ -1436,11 +1445,6 @@ hash = "13a460c6d252dc69cdae6d47da27124afa8565e8a708558734ca440e5c5657db"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot.pw.toml"
-hash = "466bedaf493490fa967cc6c274125cc8d3facd87ac1c8dd21a5aa74926b39099"
-metafile = true
-
-[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "e4530beb9425034b43c4e20dcd9c9ce2f306d0b3d1a7efd357b6b58be8e6511e"
 metafile = true
@@ -1702,6 +1706,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/gui-reimagined.pw.toml"
 hash = "ebfa4203a286cf1dfc0a76f7b4721fcbcfa0f902124342cfe075cf1df4ab6f1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/incendium-optional-resourcepack.pw.toml"
+hash = "b519359dd08cb0811f8cde69d8046efea8b008fba3ed85c5f9abca7d25b86c31"
 metafile = true
 
 [[files]]

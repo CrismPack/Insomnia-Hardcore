@@ -1,0 +1,13 @@
+name = "CapeTweaks"
+filename = "capetweaks-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "f4d3dff0763c6a802b3593224b1a6632e1e313a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3535345
+project-id = 513559
