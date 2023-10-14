@@ -52,7 +52,7 @@ Mods updated:
 > Fabric Language Kotlin
 > Fabric Shield Lib
 > Inventory Profiles Next
-> Iris
+> Iris Shaders
 > Iris & Oculus Flywheel Compat
 > libIPN
 > Memory Leak Fix

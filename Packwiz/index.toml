@@ -214,7 +214,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "375320b974460bfc9701d1bbe82046d3aff3221c2de5bb32985656a0806aa7cc"
+hash = "107f4eb0ded09b1401c863b6ba5da67133a0a1ad276df80f1271f27b61141d75"
 
 [[files]]
 file = "config/revive.json5"
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "369cfc369e41a6e9f23343a5f7d0547acf76aaf88ce0a221ba7f67d081b054fc"
+hash = "76a5ca4832d3219c70e29821cef8473ff861b7a4035039b9c6c6013bf542de1d"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f2605bc4aa736c85ce48b204829bb097e73214869973fe153d691bda26cc8a03"
+hash = "e263733795abece2da63c5511a9078f22415016fdc42fd078df10a83a221d55a"
 metafile = true
 
 [[files]]
@@ -1247,7 +1247,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "99326078a8cfa037d9e5c8af3fe7afef05266c79d21273df64eac168b5db5423"
+hash = "f08640abab86fb2e1e37be8a611fe59b06ace7aa1eba3a301330191295f7b223"
 metafile = true
 
 [[files]]
@@ -1277,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "bb0ac279420c9261ab7fdbc1b13051fa8f7c794d733cb34762f231bc230d077c"
+hash = "eb32c1a0a81cb618309f5d94327447b651144c38af75f6555fff89aa6b277be7"
 metafile = true
 
 [[files]]
@@ -1367,12 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-bits.pw.toml"
-hash = "350fc3282d997f1303684dfd9004efa1e50362352033ef424e893c3ff9c121c1"
-metafile = true
-
-[[files]]
-file = "mods/redirectionor.pw.toml"
-hash = "db4951ee9ea5829260aa970f0002a2123c3a1e61f5604e5c0429a3990e0f7e4d"
+hash = "ea0b297f3691d968b9873d78f26b956c28978605de52b30c15a753549d4150a9"
 metafile = true
 
 [[files]]
@@ -1427,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2a4f0e8c7656d529944c6524d5c63d81a328b305e43f232560f5acd6dd2b95f3"
+hash = "b6aed57330b4ab045d1c811412072d1d7360b2824deaf45d92259bc407c98d82"
 metafile = true
 
 [[files]]
@@ -1512,7 +1507,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "9b16b9c8c3fb9fcfd653cfbc31754a78f9475efc633f0715c49b9d7a962f087e"
+hash = "8df90f0416aac057270264c32a9ed20d750f4b55ed721de6c335c93e9604ca69"
 metafile = true
 
 [[files]]
@@ -1617,7 +1612,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "c1b88ac779b7c631e03af40a03ef3c2a7f3e8afabb80d30086de5d70b71a78f1"
+hash = "e314e5fa7bd1fc5385bf34b51f94aaa4d7cb149ea6e9adc648e52632b242dcd7"
 metafile = true
 
 [[files]]
