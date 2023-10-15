@@ -12,6 +12,7 @@ Update overview:
 ~ Fixed vegetation in certain biomes being orange.
 ~ Fixed custom menus not rendering after changing language.
 ~ Mobs from 'Incendium' now have unique textures.
+~ Fixed crashing issue related to the Wildfire Runic effect.
 
 Mods added:
 + Inv View [Server]
@@ -87,4 +88,6 @@ Config Changes:
 = Now overrides the birch_leaves texture with the vanilla one. Making them no longer appear orange: [Insomnia Textures], [Client]
 = Disabled "ash" and "campfire_cosy_smoke" particles by default, due to them causing poor FPS in The Nether: [Sodium Extra], [Client]
 = Disabled migration cape: [CapeTweaks], [Client]
+= Changed "wildfire_chance", "wildfire_duration" and "wildfire_radius" to 0.0 (Effectively disabling the effect): [Simply Swords], [Both]
+= Changed message on the Wildfire runic effect to make it clear that it has been disabled: [Insomnia Custom Lang], [Client]
 = : [mod], [side]
