@@ -13,6 +13,7 @@ Update overview:
 ~ Fixed custom menus not rendering after changing language.
 ~ Mobs from 'Incendium' now have unique textures.
 ~ Fixed crashing issue related to the Wildfire Runic effect.
+~ Disabled additional health gained through item rarities.
 
 Mods added:
 + Inv View [Server]
@@ -31,6 +32,7 @@ Resource/Shader Packs added:
 
 Data Packs added:
 + Disable Incendium Toxic Heap Biome
++ Disable TieredZ Max Health [Custom]
 
 Metadata Changes:
 = Memory Leak Fix [CF --> MR]
@@ -90,4 +92,5 @@ Config Changes:
 = Disabled migration cape: [CapeTweaks], [Client]
 = Changed "wildfire_chance", "wildfire_duration" and "wildfire_radius" to 0.0 (Effectively disabling the effect): [Simply Swords], [Both]
 = Changed message on the Wildfire runic effect to make it clear that it has been disabled: [Insomnia Custom Lang], [Client]
+= Disabled update notification: [Xaero's Minimap], [Client]
 = : [mod], [side]
