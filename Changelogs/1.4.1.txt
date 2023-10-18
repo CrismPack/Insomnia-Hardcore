@@ -65,7 +65,6 @@ Mods updated:
 > BisectHosting Server Integration Menu
 > Bygone Nether
 > Collective
-> Create Fabric
 > Durability Tooltip
 > Enchantment Descriptions
 > Entity Texture Features
