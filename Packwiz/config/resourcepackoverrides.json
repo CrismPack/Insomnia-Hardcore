@@ -10,7 +10,9 @@
     "file/EclecticTrove-noconfig-1.18-1.2.0.zip",
     "file/Stay_True_1.18.zip",
     "file/Slightly-Improved-Font-1.0.0.zip",
-    "file/FreshAnimations_v1.7_Add_S10.zip",
+    "file/FreshAnimations_v1.8.zip",
+    "file/FA+All_Extensions-v1.2.zip",
+    "file/Tissou's Zombie Pack 1.18_2.6.zip",
     "file/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
     "file/Visual Titles.zip",
     "file/\u00A7bGUI Reimagined\u00A78-[v1.1].zip",
@@ -63,7 +65,7 @@
     },
     // Fixed position, not required
     "3": [
-      "file/Tissou's Zombie Pack 1.18_2.6.zip"
+      //"file/Tissou's Zombie Pack 1.18_2.6.zip"
     ],
     "$3": {
       "default_position": "TOP",

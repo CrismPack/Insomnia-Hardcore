@@ -218,7 +218,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a71a271e971b7674672128a6197cc4c45d1fd2c3ea0ebaa4520d3c6537a6aa2f"
+hash = "19c3c2b6efb7eb7c7b22bb1e493ffc5e575746fe9e1196e649b7b64434e8d60d"
 
 [[files]]
 file = "config/revive.json5"
@@ -684,16 +684,6 @@ hash = "854dbeb9d2656b39ea6241be0cdc0952de32edaa36748a10dd15b0aeae275194"
 metafile = true
 
 [[files]]
-file = "mods/custom-entity-models-cem-fork.pw.toml"
-hash = "9ef3841cedd48fe3b9955701c90d7a63850ea8a10b4b44f2d5e5517c524c4707"
-metafile = true
-
-[[files]]
-file = "mods/custom-entity-models-cem.pw.toml"
-hash = "d57af0857b2ff3ebff82c83325e1475fbda1d7351306bd0a3910bb2a914e03e4"
-metafile = true
-
-[[files]]
 file = "mods/damage-tilt.pw.toml"
 hash = "e4500aba6b275cb6edd0647e7bc639f206d88e7304edb8e7be77206bd0e48801"
 metafile = true
@@ -816,6 +806,11 @@ metafile = true
 [[files]]
 file = "mods/endremastered-fabric.pw.toml"
 hash = "32d8c813e2b6d92d718cb39f7008fd0fb16093aab6d16d807ae9dc0e913a085f"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "029f7439e9ffda332755f35e743933a10c793a9d369c6b39e118f22780db78b7"
 metafile = true
 
 [[files]]
@@ -1703,13 +1698,13 @@ hash = "4625b47bc35ca8d03c372d5153572c1a0d0baa44147a6e83107de967753ecf5b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations-cem-fork.pw.toml"
-hash = "46d3f88f6a7b297436b30ac2c304fac42036a4f0dab6f20c4d322d549d4732a8"
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "0f9c8fc3fbc1c159f9694065375e8143b3d97554795a04160d54d41311ca91be"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "8427f6b3ccf06150654b59741dd656dda54843d651a4a12dd453abc15cfad16c"
+hash = "53dfa7a64373f7b28f2c2116d912bc62bf59bf29e2cc1c4bb933cf9629d9bbe8"
 metafile = true
 
 [[files]]

@@ -14,6 +14,8 @@ Update overview:
 ~ Mobs from 'Incendium' now have unique textures.
 ~ Fixed crashing issue related to the Wildfire Runic effect.
 ~ Disabled additional health gained through item rarities.
+~ Replaced 'CEM fork' with 'Entity Model Features'.
+~ Switched to using the official 'FreshAnimation' version.
 
 Mods added:
 + Inv View [Server]
@@ -26,9 +28,12 @@ Mods added:
 + Village Nullifier
 + CIT Resewn [Client]
 + CapeTweaks [Client]
++ Entity Model Features [Client]
 
 Resource/Shader Packs added:
 + Incendium Optional Resourcepack [MR]
++ Fresh Animations
++ Fresh Animations Extensions
 
 Data Packs added:
 + Disable Incendium Toxic Heap Biome
@@ -43,6 +48,11 @@ Mods removed:
 - Enhanced Block Entities (Incompatibility with Create's "Flywheel" causes block entities to flicker)
 - lazy-language-loader (Incompatibility with 'FancyMenu' causes custom menus to not render after changing language)
 - Capes (Outdated and longer works with the MinecraftCapes service)
+- Custom Entity Models Fork (Replaced by 'Entity Model Features')
+- Custom Entity Models
+
+Resource Packs removed:
+- Fresh Animations CEM fork
 
 Mods disabled: 
 - 
@@ -93,4 +103,5 @@ Config Changes:
 = Changed "wildfire_chance", "wildfire_duration" and "wildfire_radius" to 0.0 (Effectively disabling the effect): [Simply Swords], [Both]
 = Changed message on the Wildfire runic effect to make it clear that it has been disabled: [Insomnia Custom Lang], [Client]
 = Disabled update notification: [Xaero's Minimap], [Client]
+= 'Tissou's Zombie Pack' no longer marked as "required": [Resource Pack Overrides], [Client]
 = : [mod], [side]
