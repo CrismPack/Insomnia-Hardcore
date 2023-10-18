@@ -54,7 +54,8 @@
     "2": [
       "file/Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip",
       "file/Insomnia-Compat-1.0.0.zip",
-      "file/Disable_Incendium_Toxic_Heap_Biome.zip"
+      "file/Disable_Incendium_Toxic_Heap_Biome.zip",
+      "file/Disable_TieredZ_Max_Health.zip"
     ],
     "$2": {
       "hidden": true,
