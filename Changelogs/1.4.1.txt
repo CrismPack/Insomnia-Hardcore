@@ -25,14 +25,14 @@ Mods added:
 + ModernFix
 + Village Nullifier
 + CIT Resewn [Client]
-+ CapeTweaks
++ CapeTweaks [Client]
 
 Resource/Shader Packs added:
 + Incendium Optional Resourcepack [MR]
 
 Data Packs added:
 + Disable Incendium Toxic Heap Biome
-+ Disable TieredZ Max Health [Custom]
++ Disable TieredZ Max Health
 
 Metadata Changes:
 = Memory Leak Fix [CF --> MR]
