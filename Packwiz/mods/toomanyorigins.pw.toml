@@ -1,0 +1,13 @@
+name = "TooManyOrigins"
+filename = "TooManyOrigins-0.9.2+1.18.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fb4674c352a7e21ef5a34e9f8e496d134fd09c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4620107
+project-id = 469658

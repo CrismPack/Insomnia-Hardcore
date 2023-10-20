@@ -22,7 +22,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "200a2419cf8fad03b885057f544fbd2a366abaf1381a6eee7df1a0b1fde508f2"
+hash = "437c3e6744ffe1b1f47837fa8f631eb43c2c04e61b18a70fb2a39f81ae51b39e"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -734,6 +734,11 @@ hash = "4f4d02777a242e836ac6eaca39c9f7c08bb451645a731a64c048dc0b1127813f"
 metafile = true
 
 [[files]]
+file = "mods/deuf-refabricated.pw.toml"
+hash = "bac418747cefedad8197a8eb47de526d9ee659531064540e5c424d58a89037be"
+metafile = true
+
+[[files]]
 file = "mods/dimension-fix-some-forge-patches-ported.pw.toml"
 hash = "83018bfaec9493e66af18393f6d7452ac08563ae37d510cfcef17e1fde6d2553"
 metafile = true
@@ -1234,6 +1239,11 @@ hash = "da94d3d549a2c7dcf515c1429cbb52f9c8fa9a46a14453f66f585c11e6e96255"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "a8df0d2fa4ab13a1a4d7dc0f54af86a74c74efbed52acdf6fd6dcc1d5d72d48a"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "db7ac151e03ca169671e3c488d975ab8c92038205674eb4174691d6ae0bdd2c6"
 metafile = true
@@ -1549,6 +1559,11 @@ hash = "f943e37468ef15356ac1d261f3aacef53b30ad8b04bca841449aa78e2caf44ce"
 metafile = true
 
 [[files]]
+file = "mods/toomanyorigins.pw.toml"
+hash = "8888faa7b810798e22cb2a36bf46493fb6337fc3201be54ec32a1106255bfdba"
+metafile = true
+
+[[files]]
 file = "mods/towers-of-the-wild-additions.pw.toml"
 hash = "c2ef50b8262c9dd7085670f033a5552f03c87342786c67f0406214be31a8f5ee"
 metafile = true
@@ -1793,7 +1808,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "09ef6aa2d53fba7a3aeedde1ff2d6cc8846c95e3372f6c04723d5fb568b198af"
+hash = "906eba7069b06e719efc9b176bf7e23db8b68c267d5fcc5aa150e56fdef3c274"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"

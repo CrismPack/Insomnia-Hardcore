@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nDn",
+        "DND",
+        "nDn"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "origins:orb_of_origin",
+        "count": 1
+    },
+    "group": "Origins"
+}
