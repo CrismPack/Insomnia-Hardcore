@@ -3,14 +3,18 @@ v1.4.2
 Fabric version: Fabric-0.14.23
 Update overview: 
 ~ Greatly improved FPS in areas with many particles.
-~ Added several new Origins.
-~ Added a crafting recipe to the Orb of Origin.
+~ Several new Origins.
+~ Crafting recipe to the Orb of Origin.
+~ New vanilla style bosses of varying difficulty.
+~ Twilight Forest dimension.
 
 Mods added:
 + MoreCulling [Client]
 + DEUF Refabricated
 + TooManyOrigins
 + Alternate Origin GUI [Client]
++ AdventureZ
++ The Twilight Forest
 
 Resource/Shader Packs added:
 + 

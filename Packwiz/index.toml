@@ -378,6 +378,11 @@ hash = "5acb036e4bb2eff6d1c6b8446a4bb089f9f56c203274c7e3f8d09da658766c81"
 metafile = true
 
 [[files]]
+file = "mods/adventurez.pw.toml"
+hash = "8d03587684b77114d966fcb4abbee1ecfdd3305939f38fdfb7f4f45f4fd3a43a"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "eb4030bf9e5c240452aa5e78126ac65732f813166cf30f067f8810d12c81bf15"
 metafile = true
@@ -1535,6 +1540,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "2d7fae264a11ebbdc8a3809581aa6d3b58013098a7cf73fc84aec1890ec46116"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "1b9065253f46de161dc5639519d75dbad7ffb9f9bf6f6553442056e7c16ec8a5"
 metafile = true
 
 [[files]]
