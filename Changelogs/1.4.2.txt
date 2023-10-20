@@ -4,7 +4,7 @@ Fabric version: Fabric-0.14.23
 Update overview: 
 ~ Greatly improved FPS in areas with many particles.
 ~ Several new Origins.
-~ Crafting recipe to the Orb of Origin.
+~ Added a crafting recipe to the Orb of Origin.
 ~ New vanilla style bosses of varying difficulty.
 ~ Twilight Forest dimension.
 
