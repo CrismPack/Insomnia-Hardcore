@@ -1,0 +1,35 @@
+v1.4.2
+
+Fabric version: Fabric-0.14.23
+Update overview: 
+~ 
+
+Mods added:
++ 
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ 
+
+Metadata Changes:
+=  [CF --> MR]
+
+Mods removed: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods disabled: 
+- 
+
+Data Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Config Changes: 
+= : [mod], [side]
