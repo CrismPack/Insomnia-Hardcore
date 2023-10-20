@@ -10,6 +10,7 @@ Mods added:
 + MoreCulling [Client]
 + DEUF Refabricated
 + TooManyOrigins
++ Alternate Origin GUI [Client]
 
 Resource/Shader Packs added:
 + 

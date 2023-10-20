@@ -337,6 +337,10 @@ file = "config/zoomify.json"
 hash = "f17ef0190ff39ee3dd672cc15e80dbfaffd57885b1738b2c95d4ddfb43cfc973"
 
 [[files]]
+file = "global_packs/required_data/Orb_Of_Origin_Crafting_Recipe.zip"
+hash = "355e115287738140b91e91bd390d4b5a21823c5ce46a50c816c07ead31f42ae6"
+
+[[files]]
 file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
 hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
@@ -376,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "eb4030bf9e5c240452aa5e78126ac65732f813166cf30f067f8810d12c81bf15"
+metafile = true
+
+[[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "f7ece784809276aae47c478cb66dfb70e951c3686632b3e07f2b2d5ecbbfffbe"
 metafile = true
 
 [[files]]
