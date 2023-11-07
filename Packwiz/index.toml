@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "b64f3e36112d338ad3ab14464a06a52cb6e4d6a2cb869867503de49e7dd7d08e"
+hash = "2ce1960f53ade643f4bd09311513d89b12cd24d7b5c6b47221661e5919ed4168"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bf10b344bd8a8362c4ad576b1d618f223481ca10f93d94e73a7b65be9d96a6c7"
+hash = "b879c504a07082eb4c1aea7dd1d1314baac16f23bbc6d94396ffe86b63e6959e"
 metafile = true
 
 [[files]]
@@ -829,12 +829,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "029f7439e9ffda332755f35e743933a10c793a9d369c6b39e118f22780db78b7"
+hash = "804cdf8a74c14c53db24a7dbfa41710d42cb3abcee3c8caae55adc1bbb610d37"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "7ea17342e8c8216866fd76c37ab3cd558ca1c33cf78a4cb849c6069a6cb1b5b8"
+hash = "be43621e58aa557bacb43ff32032612cff5dcdf8855bbe5ab208a29317b01e38"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "470e5bf7c8d228158620d00e9da85b094002cce7d4429ce1403f3829feef2ba5"
+hash = "c72e9466feda529b2b82dcab1cc3b4b659e6332bdbd576dd067564ac70090f6e"
 metafile = true
 
 [[files]]
@@ -974,7 +974,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "be1567a24fa0df84ad9f8df449113ea64550ed428d4e741b0816c1b8cc84bf48"
+hash = "5aa0d7986593f85e52e31b2dacba913f0c27c95dc10926e9ebb9d7b347f3f612"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "34e406823dacc08a517a96838c494c452b120f011b202db75033414bf7f4ae9b"
+hash = "dce340ff976ae27be9aaa1833e44ba9b1b19f1075c14e136cf9c6910c5692d43"
 metafile = true
 
 [[files]]
@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e263733795abece2da63c5511a9078f22415016fdc42fd078df10a83a221d55a"
+hash = "2a8513de493d9fd850bd74946ab0dd4c0c824fb6f6ff3b738b968063989d7b3d"
 metafile = true
 
 [[files]]
@@ -1274,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "f08640abab86fb2e1e37be8a611fe59b06ace7aa1eba3a301330191295f7b223"
+hash = "ee4bf32c1c64c5a6575412e2511a5add447b2797cbce1a094434e324dd1af02a"
 metafile = true
 
 [[files]]
@@ -1409,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "a10a972d79bb51b940a4939ccca6c612e2a15e8e491d90b4ec47aa2df85c9f02"
+hash = "25cce12c2344584a9c655646a7a072d6ea8f9e4d621923932e26a3aca78f8769"
 metafile = true
 
 [[files]]
@@ -1429,7 +1429,7 @@ metafile = true
 
 [[files]]
 file = "mods/saplanting.pw.toml"
-hash = "a112bdb92470fd0aa99235207e088cb228c525badc884c4dcd5250ed15e7b841"
+hash = "d6259d14c297ff89aef24df6e5c89be5894737a57a6d27a52b1fd36cd8f3710b"
 metafile = true
 
 [[files]]
@@ -1449,7 +1449,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b6aed57330b4ab045d1c811412072d1d7360b2824deaf45d92259bc407c98d82"
+hash = "a8acce5644e0eb30315152dcb7ee64c1ab18e71ff6462b14b9e0999a806c223d"
 metafile = true
 
 [[files]]
@@ -1649,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8f5288c68ee4840e46bec10a3d56ee28dae8316c0376b9e3b7b80b67b7b62624"
+hash = "7cb7709b66cd21e4a29b728a1932bb9b2d69ce626dfdf2a5074fdfe831a2412c"
 metafile = true
 
 [[files]]

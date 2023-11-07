@@ -38,7 +38,19 @@ Data Packs removed:
 - 
 
 Mods updated: 
-> 
+> Better chunk loading
+> Collective
+> Entity Model Features
+> Entity Texture Features
+> Fabric Language Kotlin
+> Harvest with ease
+> Inventory Profiles Next
+> ModernFix
+> Neruina - Ticking Entity Fixer
+> Roughly Enough Items
+> Saplanting
+> Simple Voice Chat
+> Xaero's World Map
 
 Config Changes: 
 = : [mod], [side]
