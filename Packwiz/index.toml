@@ -217,6 +217,10 @@ file = "config/phantomconfig.json5"
 hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
+file = "config/playerex.json"
+hash = "eb94909c989339b4c278c32d62ee12151c85d7db9b8d2739a374ddfd0e540a19"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "19c3c2b6efb7eb7c7b22bb1e493ffc5e575746fe9e1196e649b7b64434e8d60d"
 
@@ -639,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "b879c504a07082eb4c1aea7dd1d1314baac16f23bbc6d94396ffe86b63e6959e"
+hash = "d1335f008f8a1c0b73eb2b6827183ab8816c80e223477b93d16c2390a5b6c017"
 metafile = true
 
 [[files]]
@@ -1239,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2a8513de493d9fd850bd74946ab0dd4c0c824fb6f6ff3b738b968063989d7b3d"
+hash = "1ef8e57d31a7d9ec95814df96df17640cd7c8b36ee81754644282a0fa7e4e90a"
 metafile = true
 
 [[files]]
@@ -1429,7 +1433,7 @@ metafile = true
 
 [[files]]
 file = "mods/saplanting.pw.toml"
-hash = "d6259d14c297ff89aef24df6e5c89be5894737a57a6d27a52b1fd36cd8f3710b"
+hash = "a93e9fe0c34ead8eee49a7f274acf706d59ae157199c3a1b3e3160e31a290f2c"
 metafile = true
 
 [[files]]

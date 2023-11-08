@@ -1,6 +1,6 @@
 v1.4.2
 
-Fabric version: Fabric-0.14.23
+Fabric version: Fabric-0.14.24
 Update overview: 
 ~ Greatly improved FPS in areas with many particles.
 ~ Added several new Origins.
