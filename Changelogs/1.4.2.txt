@@ -3,10 +3,11 @@ v1.4.2
 Fabric version: Fabric-0.14.23
 Update overview: 
 ~ Greatly improved FPS in areas with many particles.
-~ Several new Origins.
+~ Added several new Origins.
 ~ Added a crafting recipe to the Orb of Origin.
 ~ New vanilla style bosses of varying difficulty.
-~ Twilight Forest dimension.
+~ Added the Twilight Forest dimension.
+~ Changed character leveling to follow an exponential curve.
 
 Mods added:
 + MoreCulling [Client]
@@ -53,4 +54,5 @@ Mods updated:
 > Xaero's World Map
 
 Config Changes: 
+= Changed the leveling formular to be exponential (1+0.05*x^2): [PlayerEx], [Both]
 = : [mod], [side]
