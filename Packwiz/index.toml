@@ -218,7 +218,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/playerex.json"
-hash = "eb94909c989339b4c278c32d62ee12151c85d7db9b8d2739a374ddfd0e540a19"
+hash = "e59a92c8e753a09dc76a0de52881aa8f6741a7657341329eb162d6e2e5386e33"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
