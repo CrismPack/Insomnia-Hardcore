@@ -1,13 +1,13 @@
 name = "Nether Portal Spread"
-filename = "netherportalspread-1.18.2-7.5.jar"
+filename = "netherportalspread-1.18.2-7.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c5b2a5eb4a1e47f09cfce87421fbed52ebcc58e6"
+hash = "7df05376af0a0c808667e9d24a6a42cc676bd4ee"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4430779
+file-id = 4852212
 project-id = 342097

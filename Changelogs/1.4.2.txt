@@ -39,16 +39,22 @@ Data Packs removed:
 Mods updated: 
 > Better chunk loading
 > Collective
+> Compact Help Command
 > Entity Model Features
 > Entity Texture Features
 > Fabric Language Kotlin
+> Furnace Recycle
 > Harvest with ease
 > Inventory Profiles Next
+> libIPN
 > ModernFix
 > Neruina - Ticking Entity Fixer
+> Nether Portal Spread
 > Roughly Enough Items
 > Saplanting
 > Simple Voice Chat
+> Starter Kit
+> Starter Structure
 > Xaero's World Map
 
 Config Changes: 

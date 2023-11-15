@@ -382,11 +382,6 @@ hash = "5acb036e4bb2eff6d1c6b8446a4bb089f9f56c203274c7e3f8d09da658766c81"
 metafile = true
 
 [[files]]
-file = "mods/adventurez.pw.toml"
-hash = "8d03587684b77114d966fcb4abbee1ecfdd3305939f38fdfb7f4f45f4fd3a43a"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "eb4030bf9e5c240452aa5e78126ac65732f813166cf30f067f8810d12c81bf15"
 metafile = true
@@ -643,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d1335f008f8a1c0b73eb2b6827183ab8816c80e223477b93d16c2390a5b6c017"
+hash = "ac1b752858973dbec55ecd6b98771367fa1b8df5b7dba4b4183952437777b8b8"
 metafile = true
 
 [[files]]
@@ -653,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/compact-help-command.pw.toml"
-hash = "9836cf9bc80a47ca5d9ba90ededefacfa135290550134150cde9a28064261d90"
+hash = "7e71031b5e5e9255c42105278a8c203588189ec31514e3669632d610be03ffb9"
 metafile = true
 
 [[files]]
@@ -963,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/furnace-recycle.pw.toml"
-hash = "968beb7dc80c0ae3e7ed1246434bec94bff8ff5908722ee369adf7d935feff6a"
+hash = "df433ba58f49502b0a0ab117e49783c5ca4b96a7956a6ac5ba45b2fda722a81f"
 metafile = true
 
 [[files]]
@@ -1148,7 +1143,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "18542419b7ffd2b46828a32731d05e578488417df7f6ce54cf17813d1f5230f6"
+hash = "1570658e49f20c5ac260aa2a1dce716da5068dc66d4b2ef85b91b6b7bc325c32"
 metafile = true
 
 [[files]]
@@ -1243,7 +1238,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1ef8e57d31a7d9ec95814df96df17640cd7c8b36ee81754644282a0fa7e4e90a"
+hash = "22124918de2f44c9a67bd98feba72c5f4353bda6d1130ad169ecfc47ca1d3f7c"
 metafile = true
 
 [[files]]
@@ -1283,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/nether-portal-spread.pw.toml"
-hash = "b05cb322ee3ec0bf2424bd82c86d06dc23cd00e21480eaad9f3857b57744fa59"
+hash = "4bd3914cb264e563baf76aeef6c8ff4112fa6dac8f44cb64aa68d4864664bb59"
 metafile = true
 
 [[files]]
@@ -1508,12 +1503,12 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "c9dced8cd576a9e1a2a223ed5526136be3949837ee6c3ea00e08451818b306ab"
+hash = "adb22e28729c965d771da59f05e2cca6e90181ce50abd7a0f73edb0a71d60374"
 metafile = true
 
 [[files]]
 file = "mods/starter-structure.pw.toml"
-hash = "003abf1e22a109b02db66deba7cc0da6939e7746445bb003148a433478914bfb"
+hash = "7994edf04c92cd2c311007ac225684ed429d89ae34e9b0342dd5dc00e8129d11"
 metafile = true
 
 [[files]]
