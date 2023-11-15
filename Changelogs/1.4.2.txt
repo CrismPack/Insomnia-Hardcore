@@ -7,6 +7,7 @@ Update overview:
 ~ Added a crafting recipe to the Orb of Origin.
 ~ Added The Twilight Forest dimension.
 ~ Changed character leveling to follow an exponential curve.
+~ Compatibility between 'Simply Swords' and several mods.
 ~ Fixed some crashing issues.
 
 Mods added:
@@ -15,6 +16,8 @@ Mods added:
 + TooManyOrigins
 + Alternate Origin GUI [Client]
 + The Twilight Forest
++ Knaves' Needs
++ Raknetify [Client] (Experimental)
 
 Resource/Shader Packs added:
 + 
@@ -26,7 +29,7 @@ Metadata Changes:
 =  [CF --> MR]
 
 Mods removed: 
-- 
+- Carpet
 
 Resource Packs removed:
 - 
@@ -60,4 +63,5 @@ Mods updated:
 
 Config Changes: 
 = Changed the leveling formula to be exponential (0.02x^2+0.5x+1): [PlayerEx], [Both]
+= Enabled "opt_out_updater" (fixes an error message when starting a server): [Debugify], [Both]
 = : [mod], [side]

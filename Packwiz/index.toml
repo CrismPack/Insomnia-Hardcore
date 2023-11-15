@@ -69,6 +69,10 @@ file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
 
 [[files]]
+file = "config/debugify.json"
+hash = "1eb1b91cb48f8f0a9aef911448d5b69f47f72c31a2d95a46802b4525d11b9cfe"
+
+[[files]]
 file = "config/droplight-common.toml"
 hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
@@ -1382,6 +1386,11 @@ hash = "ffea10c0df0efa6868faa1e170477abe1788811880c5c79f2fcec9b61572c427"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "005b827da430d73db737158b77e116162c05500e6e7026bab33f0efd86a5221d"
+metafile = true
+
+[[files]]
 file = "mods/randomtp.pw.toml"
 hash = "e98cdc05118236c6e17a8aff0c1724f15bcf81ade4953ca35372c42522254674"
 metafile = true
@@ -1569,6 +1578,11 @@ metafile = true
 [[files]]
 file = "mods/tipthescales.pw.toml"
 hash = "0b44606c411fecc9a1f3925aec4432b488e35b6b546cba9d897c2e6fdbcc4495"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "06c947654dfbef45801c66259e59bcb10f7695dd5de853e49e2d556d62e32800"
 metafile = true
 
 [[files]]
