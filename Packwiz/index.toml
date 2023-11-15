@@ -562,11 +562,6 @@ hash = "33179ae5d1daf10445cedb21f58a9ee58fd313d6a75c0afa05baf1d97c0ba02d"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
-metafile = true
-
-[[files]]
 file = "mods/charm.pw.toml"
 hash = "45086e2baab1c96f628e8faed67373ee06f36396eaf00f8db1d6c66b72c03a8b"
 metafile = true
@@ -1094,6 +1089,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "758b1d39465dbec0e65ca8e8861f9e3f9d0f9330ac211e31f9eae5462d69a377"
+metafile = true
+
+[[files]]
+file = "mods/knaves-needs.pw.toml"
+hash = "8a35ed6ebc9c4ab896147145542c7507bdbc67f972a5d0ad0ac26548348d6a6b"
 metafile = true
 
 [[files]]

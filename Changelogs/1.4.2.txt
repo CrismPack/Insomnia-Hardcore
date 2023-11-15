@@ -7,6 +7,7 @@ Update overview:
 ~ Added a crafting recipe to the Orb of Origin.
 ~ Added The Twilight Forest dimension.
 ~ Changed character leveling to follow an exponential curve.
+~ Fixed some crashing issues.
 
 Mods added:
 + MoreCulling [Client]
