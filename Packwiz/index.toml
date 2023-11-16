@@ -217,12 +217,20 @@ file = "config/mostructures-config-v5.json5"
 hash = "5df83b31cbdf40a7a1d2ffab12e43b38663588ece4c5bc8ea91fa5890adb62b2"
 
 [[files]]
+file = "config/overflowingbars-client.toml"
+hash = "c10d57b89ec3e173c0d913e2463c5a84dbdec57d10a00df467f3321d15983fea"
+
+[[files]]
 file = "config/phantomconfig.json5"
 hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/playerex.json"
 hash = "e59a92c8e753a09dc76a0de52881aa8f6741a7657341329eb162d6e2e5386e33"
+
+[[files]]
+file = "config/power_config.json5"
+hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -1317,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "92b88b0b043313fb8ae3a62e1d18728442a35b5d2803bdc4bba89210357aeaf2"
+hash = "cae5d28698dcd7d6f5ae457d3bbcec37c01fe6983d9ba1d9342eebaabd949056"
 metafile = true
 
 [[files]]
@@ -1377,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "bb47b5546d72ef8b0fc91bd57387018843b1fd476e32180c7d854e99fd63d012"
+hash = "afcfccb3ef71de20bf2ad6bbdbf09b617dce7223d4ded4eae3d63d192ecb41c4"
 metafile = true
 
 [[files]]

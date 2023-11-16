@@ -71,4 +71,5 @@ Config Changes:
 = Enabled "opt_out_updater" (fixes an error message when starting a server): [Debugify], [Both]
 = Moved toughness bar to the left side: [Overflowing Bars], [Client]
 = Shifted the cooldown bar up by 1: [Origins], [Client]
+= The RAM allocation guide now links to a new page on our wiki: [Memory Settings], [Client]
 = : [mod], [side]
