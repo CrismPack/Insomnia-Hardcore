@@ -69,4 +69,6 @@ Mods updated:
 Config Changes: 
 = Changed the leveling formula to be exponential (0.02x^2+0.5x+1): [PlayerEx], [Both]
 = Enabled "opt_out_updater" (fixes an error message when starting a server): [Debugify], [Both]
+= Moved toughness bar to the left side: [Overflowing Bars], [Client]
+= Shifted the cooldown bar up by 1: [Origins], [Client]
 = : [mod], [side]
