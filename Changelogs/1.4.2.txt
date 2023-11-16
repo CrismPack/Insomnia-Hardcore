@@ -4,7 +4,7 @@ Fabric version: Fabric-0.14.24
 Update overview: 
 ~ Added several new Origins.
 ~ Greatly improved FPS in areas with many particles.
-~ Added a crafting recipe to the Orb of Origin.
+~ The Orb of Origin now has a crafting recipe.
 ~ Added The Twilight Forest dimension.
 ~ Changed character leveling to follow an exponential curve.
 ~ Compatibility between 'Simply Swords' and several mods.
@@ -29,6 +29,7 @@ Resource/Shader Packs added:
 
 Data Packs added:
 + Orb of Origin Crafting Recipe
++ TooManyOrigins - Disable Withered [Server]
 
 Metadata Changes:
 =  [CF --> MR]
