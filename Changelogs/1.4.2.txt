@@ -32,7 +32,7 @@ Data Packs added:
 + TooManyOrigins - Disable Withered [Server]
 
 Metadata Changes:
-=  [CF --> MR]
+= Iris Shaders [MR --> CF]
 
 Mods removed: 
 - Carpet (Causes intermittent server crashes)

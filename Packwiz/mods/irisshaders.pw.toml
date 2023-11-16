@@ -3,11 +3,11 @@ filename = "iris-mc1.18.2-1.6.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/C7jhLYbl/iris-mc1.18.2-1.6.10.jar"
 hash-format = "sha1"
 hash = "db2ea1b4dbff1fd672da6f746633328e0e2b5003"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "YL57xq9U"
-version = "C7jhLYbl"
+[update.curseforge]
+file-id = 4861694
+project-id = 455508
