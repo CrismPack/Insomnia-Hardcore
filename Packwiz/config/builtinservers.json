@@ -1,0 +1,15 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "Official Server",
+      "address": "insomnia.crismpack.net",
+      "forced": true
+    },
+    {
+      "name": "Official Server [RakNet]",
+      "address": "raknet;insomnia.crismpack.net",
+      "forced": true
+    }
+  ]
+}

@@ -559,6 +559,11 @@ hash = "a781f898a0b88ee1da0a925818c6939135f10d18783b0d4811adf18efde78017"
 metafile = true
 
 [[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "dc406c983489846e680361f1d9ed879c8d726c8f126f7790c4b10d19daecc64f"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether-fabric.pw.toml"
 hash = "acdee1d8c1d2018daf626e1c33040edab4a17ff51dc7b7ed913b88d5dc59daf2"
 metafile = true
