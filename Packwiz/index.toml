@@ -49,6 +49,10 @@ file = "config/boringbackgrounds.json"
 hash = "6ded0c65092f76a7d3a3758d17c20b9c484349f0d08d6750bf593aa8149cda82"
 
 [[files]]
+file = "config/builtinservers.json"
+hash = "065caa43646fc7ae2c5dacb91a7174ef7b9a86701082d45b3d386c12e7a8d143"
+
+[[files]]
 file = "config/capetweaks.properties"
 hash = "a326a1768aedc80bc207bbc1b150ba78c18c2d677e009c198fd97c45b6869c7a"
 
@@ -210,7 +214,7 @@ hash = "4a4dda2b52473167b9ead56c2db4e14d7a3b30047385f87672bbe3e548b51cb5"
 
 [[files]]
 file = "config/memorysettings.json"
-hash = "877253327afbd8e9c5d777f2aebb9312c0a14cb6fdd043e84e1d42b041e69468"
+hash = "a5f4d246ddf21a3f53240cb8ba5b276f5543c142516fd3ce9e64b7bb2ff8d6c5"
 
 [[files]]
 file = "config/mostructures-config-v5.json5"
@@ -246,7 +250,7 @@ hash = "ba8fd95cff1dcefc15cb230247cb18f7c9036e9fec87b49ed5a6c273725c7a5a"
 
 [[files]]
 file = "config/simplefog.json"
-hash = "c37c973a398b8c78737ecc823f6e4df08473305085b79a6fa5dca8eb30ed1e07"
+hash = "df984e638a0d3c1653ca812aa276b51fe9aa62f16a9638efba2a2f56c8a0606a"
 
 [[files]]
 file = "config/simplyswords/effects_config.json5"
@@ -343,10 +347,6 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "18d6fd395305183642556fd716def72af17093f2a5086f6ce40ec1f4f781bb94"
-
-[[files]]
-file = "config/yosbr/servers.dat"
-hash = "92dcbb2d35cddf8b0f2fc8c58033a8469fd7fa69870e07f46955bdd8ec259322"
 
 [[files]]
 file = "config/zoomify.json"
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/builtin-servers.pw.toml"
-hash = "dc406c983489846e680361f1d9ed879c8d726c8f126f7790c4b10d19daecc64f"
+hash = "6716893ff0ec39365210dcc76245e1a33b108a3d27df235aa9c2f87cf66b6288"
 metafile = true
 
 [[files]]
