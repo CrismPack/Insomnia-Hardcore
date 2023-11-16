@@ -10,6 +10,7 @@ Update overview:
 ~ Compatibility between 'Simply Swords' and several mods.
 ~ Improved health and armor bar visualization.
 ~ Fixed some crashing issues.
+~ Fixed Merling origins underwater visibility.
 
 Mods added:
 + MoreCulling [Client]
@@ -72,4 +73,5 @@ Config Changes:
 = Moved toughness bar to the left side: [Overflowing Bars], [Client]
 = Shifted the cooldown bar up by 1: [Origins], [Client]
 = The RAM allocation guide now links to a new page on our wiki: [Memory Settings], [Client]
+= Enabled underwater fog modification: [Simple Fog], [Client]
 = : [mod], [side]

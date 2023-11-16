@@ -2,7 +2,7 @@
   "terrainToggle": false,
   "terrainStart": 70.0,
   "terrainEnd": 130.0,
-  "waterToggle": false,
+  "waterToggle": true,
   "waterStart": -20.0,
   "waterEnd": 90.0,
   "waterEndSwamp": 60.0,
