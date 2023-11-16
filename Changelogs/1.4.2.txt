@@ -2,15 +2,15 @@ v1.4.2
 
 Fabric version: Fabric-0.14.24
 Update overview: 
-~ Greatly improved FPS in areas with many particles.
 ~ Added several new Origins.
+~ Greatly improved FPS in areas with many particles.
 ~ Added a crafting recipe to the Orb of Origin.
 ~ Added The Twilight Forest dimension.
 ~ Changed character leveling to follow an exponential curve.
 ~ Compatibility between 'Simply Swords' and several mods.
 ~ Improved health and armor bar visualization.
 ~ Fixed some crashing issues.
-~ Fixed Merling origins underwater visibility.
+~ Fixed underwater visibility for the Merling origin.
 
 Mods added:
 + MoreCulling [Client]
@@ -34,7 +34,7 @@ Metadata Changes:
 =  [CF --> MR]
 
 Mods removed: 
-- Carpet
+- Carpet (Causes intermittent server crashes)
 - Health Overlay (Replaced by 'Overflowing Bars')
 - Detail Armor Bar (Replaced by 'Overflowing Bars')
 
