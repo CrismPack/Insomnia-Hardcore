@@ -937,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
+hash = "10fbefa297383d7d768be6b113220b1d5f18bad29b5103641e9ffb0b3d37f3cb"
 metafile = true
 
 [[files]]
@@ -1326,6 +1326,11 @@ hash = "3b695c715b0500ffa0934bb6b688cd54f63fdc44f69e3706308eaf708fe9a17b"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "92b88b0b043313fb8ae3a62e1d18728442a35b5d2803bdc4bba89210357aeaf2"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
@@ -1378,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib-fabric.pw.toml"
 hash = "8e59815b193e52f162b5ded34a4b1dfdac31b880893ab286ac12a970903ceb4b"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "aa93c2745a2e1bfabd5508c0a3b10c93fcaacbcf0b3f9c001e45191bc9884ace"
 metafile = true
 
 [[files]]
