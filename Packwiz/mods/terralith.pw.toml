@@ -1,13 +1,13 @@
 name = "Terralith"
-filename = "Terralith_1.20.2_v2.4.6.jar"
+filename = "Terralith_1.20.2_v2.4.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f998d34c8e48693dfc6e56188eb82f3ebbba2899"
+hash = "4b20f50554edbb75945bd15a5db989afffc79709"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4767326
+file-id = 4823753
 project-id = 513688

@@ -19,6 +19,7 @@ Mods added:
 + Better chunk loading [Server]
 + Limited Chunkloading - Chunk cleanup [Server]
 + Variant Shields
++ Jade Addons
 
 Mods re-enabled:
 + Raised
@@ -37,6 +38,7 @@ Mods removed:
 - Health Overlay (Replaced by 'Overflowing Bars')
 - Detail Armor Bar (Replaced by 'Overflowing Bars')
 - lazy-language-loader (Incompatibility with 'FancyMenu' causes custom menus to not render after changing language)
+- Lan Server Properties
 
 Mods disabled: 
 - 
@@ -48,10 +50,79 @@ Data Packs removed:
 - 
 
 Resource Packs updated:
-> 
+> Eclectic Trove
 
 Mods updated: 
-> 
+> AttributeFix
+> Better Combat
+> BlossomTpa
+> Bookshelf
+> Better Recipe Books
+> Chat Heads
+> Cherished Worlds
+> Collective
+> Combat Roll
+> Compact Help Command
+> Continuity
+> Cristel Lib
+> Cupboard
+> Dark Paintings
+> Eating Animation
+> Elytra Physics
+> Elytra Trims
+> Entity Model Features
+> Entity Texture Features
+> Fabric Language Kotlin
+> Fabric Waystones
+> Falling Leaves
+> FancyMenu
+> FerriteCore
+> Furnace Recycle
+> Goblin Traders
+> Harvest with ease
+> Hephaestus Fabric
+> ImmediatelyFast
+> Inventory Profiles Next
+> Iris Shaders
+> Jade 🔍
+> Konkrete
+> Let Me Despawn
+> libIPN
+> MCPitanLib 
+> MmmMmmMmmMmm 
+> ModernFix
+> MVS - Moog's Voyager Structures
+> Neruina - Ticking Entity Fixer
+> Nether Portal Spread
+> Open Parties and Claims
+> OptiGUI
+> Polymorph
+> Puzzles Lib
+> Raised
+> Recall Staffs
+> Regions Unexplored
+> Resource Pack Overrides
+> Roughly Enough Items
+> Roughly Enough Professions
+> Philip's Ruins
+> Searchables
+> Moonlight Lib
+> ServerCore
+> Simple Discord RPC
+> Simple Voice Chat
+> Simply Swords
+> Smooth Chunk Save
+> Starter Kit
+> Starter Structure
+> Structory: Towers
+> SuperMartijn642's Config Lib
+> Terralith
+> Towns and Towers
+> Xaero's Minimap (Fair-play Edition)
+> Xaero's World Map
+> YetAnotherConfigLib
+> YUNG's Better Jungle Temples
+> YUNG's Better Nether Fortresses
 
 Config Changes: 
 = Enabled "opt_out_updater" (fixes an error message when starting a server): [Debugify], [Both]

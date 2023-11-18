@@ -1,13 +1,13 @@
 name = "Furnace Recycle"
-filename = "furnacerecycle-1.20.1-2.0.jar"
+filename = "furnacerecycle-1.20.1-2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "101522a41ca824de2a9dd9a144e53d549402e1c5"
+hash = "47a038ea6e24ce1d22006ea77e526288ccb09bd4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4583639
+file-id = 4852855
 project-id = 551140
