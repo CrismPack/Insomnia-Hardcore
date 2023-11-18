@@ -31,12 +31,13 @@ Mods re-enabled:
 Mod side changes:
 =  [Both --> Client]
 
-Resource/Shader Packs added:
-+ 
+Resource Packs added:
++ Incendium Optional Resourcepack [MR]
 
 Data Packs added:
 + Disable TieredZ Max Health
 + TooManyOrigins - Disable Withered [Server]
++ Disable Incendium Toxic Heap Biome
 
 Mods removed: 
 - Health Overlay (Replaced by 'Overflowing Bars')
@@ -122,7 +123,6 @@ Mods updated:
 > Starter Structure
 > Structory: Towers
 > SuperMartijn642's Config Lib
-> Terralith
 > Towns and Towers
 > Xaero's Minimap (Fair-play Edition)
 > Xaero's World Map
