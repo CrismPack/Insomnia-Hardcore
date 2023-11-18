@@ -1,0 +1,44 @@
+v2.0.0.pre5
+
+#Notice: This is a pre-release. Here be dragons!
+
+Fabric version: Fabric-0.14.24
+Update overview: 
+~ 
+~ Updated all mods to their latest version.
+
+Mods added:
++ 
+
+Mods re-enabled:
++ 
+
+Mod side changes:
+=  [Both --> Client]
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ 
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Data Packs removed:
+- 
+
+Resource Packs updated:
+> 
+
+Mods updated: 
+> 
+
+Config Changes: 
+= : [mod], [Server]
