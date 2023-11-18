@@ -15,7 +15,6 @@ Mods added:
 + Alternate Origin GUI [Client]
 + Knaves' Needs
 + Overflowing Bars [Client]
-+ Builtin Servers [Client]
 + Inv View [Server]
 + Better chunk loading [Server]
 + Limited Chunkloading - Chunk cleanup [Server]
@@ -55,4 +54,10 @@ Mods updated:
 > 
 
 Config Changes: 
+= Enabled "opt_out_updater" (fixes an error message when starting a server): [Debugify], [Both]
+= Moved toughness bar to the left side: [Overflowing Bars], [Client]
+= Shifted the cooldown bar up by 1: [Origins], [Client]
+= The RAM allocation guide now links to a new page on our wiki: [Memory Settings], [Client]
+= Enabled underwater fog modification: [Simple Fog], [Client]
+= Disabled "can_players_toggle_global_mode": [Fabric Waystones], [Both]
 = : [mod], [Server]

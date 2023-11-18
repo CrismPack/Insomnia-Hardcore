@@ -8,7 +8,9 @@ phrases = [
     "Netty",
     "[bclib]",
     "[ShulkerBoxTooltip]",
-    "players online:"
+    "'forge:entity_gravity'",
+    "Parsing error loading recipe",
+    "Couldn't parse loot table"
     ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 

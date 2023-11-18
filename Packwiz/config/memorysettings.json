@@ -19,8 +19,30 @@
     "desc:": "Disable the memory warnings, default: false",
     "disableWarnings": false
   },
-  "helpfullinkmessage": {
-    "desc:": "Set the help message for changing ram allocation, you can use html here e.g. for setting a link to a wiki page",
-    "helpfullinkmessage": "See <a href='https://minecrafthelp.co.uk/how-to-add-more-ram-to-minecraft/'>https://minecrafthelp.co.uk/how-to-add-more-ram-to-minecraft/</a> on how to change your memory settings."
+  "howtolink": {
+    "desc:": "Set the link used to guide players to a website with instructions to change memory allocation",
+    "howtolink": "https://wiki.crismpack.net/how-to-allocate-more-ram"
+  },
+  "warningTolerance": {
+    "desc:": "Set how many percent the memory is allowed to deviate from the recommended for the system before warning about it, default: 30, max 100",
+    "warningTolerance": 30
+  },
+  "recommendedMemory": {
+    "desc:": "Set the recommended memory values based off system memory in MB. [\"system memory:recommended\"]",
+    "memory values": [
+      "3000:2000",
+      "4000:3000",
+      "5000:3500",
+      "6000:3700",
+      "7000:4000",
+      "8000:4200",
+      "10000:5000",
+      "12000:6000",
+      "16000:7000",
+      "20000:8000",
+      "24000:9000",
+      "32000:9500",
+      "64000:10000"
+    ]
   }
 }
