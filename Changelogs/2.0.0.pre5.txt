@@ -25,7 +25,6 @@ Mods added:
 
 Mods re-enabled:
 + Raised
-+ Hephaestus Fabric
 
 Mod side changes:
 =  [Both --> Client]

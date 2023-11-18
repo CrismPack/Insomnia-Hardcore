@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "f3094b99335cf26c368294878ae60312122a30ead29fea67b86095b75b15b4e8"
+hash = "9561f872cb645abbe60e93df980f8596a0cfbec9a4bace3ab7656d693de0d70b"
 metafile = true
 
 [[files]]
@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-physics.pw.toml"
-hash = "53514f2baef3e638972323d2c6014afea1c5660b4fe00e6a61999f91d8e00e5a"
+hash = "227f9763e81e5a0b26113320b1e53ff11f29e32c71e36d445e278783f09ba2c5"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-fabric.pw.toml"
-hash = "c763a96c4ce49f92cced7ead7babbe7dabf363ef86a6762c5050539b3d29b606"
+hash = "c727c0ce85fab9d70009ff339356d454464ce8024af9a28e1909e446a5f59005"
 metafile = true
 
 [[files]]
@@ -1491,7 +1491,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "03120897f0dd10a4139a0a36aa0cfe854346be72d056fa9f42a7019098820576"
+hash = "8805940c0e88bd75a5b91bf733a6f1b280348e94d091ebd4bc25fa8663a7c5e0"
 metafile = true
 
 [[files]]
