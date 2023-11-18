@@ -123,6 +123,10 @@ Mods updated:
 > YetAnotherConfigLib
 > YUNG's Better Jungle Temples
 > YUNG's Better Nether Fortresses
+> Bobby
+> Indium
+> Sodium
+> Sodium Extra
 
 Config Changes: 
 = Enabled "opt_out_updater" (fixes an error message when starting a server): [Debugify], [Both]
