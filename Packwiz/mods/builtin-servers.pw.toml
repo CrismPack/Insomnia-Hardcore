@@ -1,0 +1,13 @@
+name = "Builtin Servers"
+filename = "builtin-servers-2.1+1.20-fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a5c788f6409f0d1a3b2552b40b49a6ffb9d44595"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4716368
+project-id = 473131

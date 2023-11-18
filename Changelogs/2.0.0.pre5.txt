@@ -4,14 +4,25 @@ v2.0.0.pre5
 
 Fabric version: Fabric-0.14.24
 Update overview: 
-~ 
+~ Added several new Origins.
+~ Greatly improved FPS in areas with many particles.
 ~ Updated all mods to their latest version.
 
 Mods added:
-+ 
++ MoreCulling [Client] [MR]
++ DEUF Refabricated
++ TooManyOrigins
++ Alternate Origin GUI [Client]
++ Knaves' Needs
++ Overflowing Bars [Client]
++ Builtin Servers [Client]
++ Inv View [Server]
++ Better chunk loading [Server]
++ Limited Chunkloading - Chunk cleanup [Server]
++ Variant Shields
 
 Mods re-enabled:
-+ 
++ Raised
 
 Mod side changes:
 =  [Both --> Client]
@@ -20,10 +31,13 @@ Resource/Shader Packs added:
 + 
 
 Data Packs added:
-+ 
++ Disable TieredZ Max Health
++ TooManyOrigins - Disable Withered [Server]
 
 Mods removed: 
-- 
+- Health Overlay (Replaced by 'Overflowing Bars')
+- Detail Armor Bar (Replaced by 'Overflowing Bars')
+- lazy-language-loader (Incompatibility with 'FancyMenu' causes custom menus to not render after changing language)
 
 Mods disabled: 
 - 

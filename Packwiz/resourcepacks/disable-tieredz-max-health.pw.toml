@@ -1,0 +1,13 @@
+name = "Disable TieredZ Max Health"
+filename = "Disable_TieredZ_Max_Health.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59ea79399f86b1f87f6125b0bfb37669d3e11714"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4801920
+project-id = 923923

@@ -1,0 +1,13 @@
+name = "Variant Shields [Fabric/Quilt]"
+filename = "variantshields-2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14b3e4effb447a98a4f12cbae83cbccdfa0d3997"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4864907
+project-id = 682987
