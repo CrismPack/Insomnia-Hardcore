@@ -142,4 +142,5 @@ Config Changes:
 = Enabled underwater fog modification: [Simple Fog], [Client]
 = Disabled "can_players_toggle_global_mode": [Fabric Waystones], [Both]
 = Disabled better snow: [SuperBetterGrass], [Client]
+= Enabled the "dynamic" feature to help with server performance: [ServerCore], [Server]
 = : [mod], [Server]
