@@ -700,6 +700,11 @@ hash = "a21be9bc722d7d99e07578c15086aa64b0022a20322c30f583f88e8b3a23a474"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f3094b99335cf26c368294878ae60312122a30ead29fea67b86095b75b15b4e8"
 metafile = true
@@ -1325,6 +1330,11 @@ hash = "d53a9b17a24b687107b6012579418f9a4dd49eaf768513f952e970e3b43de8ab"
 metafile = true
 
 [[files]]
+file = "mods/porting-lib.pw.toml"
+hash = "87f7c0d52f7badd44ef9a34b198bcb309ed330a3e4c621127123a051761e2bfb"
+metafile = true
+
+[[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "365afda4d539b4b93038b787c8279e9dde18670ab3b1de841e589f36cb217505"
 metafile = true
@@ -1542,6 +1552,11 @@ metafile = true
 [[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "3cf31ad618f1fa0402a77a0184d6bfc1d8ec0ebf9292da4a4c1cef440e41d4b9"
+metafile = true
+
+[[files]]
+file = "mods/tamago.pw.toml"
+hash = "0cc9a9baa977eab4f95f65db137b3922e4415d91a6850549fc26847da3d7dd23"
 metafile = true
 
 [[files]]

@@ -20,9 +20,12 @@ Mods added:
 + Limited Chunkloading - Chunk cleanup [Server]
 + Variant Shields
 + Jade Addons
++ Create Fabric Sodium Fix [MR]
++ Tamago
 
 Mods re-enabled:
 + Raised
++ Hephaestus Fabric
 
 Mod side changes:
 =  [Both --> Client]
@@ -41,7 +44,7 @@ Mods removed:
 - Lan Server Properties
 
 Mods disabled: 
-- 
+- Create Fabric (Replaced by 'Create Fabric Sodium Fix' until the issues with Sodium gets fixed in the original mod)
 
 Resource Packs removed:
 - 
