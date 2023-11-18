@@ -21,7 +21,9 @@ Mods added:
 + Variant Shields
 + Jade Addons
 + Create Fabric Sodium Fix [MR]
-+ Tamago
++ Incendium
++ Tectonic
++ SuperBetterGrass [Client]
 
 Mods re-enabled:
 + Raised
@@ -41,6 +43,8 @@ Mods removed:
 - Detail Armor Bar (Replaced by 'Overflowing Bars')
 - lazy-language-loader (Incompatibility with 'FancyMenu' causes custom menus to not render after changing language)
 - Lan Server Properties
+- Amplified Nether
+- Terralith
 
 Mods disabled: 
 - Create Fabric (Replaced by 'Create Fabric Sodium Fix' until the issues with Sodium gets fixed in the original mod)
@@ -137,4 +141,5 @@ Config Changes:
 = The RAM allocation guide now links to a new page on our wiki: [Memory Settings], [Client]
 = Enabled underwater fog modification: [Simple Fog], [Client]
 = Disabled "can_players_toggle_global_mode": [Fabric Waystones], [Both]
+= Disabled better snow: [SuperBetterGrass], [Client]
 = : [mod], [Server]

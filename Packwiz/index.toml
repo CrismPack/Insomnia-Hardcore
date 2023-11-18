@@ -520,6 +520,11 @@ hash = "50702761d44d49301519516d405872faed540099a70ffd6bb352a8a905f410b4"
 metafile = true
 
 [[files]]
+file = "mods/block-swap-fabric.pw.toml"
+hash = "dd73f4e7923a4fc153063c052c5d936cc2b6d101c6d41db27fc2f752cf4748ce"
+metafile = true
+
+[[files]]
 file = "mods/blockus.pw.toml"
 hash = "c193f8372230921ee582d40b839a3b64716e4b99e22685fdb069f8735c57dce9"
 metafile = true
@@ -1007,6 +1012,11 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "6035dc99eebe6cf06ce56952046989133b17e601aeed3a2ea05a22dae6e880e9"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "15d5e1ad6cdc79a660ae2e5d6d74be219e140ee83133f7d42ef083320124b613"
 metafile = true
 
 [[files]]
@@ -1545,6 +1555,11 @@ hash = "b06c4ab8ded67fe92b0943cee3593654421b2fa50c888d86e764dae453152ac7"
 metafile = true
 
 [[files]]
+file = "mods/super-better-grass.pw.toml"
+hash = "09cab4234a9af372c490fa283a67307c2b7220d5441fa8dfa4ef6c104893f31f"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "38f8bd3cf2c32c8faefdb069b91e3657a3410793404180cae395b8563ba97b07"
 metafile = true
@@ -1560,13 +1575,13 @@ hash = "0cc9a9baa977eab4f95f65db137b3922e4415d91a6850549fc26847da3d7dd23"
 metafile = true
 
 [[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "70f3199354420fb3ff289a2dc6530f913ea68de729a7522d67d168eb7bbea94b"
+file = "mods/tectonic.pw.toml"
+hash = "f64a59be83c91ba753e191a2b9ed313d63f22120cdc748a9ef2c2403595cab8b"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "9fc9821249e1864dc07c4f234ad733ac176eeaa092eefb537e8aa30a46add173"
+file = "mods/terrablender-fabric.pw.toml"
+hash = "70f3199354420fb3ff289a2dc6530f913ea68de729a7522d67d168eb7bbea94b"
 metafile = true
 
 [[files]]
