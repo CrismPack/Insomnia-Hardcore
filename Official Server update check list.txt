@@ -1,3 +1,4 @@
 Delete all mods except: DisFabric, Vanish, Raknetify
 Delete "global_packs" folder
+Backup "server.properties" file
 Upload and unpack new serverpack zip
