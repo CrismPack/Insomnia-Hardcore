@@ -1409,6 +1409,11 @@ hash = "bcd84f1ac51ef3792f8b8fa3f22507ad52f9026cc09ba8d2a5b2ce678b576ea4"
 metafile = true
 
 [[files]]
+file = "mods/recipe-unlocker.pw.toml"
+hash = "51331a03acbca802959f4eca9d65158c19a25850349c3f1e78959027439a7bf2"
+metafile = true
+
+[[files]]
 file = "mods/red-bits.pw.toml"
 hash = "ea0b297f3691d968b9873d78f26b956c28978605de52b30c15a753549d4150a9"
 metafile = true

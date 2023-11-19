@@ -1,0 +1,36 @@
+v1.4.3
+
+Fabric version: Fabric-0.14.24
+Update overview: 
+~ Fixed lag spike when a player joins for the first time. [Server]
+
+Mods added:
++ Recipe Unlocker [Client]
+
+Resource/Shader Packs added:
++ 
+
+Data Packs added:
++ 
+
+Metadata Changes:
+=  [MR --> CF]
+
+Mods removed: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods disabled: 
+- 
+
+Data Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Config Changes:
+= Disabled "AutomaticRecipeUnlock" due to causing immense lag spikes: [Charm], [Server]
+= : [mod], [side]
