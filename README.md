@@ -19,9 +19,9 @@
 
 <hr>
 
-<h2><span style="font-size: 24px;"><strong>
+<h3><span style="font-size: 24px;"><strong>
 Check out the modpack on CurseForge:
-</strong></span></h2>
+</strong></span></h3>
 
 <p><span style="font-size: 24px;">
 https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore
