@@ -5,8 +5,15 @@ v2.0.0.pre5
 Fabric version: Fabric-0.14.24
 Update overview: 
 ~ Added several new Origins.
+~ Changes to worldgen.
 ~ Greatly improved FPS in areas with many particles.
+~ Improved server performance.
+~ Switched to use a fork of 'Create Fabric' that supports never versions of Sodium.
+~ Compatibility between 'Simply Swords' and several mods.
+~ Improved health and armor bar visualization.
+~ Fixed vegetation from 'Regions Unexplored' not playing nicely with the shaders.
 ~ Updated all mods to their latest version.
+~ And more...
 
 Mods added:
 + MoreCulling [Client] [MR]

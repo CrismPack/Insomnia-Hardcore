@@ -1648,11 +1648,6 @@ hash = "5445f84a6f3dcc6323979db3179a8bd152b8766bb63a5c0285f3ffa6c41186ad"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "253f063ab4e9a5716870b13c15aff75787aa2553c48b5b061ff1e0fe64779d3e"
-metafile = true
-
-[[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "5390639d076c69e7b77efebb6ab8aee98dd6d064d62c5fbf6f6d19e8921fb561"
 metafile = true
