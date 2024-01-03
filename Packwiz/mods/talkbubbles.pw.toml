@@ -1,13 +1,13 @@
 name = "TalkBubbles"
-filename = "talkbubbles-1.0.7.jar"
+filename = "talkbubbles-1.0.8.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "35adeb313f6dfce9eafb0daa8c1357862b46ba2c"
+hash = "ff2b8f24eef416624a7773aba056d9e25efe4065"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4656316
+file-id = 4975868
 project-id = 532113

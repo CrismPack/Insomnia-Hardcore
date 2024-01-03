@@ -36,10 +36,87 @@ Data Packs removed:
 - 
 
 Resource Packs updated:
-> 
+> Eclectic Trove
+> Sparkles (Previously "Incendium Optional Resourcepack")
+> Slightly Improved Font
 
 Mods updated: 
-> 
+> Adorn
+> AttributeFix
+> Balm
+> BCLib
+> Better Archeology
+> Better chunk loading
+> BetterEnd
+> Blockus
+> Bookshelf
+> Better Recipe Books
+> Chat Heads
+> Cherished Worlds
+> Chunk Sending
+> Clear Despawn
+> Clickable advancements
+> Cloth Config API
+> Collective
+> Compact Help Command
+> Crafting Manipulator
+> CraterLib
+> Cupboard
+> Eating Animation
+> Elytra Trims
+> Enchantment Descriptions
+> End Remastered
+> Entity Model Features
+> Entity Texture Features
+> Equipment Compare
+> Fabric API
+> Fabric Language Kotlin
+> Fabric Waystones
+> Farmer's Delight
+> Furnace Recycle
+> Guard Villagers
+> Harvest with ease
+> Hephaestus Fabric (Still disabled)
+> Iceberg
+> ImmediatelyFast
+> Incendium
+> Jade 🔍
+> Legendary Tooltips
+> LibZ
+> Login Protection
+> MCPitanLib
+> MmmMmmMmmMmm
+> Mo Glass
+> Mobs Attempt Parkour
+> ModernFix
+> Neruina - Ticking Entity Fixer
+> Nether Portal Spread
+> NetherPortalFix
+> Open Parties and Claims
+> OptiGUI
+> Patchouli
+> Puzzles Lib
+> Recall Staffs
+> Recipe Book Delight
+> Regions Unexplored
+> Roughly Enough Items
+> Philip's Ruins
+> Moonlight Lib
+> Simple Voice Chat
+> Skin Layers 3D
+> Sound Physics Remastered
+> Starter Kit
+> Starter Structure
+> Structory: Towers
+> Structure Essentials
+> TalkBubbles
+> TooManyOrigins
+> Towns and Towers
+> Variant Shields
+> Villagers Respawn
+> Xaero's Minimap (Fair-play Edition)
+> Xaero's World Map
+> YUNG's Better Ocean Monuments
 
 Config Changes: 
 = : [mod], [Server]

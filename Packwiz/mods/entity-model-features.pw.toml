@@ -1,13 +1,13 @@
 name = "[EMF] Entity Model Features [Fabric & Forge]"
-filename = "entity_model_features_fabric_1.20.1-1.1.0.jar"
+filename = "entity_model_features_fabric_1.20.1-1.2.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "50daede08fb8a9361cd75c6e1a753f56177dd753"
+hash = "53c00dda18dc28bafa7e05c7802c7d90403f6770"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4839965
+file-id = 4995906
 project-id = 844662

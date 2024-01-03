@@ -1,13 +1,13 @@
 name = "Crafting Manipulator"
-filename = "crafting-manipulator-4.0.0+1.20.jar"
+filename = "crafting-manipulator-4.1.0+1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5e2c13d1bf316afd8715fa1ab5bc0ef7bc391b3f"
+hash = "0d034e48e3ac8d5c88fdbe0a851e567f5f332408"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4593545
+file-id = 4936463
 project-id = 696192

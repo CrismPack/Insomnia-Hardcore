@@ -1,13 +1,13 @@
 name = "LibZ"
-filename = "libz-1.0.2.jar"
+filename = "libz-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7879302e9e64eb45f7ff8c29ac626d9e7ce30c83"
+hash = "bdd66120c88a66de9c1ec997404ad5121b3f2f7f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4715164
+file-id = 4873296
 project-id = 841617

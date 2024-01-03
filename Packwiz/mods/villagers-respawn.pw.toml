@@ -1,13 +1,13 @@
 name = "Villagers Respawn  (Now with FORGE and FABRIC versions)"
-filename = "fabric-villagersrespawn-1.18-5.jar"
+filename = "fabric-villagersrespawn-1.20-7.jar"
 side = "none"
 
 [download]
 hash-format = "sha1"
-hash = "8a6ee5d6b8360a42b14b152118c5c5b74bfb6610"
+hash = "426d96756befff831a126d699240f9144efd8901"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3751098
+file-id = 4988854
 project-id = 396041

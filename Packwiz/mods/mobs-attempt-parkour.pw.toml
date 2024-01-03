@@ -1,13 +1,13 @@
 name = "Mobs Attempt Parkour"
-filename = "mobs-attempt-parkour-0.5-1.20.jar"
+filename = "mobs-attempt-parkour-0.5.2-1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "41347b1a5044e46fb831fc5442eeebd5043532e8"
+hash = "5639ac66889c79ae8b558c93d9db8661e9611a09"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4573663
+file-id = 4974451
 project-id = 391812

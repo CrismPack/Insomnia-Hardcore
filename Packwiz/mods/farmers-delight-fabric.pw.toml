@@ -1,13 +1,13 @@
 name = "Farmer's Delight [Fabric]"
-filename = "farmers-delight-fabric-mc1.20.1-1.4.2.jar"
+filename = "farmers-delight-fabric-1.4.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2f9604b3f0328478598d8d35a298de206d764efc"
+hash = "758d7931e769dc4a78ff6642976cffbe75a522cb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4712795
+file-id = 4939709
 project-id = 482834
