@@ -1,0 +1,13 @@
+name = "Item Banning (Fabric)"
+filename = "itemblacklist-1.20-2.0.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "efa00a31f52d826f12df5d1845935572000a997e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4767568
+project-id = 808029

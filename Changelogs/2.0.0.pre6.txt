@@ -9,7 +9,7 @@ Update overview:
 
 Mods added:
 +  [Client] [MR]
-+ 
++ Item Banning [Server]
 
 Mods re-enabled:
 + 
@@ -27,7 +27,7 @@ Mods removed:
 - 
 
 Mods disabled: 
-- 
+- Continuity (Crashes with latest version of ModernFix)
 
 Resource Packs removed:
 - 

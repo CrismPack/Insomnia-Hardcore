@@ -22,7 +22,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8d75876008f915a94fc1e8b6e3238abb1342e944a16dbfd12b8ddabe3bb9a096"
+hash = "b7db968228954d152691de87a7f56069fa82fb13070b656ac17e7c7f7677b827"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -250,7 +250,7 @@ hash = "93533d9b030625f4af88b15b848cf14541bb985b61395c32ca52ac29dac6a2fa"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5af29e0ec778fc3a16584670c72152ec5b3c421c412bd7cea18fbbd9a15abbf0"
+hash = "706e4ca36d595320189772e80e757be55223cf681a7475dc58c1c2f84704e9f7"
 
 [[files]]
 file = "config/revive.json5"
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "7656223488484e966e067bd517eab3b135c181aa8d8419c6ee8d8d6e39b74a19"
+hash = "e0ee7761e35ac58ecbedbdca60f39388198b3f9f8b8dad7758041913d02e3928"
 metafile = true
 
 [[files]]
@@ -1055,6 +1055,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "6ca854d9208187a1e1284759ba540f087ec8db7badca60af98e3cde5be138b37"
+metafile = true
+
+[[files]]
+file = "mods/item-banning-fabric.pw.toml"
+hash = "f0b15f90b2b2c84435212f32c9bc7d353a2b017e9714c669eff18d97bf23855f"
 metafile = true
 
 [[files]]
@@ -1743,7 +1748,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "9f7fccf4f5e92268847cda800f15e6d6adf1acc317d5914350cce9f4ef4628d0"
+hash = "00b3837de5293ff8f05c2883947af7e49b1258f173609d7aef5be9541a82920d"
 metafile = true
 
 [[files]]
@@ -1762,11 +1767,6 @@ hash = "5c1f23ba9eed924b5cf0964c2ece5d4ae0e88f146f64929f44d8caff56044768"
 metafile = true
 
 [[files]]
-file = "resourcepacks/incendium-optional-resourcepack.pw.toml"
-hash = "39edc9ba97c1484359d27dc8e2100cf2003aec8b5a79e81637d72420d4a4c447"
-metafile = true
-
-[[files]]
 file = "resourcepacks/insomnia-compat.pw.toml"
 hash = "ba6f4ddd010b9421f0333743880d1a2817d0a704f39eb528b72c35c140b555ee"
 metafile = true
@@ -1778,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sparkles.pw.toml"
-hash = "fa8acbfa7fa536a2e0a037ce17b937c948dc0f5dc17d5d4e3905b4e2f148efe2"
+hash = "b1f2200d91409f510df326829c482827f879b45d18613382c06cecd78e7723bc"
 metafile = true
 
 [[files]]
@@ -1858,7 +1858,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "691bb728be4cd31025d57eede6db4ec4118609dc88e5f6033a2d8cb1118c5db9"
+hash = "b96182ed09b172c5f7e4440ee24ea793ec9c3c6d0764e7f00d34bafe41857f96"
 
 [[files]]
 file = "shaderpacks/README.txt"
