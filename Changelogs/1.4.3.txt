@@ -6,6 +6,8 @@ Update overview:
 
 Mods added:
 + Recipe Unlocker [Client]
++ Styled Nicknames [Server]
++ Melius Vanish [Server]
 
 Resource/Shader Packs added:
 + 

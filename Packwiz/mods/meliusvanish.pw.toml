@@ -1,0 +1,13 @@
+name = "Melius Vanish"
+filename = "vanish-1.1.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "796f8540b24d6d128c5b84142fe18085316c47c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3998678
+project-id = 676275

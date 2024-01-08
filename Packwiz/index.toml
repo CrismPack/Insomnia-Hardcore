@@ -1199,6 +1199,11 @@ hash = "160321d9f30d6f1efce1c229eab0bb06c222f4bd0906398e8928617eb81fb9f4"
 metafile = true
 
 [[files]]
+file = "mods/meliusvanish.pw.toml"
+hash = "a0d477f0414af9b9a49beadedf298d10a79d7aaf0f1db7872617ea7c3f123842"
+metafile = true
+
+[[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "91b468b41315c0f03a654da008a066dc9683f11e56bd2b84ea3b18539dfee15c"
 metafile = true
@@ -1546,6 +1551,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "0507780ca67148179d7bd2ed910dc0190f6d9b057dab62374e4f5908e13165c8"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "d23e4bd44a84ace7111c76e74b3f950bac7804e51d4131de812e0be7991a2fe0"
 metafile = true
 
 [[files]]
