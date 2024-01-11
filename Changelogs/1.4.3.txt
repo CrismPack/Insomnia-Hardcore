@@ -8,12 +8,14 @@ Mods added:
 + Recipe Unlocker [Client]
 + Styled Nicknames [Server]
 + Melius Vanish [Server]
++ Extra Origins
++ Pehkui
 
 Resource/Shader Packs added:
 + 
 
 Data Packs added:
-+ 
++ Extra Origins - Disable Piglin [Server]
 
 Metadata Changes:
 =  [MR --> CF]
@@ -31,7 +33,7 @@ Data Packs removed:
 - 
 
 Mods updated: 
-> 
+> Fabric API
 
 Config Changes:
 = Disabled "AutomaticRecipeUnlock" due to causing immense lag spikes: [Charm], [Server]
