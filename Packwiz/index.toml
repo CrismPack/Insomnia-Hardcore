@@ -22,7 +22,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "437c3e6744ffe1b1f47837fa8f631eb43c2c04e61b18a70fb2a39f81ae51b39e"
+hash = "539786b750475766656f8b90fb6855608b228a680f625aad31118cf4d30936c2"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -999,6 +999,11 @@ hash = "432ac37a83f894d02d8fb12e03c8a54420377cb9511c8f7a52dab732ad6c7aa6"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "5a63e2c7e8ba8b45352751e3f4c5e90b8738faabeb9e41555ae6b0aede866c7a"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "953380b86d184c2392c5ea1b8c3d7dbf272596fc672f552bd8dc6a3bdcf27451"
 metafile = true
@@ -1205,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/meliusvanish.pw.toml"
-hash = "a0d477f0414af9b9a49beadedf298d10a79d7aaf0f1db7872617ea7c3f123842"
+hash = "17d7eaf9e0633170bb01cf8426bebd71f663927071fea92c2a1594d2e60e9c72"
 metafile = true
 
 [[files]]
@@ -1425,7 +1430,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-unlocker.pw.toml"
-hash = "51331a03acbca802959f4eca9d65158c19a25850349c3f1e78959027439a7bf2"
+hash = "67b350e501bc855b0718f50fb5e46f2640ba37aa6c2d1847573a416b761e45e0"
 metafile = true
 
 [[files]]
@@ -1461,6 +1466,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-trades.pw.toml"
 hash = "1fe0a94aa7ec650fd7792c80730944b99cf54befbfeac8b091cad8ee33f8f12d"
+metafile = true
+
+[[files]]
+file = "mods/ruins.pw.toml"
+hash = "3ef0ff668765e7237ad2d2fb5f8468571e1babd5a02f5a9871e1bb7a4d63e265"
 metafile = true
 
 [[files]]
@@ -1565,7 +1575,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "d23e4bd44a84ace7111c76e74b3f950bac7804e51d4131de812e0be7991a2fe0"
+hash = "0611e41a41ae7904f4aae6a1226684ff00562cf87dcf69362beb7f5b4d5c3798"
 metafile = true
 
 [[files]]
@@ -1654,6 +1664,11 @@ hash = "c6c4844ed55ff5f542625b587dd75cb7cf4df45c1b63d17b40db3051c3617ff1"
 metafile = true
 
 [[files]]
+file = "mods/unstructured.pw.toml"
+hash = "6ae26807b907ef9161131b890b8c3896c330aeba1b1df94d1314eac44b11d604"
+metafile = true
+
+[[files]]
 file = "mods/village-nullifier-mod.pw.toml"
 hash = "cb19304955af25b0de258212bd8292a5ac508d6241d3d92f528f48818569a551"
 metafile = true
@@ -1661,11 +1676,6 @@ metafile = true
 [[files]]
 file = "mods/villagers-respawn.pw.toml"
 hash = "b17ac5e0c6b103f9178efa2c0eba0f18429a99b26cc904a05d6d6f08c94b6e86"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "e24660af95fee40d65befac891a57e3dda37e064d41b10a82d32ed2d689eb0c4"
 metafile = true
 
 [[files]]
@@ -1873,7 +1883,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "906eba7069b06e719efc9b176bf7e23db8b68c267d5fcc5aa150e56fdef3c274"
+hash = "414cec941702ca15186889551cbdbc7398b9af53c565fcefaf1f8dfd7ccc80a7"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"
