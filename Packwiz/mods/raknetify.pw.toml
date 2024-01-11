@@ -1,13 +1,13 @@
 name = "Raknetify (Fabric)"
-filename = "raknetify-fabric-0.1.0+alpha.5.109-all.jar"
+filename = "raknetify-fabric-0.1.0+alpha.5.114-all.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "885e86a95b783ed83b6d3eef388bd56bd9391975"
+hash = "e3a572829c645dedcd23382a874aa39750bec063"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4797713
+file-id = 4943189
 project-id = 631457

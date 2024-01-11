@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "524093ce697993fd7da9246c2101f3f182f4be829987dd1fd8c8fa79c2089a06"
+hash = "77a0413c95775702879b7d4a7fd7a685188e0e0c158d4a799f2d224bc2be9876"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "2ca5be7539f99d31dd2040a34e7fc47e1f92f3aeeb015ccd24cd85dfb33f5b4a"
+hash = "ab676205abfc9ab9fba0cb78a16140eccfbebf3d6fd03dd28037969ff97e4b7a"
 metafile = true
 
 [[files]]
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c72e9466feda529b2b82dcab1cc3b4b659e6332bdbd576dd067564ac70090f6e"
+hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
 metafile = true
 
 [[files]]
@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-shield-lib.pw.toml"
-hash = "7e96ece4cab9ab39f52a4aa370996106b91657fdec79a897cb32678a41d15282"
+hash = "dcafdeab1f2954a7f6f10a6098a2607f24223bd96f568fa9152ed02da9a44ab4"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "5aa0d7986593f85e52e31b2dacba913f0c27c95dc10926e9ebb9d7b347f3f612"
+hash = "21978e3ee136d58b2d1a184bdd052eb1c40078078de423521dbfa5f90f44a35e"
 metafile = true
 
 [[files]]
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "4a9da1002be80acd60fe231b464eee49f7587d21e13846f9f8b79a9820e0e64f"
+hash = "f006a99cc113df74fff394e841adb5d552ac078f7fb01cd247f881a577c1cf16"
 metafile = true
 
 [[files]]
@@ -1220,7 +1220,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "22124918de2f44c9a67bd98feba72c5f4353bda6d1130ad169ecfc47ca1d3f7c"
+hash = "55088963766bece69fa02e27cdb9551f55f76144e69f131f722dad55c40d0fb5"
 metafile = true
 
 [[files]]
@@ -1295,7 +1295,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "ee4bf32c1c64c5a6575412e2511a5add447b2797cbce1a094434e324dd1af02a"
+hash = "17e8ed3dbc72e1c5f4d2cc0b320bfbf55638f29afe940b9011381087a3507cc6"
 metafile = true
 
 [[files]]
@@ -1315,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "83e84b53985e3217dcc23e74f2e0f432279e4d7101bece8c5bf17e0e071855b0"
+hash = "038fb15f99ae151e3e34a0306f01f87ac5b8d315f30d3e222d25308c33be1e8d"
 metafile = true
 
 [[files]]
@@ -1325,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "eb32c1a0a81cb618309f5d94327447b651144c38af75f6555fff89aa6b277be7"
+hash = "dc0409da46decbccdc8e12c9e517d898d22e325f868d8641f619d3d709fde023"
 metafile = true
 
 [[files]]
@@ -1415,7 +1415,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "f51f5d056c21d272077d38f4c5f23d99b7daa435fd8c66727336224a7bb38adb"
+hash = "423f2a4bfbc388b211d5d60f98083d5a4e0b594eef007de1f662a3d6eac4a401"
 metafile = true
 
 [[files]]
@@ -1450,12 +1450,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "25cce12c2344584a9c655646a7a072d6ea8f9e4d621923932e26a3aca78f8769"
+hash = "c3d4aa250800d46178b53d99cba24302c363b7569a4dc94ae6429fcbd4303c66"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "de16d3341f331f4ae6f0d228713644bfb8f5a77af218aa6ac9c37ae00c05eeb9"
+hash = "8c0488e4258f43263794f8b09a4c3361622e319ca250b2b1926e3c953eec858c"
 metafile = true
 
 [[files]]
@@ -1495,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a8acce5644e0eb30315152dcb7ee64c1ab18e71ff6462b14b9e0999a806c223d"
+hash = "2ccb5d8b36aae83116c8daab87a5c4ecff710fcf751e0261c79d2ad2aeb4fe16"
 metafile = true
 
 [[files]]
@@ -1510,7 +1510,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "13a460c6d252dc69cdae6d47da27124afa8565e8a708558734ca440e5c5657db"
+hash = "13a1d2a134058a1730fceef029691dca56478411032b765541da9822ab5b59fd"
 metafile = true
 
 [[files]]
@@ -1590,7 +1590,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "2d7fae264a11ebbdc8a3809581aa6d3b58013098a7cf73fc84aec1890ec46116"
+hash = "efbf122082be256263193f518a809a6429d6c438f6a46c06e65935e5631dec25"
 metafile = true
 
 [[files]]
@@ -1700,12 +1700,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "928e5271addfb4a9d95f4ec75d1afe6db590a33205e7d1e90b4721e5d0b09208"
+hash = "92d0dc2cde4a17b87a9cad5ad4c0f46d00775f7015b7fe5756c2e3107f00fdd3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7cb7709b66cd21e4a29b728a1932bb9b2d69ce626dfdf2a5074fdfe831a2412c"
+hash = "8b55d19c6b03d8a9e2a7a19d325fd2c694e9c15c805a20bc2da937ed416003c0"
 metafile = true
 
 [[files]]
@@ -1814,7 +1814,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
-hash = "3c150011a956ccde3d6a26fd4b5f0b1fd09a1f0b8b9123ded097506174c06ca5"
+hash = "117d627490665e956f84207902d02865d3ca05b7efe0dc0ec15418fc9bf3eb5c"
 metafile = true
 
 [[files]]

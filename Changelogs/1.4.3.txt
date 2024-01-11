@@ -3,6 +3,7 @@ v1.4.3
 Fabric version: Fabric-0.15.3
 Update overview: 
 ~ Added 'Extra Origins' (This is the mod with the Inchling origin).
+~ Added additional structure mods to make exploring more exciting.
 ~ Fixed lag spike when a player joins for the first time. [Server]
 
 Mods added:
@@ -11,6 +12,9 @@ Mods added:
 + Melius Vanish [Server]
 + Extra Origins
 + Pehkui
++ Hopo Better Underwater Ruins
++ Philip's Ruins
++ Unstructured
 
 Resource/Shader Packs added:
 + 
@@ -28,13 +32,36 @@ Resource Packs removed:
 - 
 
 Mods disabled: 
-- 
+- Mobs Attempt Parkour
+- Memory Leak Fix
 
 Data Packs removed:
 - 
 
 Mods updated: 
 > Fabric API
+> Cloth Config API
+> Enchantment Descriptions
+> Fabric Language Kotlin
+> Fabric Shield Lib
+> Harvest with ease
+> Memory Leak Fix
+> ModernFix
+> Neruina - Ticking Entity Fixer
+> Not Enough Animations
+> Open Parties and Claims
+> Raknetify
+> Roughly Enough Items
+> Roughly Enough Professions
+> Simple Voice Chat
+> Skin Layers 3D
+> Terralith
+> Xaero's Minimap Fair-play Edition
+> Xaero's World Map
+
+Resource Packs updated:
+> Slightly Improved Font (32x)
+
 
 Config Changes:
 = Disabled "AutomaticRecipeUnlock" due to causing immense lag spikes: [Charm], [Server]

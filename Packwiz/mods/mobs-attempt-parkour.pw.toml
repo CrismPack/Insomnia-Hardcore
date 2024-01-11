@@ -1,6 +1,6 @@
 name = "Mobs Attempt Parkour"
 filename = "mobs-attempt-parkour-0.2.5-1.18.2.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
