@@ -1,0 +1,13 @@
+name = "Fabric Emotes"
+filename = "fabricemotes-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "dcf44255d96b542e16d7cdb1a683fc8bb5f43646"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3728563
+project-id = 571502

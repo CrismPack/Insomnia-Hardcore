@@ -764,6 +764,11 @@ hash = "83018bfaec9493e66af18393f6d7452ac08563ae37d510cfcef17e1fde6d2553"
 metafile = true
 
 [[files]]
+file = "mods/dimthread.pw.toml"
+hash = "edf4d6024ba380cc5e3d308da2077a22288b03e9ac465000d604fa5df0241911"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "1687a184e03cea8a82d2e3f48a7e8293889e97907afaf61b5aed4fa4db543149"
 metafile = true
@@ -865,12 +870,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5891b0abfeb425c52088869d62543d9f4630eda5b6b7d95bad761fa60a934e1e"
+hash = "62176b6e62761a14b2d68910146076da234959b719090a5197509ff02b6137ce"
 metafile = true
 
 [[files]]
 file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
 hash = "b2206b1628fa5120fad37eb1ca0918f9c56c39082eb0faa276853cb15c945718"
+metafile = true
+
+[[files]]
+file = "mods/fabric-emotes.pw.toml"
+hash = "74cbe188a3ade0df9f0a1be047241d667ec654d7759a9038a3d31bd5502727ce"
 metafile = true
 
 [[files]]
@@ -1476,6 +1486,11 @@ metafile = true
 [[files]]
 file = "mods/saplanting.pw.toml"
 hash = "a93e9fe0c34ead8eee49a7f274acf706d59ae157199c3a1b3e3160e31a290f2c"
+metafile = true
+
+[[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "c132aa7aafeab8f603df0fc5505dd2f2cfce7a49f5d4768582323ee13f733814"
 metafile = true
 
 [[files]]

@@ -4,6 +4,8 @@ Fabric version: Fabric-0.15.3
 Update overview: 
 ~ Added 'Extra Origins' (This is the mod with the Inchling origin).
 ~ Added additional structure mods to make exploring more exciting.
+~ The Ender Dragon now scales in difficulty to the amount of players fighting it.
+~ Support for the use of Discord style emotes in the chat. [Client]
 ~ Fixed lag spike when a player joins for the first time. [Server]
 
 Mods added:
@@ -15,6 +17,9 @@ Mods added:
 + Hopo Better Underwater Ruins
 + Philip's Ruins
 + Unstructured
++ Savage Ender Dragon
++ Dimensional Threading [Server]
++ Fabric Emotes [Client]
 
 Resource/Shader Packs added:
 + 
