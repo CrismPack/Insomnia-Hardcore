@@ -27,6 +27,7 @@ Mods added:
 + Respawning Animals
 + Suggestion Tweaker
 + ClickThrough [Client]
++ Bad Wither No Cookie - Reloaded
 
 Resource/Shader Packs added:
 + 

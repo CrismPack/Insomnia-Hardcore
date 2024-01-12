@@ -459,6 +459,11 @@ hash = "771438550251fd24928f968adf6bc58257f3323cefdddd0ace5afdc796e2378d"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie-reloaded-fabric.pw.toml"
+hash = "26b0d5e7fc32c1a99eed55f7afe8bd221386b04a112d986ce18bb1f33f8e9794"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "249447b59ab2f738d4554ec853681741e340a9567ead02f3b83232a6c3104196"
 metafile = true
