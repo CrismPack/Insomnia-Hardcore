@@ -5,8 +5,10 @@ Update overview:
 ~ Added 'Extra Origins' (This is the mod with the Inchling origin).
 ~ Added additional structure mods to make exploring more exciting.
 ~ The Ender Dragon now scales in difficulty to the amount of players fighting it.
-~ Support for the use of Discord style emotes in the chat. [Client]
+~ Support for the use of Discord style emotes in the chat.
 ~ Fixed lag spike when a player joins for the first time. [Server]
+~ Animals can now respawn, making the world feel more populated.
+~ Added a few quality of life mods.
 ~ Generally improved server performance due to each dimension now being handled on seperate CPU threads. [Server]
 
 Mods added:
@@ -21,6 +23,9 @@ Mods added:
 + Savage Ender Dragon
 + Dimensional Threading [Server] [MR]
 + Fabric Emotes [Client]
++ Respawning Animals
++ Suggestion Tweaker
++ ClickThrough [Client]
 
 Resource/Shader Packs added:
 + 

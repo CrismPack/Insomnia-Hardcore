@@ -629,6 +629,11 @@ hash = "6db33511ac2be69071f161fda70323c6b48ead8ab6935d4334fd2bff29aae9e3"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "d08bf8dc9e7f91f9dd522c2ee3929c43f8005e922761dc4a8b88680e098a4abc"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
 hash = "dc1e6e480a546e471071cf1acfb0e239caa9a3b5ed58336657dfca8692602769"
 metafile = true
@@ -1454,6 +1459,11 @@ hash = "0cc064b4922e95200a903de606d70fc4a7aef6d4b8a566babc3ca92f6fb3b875"
 metafile = true
 
 [[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "ae291c829dca8a0a58ae3a7ee788272278b033d7dab99b145ac53b095f888f22"
+metafile = true
+
+[[files]]
 file = "mods/revive.pw.toml"
 hash = "c54b7e0735a0c5b69f427289ac00276595c2d057c3c4f4933038cb4dcdcd7829"
 metafile = true
@@ -1591,6 +1601,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "0611e41a41ae7904f4aae6a1226684ff00562cf87dcf69362beb7f5b4d5c3798"
+metafile = true
+
+[[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "af2d4d2d1f979d9583a8f3bb88e521bfdb72545b120083671526912a076268c6"
 metafile = true
 
 [[files]]
