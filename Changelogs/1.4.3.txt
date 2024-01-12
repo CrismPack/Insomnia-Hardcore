@@ -7,6 +7,7 @@ Update overview:
 ~ The Ender Dragon now scales in difficulty to the amount of players fighting it.
 ~ Support for the use of Discord style emotes in the chat. [Client]
 ~ Fixed lag spike when a player joins for the first time. [Server]
+~ Generally improved server performance due to each dimension now being handled on seperate CPU threads. [Server]
 
 Mods added:
 + Recipe Unlocker [Client]
@@ -18,7 +19,7 @@ Mods added:
 + Philip's Ruins
 + Unstructured
 + Savage Ender Dragon
-+ Dimensional Threading [Server]
++ Dimensional Threading [Server] [MR]
 + Fabric Emotes [Client]
 
 Resource/Shader Packs added:
