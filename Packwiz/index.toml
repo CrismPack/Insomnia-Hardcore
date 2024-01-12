@@ -1839,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/insomnia-compat.pw.toml"
-hash = "ba6f4ddd010b9421f0333743880d1a2817d0a704f39eb528b72c35c140b555ee"
+hash = "c9dd2c42b540aa851b430a834f2d7c508650115cd4eb0b3f4b11c9abc08fe970"
 metafile = true
 
 [[files]]

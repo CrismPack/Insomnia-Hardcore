@@ -9,6 +9,7 @@ Update overview:
 ~ Fixed lag spike when a player joins for the first time. [Server]
 ~ Animals can now respawn, making the world feel more populated.
 ~ Added a few quality of life mods.
+~ Meef Stroganoff from 'The Twilight Forest' can now be eaten by all origins.
 ~ Generally improved server performance due to each dimension now being handled on seperate CPU threads. [Server]
 
 Mods added:
@@ -73,6 +74,8 @@ Mods updated:
 Resource Packs updated:
 > Slightly Improved Font (32x)
 
+Data Packs updated:
+> Insomnia Compat
 
 Config Changes:
 = Disabled "AutomaticRecipeUnlock" due to causing immense lag spikes: [Charm], [Server]
