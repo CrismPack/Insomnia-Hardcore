@@ -504,6 +504,11 @@ hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
 metafile = true
 
 [[files]]
+file = "mods/better-end-cities-better-end.pw.toml"
+hash = "093a7f01cc8a79eeed34cc6ffb382eda7a50f926cbfd1dbd32080b06c3b752d2"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "387becb010cb4a9b2142ef00ad076475d22e29104f37f13db7ab28b0c86ce3e2"
 metafile = true
@@ -554,6 +559,11 @@ hash = "b5243051016ee9b33e501fd3520c50bd2ad1fba93158b2adf42318c2f062c421"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "020192310dfa34dc08e22414acc67ff37a2516a90e125172de42185b36e7ebcc"
+metafile = true
+
+[[files]]
 file = "mods/bow-infinity-fix.pw.toml"
 hash = "648585f694ff4b0d58e6eb7cdd957bfcec2f8d192d2981d81fdcbc531ab767bb"
 metafile = true
@@ -581,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/capetweaks.pw.toml"
 hash = "33179ae5d1daf10445cedb21f58a9ee58fd313d6a75c0afa05baf1d97c0ba02d"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "52c2d8f0da427a06762a9894be84738c5f83a3adc894668688db1815c9055cff"
 metafile = true
 
 [[files]]
@@ -635,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "d08bf8dc9e7f91f9dd522c2ee3929c43f8005e922761dc4a8b88680e098a4abc"
+hash = "279174f3d924ed7ebdc373c228b2e83b81ebc58886a2e4c7c69773bd8f8b9fda"
 metafile = true
 
 [[files]]
@@ -994,6 +1009,11 @@ hash = "df433ba58f49502b0a0ab117e49783c5ca4b96a7956a6ac5ba45b2fda722a81f"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "623014e55885a6f3e61e54d1acdda801145019de02954c7254eca827be787688"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders-fabric.pw.toml"
 hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
 metafile = true
@@ -1016,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "432ac37a83f894d02d8fb12e03c8a54420377cb9511c8f7a52dab732ad6c7aa6"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "249f9e9ebcfa7eb17a8808562c0f87dbe5e6ef566e5813a0a167b118f78de31d"
 metafile = true
 
 [[files]]
@@ -1369,6 +1394,11 @@ hash = "cae5d28698dcd7d6f5ae457d3bbcec37c01fe6983d9ba1d9342eebaabd949056"
 metafile = true
 
 [[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "f58b9ffe5e8c3db1d6455369bb366471a293ce718eecbd3545fa3359a29cd092"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
@@ -1681,6 +1711,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "074c91c25dce6cfdd0d8fbde8dfe3f9bdf2457d052c680654817b31b79b201cd"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "9698442746df721ccd81c09cae0b48e1c774eb2c35fb2acd306c196b000edfab"
 metafile = true
 
 [[files]]
