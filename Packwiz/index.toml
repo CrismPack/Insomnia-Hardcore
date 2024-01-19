@@ -1044,11 +1044,6 @@ hash = "249f9e9ebcfa7eb17a8808562c0f87dbe5e6ef566e5813a0a167b118f78de31d"
 metafile = true
 
 [[files]]
-file = "mods/hopo-better-underwater-ruins.pw.toml"
-hash = "5a63e2c7e8ba8b45352751e3f4c5e90b8738faabeb9e41555ae6b0aede866c7a"
-metafile = true
-
-[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "953380b86d184c2392c5ea1b8c3d7dbf272596fc672f552bd8dc6a3bdcf27451"
 metafile = true
@@ -1314,11 +1309,6 @@ hash = "8b50a874da4c46da43710fc01f0a2dc53f421dd2188ae7839c8b34e69225e0a4"
 metafile = true
 
 [[files]]
-file = "mods/more-banner-features.pw.toml"
-hash = "da94d3d549a2c7dcf515c1429cbb52f9c8fa9a46a14453f66f585c11e6e96255"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "a8df0d2fa4ab13a1a4d7dc0f54af86a74c74efbed52acdf6fd6dcc1d5d72d48a"
 metafile = true
@@ -1394,11 +1384,6 @@ hash = "cae5d28698dcd7d6f5ae457d3bbcec37c01fe6983d9ba1d9342eebaabd949056"
 metafile = true
 
 [[files]]
-file = "mods/paradise-lost.pw.toml"
-hash = "f58b9ffe5e8c3db1d6455369bb366471a293ce718eecbd3545fa3359a29cd092"
-metafile = true
-
-[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
@@ -1456,6 +1441,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "aa93c2745a2e1bfabd5508c0a3b10c93fcaacbcf0b3f9c001e45191bc9884ace"
+metafile = true
+
+[[files]]
+file = "mods/quick-shulker.pw.toml"
+hash = "01a379a8e8ad556d53b8689e93b454557e772d5ce1baf646318bc6daab45972a"
 metafile = true
 
 [[files]]
@@ -1524,11 +1514,6 @@ hash = "1fe0a94aa7ec650fd7792c80730944b99cf54befbfeac8b091cad8ee33f8f12d"
 metafile = true
 
 [[files]]
-file = "mods/ruins.pw.toml"
-hash = "3ef0ff668765e7237ad2d2fb5f8468571e1babd5a02f5a9871e1bb7a4d63e265"
-metafile = true
-
-[[files]]
 file = "mods/saplanting.pw.toml"
 hash = "a93e9fe0c34ead8eee49a7f274acf706d59ae157199c3a1b3e3160e31a290f2c"
 metafile = true
@@ -1551,6 +1536,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "27e689d5a3480a9fbb031e58f20104b6ada084bb275b25805415a4f96d9b29f1"
+metafile = true
+
+[[files]]
+file = "mods/simple-shulker-preview.pw.toml"
+hash = "c6639238d44dff294fdef74d9068a2d9e4dbef5d91319c661c6a697b49d28379"
 metafile = true
 
 [[files]]

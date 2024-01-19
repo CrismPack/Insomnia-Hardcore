@@ -2,18 +2,17 @@ v1.4.3
 
 Fabric version: Fabric-0.15.3
 Update overview: 
-~ Added 'Extra Origins' (This is the mod with the Inchling origin).
-~ Added The Aether dimension.
-~ New bosses.
-~ Added additional structure mods to make exploring more exciting.
+~ New Origins from 'Extra Origins' (This is the mod with the Inchling origin).
+~ New rare bosses to battle in Overworld, Nether and The End.
+~ Additional structure mods to make exploring more exciting.
 ~ The Ender Dragon now scales in difficulty to the amount of players fighting it.
 ~ Support for the use of Discord style emotes in the chat.
 ~ Fixed lag spike when a player joins for the first time. [Server]
 ~ Animals can now respawn, making the world feel more populated.
-~ End Cities now generate in the style of 'Better End'.
-~ Added a few mods to improve quality of life.
+~ End cities now generate in the style of 'Better End'.
 ~ Meef Stroganoff from 'The Twilight Forest' can now be eaten by all origins.
-~ Generally improved server performance due to each dimension now being handled on seperate CPU threads. [Server]
+~ Several quality of life improvements.
+~ Generally improved server performance due to each dimension now being handled on separate CPU threads. [Server]
 
 Mods added:
 + Recipe Unlocker [Client]
@@ -29,13 +28,14 @@ Mods added:
 + Suggestion Tweaker
 + ClickThrough [Client]
 + Bad Wither No Cookie - Reloaded
-+ Paradise Lost
 + Hopo Better Ruined Portals
 + Trade Cycling
 + Bosses of Mass Destruction
 + Cardinal Components API
 + GeckoLib
 + Better End Cities Better End
++ Simple Shulker Preview
++ Quick Shulker
 
 
 Resource/Shader Packs added:
@@ -48,7 +48,7 @@ Metadata Changes:
 =  [MR --> CF]
 
 Mods removed: 
-- 
+- More Banner Features
 
 Resource Packs removed:
 - 

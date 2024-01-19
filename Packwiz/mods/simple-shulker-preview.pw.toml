@@ -1,0 +1,13 @@
+name = "Simple Shulker Preview"
+filename = "simpleshulkerpreview-1.18.x-v2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c349a9157d22d1f77af1bc7f11da6eeaf21425a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3999302
+project-id = 649179
