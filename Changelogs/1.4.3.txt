@@ -3,7 +3,7 @@ v1.4.3
 Fabric version: Fabric-0.15.3
 Update overview: 
 ~ New Origins from 'Extra Origins'. (This is the mod with the Inchling origin)
-~ New rare bosses to battle in Overworld, Nether and The End.
+~ New rare bosses to battle in Overworld, The Nether and The End.
 ~ Additional structure mods to make exploring more exciting.
 ~ The Ender Dragon now scales in difficulty to the amount of players fighting it.
 ~ Support for the use of Discord style emotes in the chat.
@@ -89,4 +89,7 @@ Data Packs updated:
 
 Config Changes:
 = Disabled "AutomaticRecipeUnlock" due to causing immense lag spikes: [Charm], [Server]
+= Increased "max_distance" from 5000 to 7500: [RandomTP], [Server]
+= Increased "maxPlayerClaims" from 50 to 100: [Open Parties and Claims], [Server]
+= Added some items to "itemUseProtectionExceptionList" ("minecraft:potion", "waystones:pocket_wormhole", "waystones:local_void", "waystones:abyss_watcher", "waystones:waystone_scroll"): [Open Parties and Claims], [Server]
 = : [mod], [side]

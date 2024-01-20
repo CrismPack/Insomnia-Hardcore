@@ -8,7 +8,7 @@ distance:
   # 0 = world border size
   # Default: auto
   # Range: > 0
-  max_distance: 5000
+  max_distance: 7500
   # Minimum distance you want you to be teleported.
   # Default: 1
   # Range: > 0
