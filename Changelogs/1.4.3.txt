@@ -12,7 +12,7 @@ Update overview:
 ~ End cities now generate in the style of 'Better End'.
 ~ Meef Stroganoff from 'The Twilight Forest' can now be eaten by all origins.
 ~ Half of the 'Bone Broth' food items have been replaced with 'Mixed Salad' to make it more fair towards vegetarian origins.
-~ Added a killstreak/rage meter.
+~ Added a killstreak/rage meter that makes you deal increased damage the more mobs you kill in short succession.
 ~ Changed character leveling costs to follow a linear formula instead of exponential.
 ~ And more!
 
