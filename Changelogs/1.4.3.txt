@@ -1,6 +1,6 @@
 v1.4.3
 
-Fabric version: Fabric-0.15.3
+Fabric version: Fabric-0.15.6
 Update overview: 
 ~ New Origins from 'Extra Origins'. (This is the mod with the Inchling origin)
 ~ New rare bosses to battle in Overworld, The Nether and The End.
@@ -14,8 +14,7 @@ Update overview:
 ~ Half of the 'Bone Broth' food items have been replaced with 'Mixed Salad' to make it more fair towards vegetarian origins.
 ~ Added a killstreak/rage meter.
 ~ Changed character leveling costs to follow a linear formula instead of exponential.
-~ Several quality of life improvements.
-~ Generally improved server performance due to each dimension now being handled on separate CPU threads. [Server]
+~ And more!
 
 Mods added:
 + Recipe Unlocker [Client]
@@ -25,7 +24,6 @@ Mods added:
 + Pehkui
 + Unstructured
 + Savage Ender Dragon
-+ Dimensional Threading [Server] [MR]
 + Fabric Emotes [Client]
 + Respawning Animals
 + Suggestion Tweaker
@@ -36,18 +34,18 @@ Mods added:
 + Bosses of Mass Destruction
 + Cardinal Components API
 + GeckoLib
-+ Better End Cities Better End
++ Better End Cities Better End [Client]
 + Simple Shulker Preview
 + Quick Shulker
 + Warrior Rage
 + DeathQuotes / Death Quotes [Server]
-
 
 Resource Packs added:
 + Fresh Friends
 
 Data Packs added:
 + Extra Origins - Disable Piglin [Server]
++ Better End Cities Better End [Server]
 
 Metadata Changes:
 =  [MR --> CF]

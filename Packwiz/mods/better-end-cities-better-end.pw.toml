@@ -1,6 +1,6 @@
 name = "Better End Cities Better End"
 filename = "betterendcitiesbetterend-1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,5 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5016412
 project-id = 959460
+
+# Note that this mod is marked as client side due to using its equevelant datapack on the server. This is because of a compatibility issue with Fabric-0.14.25!
