@@ -94,11 +94,15 @@ hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "3212383a61952653be19b5deac1569ea41ccfd1871bb27258615d0413b20880c"
+hash = "9521ce116b2c535a73230fd4e5768084000eb0aebfbd6a49f7b2469646c3367c"
+
+[[files]]
+file = "config/fancymenu/customization/Hardcore Death Screen Singleplayer.txt"
+hash = "2cfb9cb42f6d58c51edca99e170a9948b289b1875252b148e7cd07c787c64927"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
-hash = "608d2b1cae82a6b57a6cfc821d7d0cc0b1b735b66e51b49302e6da2d9de9a4f7"
+hash = "5a43a197e277c4f63c29d5579787a0acb612199d34f3b154087a9a30db83562a"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
@@ -111,6 +115,10 @@ hash = "e94ebc777a8cf37fe01c91109c6477e3cac5c190414a186e4bb159a522c0d935"
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
 hash = "65ba6886ecf23ec324a59c1f3e86460cf970a32790b916fc853ad85b578db2fc"
+
+[[files]]
+file = "config/fancymenu/customization/resourcepacks.txt"
+hash = "bfb9c8e85183b8c8fbf73accd560981ac9f05805e4ce43e22b95f22255a7b152"
 
 [[files]]
 file = "config/fancymenu/customization/shadermenu.txt"
@@ -230,7 +238,7 @@ hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
 
 [[files]]
 file = "config/playerex.json"
-hash = "e59a92c8e753a09dc76a0de52881aa8f6741a7657341329eb162d6e2e5386e33"
+hash = "8007ed19219a4f405383da12670deeff9c78238bdaa81cba8b0e67200e180fc6"
 
 [[files]]
 file = "config/power_config.json5"
@@ -238,7 +246,7 @@ hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d7f925e5d7aa48b966fcd65d1c9c902fa3c6721b0bfe3237d02399ef19299b6d"
+hash = "14397c22cd77f3d9e1307b99abe565622899898f66e82deaa55d25fd5439c6db"
 
 [[files]]
 file = "config/revive.json5"
@@ -270,7 +278,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "8210d4ee26dd22644511e3e98fcdc5872ed45460cd1fe075e13ae0735e424ad6"
+hash = "a1113af3cba599945125efd5b96ee7fcbea3bc054064b53ef10d0a4560ed3aec"
 
 [[files]]
 file = "config/starterstructure.json5"
@@ -297,8 +305,12 @@ file = "config/travelerstitles-fabric-1_18.toml"
 hash = "2111bc7654f13624cd92cc97d3bcfdc6b8f89ba233d3743ec74cb3c97099e05b"
 
 [[files]]
+file = "config/warriorrage.json5"
+hash = "92c469ec93fb880a8a7e35ab4c84f4b938c636834b1beeeef06f85abec1c55e8"
+
+[[files]]
 file = "config/waystones/config.json"
-hash = "4074559c52ecfd21a0e392138678a8c11fa6fe2ae4c295ce99ad6d2ec5022776"
+hash = "1b2ad8a9c16274a09fb306b827d5720a13b0628a6474c5b03eb70f7eb7e2a811"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -760,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/deathquotes-death-quotes.pw.toml"
-hash = "3fa18caba7bf79b676313f38c624d1dc685d6862c4e1664e33df262634d6f2d8"
+hash = "abd314a5fbfcb0fb3b7d7f9fd95d8b43c4c5d98670dcf43ea3916dbb6230d3d7"
 metafile = true
 
 [[files]]
@@ -1821,11 +1833,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts-fabric.pw.toml"
 hash = "8bcd6a559fe83e7639a8d0b716043be1dad66f3bdc7994602c94fb840c304b31"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges-fabric.pw.toml"
-hash = "f5e31a96c4fa606b9be31feb224160b35ee7fdfe425aaba792a6a108d706b985"
 metafile = true
 
 [[files]]

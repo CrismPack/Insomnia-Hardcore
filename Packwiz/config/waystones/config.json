@@ -3,7 +3,7 @@
     "generate_in_villages": true,
     "min_per_village": 1,
     "max_per_village": 1,
-    "village_waystone_weight": 100
+    "village_waystone_weight": 2
   },
   "teleportation_cost": {
     "cost_type": "level",
@@ -24,7 +24,7 @@
   "prevent_non_owners_from_breaking_waystone": false,
   "can_players_toggle_global_mode": false,
   "teleportation_cooldown": {
-    "cooldown_ticks_when_hurt": 0,
+    "cooldown_ticks_when_hurt": 200,
     "cooldown_ticks_from_abyss_watcher": 0,
     "cooldown_ticks_from_pocket_wormhole": 0,
     "cooldown_ticks_from_local_void": 0,
@@ -32,10 +32,30 @@
     "cooldown_ticks_from_waystone": 0
   },
   "add_waystone_structure_piece": {
-    "minecraft:village/plains/houses": "village_waystone",
-    "minecraft:village/savanna/houses": "village_waystone",
     "minecraft:village/desert/houses": "desert_village_waystone",
+    "minecraft:village/savanna/houses": "village_waystone",
+    "minecraft:village/plains/houses": "village_waystone",
+    "minecraft:village/taiga/houses": "village_waystone",
     "minecraft:village/snowy/houses": "village_waystone",
-    "minecraft:village/taiga/houses": "village_waystone"
+
+    "kaisyn:village/badlands_pueblo/houses": "village_waystone",
+    "kaisyn:village/beach_lighthouse/side/cross": "village_waystone",
+    "kaisyn:village/birch_forest_romanian/houses": "village_waystone",
+    "kaisyn:village/flower_forest_japanese/houses": "village_waystone",
+    "kaisyn:village/grove_villager_outpost/decor": "village_waystone",
+    "kaisyn:village/jungle_tribal/houses": "village_waystone",
+    "kaisyn:village/meadow_swiss/houses": "village_waystone",
+    "kaisyn:village/mushroom_fields_fantasy/houses": "village_waystone",
+    "kaisyn:village/old_growth_taiga_polish/houses": "village_waystone",
+    "kaisyn:village/snowy_slopes_inn/decor": "village_waystone",
+    "kaisyn:village/snowy_taiga_viking/houses": "village_waystone",
+    "kaisyn:village/sparse_jungle_polynesian/houses": "village_waystone",
+    "kaisyn:village/sunflower_plains_farm/side/farms": "village_waystone",
+    "kaisyn:village/swamp_boat/houses": "village_waystone",
+    "kaisyn:village/exclusives/iberian/houses": "village_waystone",
+    "kaisyn:village/exclusives/mediterranean/houses/regular": "village_waystone",
+    "kaisyn:village/exclusives/rustic/houses": "village_waystone",
+    "kaisyn:village/exclusives/swedish/houses": "village_waystone",
+    "kaisyn:village/exclusives/tudor/houses": "village_waystone"
   }
 }
