@@ -97,4 +97,5 @@ Config Changes:
 = Added some items to "itemUseProtectionExceptionList" ("minecraft:potion", "waystones:pocket_wormhole", "waystones:local_void", "waystones:abyss_watcher", "waystones:waystone_scroll"): [Open Parties and Claims], [Server]
 = Changed "offsetX" to 25: [Warrior Rage], [Client]
 = Added disclaimer to the Resource Pack menu: [FancyMenu], [Client]
+= Improved the death screens of both Multiplayer & Singleplayer as well as seperating them into their own layouts (Too lazy to list individual changes): [FancyMenu], [Client]
 = : [mod], [side]
