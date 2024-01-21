@@ -246,7 +246,7 @@ hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "14397c22cd77f3d9e1307b99abe565622899898f66e82deaa55d25fd5439c6db"
+hash = "a18d24bb5af4b304a482fcdd199d6f0466d235420ce61c9a17c3133698bab784"
 
 [[files]]
 file = "config/revive.json5"
@@ -310,7 +310,7 @@ hash = "92c469ec93fb880a8a7e35ab4c84f4b938c636834b1beeeef06f85abec1c55e8"
 
 [[files]]
 file = "config/waystones/config.json"
-hash = "1b2ad8a9c16274a09fb306b827d5720a13b0628a6474c5b03eb70f7eb7e2a811"
+hash = "dd95f7dd56210e8c9ae57257b49f6aad021df0c06912aa6bdd1ef895bbb891b2"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-end-cities-better-end.pw.toml"
-hash = "093a7f01cc8a79eeed34cc6ffb382eda7a50f926cbfd1dbd32080b06c3b752d2"
+hash = "f7310bef12d39d91f54bc3cd08fbeba15caa8beaaf456659e24d365adbc5e5ab"
 metafile = true
 
 [[files]]
@@ -803,11 +803,6 @@ metafile = true
 [[files]]
 file = "mods/dimension-fix-some-forge-patches-ported.pw.toml"
 hash = "83018bfaec9493e66af18393f6d7452ac08563ae37d510cfcef17e1fde6d2553"
-metafile = true
-
-[[files]]
-file = "mods/dimthread.pw.toml"
-hash = "321bbdc21f79268b305afc1c574071628a9a225b0643700120e5d27a20ad6e23"
 metafile = true
 
 [[files]]
