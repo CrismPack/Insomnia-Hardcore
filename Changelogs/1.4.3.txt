@@ -38,6 +38,7 @@ Mods added:
 + Simple Shulker Preview
 + Quick Shulker
 + Warrior Rage
++ DeathQuotes / Death Quotes [Server]
 
 
 Resource/Shader Packs added:

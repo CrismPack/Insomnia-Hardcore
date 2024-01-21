@@ -759,6 +759,11 @@ hash = "fc8b8ad583b8f31120f34a72aea565804f4abe87a232883a4fb421d8808310d2"
 metafile = true
 
 [[files]]
+file = "mods/deathquotes-death-quotes.pw.toml"
+hash = "3fa18caba7bf79b676313f38c624d1dc685d6862c4e1664e33df262634d6f2d8"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "42aa424ca423493f8fc20a7792761e64056dd25a5684cea7f6af25c3280f315c"
 metafile = true

@@ -1,0 +1,13 @@
+name = "DeathQuotes / Death Quotes"
+filename = "deathquotes-fabric-1.18.2-3.3.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "4104b52c2f1fbab9cf1d32db1e35857f9bf413a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4674567
+project-id = 253947
