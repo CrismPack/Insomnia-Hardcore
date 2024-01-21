@@ -19,7 +19,8 @@
   //	]
   "starterItems": [
     "simplyswords:iron_katana",
-    "16 farmersdelight:bone_broth",
+    "8 farmersdelight:bone_broth",
+    "8 farmersdelight:mixed_salad",
     "16 minecraft:torch",
     "8 minecraft:potion {Potion:\u0027recallpotion:recall\u0027}",
     "minecraft:potion {Potion:\u0027minecraft:supportive_revivify_potion\u0027}",

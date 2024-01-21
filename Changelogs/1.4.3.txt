@@ -11,6 +11,7 @@ Update overview:
 ~ Animals can now respawn, making the world feel more populated.
 ~ End cities now generate in the style of 'Better End'.
 ~ Meef Stroganoff from 'The Twilight Forest' can now be eaten by all origins.
+~ Half of the 'Bone Broth' food items have been replaced with 'Mixed Salad' to make it more fair towards vegetarian origins.
 ~ Killstreak/rage meter.
 ~ Several quality of life improvements.
 ~ Generally improved server performance due to each dimension now being handled on separate CPU threads. [Server]
@@ -99,4 +100,5 @@ Config Changes:
 = Changed "offsetX" to 25: [Warrior Rage], [Client]
 = Added disclaimer to the Resource Pack menu: [FancyMenu], [Client]
 = Improved the death screens of both Multiplayer & Singleplayer as well as seperating them into their own layouts (Too lazy to list individual changes): [FancyMenu], [Client]
+= Replaced half of the bone_broth with mixed_salad, to have something for both vegetarian and carnivore origins: [Starter Kit | Starter Items] , [Client | Server]
 = : [mod], [side]
