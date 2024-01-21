@@ -1,0 +1,13 @@
+name = "Fresh Friends"
+filename = "Fresh Friends.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e81e12233b460cdc5814e9447b71eb0a1c39a560"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4832936
+project-id = 929636

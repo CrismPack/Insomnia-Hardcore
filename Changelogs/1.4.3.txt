@@ -42,8 +42,8 @@ Mods added:
 + DeathQuotes / Death Quotes [Server]
 
 
-Resource/Shader Packs added:
-+ 
+Resource Packs added:
++ Fresh Friends
 
 Data Packs added:
 + Extra Origins - Disable Piglin [Server]

@@ -1868,6 +1868,11 @@ hash = "53dfa7a64373f7b28f2c2116d912bc62bf59bf29e2cc1c4bb933cf9629d9bbe8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-friends.pw.toml"
+hash = "609fa4b746387860d2c4ded34e460d2a66966484ff26903b561b85668fbabc69"
+metafile = true
+
+[[files]]
 file = "resourcepacks/gui-reimagined.pw.toml"
 hash = "ebfa4203a286cf1dfc0a76f7b4721fcbcfa0f902124342cfe075cf1df4ab6f1e"
 metafile = true
