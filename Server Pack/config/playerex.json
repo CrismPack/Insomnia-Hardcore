@@ -3,7 +3,7 @@
   "disableAttributesGui": false,
   "showLevelNameplates": true,
   "skillPointsPerLevelUp": 1,
-  "levelFormula": "0.02x^2+0.5x+1",
+  "levelFormula": "1+1x",
   "restorativeForceTicks": 600,
   "restorativeForceMultiplier": 110,
   "expNegationFactor": 95,
