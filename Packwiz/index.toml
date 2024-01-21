@@ -10,7 +10,7 @@ hash = "656ea21d3acce17195962e71a60a497f9e40f8bcd6d1dab0535436f1dada8c62"
 
 [[files]]
 file = "config/RandomTP/config.yml"
-hash = "9414e017018ed55add56532e54c04bb8d919a5aab21a2eab91ef8fce8a4d6421"
+hash = "a9b760fa1217cede23299adc407b06eb0078c7ed83ec01382b094375885ef6f3"
 
 [[files]]
 file = "config/RandomTP/messages.yml"
@@ -1741,6 +1741,11 @@ metafile = true
 [[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "8a19272a4e6b357d6e981e4f75bd3ef5bbd04d9160571962feace5462c6d31a0"
+metafile = true
+
+[[files]]
+file = "mods/warrior-rage.pw.toml"
+hash = "31cf684a028e374446340830ed1bd5214d0a8777a14bb40c5dfda2ac1100d6ee"
 metafile = true
 
 [[files]]

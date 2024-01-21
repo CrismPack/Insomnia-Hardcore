@@ -11,6 +11,7 @@ Update overview:
 ~ Animals can now respawn, making the world feel more populated.
 ~ End cities now generate in the style of 'Better End'.
 ~ Meef Stroganoff from 'The Twilight Forest' can now be eaten by all origins.
+~ Killstreak/rage meter.
 ~ Several quality of life improvements.
 ~ Generally improved server performance due to each dimension now being handled on separate CPU threads. [Server]
 
@@ -36,6 +37,7 @@ Mods added:
 + Better End Cities Better End
 + Simple Shulker Preview
 + Quick Shulker
++ Warrior Rage
 
 
 Resource/Shader Packs added:
@@ -49,6 +51,7 @@ Metadata Changes:
 
 Mods removed: 
 - More Banner Features
+- YUNG's Bridges
 
 Resource Packs removed:
 - 
@@ -92,4 +95,6 @@ Config Changes:
 = Increased "max_distance" from 5000 to 7500: [RandomTP], [Server]
 = Increased "maxPlayerClaims" from 50 to 100: [Open Parties and Claims], [Server]
 = Added some items to "itemUseProtectionExceptionList" ("minecraft:potion", "waystones:pocket_wormhole", "waystones:local_void", "waystones:abyss_watcher", "waystones:waystone_scroll"): [Open Parties and Claims], [Server]
+= Changed "offsetX" to 25: [Warrior Rage], [Client]
+= Added disclaimer to the Resource Pack menu: [FancyMenu], [Client]
 = : [mod], [side]
