@@ -1,4 +1,4 @@
-Delete all mods except: DisFabric, Raknetify, ItemBlacklist, join_leave_msgs
+Delete all mods except: DisFabric, Raknetify, ItemBlacklist, join_leave_msgs, commandspy
 Delete "global_packs" folder
 Backup "server.properties" file
 Upload and unpack new serverpack zip
