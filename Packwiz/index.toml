@@ -1845,6 +1845,11 @@ file = "resourcepacks/NoBushyLeaves.zip"
 hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
+file = "resourcepacks/better-end-city-for-better-end.pw.toml"
+hash = "b7e625d52cb055be465d87aff69c6ffc813ecf8917d2d83b05ac7d2897ef083b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/disable-incendium-toxic-heap-biome.pw.toml"
 hash = "1c55e256513ed0b0c3c39fbfdacc91f0b05c797c785575365c5cb7975456e08d"
 metafile = true

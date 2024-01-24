@@ -1,0 +1,43 @@
+v1.4.3a
+
+Fabric version: Fabric-0.14.25
+Update overview: 
+~ This is a client hotfix. Works with 1.4.3 servers.
+~ Downgraded Fabric version on the client to match the server.
+~ Replaced mod version of 'Better End Cities Better End' with its data pack variant.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Data Packs added:
++ Better End Cities for Better End
+
+Metadata Changes:
+=  [MR --> CF]
+
+Mods removed: 
+- Better End Cities Better End (Requires Fabric-0.15.3 or higher. Replaced by its datapack variant)
+
+Resource Packs removed:
+- 
+
+Mods disabled: 
+- 
+
+Data Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Resource Packs updated:
+> 
+
+Data Packs updated:
+> 
+
+Config Changes:
+= : [mod], [side]

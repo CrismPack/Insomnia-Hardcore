@@ -1,0 +1,13 @@
+name = "\"Better End Cities\" for Better End"
+filename = "ichphilipp-s-endcity-better-end-FORGE.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d21ff54c8d98b43bdaf70b75e897594e4fac54c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4732672
+project-id = 858848
