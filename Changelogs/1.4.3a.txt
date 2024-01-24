@@ -3,8 +3,8 @@ v1.4.3a
 Fabric version: Fabric-0.14.25
 Update overview: 
 ~ This is a client hotfix. Works with 1.4.3 servers.
-~ Downgraded Fabric version on the client to match the server.
-~ Replaced mod version of 'Better End Cities Better End' with its data pack variant.
+~ Downgraded the clients Fabric version to match the server. Hopefully helping with stability.
+~ Resource Packs are now force enabled and locked in the menu to prevent issues during updates.
 
 Mods added:
 + 
@@ -13,7 +13,7 @@ Resource Packs added:
 + 
 
 Data Packs added:
-+ Better End Cities for Better End
++ Better End Cities for Better End [Pinned]
 
 Metadata Changes:
 =  [MR --> CF]
@@ -31,7 +31,10 @@ Data Packs removed:
 - 
 
 Mods updated: 
-> 
+>
+
+Mod updates reverted:
+> Raknetify [Pinned] (Newer versions doesn't seem to work)
 
 Resource Packs updated:
 > 
@@ -40,4 +43,4 @@ Data Packs updated:
 > 
 
 Config Changes:
-= : [mod], [side]
+= Set default resource packs to "required" and "fixed_position": [Resource Pack Overrides], [Client]

@@ -246,7 +246,7 @@ hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a18d24bb5af4b304a482fcdd199d6f0466d235420ce61c9a17c3133698bab784"
+hash = "ec072b9cdf69cf9d9b2cec2951b7b71e1fd976f415687de3c734168b8f2ac9e9"
 
 [[files]]
 file = "config/revive.json5"
@@ -513,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
-metafile = true
-
-[[files]]
-file = "mods/better-end-cities-better-end.pw.toml"
-hash = "f7310bef12d39d91f54bc3cd08fbeba15caa8beaaf456659e24d365adbc5e5ab"
 metafile = true
 
 [[files]]
@@ -1467,7 +1462,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "423f2a4bfbc388b211d5d60f98083d5a4e0b594eef007de1f662a3d6eac4a401"
+hash = "29473d95f34dc826871a1ba083bc16b9226ff622657b0a089d0b601a025034c6"
 metafile = true
 
 [[files]]
@@ -1846,7 +1841,7 @@ hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
 file = "resourcepacks/better-end-city-for-better-end.pw.toml"
-hash = "b7e625d52cb055be465d87aff69c6ffc813ecf8917d2d83b05ac7d2897ef083b"
+hash = "600588d9e52cb1b42ab3c4bac27e65ff26294f4ce9cae0c3de8a88ed1c4b2699"
 metafile = true
 
 [[files]]
@@ -1965,7 +1960,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "414cec941702ca15186889551cbdbc7398b9af53c565fcefaf1f8dfd7ccc80a7"
+hash = "1446b54537486331fc13eda3b4723f580ea0642cefb434164f9fd166ee9bd437"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"
