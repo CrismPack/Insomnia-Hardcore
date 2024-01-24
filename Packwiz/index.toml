@@ -246,7 +246,7 @@ hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ec072b9cdf69cf9d9b2cec2951b7b71e1fd976f415687de3c734168b8f2ac9e9"
+hash = "b2c2d31e28d91210eaa65e4edb99e617a2ee5fcab417680a3ffbdae5d6acf199"
 
 [[files]]
 file = "config/revive.json5"
