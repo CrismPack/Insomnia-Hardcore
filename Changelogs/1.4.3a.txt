@@ -1,9 +1,10 @@
 v1.4.3a
 
+This is a client hotfix. Works with v1.4.3 servers.
+
 Fabric version: Fabric-0.14.25
 Update overview: 
-~ This is a client hotfix. Works with 1.4.3 servers.
-~ Downgraded the clients Fabric version to match the server. Hopefully helping with stability.
+~ Downgraded the Fabric version on the client-side to match the server. Hopefully helping with stability.
 ~ Resource Packs are now force enabled and locked in the menu to prevent issues during updates.
 
 Mods added:
