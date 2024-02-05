@@ -1965,7 +1965,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "1446b54537486331fc13eda3b4723f580ea0642cefb434164f9fd166ee9bd437"
+hash = "0206c911fe69e323389effba7532b71205b24ff3ab7bd5b869ef253f51a4ddb4"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"
