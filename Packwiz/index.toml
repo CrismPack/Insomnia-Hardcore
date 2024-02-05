@@ -586,8 +586,13 @@ hash = "6716893ff0ec39365210dcc76245e1a33b108a3d27df235aa9c2f87cf66b6288"
 metafile = true
 
 [[files]]
+file = "mods/bygone-nether-fabric-server.pw.toml"
+hash = "612fbf1d1bd38edcf746330a75973229bc4800de0d5800f558e9de064603262e"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether-fabric.pw.toml"
-hash = "acdee1d8c1d2018daf626e1c33040edab4a17ff51dc7b7ed913b88d5dc59daf2"
+hash = "a50ce2f9486eb0115ca8f9a188a277c1a609041fef29be1370998b481fd976e8"
 metafile = true
 
 [[files]]
