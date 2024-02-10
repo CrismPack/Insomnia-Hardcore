@@ -44,7 +44,7 @@
 	#Button url:
 	[[custom.variables]]
         name = "CF_Button_URL"
-        value = "https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore"
+        value = "https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore/install"
 
 #The Game Loading event
 [init]
