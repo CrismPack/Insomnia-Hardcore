@@ -20,7 +20,7 @@ Metadata Changes:
 =  [MR --> CF]
 
 Mods removed: 
-- 
+- Trade Cycling (Could reset trades of custom villagers)
 
 Resource Packs removed:
 - 
