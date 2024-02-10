@@ -1331,6 +1331,11 @@ hash = "db7ac151e03ca169671e3c488d975ab8c92038205674eb4174691d6ae0bdd2c6"
 metafile = true
 
 [[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "6a2cd6655c34a6d1843529c57234e3cd23dfb809518839f8370e2703d0bb61e9"
+metafile = true
+
+[[files]]
 file = "mods/name-pain.pw.toml"
 hash = "c519144a62deaeb63f97d69914ec9b717f6c44aa663ccbd952d800f8dd97693a"
 metafile = true
