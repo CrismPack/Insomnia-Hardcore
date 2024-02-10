@@ -1,0 +1,13 @@
+name = "Vein Mining (Fabric 1.16.4 - 1.19.2)"
+filename = "veinmining-fabric-0.0.17-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e51f369c19a45b55d6ab32109b0152da71389576"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4432054
+project-id = 431910

@@ -1756,6 +1756,11 @@ hash = "6ae26807b907ef9161131b890b8c3896c330aeba1b1df94d1314eac44b11d604"
 metafile = true
 
 [[files]]
+file = "mods/vein-mining-fabric.pw.toml"
+hash = "96426fd96a238faf16b8fb87c44cbf969bb53e57fc69483186814088f89944e2"
+metafile = true
+
+[[files]]
 file = "mods/village-nullifier-mod.pw.toml"
 hash = "cb19304955af25b0de258212bd8292a5ac508d6241d3d92f528f48818569a551"
 metafile = true

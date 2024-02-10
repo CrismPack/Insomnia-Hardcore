@@ -8,6 +8,7 @@ Mods added:
 + Music Maker Mod
 + Chipped
 + CTM Refabricated
++ Vein Mining
 
 Resource Packs added:
 + 
