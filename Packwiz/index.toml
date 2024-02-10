@@ -631,6 +631,11 @@ hash = "99e6be01d3770f351a4a76444ec15fa43a30dc04b5bb4bf0b0c359c4b4f464b9"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "14c3fbffd6cb3761e11ac89c9b14736bd3a092d8dfdf4601d318ee2e0042ce0f"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "fc8ad76f15cb34367a0f04f13c85611b879a69ea5f41ae397f4a8cfe4b89a9db"
 metafile = true
@@ -738,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "ab70b04366b0890b287e409403acb550026c6c376c88858355037dadde8ed16f"
+metafile = true
+
+[[files]]
+file = "mods/ctm-refabricated.pw.toml"
+hash = "3313ae2e4364baa48c96b7dcc8d356af55024e76bd7a590ca0de580366d4e77d"
 metafile = true
 
 [[files]]

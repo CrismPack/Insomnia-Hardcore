@@ -6,6 +6,8 @@ Update overview:
 
 Mods added:
 + Music Maker Mod
++ Chipped
++ CTM Refabricated
 
 Resource Packs added:
 + 
@@ -42,4 +44,5 @@ Data Packs updated:
 > 
 
 Config Changes:
+= Enabled "connected_textures": [Continuity], [Client]
 = : [mod], [side]
