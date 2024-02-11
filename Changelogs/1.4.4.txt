@@ -7,7 +7,7 @@ Update overview:
 Mods added:
 + Music Maker Mod
 + Chipped
-+ CTM Refabricated
++ CTM Refabricated [Client]
 + Vein Mining
 
 Resource Packs added:
