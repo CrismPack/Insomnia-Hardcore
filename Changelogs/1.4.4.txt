@@ -21,6 +21,7 @@ Metadata Changes:
 
 Mods removed: 
 - Trade Cycling (Could reset trades of custom villagers)
+- Quick Shulker
 
 Resource Packs removed:
 - 
@@ -46,5 +47,4 @@ Data Packs updated:
 
 Config Changes:
 = Enabled "connected_textures": [Continuity], [Client]
-= Disabled right clicking functionality to fix an exploit: [Quick Shulker], [Both]
 = : [mod], [side]
