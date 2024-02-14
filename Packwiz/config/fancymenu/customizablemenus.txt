@@ -24,3 +24,6 @@ com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerS
 net.coderbot.iris.gui.screen.ShaderPackScreen {
 }
 
+net.minecraft.class_5375 {
+}
+

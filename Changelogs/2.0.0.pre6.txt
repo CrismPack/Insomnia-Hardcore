@@ -2,7 +2,7 @@ v2.0.0.pre6
 
 #Notice: This is a pre-release. Here be dragons!
 
-Fabric version: Fabric-0.15.3
+Fabric version: Fabric-0.15.7
 Update overview: 
 ~ Updated all mods to their latest version.
 ~ And more...
@@ -143,4 +143,5 @@ Mods updated:
 > YUNG's Better Ocean Monuments
 
 Config Changes: 
+= Set default resource packs to "required": [Resource Pack Overrides], [Client]
 = : [mod], [Server]
