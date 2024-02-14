@@ -1,13 +1,13 @@
 name = "Inv View"
-filename = "InvView-1.4.13-1.20.2+.jar"
+filename = "InvView-1.4.12-1.20+.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "d62fe6ab4727b2a70494f41b01d9879f438f68a0"
+hash = "f6775526021843c16dc7847bbf0b8dbcca434454"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4790426
+file-id = 4731409
 project-id = 405159

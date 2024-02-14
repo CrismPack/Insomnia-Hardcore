@@ -42,15 +42,17 @@ Resource Packs updated:
 
 Mods updated: 
 > Adorn
+> Architectury API
 > AttributeFix
-> Balm
 > BCLib
+> Balm
 > Better Archeology
+> Better Combat
+> Better Recipe Books
 > Better chunk loading
 > BetterEnd
 > Blockus
 > Bookshelf
-> Better Recipe Books
 > Chat Heads
 > Cherished Worlds
 > Chunk Sending
@@ -58,6 +60,7 @@ Mods updated:
 > Clickable advancements
 > Cloth Config API
 > Collective
+> Combat Roll
 > Compact Help Command
 > Crafting Manipulator
 > CraterLib
@@ -66,12 +69,14 @@ Mods updated:
 > Elytra Trims
 > Enchantment Descriptions
 > End Remastered
+> Enderite Mod
 > Entity Model Features
 > Entity Texture Features
 > Equipment Compare
 > Fabric API
 > Fabric Language Kotlin
 > Fabric Waystones
+> FancyMenu
 > Farmer's Delight
 > Furnace Recycle
 > Guard Villagers
@@ -80,42 +85,59 @@ Mods updated:
 > Iceberg
 > ImmediatelyFast
 > Incendium
+> Indium
+> Inv View
 > Jade 🔍
+> Konkrete
 > Legendary Tooltips
 > LibZ
 > Login Protection
 > MCPitanLib
+> MES - Moog's End Structures
+> Memory Leak Fix
 > MmmMmmMmmMmm
 > Mo Glass
 > Mobs Attempt Parkour
 > ModernFix
+> Moonlight Lib
+> More Culling
 > Neruina - Ticking Entity Fixer
 > Nether Portal Spread
 > NetherPortalFix
+> Not Enough Animations
 > Open Parties and Claims
 > OptiGUI
 > Patchouli
+> Philip's Ruins
 > Puzzles Lib
+> Raised
 > Recall Staffs
 > Recipe Book Delight
 > Regions Unexplored
+> Resource Pack Overrides
 > Roughly Enough Items
-> Philip's Ruins
-> Moonlight Lib
 > Simple Voice Chat
+> Simply Swords
 > Skin Layers 3D
+> Sodium
+> Sodium Extra
 > Sound Physics Remastered
 > Starter Kit
 > Starter Structure
 > Structory: Towers
 > Structure Essentials
 > TalkBubbles
+> Tectonic
+> TerraBlender
+> TieredZ
 > TooManyOrigins
 > Towns and Towers
+> Traveler's Titles
 > Variant Shields
 > Villagers Respawn
 > Xaero's Minimap (Fair-play Edition)
 > Xaero's World Map
+> YUNG's API
 > YUNG's Better Ocean Monuments
 
 Config Changes: 
