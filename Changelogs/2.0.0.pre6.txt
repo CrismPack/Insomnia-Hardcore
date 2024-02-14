@@ -10,6 +10,7 @@ Update overview:
 Mods added:
 +  [Client] [MR]
 + Item Banning [Server]
++ Nvidium [Client]
 
 Mods re-enabled:
 + 
@@ -144,4 +145,5 @@ Mods updated:
 
 Config Changes: 
 = Set default resource packs to "required": [Resource Pack Overrides], [Client]
+= Added a message to the resource pack screen: [FancyMenu], [Client]
 = : [mod], [Server]

@@ -1278,6 +1278,11 @@ hash = "78246043074eb039639383693ee9486d28673569b4c3158d6038be09539351d6"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "2a12fede80d8aa1e788fda98f34068fc080082a5ef0fffcb89b9d4f865909587"
 metafile = true
@@ -1489,7 +1494,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1331427cd33d8978bb1b37a6537ed1ab259b1df67cbbccf54e5056221eee783d"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
