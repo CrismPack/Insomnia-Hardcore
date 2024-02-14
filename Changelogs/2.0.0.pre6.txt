@@ -27,7 +27,8 @@ Mods removed:
 - 
 
 Mods disabled: 
-- Continuity (Crashes with latest version of ModernFix)
+- Continuity (Crashes with latest version of 'ModernFix')
+- Iris & Oculus Flywheel Compat (Incompatible with later versions of 'Iris Shaders')
 
 Resource Packs removed:
 - 
@@ -87,6 +88,7 @@ Mods updated:
 > Incendium
 > Indium
 > Inv View
+> Iris Shaders
 > Jade 🔍
 > Konkrete
 > Legendary Tooltips
