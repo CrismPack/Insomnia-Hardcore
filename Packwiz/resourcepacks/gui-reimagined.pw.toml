@@ -1,6 +1,6 @@
 name = "GUI Reimagined"
 filename = "§bGUI Reimagined§8-[v1.1].zip"
-side = "client(disabled)"
+side = "client"
 
 [download]
 hash-format = "sha1"

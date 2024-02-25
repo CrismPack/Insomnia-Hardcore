@@ -98,7 +98,7 @@ hash = "3e5406de11b30eb39c4c41ba14944ab34e2d64660511ef6e6d2949ea8f366af7"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9521ce116b2c535a73230fd4e5768084000eb0aebfbd6a49f7b2469646c3367c"
+hash = "4ce83f8fafd00f08ece88898d50d1b3f4ac9bdf7ca750f0ff15b4c89197a6e09"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen Singleplayer.txt"
@@ -111,6 +111,10 @@ hash = "5a43a197e277c4f63c29d5579787a0acb612199d34f3b154087a9a30db83562a"
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
 hash = "f0a1f6e6ced524778fe88bc9039df1d6709263d1dcc662b710bfe8b9b3865430"
+
+[[files]]
+file = "config/fancymenu/customization/lanmenu.txt"
+hash = "d45d025c748260b4c23121a6b70caa90c12425757843689eccdb2d6c86230f74"
 
 [[files]]
 file = "config/fancymenu/customization/mp_fix.txt"
@@ -386,11 +390,15 @@ hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Custom Lang.zip"
-hash = "84859dd951fb1f84249ddd3893fb25dfb393265fbc98f8cce0a1a35e5ef509d2"
+hash = "e0c89f2f28cceb62fd8f7a02f49fe2c5404bc530b902760330de0a74ef9d941f"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "1c364a0dab71ecf2ef04d3ffb58b1823a2d4ab83699e75d7b47d80f223f93744"
+hash = "4c8d4d7ac489db7f61fc9add24223413c045fba196baa2e3730ee217c9a9da8a"
+
+[[files]]
+file = "global_packs/required_resources/en_us.json"
+hash = "acf459bbd5e0d1b78c3332e567145ea1fb45a08b7c4a7e30fdf421ea227fd0bf"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -759,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "119c4fa8c78273deacea5a28969baf3d234d559cfeff51bff8e5caf894837d64"
+hash = "cc3e99c2dac6d48d96fa0b17b598e57f5ac6e8cf16ad06fdd9b116651895f478"
 metafile = true
 
 [[files]]
@@ -873,6 +881,11 @@ hash = "d90aae110379ef73bec8ba661e848dbb4b5535626ff654e36f3c890c0be44fc6"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "6d935e972dbb073c8ff14cd06ab84763e18c6e480b0416e318abd0204ddeb489"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic-fabric.pw.toml"
 hash = "766db1a7a5caa28598f243008b53911f48efa01aa91ac8687e09836c97ee2d98"
 metafile = true
@@ -914,12 +927,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "804cdf8a74c14c53db24a7dbfa41710d42cb3abcee3c8caae55adc1bbb610d37"
+hash = "654f7ca2435d3fef3e18d2f4c65bb7da5f76460bd7cdf07421722956a0fcb7d3"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "be43621e58aa557bacb43ff32032612cff5dcdf8855bbe5ab208a29317b01e38"
+hash = "28ddf9638b2b1bdc778523e4f297d686b884dbcd7e112ca48f9b18699cc55b85"
 metafile = true
 
 [[files]]
@@ -964,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
+hash = "270130a47f7dea4a94b4a85eb5795a4a820c45fe1985cad6b8afaf33ee066899"
 metafile = true
 
 [[files]]
@@ -994,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "6e47daaa3dab20c86d44812efefc42192dca0e488f38e6e066d83a80aeee6ef4"
+hash = "09b043f298ccecf09517e3b0c119b987eb96359b623ac71d2697d65a544ef7ca"
 metafile = true
 
 [[files]]
@@ -1079,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "21978e3ee136d58b2d1a184bdd052eb1c40078078de423521dbfa5f90f44a35e"
+hash = "36e974f287fa5dfebc13fc74c1c1473b76b6adfb5919f325fc18baf41947e72d"
 metafile = true
 
 [[files]]
@@ -1209,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "14096650b4020297ad9d5b71520bc1e6343bc0cdd68682da09a27cc262d3fb5d"
+hash = "fd5f3b48db4fc0c59db562bd09ced85df1546a552daaa6a218da03a13dcc5b77"
 metafile = true
 
 [[files]]
@@ -1354,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "55088963766bece69fa02e27cdb9551f55f76144e69f131f722dad55c40d0fb5"
+hash = "eecf8287c134f4285301279cbb49639fa7017b2e74e893424209cf9b67acb451"
 metafile = true
 
 [[files]]
@@ -1409,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "038fb15f99ae151e3e34a0306f01f87ac5b8d315f30d3e222d25308c33be1e8d"
+hash = "d08db1c18ed0278aa0bc6abfd9017c204ab3e0d15eb28415887c37c6c1fb8920"
 metafile = true
 
 [[files]]
@@ -1499,12 +1512,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "aa93c2745a2e1bfabd5508c0a3b10c93fcaacbcf0b3f9c001e45191bc9884ace"
+hash = "a25bc6f2e14b50a85c4bb8d1c111d706a09fcf87f823f5bff1e91f4ab3b4a1e2"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "afcfccb3ef71de20bf2ad6bbdbf09b617dce7223d4ded4eae3d63d192ecb41c4"
+hash = "3bbcffa6a10ad0d58c71499b3eb30913eb0f3dc6ee897786fac04f31c311973f"
 metafile = true
 
 [[files]]
@@ -1539,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/respawning-animals.pw.toml"
-hash = "ae291c829dca8a0a58ae3a7ee788272278b033d7dab99b145ac53b095f888f22"
+hash = "a01e06e4a28792df9a1d883a72664eaed855dccd1d3bd1758a78e39f3d4511e0"
 metafile = true
 
 [[files]]
@@ -1599,7 +1612,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2ccb5d8b36aae83116c8daab87a5c4ecff710fcf751e0261c79d2ad2aeb4fe16"
+hash = "535b807f302526fe4923c4a3e05b383f7c1228b75033182e732a6ad034a5c642"
 metafile = true
 
 [[files]]
@@ -1804,7 +1817,7 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.pw.toml"
-hash = "e206e608862b5528f380b19d183b9439b3f291e506973960b4c469f261823d11"
+hash = "a70798d86a7900e64f69f3fd6c9022df36960ad0b25c42e29688832d5eb3aba0"
 metafile = true
 
 [[files]]
@@ -1824,7 +1837,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8b55d19c6b03d8a9e2a7a19d325fd2c694e9c15c805a20bc2da937ed416003c0"
+hash = "387f2da3ae966926762226c22f7cfe8c45ae97f2f1a5314b9ab6bcf3208aba14"
 metafile = true
 
 [[files]]
