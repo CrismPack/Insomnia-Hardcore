@@ -2,8 +2,9 @@ v1.4.4
 
 Fabric version: Fabric-0.14.25
 Update overview: 
-~ Added some mods based on suggestions from our Discord.
+~ Added some mods based on suggestions from our Discord. 
 ~ Disabled the merchant class due to it being insanely overpowered.
+~ Fixed a duping exploit involving shulker boxes.
 
 Mods added:
 + Music Maker Mod
@@ -13,6 +14,7 @@ Mods added:
 + Copper & Tuff Backport
 + Expanded Delight
 + Chimes
++ Create: Steam 'n' Rails
 
 Resource Packs added:
 + 
@@ -28,7 +30,7 @@ Mods removed:
 - Quick Shulker
 
 Resource Packs removed:
-- 
+- GUI Reimagined (Removed due to visual inconsistencies with some mods)
 
 Mods disabled: 
 - 

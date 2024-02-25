@@ -763,6 +763,11 @@ hash = "119c4fa8c78273deacea5a28969baf3d234d559cfeff51bff8e5caf894837d64"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2bf8f8f47d3d88d8f2fc1afe246e6771169e8b495f0795fa576c3e55bee83bd6"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "ab70b04366b0890b287e409403acb550026c6c376c88858355037dadde8ed16f"
 metafile = true
