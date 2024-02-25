@@ -22,7 +22,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "539786b750475766656f8b90fb6855608b228a680f625aad31118cf4d30936c2"
+hash = "a08b2818a61d22357109ddf31c87d570e3b9bcf7798cb7e59f2f75c4f708aa24"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -66,7 +66,11 @@ hash = "01b0705fb8a8cf39e76602779dc8f645441cdbba95d60c26b50a3952c84a2541"
 
 [[files]]
 file = "config/chatpatches.json"
-hash = "f61cb7c41385d61c6ac2ba01bd9f54934457a6ba1a7845354ee801ef24d56251"
+hash = "0487129e492f81f7dd7c6e20821052e403b8d653f277c0af0e8b582a0bacd4f3"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/darkness.properties"
@@ -245,6 +249,10 @@ file = "config/power_config.json5"
 hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
 
 [[files]]
+file = "config/quickshulkerconfig.json5"
+hash = "e0b5329defb19d949eaf68b2299333f80a31a85b0294f40b5a3e2ec45d94c688"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "812dc01dcea4bf6925c720775f8218e2bc5d45a3a9a1096f2ac448416e9339a8"
 
@@ -321,10 +329,6 @@ file = "config/yosbr/config/capes.json5"
 hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
 [[files]]
-file = "config/yosbr/config/continuity.json"
-hash = "f59bb9447f03baa60f57e6bb0fdd8f39ce7d26f811560ec5e3bf2a876af6f656"
-
-[[files]]
 file = "config/yosbr/config/exordium.json"
 hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
 
@@ -367,6 +371,14 @@ hash = "f17ef0190ff39ee3dd672cc15e80dbfaffd57885b1738b2c95d4ddfb43cfc973"
 [[files]]
 file = "global_packs/required_data/Orb_Of_Origin_Crafting_Recipe.zip"
 hash = "355e115287738140b91e91bd390d4b5a21823c5ce46a50c816c07ead31f42ae6"
+
+[[files]]
+file = "global_packs/required_data/Origins Classes - Disable Merchant/data/origins-classes/origins/merchant.json"
+hash = "ab661622ea6e78566c19fc91e7ebfed2a9205e2eaa6b0a36a500154d644725ec"
+
+[[files]]
+file = "global_packs/required_data/Origins Classes - Disable Merchant/pack.mcmeta"
+hash = "150ea07dad914d0382358314e625e14cf0e9666fa21409161af1dfb493a0f270"
 
 [[files]]
 file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
@@ -747,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm-refabricated.pw.toml"
-hash = "3313ae2e4364baa48c96b7dcc8d356af55024e76bd7a590ca0de580366d4e77d"
+hash = "9bf1b7539ff5ff587c18a4d7b942a95b8b3fc2d897103f5a787ce2da0d2a8acd"
 metafile = true
 
 [[files]]
@@ -1471,11 +1483,6 @@ hash = "aa93c2745a2e1bfabd5508c0a3b10c93fcaacbcf0b3f9c001e45191bc9884ace"
 metafile = true
 
 [[files]]
-file = "mods/quick-shulker.pw.toml"
-hash = "01a379a8e8ad556d53b8689e93b454557e772d5ce1baf646318bc6daab45972a"
-metafile = true
-
-[[files]]
 file = "mods/raised.pw.toml"
 hash = "afcfccb3ef71de20bf2ad6bbdbf09b617dce7223d4ded4eae3d63d192ecb41c4"
 metafile = true
@@ -1731,11 +1738,6 @@ hash = "074c91c25dce6cfdd0d8fbde8dfe3f9bdf2457d052c680654817b31b79b201cd"
 metafile = true
 
 [[files]]
-file = "mods/trade-cycling.pw.toml"
-hash = "9698442746df721ccd81c09cae0b48e1c774eb2c35fb2acd306c196b000edfab"
-metafile = true
-
-[[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
 hash = "43731697babc64a22b2151415c1067643585537d5ebec4d511e1b3a339561c21"
 metafile = true
@@ -1985,7 +1987,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "0206c911fe69e323389effba7532b71205b24ff3ab7bd5b869ef253f51a4ddb4"
+hash = "3df5cc27779b3c213d2b7334fd391126cab278dc19e650fe8365b71b8f8be09e"
 
 [[files]]
 file = "resources/mainmenu/shortbutton_hover.png"

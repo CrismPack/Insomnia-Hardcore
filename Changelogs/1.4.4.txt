@@ -14,7 +14,7 @@ Resource Packs added:
 + 
 
 Data Packs added:
-+ 
++ Origins Classes - Disable Merchant
 
 Metadata Changes:
 =  [MR --> CF]
