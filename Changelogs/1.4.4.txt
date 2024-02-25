@@ -5,7 +5,8 @@ Update overview:
 ~ Added some mods based on suggestions from our Discord.
 ~ Disabled the merchant class due to it being insanely overpowered.
 ~ Fixed a duping exploit.
-~ Updated mods to their latest version.
+~ Updated compatible mods to their latest version.
+~ Added ability to invite friends into your singleplayer world with no port-forwarding.
 
 Mods added:
 + Music Maker Mod
@@ -45,14 +46,10 @@ Mods updated:
 > Entity Model Features
 > Entity Texture Features
 > Fabric Language Kotlin
-> FancyMenu
 > Harvest with ease
-> Konkrete
 > ModernFix
 > Not Enough Animations
-> Puzzles Lib
 > Raised
-> Respawning Animals
 > Simple Voice Chat
 > Wavey Capes
 > Xaero's World Map
