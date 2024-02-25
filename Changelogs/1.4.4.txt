@@ -2,13 +2,17 @@ v1.4.4
 
 Fabric version: Fabric-0.14.25
 Update overview: 
-~ 
+~ Added some mods based on suggestions from our Discord.
+~ Disabled the merchant class due to it being insanely overpowered.
 
 Mods added:
 + Music Maker Mod
 + Chipped
 + CTM Refabricated [Client]
 + Vein Mining
++ Copper & Tuff Backport
++ Expanded Delight
++ Chimes
 
 Resource Packs added:
 + 

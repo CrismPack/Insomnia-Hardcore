@@ -643,6 +643,11 @@ hash = "99e6be01d3770f351a4a76444ec15fa43a30dc04b5bb4bf0b0c359c4b4f464b9"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "f329d70a6b70cb73d52aa146b5e9bd856b99ea00e18789e2c8d4a1f9838d467f"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "14c3fbffd6cb3761e11ac89c9b14736bd3a092d8dfdf4601d318ee2e0042ce0f"
 metafile = true
@@ -735,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "7654f0acae8e571716b26241773b7084ce10d37dc5c16c69b5e125c3d2f8dde6"
+metafile = true
+
+[[files]]
+file = "mods/copper-tuff-backport-fabric.pw.toml"
+hash = "6bcfab7d3c689674b6b9ce7c296542f650dc4f05d224f14cc30f1b198389727d"
 metafile = true
 
 [[files]]
@@ -920,6 +930,11 @@ metafile = true
 [[files]]
 file = "mods/exordium.pw.toml"
 hash = "00900323d7bee9513be8eaa584141d038b38e1d56b24cdb55a75d0c9d4f39293"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "8624d33a1bf3c1d8818d074590415bde96e719a46287f80e43c84a52a65c7a8e"
 metafile = true
 
 [[files]]
