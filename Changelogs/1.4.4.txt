@@ -66,5 +66,7 @@ Data Packs updated:
 
 Config Changes:
 = Enabled "connected_textures": [Continuity], [Client]
+= Renamed "Open to LAN" button to "Open to Internet": [Insomnia Custom Lang], [Client]
+= Renamed "LAN world" text to "Shared World": [Insomnia Custom Lang], [Client]
 = Added a disclaimer message to the "Open to LAN" menu: [FancyMenu], [Client]
 = : [mod], [side]
