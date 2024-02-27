@@ -18,17 +18,17 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = With this modpack it is possible to invite people into your %n%singleplayer world without needing to do any port-forwarding.%n%To let people join your world, first open it to LAN and share %n%the link given in the chat!%n%%n%-={ Disclaimer! }=-%n%We always recommend using the provided server pack %n%files when hosting a server to avoid problems and ensure %n%a consistent experience. No support will therefore be %n%provided for multiplayer related issues using this method.
+  source = With this modpack it is possible to invite%n%people into your singleplayer world %n%without needing to do any port-forwarding. %n%To let people join your world, first open%n%it to LAN and share the link given in the %n%chat!%n%%n%-={ Disclaimer! }=-%n%We always recommend using the provided %n%server pack files for hosting a multiplayer %n%game to ensure that you get the best %n%experience. No support will therefore be %n%provided for multiplayer related issues %n%using this method.
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
   x = 6
-  width = 321
+  width = 244
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 5f37dd43-2a58-4dc8-bdd9-bb4d25df3b441708875418677
-  y = -37
+  y = -54
   alignment = left
-  height = 107
+  height = 145
 }
 

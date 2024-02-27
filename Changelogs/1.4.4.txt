@@ -6,7 +6,7 @@ Update overview:
 ~ Disabled the merchant class due to it being insanely overpowered.
 ~ Fixed a duping exploit.
 ~ Updated compatible mods to their latest version.
-~ Added ability to invite friends into your singleplayer world with no port-forwarding.
+~ Added ability to invite friends into singleplayer worlds with no port-forwarding required.
 
 Mods added:
 + Music Maker Mod
@@ -29,7 +29,7 @@ Metadata Changes:
 =  [MR --> CF]
 
 Mods removed: 
-- Trade Cycling (Could reset trades of custom villagers)
+- Trade Cycling (Removed due to its ability to reset trades of custom villagers)
 - Quick Shulker
 
 Resource Packs removed:
