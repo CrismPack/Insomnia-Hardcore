@@ -18,7 +18,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = With this modpack it is possible to invite%n%people into your singleplayer world %n%without needing to do any port-forwarding. %n%To let people join your world, first open%n%it to LAN and share the link given in the %n%chat!%n%%n%-={ Disclaimer! }=-%n%We always recommend using the provided %n%server pack files for hosting a multiplayer %n%game to ensure that you get the best %n%experience. No support will therefore be %n%provided for multiplayer related issues %n%using this method.
+  source = With this modpack it is possible to invite%n%people into your singleplayer world %n%without needing to do any port-forwarding. %n%To let people join your world, simply click%n%the "Start Shared World" button and share %n%the link given in the chat with your friends!%n%%n%-={ Disclaimer! }=-%n%We always recommend using the provided %n%server pack files for hosting a multiplayer %n%game to ensure that you get the best %n%experience. No support will therefore be %n%provided for multiplayer related issues %n%using this method.
   text_border = 0
   case_mode = normal
   source_mode = direct
