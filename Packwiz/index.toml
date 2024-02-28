@@ -1081,6 +1081,11 @@ hash = "623014e55885a6f3e61e54d1acdda801145019de02954c7254eca827be787688"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "929769871566c5f8bf4a6e1c66b8deda4d66a13374b308ef04f54f1674550046"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders-fabric.pw.toml"
 hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
 metafile = true
@@ -1253,6 +1258,11 @@ metafile = true
 [[files]]
 file = "mods/leaf-decay.pw.toml"
 hash = "bae64cbb5ee436c3ec8e090c0d7fc838886fdd8ef5735b7be4d492fdd100fcf1"
+metafile = true
+
+[[files]]
+file = "mods/leaky.pw.toml"
+hash = "0e14a3ffdd6cbc2f57d6ec342937b46bf99311cc2b9eed24431afd4d2854dcf1"
 metafile = true
 
 [[files]]

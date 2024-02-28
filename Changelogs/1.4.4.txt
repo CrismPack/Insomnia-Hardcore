@@ -17,7 +17,9 @@ Mods added:
 + Expanded Delight
 + Chimes
 + Create: Steam 'n' Rails
-+ e4mc
++ e4mc [Client]
++ Leaky - Farm leak detection [Server]
++ Get It Together, Drops!
 
 Resource Packs added:
 + 
