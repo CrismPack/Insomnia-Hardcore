@@ -11,6 +11,7 @@ Mods added:
 +  [Client] [MR]
 + Item Banning [Server]
 + Nvidium [Client]
++ Noisium
 
 Mods re-enabled:
 + 

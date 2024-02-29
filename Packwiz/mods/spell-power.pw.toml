@@ -1,0 +1,13 @@
+name = "Spell Power Attributes [Fabric]"
+filename = "spell_power-fabric-0.9.19+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc8753e7a5bf0d6424f16d0c83ea1bd61f9c82b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4862460
+project-id = 771265

@@ -1281,6 +1281,11 @@ hash = "23ab8cbe4992e305825d977af0aa8d023a7acff693d0a3a311dae1e78f43a5d1"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "9ca0bad38fed184ee50085d17a401105b3e848ff8ce12cf79441d5170082512c"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "78246043074eb039639383693ee9486d28673569b4c3158d6038be09539351d6"
 metafile = true
@@ -1368,6 +1373,11 @@ metafile = true
 [[files]]
 file = "mods/productive-villagers.pw.toml"
 hash = "21d124728114bf2162251aee0fd303565a5f0671bf1126cf3deef911865496b5"
+metafile = true
+
+[[files]]
+file = "mods/puffish-skills.pw.toml"
+hash = "c06cbb4570e7d3537b56dfb0ab50f7b894ee62303d85e2a664180cc9fc920862"
 metafile = true
 
 [[files]]
@@ -1481,6 +1491,11 @@ hash = "2727a812716ba0829e2cb87669e40aa8e54288f4889eff865e1bdd62571fa6b5"
 metafile = true
 
 [[files]]
+file = "mods/simply-skills.pw.toml"
+hash = "31484eafb6fbd32a2506318555dcf2f3b4cf657e60be0a9beadadf801895325b"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "8395601ad786ac31ba176b248f86a4fac1e8d21175e32b9b91e884b27c3ebe16"
 metafile = true
@@ -1513,6 +1528,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "27c736bfe5a831e8c50027d2371ca54f5a602658194607fbd0d26e4ab4f3ac75"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "fae9d0af983eff51d6c486f1ff525553b94c734f85f29015d5f8ae608b30bf1f"
 metafile = true
 
 [[files]]
@@ -1628,6 +1653,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
 hash = "31b45a23d9e7de7cdb4b34eca8d43d59277c002dee5ac6c6765cce4d8fa1c8fa"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "792155426992079177fe1ee62c1df969fb71540becd719de8efca2ebc6bec896"
 metafile = true
 
 [[files]]
