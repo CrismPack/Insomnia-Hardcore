@@ -29,7 +29,7 @@ Mods removed:
 
 Mods disabled: 
 - Continuity (Crashes with latest version of 'ModernFix')
-- Iris & Oculus Flywheel Compat (Incompatible with later versions of 'Iris Shaders')
+- Improved Stations Updated (Incompatible with new version of 'Architectury API')
 
 Resource Packs removed:
 - 
@@ -41,6 +41,7 @@ Resource Packs updated:
 > Eclectic Trove
 > Sparkles (Previously "Incendium Optional Resourcepack")
 > Slightly Improved Font
+> Fresh Animations
 
 Mods updated: 
 > Adorn
@@ -142,6 +143,37 @@ Mods updated:
 > Xaero's World Map
 > YUNG's API
 > YUNG's Better Ocean Monuments
+> Architectury API
+> Balm
+> Better Archeology
+> Chunky
+> Collective
+> Create Fabric Sodium Fix
+> Desired Servers
+> Dusk
+> Elytra Trims
+> Enchantment Descriptions
+> Fabric Language Kotlin
+> Hephaestus Fabric
+> HerdsPanic
+> Iris & Oculus Flywheel Compat
+> Konkrete
+> Limited Chunkloading - Chunk cleanup
+> MCPitanLib
+> Puzzles Lib
+> Raised
+> Regions Unexplored
+> Philip's Ruins
+> Saplanting
+> Moonlight Lib
+> Simple Voice Chat
+> Simply Swords
+> Server Performance - Smooth Chunk Save
+> Starter Kit
+> Structure Essentials
+> TieredZ
+> Wavey Capes
+> YetAnotherConfigLib
 
 Config Changes: 
 = Set default resource packs to "required": [Resource Pack Overrides], [Client]

@@ -1,6 +1,6 @@
 name = "Improved Stations Updated (Fabric)"
 filename = "improved-stations-2.3.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

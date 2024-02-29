@@ -1,13 +1,13 @@
 name = "Better Archeology"
-filename = "betterarcheology-1.1.5-1.20.1.jar"
+filename = "betterarcheology-1.1.6-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6f09b1d10d8e8daab0db5facbe8a9a399400be20"
+hash = "157e29d22d67db03df105b8efca1c3bb78cb360f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5088426
+file-id = 5126609
 project-id = 835687
