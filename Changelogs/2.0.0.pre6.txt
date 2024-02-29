@@ -27,6 +27,7 @@ Mods added:
 + Balanced Recall
 + Amendments
 + Better End Cities Better End
++ Phantoms See Phantoms
 
 Mods re-enabled:
 + 
@@ -74,6 +75,7 @@ Mods updated:
 > Chat Heads
 > Cherished Worlds
 > Chunk Sending
+> Chunky
 > Clear Despawn
 > Clickable advancements
 > Cloth Config API
@@ -82,7 +84,10 @@ Mods updated:
 > Compact Help Command
 > Crafting Manipulator
 > CraterLib
+> Create Fabric Sodium Fix
 > Cupboard
+> Desired Servers
+> Dusk
 > Eating Animation
 > Elytra Trims
 > Enchantment Descriptions
@@ -99,17 +104,21 @@ Mods updated:
 > Furnace Recycle
 > Guard Villagers
 > Harvest with ease
+> Hephaestus Fabric
 > Hephaestus Fabric (Still disabled)
+> HerdsPanic
 > Iceberg
 > ImmediatelyFast
 > Incendium
 > Indium
 > Inv View
+> Iris & Oculus Flywheel Compat
 > Iris Shaders
 > Jade 🔍
 > Konkrete
 > Legendary Tooltips
 > LibZ
+> Limited Chunkloading - Chunk cleanup
 > Login Protection
 > MCPitanLib
 > MES - Moog's End Structures
@@ -135,6 +144,8 @@ Mods updated:
 > Regions Unexplored
 > Resource Pack Overrides
 > Roughly Enough Items
+> Saplanting
+> Server Performance - Smooth Chunk Save
 > Simple Voice Chat
 > Simply Swords
 > Skin Layers 3D
@@ -154,40 +165,11 @@ Mods updated:
 > Traveler's Titles
 > Variant Shields
 > Villagers Respawn
+> Wavey Capes
 > Xaero's Minimap (Fair-play Edition)
 > Xaero's World Map
 > YUNG's API
 > YUNG's Better Ocean Monuments
-> Architectury API
-> Balm
-> Better Archeology
-> Chunky
-> Collective
-> Create Fabric Sodium Fix
-> Desired Servers
-> Dusk
-> Elytra Trims
-> Enchantment Descriptions
-> Fabric Language Kotlin
-> Hephaestus Fabric
-> HerdsPanic
-> Iris & Oculus Flywheel Compat
-> Konkrete
-> Limited Chunkloading - Chunk cleanup
-> MCPitanLib
-> Puzzles Lib
-> Raised
-> Regions Unexplored
-> Philip's Ruins
-> Saplanting
-> Moonlight Lib
-> Simple Voice Chat
-> Simply Swords
-> Server Performance - Smooth Chunk Save
-> Starter Kit
-> Structure Essentials
-> TieredZ
-> Wavey Capes
 > YetAnotherConfigLib
 
 Config Changes: 
@@ -196,4 +178,5 @@ Config Changes:
 = Skill tree keybind moved to "J": [YOSBR], [Client]
 = Voice chat menu keybind moved to ",": [YOSBR], [Client]
 = Quiver keybind moved to "H": [YOSBR], [Client]
+= Enabled "connected_textures": [Continuity], [Client]
 = : [mod], [Server]
