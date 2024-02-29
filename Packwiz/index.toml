@@ -561,6 +561,11 @@ hash = "254abad1aa642594a197f9bd5be223b6561e4b56af55ec82519de6eb38f25ea7"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "62a06523495d2fe4423080876dbcd631378cf805c20a64c63f3768027b4f8c15"
+metafile = true
+
+[[files]]
 file = "mods/bow-infinity-fix.pw.toml"
 hash = "a930a3d6e449a6848df0592136c76ba1644ec39d004d3d643a51b43a1f8ee822"
 metafile = true
@@ -588,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "75bd2057f7a530765c35834444a11db0c9ead15941e39ec4c9bbc5742ab2214f"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
@@ -693,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "639aee7e72ceaf8b649c473ab94282a20152f1438b599f4328ac5726c6a0ecfe"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-fabric.pw.toml"
+hash = "df4a2abec8e59fbce59a7ebbfdb26b840ed397432b037bce3e3e89609dc35cb3"
 metafile = true
 
 [[files]]
@@ -976,6 +991,11 @@ hash = "bee809de5584d51bf7504aad2259c7285cc400aea7c69314a96bccccf586c530"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "193b27d3e0849d56e8a1a0d7ef415f673c4062f082a4f36cae0a353c3771840a"
+metafile = true
+
+[[files]]
 file = "mods/goblintraders-fabric.pw.toml"
 hash = "32ee7a7170ed798a1e4d8b4bd98d3659566615f8c189f70ea58419a39dce1c42"
 metafile = true
@@ -992,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-fabric.pw.toml"
-hash = "ae146621870ab701f6074770e962cc322da6475f9babfb8f86d3e514c74b57c0"
+hash = "0e300fa1d734916b2d6cf095dccd48f453fa371db1a4f2a11d91ce0a82d66681"
 metafile = true
 
 [[files]]
@@ -1033,6 +1053,16 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "da65fbd10ed7aa55571b3713dffb9beddbd356acf4bad6c923d53664dad7cf5a"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "77f701bec0b2c3167a44927b175a7b56bd87d8dedafd3d517fb63328540658c0"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "640f950e5e61573d353375ed4eef65ac75911a0dbba738dd2d95ed1c5012e4e4"
 metafile = true
 
 [[files]]
@@ -1588,6 +1618,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "38f8bd3cf2c32c8faefdb069b91e3657a3410793404180cae395b8563ba97b07"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "4499725e1dd6a3e219bf2802066ca8c33e966671a6834baf762c3b2adfaf5c45"
 metafile = true
 
 [[files]]

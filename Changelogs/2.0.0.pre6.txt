@@ -12,6 +12,14 @@ Mods added:
 + Item Banning [Server]
 + Nvidium [Client]
 + Noisium
++ Pufferfish's Skills
++ Simply Skills
++ Spell Engine
++ Spell Power Attributes
++ Trinkets
++ Cosmetic Armor
++ Supplementaries
+
 
 Mods re-enabled:
 + 
