@@ -1,0 +1,13 @@
+name = "Phantoms See Phantoms [Origins Addon]"
+filename = "phantoms-see-phantoms-1.0.1-1.20.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d25cd7d27fd6a8d3d91d07e8c3ec4adedd120c54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4610326
+project-id = 635171

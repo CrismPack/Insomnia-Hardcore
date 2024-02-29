@@ -254,7 +254,7 @@ hash = "93533d9b030625f4af88b15b848cf14541bb985b61395c32ca52ac29dac6a2fa"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "6f268f93b1038b0948800d87cce1a7c68a959a8097f13797e1f46c1c31c20fae"
+hash = "5a3211a6432f1ade9b7198395e9176fc0d1a69c0055c7e15e92c7c3d8b67455b"
 
 [[files]]
 file = "config/revive.json5"
@@ -282,7 +282,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "158a04f1d55c06fd76d34fe3210031cab7b6d0098267c914673915cd7fd7ab37"
+hash = "c9fa4d1adbeff6dd9f11d8bb385c9293220c68c68ef207d1c18fc706119ab30d"
 
 [[files]]
 file = "config/starterstructure.json5"
@@ -358,7 +358,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "18d6fd395305183642556fd716def72af17093f2a5086f6ce40ec1f4f781bb94"
+hash = "63360c9d8a072dd8a26c4b465823753b1c826a0fe4482e796abed1eb41fde41d"
 
 [[files]]
 file = "config/zoomify.json"
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "e0ee7761e35ac58ecbedbdca60f39388198b3f9f8b8dad7758041913d02e3928"
+hash = "7656223488484e966e067bd517eab3b135c181aa8d8419c6ee8d8d6e39b74a19"
 metafile = true
 
 [[files]]
@@ -1388,6 +1388,11 @@ metafile = true
 [[files]]
 file = "mods/phantom-config-fork-fabric.pw.toml"
 hash = "c99d9941789355b72326f1ecc158f1243280852b31bb4f4fbcaf7d16a1d226c8"
+metafile = true
+
+[[files]]
+file = "mods/phantoms-see-phantoms.pw.toml"
+hash = "01e6462b402b751f8c56b72a7e69204ee52125c6280418b9e34a91e82c9d0b1c"
 metafile = true
 
 [[files]]
