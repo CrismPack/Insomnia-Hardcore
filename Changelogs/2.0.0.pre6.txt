@@ -19,7 +19,14 @@ Mods added:
 + Trinkets
 + Cosmetic Armor
 + Supplementaries
-
++ Bosses of Mass Destruction
++ Cardinal Components API
++ GeckoLib
++ Integrated Stronghold
++ Integrated API
++ Balanced Recall
++ Amendments
++ Better End Cities Better End
 
 Mods re-enabled:
 + 
@@ -34,10 +41,9 @@ Data Packs added:
 + 
 
 Mods removed: 
-- 
+- Recall Staffs
 
 Mods disabled: 
-- Continuity (Crashes with latest version of 'ModernFix')
 - Improved Stations Updated (Incompatible with new version of 'Architectury API')
 
 Resource Packs removed:

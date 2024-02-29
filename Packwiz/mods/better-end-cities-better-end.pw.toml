@@ -1,0 +1,13 @@
+name = "Better End Cities Better End"
+filename = "betterendcitiesbetterend-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d594d6acc0f94758312b3f17c14654ce3e4b877"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5016441
+project-id = 959460

@@ -254,7 +254,7 @@ hash = "93533d9b030625f4af88b15b848cf14541bb985b61395c32ca52ac29dac6a2fa"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "95d6cbeb0528852bf989f75dc5be5e9dec2ad0f22742d1d9eb562bccc3f45e53"
+hash = "6f268f93b1038b0948800d87cce1a7c68a959a8097f13797e1f46c1c31c20fae"
 
 [[files]]
 file = "config/revive.json5"
@@ -416,6 +416,11 @@ hash = "6cdad9cfbdfa70b693e41ea74d313b023543a591935d5bcd98a070c388d1b82f"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "d07639aa74e3c3d98aee857122807c88e895523d7e81d98ecceae914a5c05618"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c61e23259e422098fde9b6393492f4f6e22e1bc074a397ae4c6edd686481e397"
 metafile = true
@@ -466,6 +471,11 @@ hash = "f669df389d657bfe34911d2221d3e0aecdfc22c28a3d1d7ae4fad8b6b48592d2"
 metafile = true
 
 [[files]]
+file = "mods/balanced-recall.pw.toml"
+hash = "b4fd578c2e8e5466601cf589399358d8bfaf1d2b1073a678b5fe9975b8f8ccf2"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "e7c9c18b4b212edffbf509337363a7f7010fd90631d01fc9e306a76919c60938"
 metafile = true
@@ -493,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a9a1cab9799d53f3166d46f5cb4471772fd412208c3695e2d58dded70c4447b7"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-better-end.pw.toml"
+hash = "3f270ea1ab6022f414b7bfad04174644b8f1365e921e176456a651cc951e7cb8"
 metafile = true
 
 [[files]]
@@ -1426,11 +1441,6 @@ hash = "2a483c75ceab8aab598179b78605c3f36ba24b5b8b6a1d6f20a7e5c2cd5777aa"
 metafile = true
 
 [[files]]
-file = "mods/recall-staffs.pw.toml"
-hash = "8d7d6060b5f79b24d55ab01246dfbfa7fc69985f04ba64fb6df1606c6fd2df96"
-metafile = true
-
-[[files]]
 file = "mods/recipe-book-delight.pw.toml"
 hash = "fc443e1b366e445d99b1394caa4ce7fc20f6bf2c3ce746b6e811dc12a93e4777"
 metafile = true
@@ -1778,11 +1788,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
 hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds-fabric.pw.toml"
-hash = "520012b82bfa92bbd6ac71855d16119eaa7e4c3e7e29234ac00f4861dbd4b44b"
 metafile = true
 
 [[files]]

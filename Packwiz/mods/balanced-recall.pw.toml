@@ -1,0 +1,13 @@
+name = "Balanced Recall"
+filename = "balancedrecall-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d58745157d161ff8dfcd8a83f7f1d9ac6349556"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4583818
+project-id = 520624
