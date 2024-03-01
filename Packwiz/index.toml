@@ -471,6 +471,11 @@ hash = "f669df389d657bfe34911d2221d3e0aecdfc22c28a3d1d7ae4fad8b6b48592d2"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
+metafile = true
+
+[[files]]
 file = "mods/balanced-recall.pw.toml"
 hash = "b4fd578c2e8e5466601cf589399358d8bfaf1d2b1073a678b5fe9975b8f8ccf2"
 metafile = true
@@ -1381,6 +1386,11 @@ hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "7d937c8ebc4329651901d2d8db8df20f25e232e5c5c32cec1ee651cb45944884"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
@@ -1498,6 +1508,11 @@ metafile = true
 [[files]]
 file = "mods/ruins.pw.toml"
 hash = "5cb576b2ab61ba3a549c97714f5272257e7c7e23307481cb5b43c4ed9eaf51ea"
+metafile = true
+
+[[files]]
+file = "mods/rune-crafting.pw.toml"
+hash = "47811f1ce283a8f1ed4bffef4d64881a497e709cf1e7b76f908fb43b73f80f8c"
 metafile = true
 
 [[files]]

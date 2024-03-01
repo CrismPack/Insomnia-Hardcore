@@ -28,6 +28,9 @@ Mods added:
 + Amendments
 + Better End Cities Better End
 + Phantoms See Phantoms
++ Paladins & Priests
++ AzureLib Armor
++ Runes
 
 Mods re-enabled:
 + 
@@ -139,7 +142,6 @@ Mods updated:
 > Philip's Ruins
 > Puzzles Lib
 > Raised
-> Recall Staffs
 > Recipe Book Delight
 > Regions Unexplored
 > Resource Pack Overrides
