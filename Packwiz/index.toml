@@ -441,6 +441,11 @@ hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "b581a16b16dc0638a8d453d89414f87d6f7bbbf36c7bf1cb8392644f4b068405"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
@@ -826,6 +831,11 @@ hash = "6a86fc0be268b1e90cb9ff397f105b14181a3df3fdcc4cb273d0357d3a49353d"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+hash = "f5082035217b95773f04d7b0aa6e668640dd6af6ef486d22d2f41b0d21bf4498"
+metafile = true
+
+[[files]]
 file = "mods/dusk.pw.toml"
 hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
 metafile = true
@@ -1128,6 +1138,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "719efbded91caca11955680ad9e54816a31511184f4a988fb94b8980d62d0726"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "5f3243ee0faefb2c61304082419089647d540d3c6e2b5877693102442ffa0d9b"
 metafile = true
 
 [[files]]
@@ -1436,6 +1451,11 @@ hash = "21d124728114bf2162251aee0fd303565a5f0671bf1126cf3deef911865496b5"
 metafile = true
 
 [[files]]
+file = "mods/projectile-damage-attribute.pw.toml"
+hash = "a0f4e71abdcb3fa24e45fe8fb83aa43fb40e1be7d0729795ae15f42a8b642f27"
+metafile = true
+
+[[files]]
 file = "mods/puffish-skills.pw.toml"
 hash = "c06cbb4570e7d3537b56dfb0ab50f7b894ee62303d85e2a664180cc9fc920862"
 metafile = true
@@ -1536,6 +1556,11 @@ hash = "ad34953f92e1e77f759d7bd5b4ece00bc6be4181d440ca72e38ed5feecb3657b"
 metafile = true
 
 [[files]]
+file = "mods/shield-overhaul.pw.toml"
+hash = "6a29fe0efc060d4c977f15852a24ae23f9d5dec345d055daab33f3d781c4cb70"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "ef8b8e9ff72f5c373374a698e74fae83c48ff0d7dff710dd4dc9ab06a0ba6c99"
 metafile = true
@@ -1633,6 +1658,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "7e7fb324ca663d3ff128f62d9b424e7f799edb4535d94d15a3a5f64080b81653"
 metafile = true
 
 [[files]]
@@ -1748,6 +1778,11 @@ metafile = true
 [[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "1596ded8bc6eae0479cca0602c3e3bcd5d4aec37ecfa62c77341897c1ffd13f4"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "92b95f0f3973c8a8e2aff6807485d32aa26a051a555798346e85d5bcaa304fbf"
 metafile = true
 
 [[files]]

@@ -31,6 +31,13 @@ Mods added:
 + Paladins & Priests
 + AzureLib Armor
 + Runes
++ Archers
++ Dungeon Difficulty
++ Jewelry
++ Wizards
++ Shield Overhaul
++ Projectile Damage Attribute
++ Structure Pool API
 
 Mods re-enabled:
 + 
