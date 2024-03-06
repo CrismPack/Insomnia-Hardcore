@@ -44,6 +44,10 @@ Mods added:
 + Amethyst Imbuement
 + Amethyst Core
 + Fzzy Core
++ Tom's Simple Storage Mod
++ YDM's Weapon Master
++ Extra Origins
++ Pehkui
 
 Mods re-enabled:
 + 
@@ -59,6 +63,7 @@ Data Packs added:
 
 Mods removed: 
 - Recall Staffs
+- Philip's Ruins
 
 Mods disabled: 
 - Improved Stations Updated (Incompatible with new version of 'Architectury API')

@@ -946,6 +946,11 @@ hash = "c2e938d1bdd1136e04b8be8c1378e2e33956ac23aa91d3a76003db6f2f75cbd1"
 metafile = true
 
 [[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "acda931d010bb5acce872d18dbd29d5a096727cb790c7ca64bee3415584a8f59"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
 metafile = true
@@ -1446,6 +1451,11 @@ hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "c02e49fc6a3512123893e59e61be0ba804ba9bc9069dcc71683d9efa98145192"
+metafile = true
+
+[[files]]
 file = "mods/phantom-config-fork-fabric.pw.toml"
 hash = "c99d9941789355b72326f1ecc158f1243280852b31bb4f4fbcaf7d16a1d226c8"
 metafile = true
@@ -1766,6 +1776,11 @@ hash = "2955764f5e4c8f6c7c4f0609f2c58790574de5d6b67ec9d1373eed6c1fd7ce82"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "6d550472363cf38a2058928fe4110c71dd5e4ea4319078674b277b24c00dadf5"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "9c686b8a69a61af3b889070efebfb049d0932036ab458a29d409bc193e63c02c"
 metafile = true
@@ -1838,6 +1853,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "ca3ac02ca26b3610a1d82bfaf86bcb143dcee7ddab9495d16e5a58e41e911e01"
+metafile = true
+
+[[files]]
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "5044c8c7ba0e463b2d7f4a15a15b7284a52f47d687885ded1ac206f1d42ffd75"
 metafile = true
 
 [[files]]
