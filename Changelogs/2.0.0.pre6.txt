@@ -17,7 +17,6 @@ Mods added:
 + Spell Engine
 + Spell Power Attributes
 + Trinkets
-+ Cosmetic Armor
 + Supplementaries
 + Bosses of Mass Destruction
 + Cardinal Components API
@@ -38,6 +37,13 @@ Mods added:
 + Shield Overhaul
 + Projectile Damage Attribute
 + Structure Pool API
++ MC Dungeons Weapons
++ MC Dungeons Armors
++ MC Dungeons Artifacts
++ Adaptive Tooltips
++ Amethyst Imbuement
++ Amethyst Core
++ Fzzy Core
 
 Mods re-enabled:
 + 

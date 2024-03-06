@@ -322,7 +322,7 @@ hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
 [[files]]
 file = "config/yosbr/config/continuity.json"
-hash = "f59bb9447f03baa60f57e6bb0fdd8f39ce7d26f811560ec5e3bf2a876af6f656"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
@@ -381,6 +381,11 @@ file = "modlist.html"
 hash = "453a01b46b2b06c1e752bdd34285ebb2d1cbef106b151df7122ba4801fe920b1"
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "e13decd7dfb68cd726f14550d9e970e93b14ffd280eca11c9e9b175b2511814c"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "7b761f6ed4434ca9137777989add9400e0ab8eb9f0993a625a061b0afc0adf36"
 metafile = true
@@ -418,6 +423,16 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "d07639aa74e3c3d98aee857122807c88e895523d7e81d98ecceae914a5c05618"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-core.pw.toml"
+hash = "a345417d8f9fb09e40aed250384ba7ec57742071801c41d7f93a8f1bbb914260"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "156fe68d41de284ff0c36c9f7bfe7890b800eca16dea241dc8fbf7a328cdb1a6"
 metafile = true
 
 [[files]]
@@ -1021,6 +1036,11 @@ hash = "bee809de5584d51bf7504aad2259c7285cc400aea7c69314a96bccccf586c530"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-core.pw.toml"
+hash = "da17d216e13d25519654c4a6c30849a7fce02a603d56808d289ba932a559644c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "193b27d3e0849d56e8a1a0d7ef415f673c4062f082a4f36cae0a353c3771840a"
 metafile = true
@@ -1233,6 +1253,21 @@ metafile = true
 [[files]]
 file = "mods/mavm.pw.toml"
 hash = "d9dcf3aa4af68c86b82d2dd449860b39d4a426436d13b23a3a711fa34f11f547"
+metafile = true
+
+[[files]]
+file = "mods/mcda.pw.toml"
+hash = "333cb58e1cab1448071222a9d53d5df22c6388989e1659b03f10754c01d758bf"
+metafile = true
+
+[[files]]
+file = "mods/mcdar.pw.toml"
+hash = "1da226baff413844de54a7f9af619126212b888ec5da95d2d4540638dd21a01d"
+metafile = true
+
+[[files]]
+file = "mods/mcdw.pw.toml"
+hash = "efafe1046b5ba04eae4e15bfa98f607a0b4e8b75123bf52b107c673f0c09e90e"
 metafile = true
 
 [[files]]
