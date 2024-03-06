@@ -41,7 +41,7 @@ Mods added:
 + MC Dungeons Weapons
 + MC Dungeons Armors
 + MC Dungeons Artifacts
-+ Adaptive Tooltips
++ Adaptive Tooltips [Client]
 + Amethyst Imbuement
 + Amethyst Core
 + Fzzy Core
@@ -49,6 +49,18 @@ Mods added:
 + YDM's Weapon Master
 + Extra Origins
 + Pehkui
++ Explosive Enhancement [Client] [MR]
++ Nicer Skies [Client]
++ DarkTimer - Clear Entity Lag [Server]
++ Formations Nether
++ Formations (Structure Library)
++ Formations Overworld
++ Separated Leaves
++ Heartbond
++ Fast Async World Save
++ Elytra Trims Extensions
++ Dynamic Trim
++ All The Trims
 
 Mods re-enabled:
 + 

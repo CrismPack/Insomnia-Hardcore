@@ -1,0 +1,13 @@
+name = "DarkTimer - Clear Entity Lag (Fabric/Forge)"
+filename = "darktimer-fabric-1.20.1-1.1.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "cefa8a71face042117287b52bcc3a2f2136d688c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5038045
+project-id = 835940

@@ -1,0 +1,13 @@
+name = "Heartbond"
+filename = "Heartbond-1.20-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8ba63653b4e5c4813dc020b5fca4cd20fbc8953"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4630557
+project-id = 421890
