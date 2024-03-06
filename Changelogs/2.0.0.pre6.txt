@@ -4,11 +4,12 @@ v2.0.0.pre6
 
 Fabric version: Fabric-0.15.7
 Update overview: 
+~ Added a bunch more RPG style content mods.
+~ Armor rarity can again give additional health.
 ~ Updated all mods to their latest version.
 ~ And more...
 
 Mods added:
-+  [Client] [MR]
 + Item Banning [Server]
 + Nvidium [Client]
 + Noisium
@@ -59,7 +60,8 @@ Resource Packs added:
 +  [MR]
 
 Data Packs added:
-+ 
++ Extra Origins - Disable Piglin [Custom]
++ Origins Classes - Disable Merchant [Custom]
 
 Mods removed: 
 - Recall Staffs
@@ -72,7 +74,7 @@ Resource Packs removed:
 - 
 
 Data Packs removed:
-- 
+- Disable_TieredZ_Max_Health
 
 Resource Packs updated:
 > Eclectic Trove
