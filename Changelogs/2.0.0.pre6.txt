@@ -13,60 +13,57 @@ Mods added:
 + Item Banning [Server]
 + Nvidium [Client]
 + Noisium
-+ Pufferfish's Skills
 + Simply Skills
-+ Spell Engine
-+ Spell Power Attributes
-+ Trinkets
++ Pufferfish's Skills [Dependency of 'Simply Skills']
++ Spell Engine [Dependency of 'Simply Skills']
++ Spell Power Attributes [Dependency of 'Simply Skills']
 + Supplementaries
 + Bosses of Mass Destruction
-+ Cardinal Components API
-+ GeckoLib
++ Cardinal Components API [Dependency of 'Bosses of Mass Destruction']
++ GeckoLib [Dependency of 'Bosses of Mass Destruction']
 + Integrated Stronghold
-+ Integrated API
++ Integrated API [Dependency of 'Integrated Stronghold']
 + Balanced Recall
 + Amendments
 + Better End Cities Better End
 + Phantoms See Phantoms
-+ Paladins & Priests
-+ AzureLib Armor
-+ Runes
-+ Archers
-+ Dungeon Difficulty
-+ Jewelry
-+ Wizards
++ Paladins & Priests (RPG Series)
++ AzureLib Armor [Dependency of 'RPG Series' mods]
++ Runes [Dependency of 'Paladins & Priests' & 'Wizards']
++ Archers (RPG Series)
++ Dungeon Difficulty (RPG Series)
++ Wizards (RPG Series)
 + Shield Overhaul
-+ Projectile Damage Attribute
-+ Structure Pool API
++ Projectile Damage Attribute [Dependency of 'Archers' & 'Dungeon Difficulty']
 + MC Dungeons Weapons
 + MC Dungeons Armors
-+ MC Dungeons Artifacts
 + Adaptive Tooltips [Client]
-+ Amethyst Imbuement
-+ Amethyst Core
-+ Fzzy Core
-+ Tom's Simple Storage Mod
 + YDM's Weapon Master
 + Extra Origins
-+ Pehkui
++ Pehkui [Dependency of 'Extra Origins']
 + Explosive Enhancement [Client] [MR]
-+ Nicer Skies [Client]
 + DarkTimer - Clear Entity Lag [Server]
 + Formations Nether
-+ Formations (Structure Library)
 + Formations Overworld
++ Formations (Structure Library) [Dependency of 'Formations']
 + Separated Leaves
 + Heartbond
 + Fast Async World Save
 + Elytra Trims Extensions
-+ Dynamic Trim
 + All The Trims
++ Dynamic Trim [Dependency of 'All The Trims']
++ Geophilic
 
 Mods re-enabled:
 + 
 
 Mod side changes:
 =  [Both --> Client]
+
+
+Metadata changes:
+= Mod Menu [MR --> CF]
+
 
 Resource Packs added:
 +  [MR]

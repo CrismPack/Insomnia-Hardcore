@@ -358,7 +358,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "63360c9d8a072dd8a26c4b465823753b1c826a0fe4482e796abed1eb41fde41d"
+hash = "923bf5cc3da4f4838210a944db47a510ff30e05d161ed8662bec04e67faddd57"
 
 [[files]]
 file = "config/zoomify.json"
@@ -428,16 +428,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "d07639aa74e3c3d98aee857122807c88e895523d7e81d98ecceae914a5c05618"
-metafile = true
-
-[[files]]
-file = "mods/amethyst-core.pw.toml"
-hash = "a345417d8f9fb09e40aed250384ba7ec57742071801c41d7f93a8f1bbb914260"
-metafile = true
-
-[[files]]
-file = "mods/amethyst-imbuement.pw.toml"
-hash = "156fe68d41de284ff0c36c9f7bfe7890b800eca16dea241dc8fbf7a328cdb1a6"
 metafile = true
 
 [[files]]
@@ -1081,13 +1071,13 @@ hash = "bee809de5584d51bf7504aad2259c7285cc400aea7c69314a96bccccf586c530"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-core.pw.toml"
-hash = "da17d216e13d25519654c4a6c30849a7fce02a603d56808d289ba932a559644c"
+file = "mods/geckolib.pw.toml"
+hash = "193b27d3e0849d56e8a1a0d7ef415f673c4062f082a4f36cae0a353c3771840a"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "193b27d3e0849d56e8a1a0d7ef415f673c4062f082a4f36cae0a353c3771840a"
+file = "mods/geophilic.pw.toml"
+hash = "384890bbfa7253871daf0784a331f725b998d2c049c86daf7a238ea358e80af0"
 metafile = true
 
 [[files]]
@@ -1211,11 +1201,6 @@ hash = "719efbded91caca11955680ad9e54816a31511184f4a988fb94b8980d62d0726"
 metafile = true
 
 [[files]]
-file = "mods/jewelry.pw.toml"
-hash = "5f3243ee0faefb2c61304082419089647d540d3c6e2b5877693102442ffa0d9b"
-metafile = true
-
-[[files]]
 file = "mods/knaves-needs.pw.toml"
 hash = "261b1ad09e9edb5016dfbe3b5e114c46d0a3c0bd2e908957395abfea7dfa7806"
 metafile = true
@@ -1311,11 +1296,6 @@ hash = "333cb58e1cab1448071222a9d53d5df22c6388989e1659b03f10754c01d758bf"
 metafile = true
 
 [[files]]
-file = "mods/mcdar.pw.toml"
-hash = "1da226baff413844de54a7f9af619126212b888ec5da95d2d4540638dd21a01d"
-metafile = true
-
-[[files]]
 file = "mods/mcdw.pw.toml"
 hash = "efafe1046b5ba04eae4e15bfa98f607a0b4e8b75123bf52b107c673f0c09e90e"
 metafile = true
@@ -1377,7 +1357,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
 
 [[files]]
@@ -1428,11 +1408,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
 hash = "23ab8cbe4992e305825d977af0aa8d023a7acff693d0a3a311dae1e78f43a5d1"
-metafile = true
-
-[[files]]
-file = "mods/nicer-skies.pw.toml"
-hash = "2693ff55b675e593f1b5152a3f6ccf3f004cb6badc290211621ccfb14cd3b1f0"
 metafile = true
 
 [[files]]
@@ -1756,11 +1731,6 @@ hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
 metafile = true
 
 [[files]]
-file = "mods/structure-pool-api.pw.toml"
-hash = "7e7fb324ca663d3ff128f62d9b424e7f799edb4535d94d15a3a5f64080b81653"
-metafile = true
-
-[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b06c4ab8ded67fe92b0943cee3593654421b2fa50c888d86e764dae453152ac7"
 metafile = true
@@ -1823,11 +1793,6 @@ metafile = true
 [[files]]
 file = "mods/tipthescales.pw.toml"
 hash = "2955764f5e4c8f6c7c4f0609f2c58790574de5d6b67ec9d1373eed6c1fd7ce82"
-metafile = true
-
-[[files]]
-file = "mods/toms-storage-fabric.pw.toml"
-hash = "6d550472363cf38a2058928fe4110c71dd5e4ea4319078674b277b24c00dadf5"
 metafile = true
 
 [[files]]
