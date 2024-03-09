@@ -1037,6 +1037,21 @@ hash = "69671618ff9c47097516e97e089679513924bd3b81f15b0f412023fccb4fa68d"
 metafile = true
 
 [[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "3b55aac4512fe924a11fa80afb469bca0f5360750f529f0799274035dd6d62e7"
+metafile = true
+
+[[files]]
+file = "mods/fastanim.pw.toml"
+hash = "a572cf3fe79af016c34abcbb7c286c28a840f98f1ab52b91167cde7cd3ae925a"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "d15f94b721a01d87f9f714429a5a2dec23992e67d2bbafa65fc53f203f45ff1b"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "8629f55ffd91cfa46eb26611afc3b188dbccc7164277c3d9b7df2dc09b219932"
 metafile = true
@@ -1049,6 +1064,11 @@ metafile = true
 [[files]]
 file = "mods/fix-experience-bug.pw.toml"
 hash = "eac38e997f47d45ceae876a7cff183967e9ff9e5fdd8a3bed42847f2afad52de"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c344531240115caf4389148fd9ebe51731aa329cec5e9794a046e7050dae01ea"
 metafile = true
 
 [[files]]

@@ -56,7 +56,10 @@ Mods added:
 + Dynamic Trim [Dependency of 'All The Trims']
 + Geophilic
 + Unsafe World Random Access Detector
-+ Concurrent Chunk Management Engine [Client]
++ Fast Paintings [Client]
++ FastAnim [Client]
++ FastQuit [Client]
++ fix GPU memory leak [Client]
 
 Mods re-enabled:
 + Create Fabric
@@ -220,4 +223,5 @@ Config Changes:
 = Renamed "Open to LAN" button to "Open to Friends": [Insomnia Custom Lang], [Client]
 = Renamed "LAN world" text to "Shared World": [Insomnia Custom Lang], [Client]
 = Added a disclaimer message to the "Open to LAN" menu: [FancyMenu], [Client]
+= Disabled "Buffer Health" (Causes visual glitches on the health bar): [Exordium], [Client]
 = : [mod], [Server]
