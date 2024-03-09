@@ -451,11 +451,6 @@ hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
 
 [[files]]
-file = "mods/apugli.pw.toml"
-hash = "29ca2bb552d2e4b62b0f98b91db58ba5424966ba7872bb1f991808e6fb8c099f"
-metafile = true
-
-[[files]]
 file = "mods/archers.pw.toml"
 hash = "b581a16b16dc0638a8d453d89414f87d6f7bbbf36c7bf1cb8392644f4b068405"
 metafile = true
@@ -1802,7 +1797,7 @@ metafile = true
 
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
-hash = "9c8199ea571faaf9a1a4a7ee95dadcdccce70700a32eb608973033f0238b2c5a"
+hash = "2f93c4ffb699cb9fe686551c8784ec5bfbaac83e35b9c1034d3c3eb37279854f"
 metafile = true
 
 [[files]]
@@ -1823,6 +1818,11 @@ metafile = true
 [[files]]
 file = "mods/true-darkness-fork-fabric.pw.toml"
 hash = "ec83f6b5b972bac6528a7ec65198b5db6592d2d2172bfa9064421fe8942a672a"
+metafile = true
+
+[[files]]
+file = "mods/uwrad.pw.toml"
+hash = "b904cd84869c6e4ed875380b662672768bfe44e69b412fbccfa420b1c05e7247"
 metafile = true
 
 [[files]]

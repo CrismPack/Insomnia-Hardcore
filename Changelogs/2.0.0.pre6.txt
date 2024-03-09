@@ -54,6 +54,7 @@ Mods added:
 + All The Trims
 + Dynamic Trim [Dependency of 'All The Trims']
 + Geophilic
++ Unsafe World Random Access Detector
 
 Mods re-enabled:
 + Create Fabric
@@ -196,7 +197,7 @@ Mods updated:
 > Tectonic
 > TerraBlender
 > TieredZ
-> TooManyOrigins
+> TooManyOrigins [Pinned to v1.0.1 (v1.1.0 causes crashes)]
 > Towns and Towers
 > Traveler's Titles
 > Variant Shields
