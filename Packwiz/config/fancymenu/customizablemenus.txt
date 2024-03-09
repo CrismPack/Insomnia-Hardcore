@@ -27,3 +27,5 @@ net.coderbot.iris.gui.screen.ShaderPackScreen {
 net.minecraft.class_5375 {
 }
 
+net.minecraft.class_436 {
+}

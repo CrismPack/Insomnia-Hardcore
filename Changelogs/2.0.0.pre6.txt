@@ -8,6 +8,7 @@ Update overview:
 ~ Added a bunch more RPG style content mods.
 ~ Armor rarity can again give additional health.
 ~ Updated all mods to their latest version.
+~ Added ability to invite friends into singleplayer worlds with no port-forwarding required.
 ~ And more...
 
 Mods added:
@@ -216,4 +217,7 @@ Config Changes:
 = Voice chat menu keybind moved to ",": [YOSBR], [Client]
 = Quiver keybind moved to "H": [YOSBR], [Client]
 = Enabled "connected_textures": [Continuity], [Client]
+= Renamed "Open to LAN" button to "Open to Friends": [Insomnia Custom Lang], [Client]
+= Renamed "LAN world" text to "Shared World": [Insomnia Custom Lang], [Client]
+= Added a disclaimer message to the "Open to LAN" menu: [FancyMenu], [Client]
 = : [mod], [Server]

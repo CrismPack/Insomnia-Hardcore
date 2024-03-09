@@ -94,7 +94,7 @@ hash = "a2d4dc30d05c042e4a943dd816c17e0b554dbfd61f27edb96eb6a7599c817570"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "d5dfe62a46b439f7ae06fee27a1cc11e36faa1f920d39fff1efd5aef4491a70d"
+hash = "9b7424132396e5ac311693aa03332d0ee4a081c737e03aed4b5f130a987ae054"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen Singleplayer.txt"
@@ -107,6 +107,10 @@ hash = "da6f4e1390d63b2cbf2a0a83239cdd15897db85ad84bad7ae58479b18d4d3920"
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
 hash = "8594195d79f97a09f2144f8412ac4e598e89d9624019d291e46eea0ba095b163"
+
+[[files]]
+file = "config/fancymenu/customization/lanmenu.txt"
+hash = "278c4e32a7873c478872afc7fd1714eecc95be53f9a59dbb173a4b60f30e3054"
 
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
@@ -377,8 +381,12 @@ file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
 hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
-file = "global_packs/required_resources/Insomnia Custom Lang.zip"
-hash = "121de1b2758a5c85bd395eb6304d6c1fc0a5378a07eeb002d83b5d845e76b1a1"
+file = "global_packs/required_resources/Insomnia Custom Lang/assets/minecraft/lang/en_us.json"
+hash = "99b77bc5350d56f89751ed9543dce3fc1b75c0451f55a830f3ceab1dd7c25951"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Custom Lang/pack.mcmeta"
+hash = "de0ffb7f22f7bf11ea64f35c583d809c589f0e7f43eddcc350ea50f160db0913"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
@@ -866,6 +874,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-trim.pw.toml"
 hash = "d7d713bb51ab473f8a980e70afb5b0c106e39b33e6d9fd6c8d3bfa20de4f7733"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "ead9a96e008129143a6928305600172051275e4dc70a6cfd5b099ac9d5be89c2"
 metafile = true
 
 [[files]]

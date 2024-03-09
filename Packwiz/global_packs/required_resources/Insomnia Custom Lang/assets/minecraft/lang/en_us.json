@@ -1,0 +1,11 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  "block.minecraft.bed.no_sleep": "You are an insomniac; you can't sleep!",
+  "deathScreen.title": "You Died!",
+  "deathScreen.title.hardcore": "§c§lGame Over!",
+  "menu.shareToLan": "Open to Friends",
+  "lanServer.title": "Shared World",
+  "lanServer.start": "Start Shared World"
+}
