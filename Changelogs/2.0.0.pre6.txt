@@ -4,6 +4,7 @@ v2.0.0.pre6
 
 Fabric version: Fabric-0.15.7
 Update overview: 
+~ Added most of the 'RPG Series' mods.
 ~ Added a bunch more RPG style content mods.
 ~ Armor rarity can again give additional health.
 ~ Updated all mods to their latest version.
@@ -55,7 +56,7 @@ Mods added:
 + Geophilic
 
 Mods re-enabled:
-+ 
++ Create Fabric
 
 Mod side changes:
 =  [Both --> Client]
@@ -75,6 +76,7 @@ Data Packs added:
 Mods removed: 
 - Recall Staffs
 - Philip's Ruins
+- Create Fabric Sodium Fix
 
 Mods disabled: 
 - Improved Stations Updated (Incompatible with new version of 'Architectury API')
@@ -90,6 +92,7 @@ Resource Packs updated:
 > Sparkles (Previously "Incendium Optional Resourcepack")
 > Slightly Improved Font
 > Fresh Animations
+> Fresh Animations Extensions
 
 Mods updated: 
 > Adorn
@@ -116,10 +119,11 @@ Mods updated:
 > Compact Help Command
 > Crafting Manipulator
 > CraterLib
-> Create Fabric Sodium Fix
+> Create Fabric
 > Cupboard
 > Desired Servers
 > Dusk
+> Easy Anvils
 > Eating Animation
 > Elytra Trims
 > Enchantment Descriptions
@@ -161,6 +165,7 @@ Mods updated:
 > ModernFix
 > Moonlight Lib
 > More Culling
+> More Geodes
 > Neruina - Ticking Entity Fixer
 > Nether Portal Spread
 > NetherPortalFix

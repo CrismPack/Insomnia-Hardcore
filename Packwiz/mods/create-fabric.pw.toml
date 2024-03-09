@@ -1,13 +1,13 @@
 name = "Create Fabric"
-filename = "create-fabric-0.5.1-d-build.1161+mc1.20.1.jar"
-side = "both(disabled)"
+filename = "create-fabric-0.5.1-f-build.1335+mc1.20.1.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e5f066598208b340e1a35285d539ac07ac4f6b8e"
+hash = "008a0169efbaca4a144af7467ca659a4011c30f4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4721061
+file-id = 5168511
 project-id = 624165
