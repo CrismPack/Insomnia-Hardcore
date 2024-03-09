@@ -55,6 +55,7 @@ Mods added:
 + Dynamic Trim [Dependency of 'All The Trims']
 + Geophilic
 + Unsafe World Random Access Detector
++ Concurrent Chunk Management Engine [Client]
 
 Mods re-enabled:
 + Create Fabric
@@ -71,7 +72,7 @@ Resource Packs added:
 +  [MR]
 
 Data Packs added:
-+ Extra Origins - Disable Piglin [Custom]
++ Extra Origins - Disable Piglin [Custom] [Server]
 + Origins Classes - Disable Merchant [Custom]
 
 Mods removed: 
@@ -109,7 +110,6 @@ Mods updated:
 > Blockus
 > Bookshelf
 > Chat Heads
-> Cherished Worlds
 > Chunk Sending
 > Chunky
 > Clear Despawn
