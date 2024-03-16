@@ -256,4 +256,5 @@ Config Changes:
 = Disabled "Buffer Health" (Causes visual glitches on the health bar): [Exordium], [Client]
 = Disabled vanilla capes (doesn't affect usage of banners as capes): [YOSBR], [Client]
 = Added filters for ugly log messages from 'Create' and its addons during startup: [Log Begone], [Both]
+= Enabled "flatGuiRender": [Shulker+], [Client]
 = : [mod], [Server]

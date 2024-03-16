@@ -230,7 +230,7 @@ hash = "4a4dda2b52473167b9ead56c2db4e14d7a3b30047385f87672bbe3e548b51cb5"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "9a15bd3cc93c2521a6e53a703b15eceef6ed8483a970247dd0abb5c6d3437027"
+hash = "acf94ebd627ef3d07120f312ad7c1dae7a1b4dbd1ef46d7416028a6403619ec0"
 
 [[files]]
 file = "config/logprot.json"
@@ -271,6 +271,10 @@ hash = "6204d24be2d0b7a73b5979f62345a49d51eb95e42f17c2eaae4995290ad44812"
 [[files]]
 file = "config/revive.json5"
 hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
+
+[[files]]
+file = "config/shulkerplus/client.json"
+hash = "a1e737ada220ee043bb5d75af31386be87ba0d6c78511b07750e970b4da427f1"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
