@@ -57,17 +57,14 @@ Mods added:
 + Geophilic
 + Unsafe World Random Access Detector
 + Fast Paintings [Client]
-+ FastAnim [Client]
 + FastQuit [Client]
 + fix GPU memory leak [Client]
 + Item Obliterator
 + Necronomicon API [Dependency of 'Item Obliterator']
-+ Spellblades and Such
-+ AzureLib [Dependency of 'Spellblades and Such']
-+ Extra RPG Attributes [Dependency of 'Spellblades and Such']
 + Chunky Border
 + DoesPotatoTick
 + Mobtimizations - Entity Performance Fixes
++ CoroUtil [Dependency of 'Mobtimizations']
 + Create: Bells & Whistles
 + Expanded Delight
 + Music Maker Mod
@@ -78,12 +75,24 @@ Mods added:
 + Resourceful Lib
 + Deeper and Darker
 + Beneath the Wetlands
++ Delightful Creators
++ End's Delight
++ Ocean's Delight
++ [Let's Do] Brewery
++ [Let's Do] NetherVinery
++ [Let's Do] Vinery
++ [Let's Do] API
++ Lithostitched [Soft dependency of 'Tectonic']
++ Chipped
++ Athena [Dependency of 'Chipped']
++ Elytra Slot
++ Create: Steam 'n' Rails
 
 Mods re-enabled:
 + Create Fabric
 
 Mod side changes:
-=  [Both --> Client]
+= Log Begone [Server --> Both]
 
 
 Metadata changes:
@@ -91,7 +100,7 @@ Metadata changes:
 
 
 Resource Packs added:
-+  [MR]
++ xali's Enchanted Books
 
 Data Packs added:
 + Extra Origins - Disable Piglin [Custom] [Server]
@@ -102,7 +111,7 @@ Mods removed:
 - Philip's Ruins
 - Create Fabric Sodium Fix
 - Adorn
-- Fabric Language Kotlin
+- Capes
 
 Mods disabled: 
 - Improved Stations Updated (Incompatible with new version of 'Architectury API')
@@ -244,4 +253,5 @@ Config Changes:
 = Renamed "LAN world" text to "Shared World": [Insomnia Custom Lang], [Client]
 = Added a disclaimer message to the "Open to LAN" menu: [FancyMenu], [Client]
 = Disabled "Buffer Health" (Causes visual glitches on the health bar): [Exordium], [Client]
+= Disabled vanilla capes (doesn't affect usage of banners as capes): [YOSBR], [Client]
 = : [mod], [Server]
