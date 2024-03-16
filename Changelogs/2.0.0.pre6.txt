@@ -87,6 +87,7 @@ Mods added:
 + Athena [Dependency of 'Chipped']
 + Elytra Slot
 + Create: Steam 'n' Rails
++ Create Slice & Dice
 
 Mods re-enabled:
 + Create Fabric
@@ -254,4 +255,5 @@ Config Changes:
 = Added a disclaimer message to the "Open to LAN" menu: [FancyMenu], [Client]
 = Disabled "Buffer Health" (Causes visual glitches on the health bar): [Exordium], [Client]
 = Disabled vanilla capes (doesn't affect usage of banners as capes): [YOSBR], [Client]
+= Added filters for ugly log messages from 'Create' and its addons during startup: [Log Begone], [Both]
 = : [mod], [Server]

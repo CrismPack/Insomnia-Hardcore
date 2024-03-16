@@ -1816,6 +1816,11 @@ hash = "0c9d06e39feb2669fa8c76419aa131757b8c2f1e6f1c2c55068057559f11b6fb"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "e018471382a37f33b29d446a734582e6897a0cf194d742748a06b99203aaf5c0"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
 metafile = true

@@ -2,7 +2,7 @@
 
 [logbegone]
 # If a log message has one of these phrases, it will be filtered out from logging
-phrases = ["Failed to load model delightfulcreators:"]
+phrases = ["Failed to load model delightfulcreators:", "Failed to modify baked model after bake"]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
-regex = ["Failed to load model delightfulcreators:"]
+regex = ["Failed to load model delightfulcreators:", "Failed to modify baked model after bake"]

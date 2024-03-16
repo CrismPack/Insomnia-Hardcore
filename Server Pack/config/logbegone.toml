@@ -10,8 +10,9 @@ phrases = [
     "[ShulkerBoxTooltip]",
     "'forge:entity_gravity'",
     "Parsing error loading recipe",
-    "Couldn't parse loot table"
+    "Couldn't parse loot table",
+    "Failed to load model delightfulcreators:", "Failed to modify baked model after bake"
     ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
-regex = []
+regex = ["Failed to load model delightfulcreators:", "Failed to modify baked model after bake"]
