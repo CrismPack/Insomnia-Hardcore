@@ -4,11 +4,11 @@ v2.0.0.pre6
 
 Fabric version: Fabric-0.15.7
 Update overview: 
-~ Added most of the 'RPG Series' mods.
+~ Added most of the remaining 'RPG Series' mods, including 'Simply Skills'.
 ~ Added a bunch more RPG style content mods.
-~ Armor rarity can again give additional health.
-~ Updated all mods to their latest version.
+~ Armor rarity can once again give additional health.
 ~ Added ability to invite friends into singleplayer worlds with no port-forwarding required.
+~ Updated all mods to their latest version.
 ~ And more...
 
 Mods added:
@@ -65,6 +65,19 @@ Mods added:
 + Spellblades and Such
 + AzureLib [Dependency of 'Spellblades and Such']
 + Extra RPG Attributes [Dependency of 'Spellblades and Such']
++ Chunky Border
++ DoesPotatoTick
++ Mobtimizations - Entity Performance Fixes
++ Create: Bells & Whistles
++ Expanded Delight
++ Music Maker Mod
++ Vein Mining
++ Respawning Structures
++ Shulker+
++ Handcrafted
++ Resourceful Lib
++ Deeper and Darker
++ Beneath the Wetlands
 
 Mods re-enabled:
 + Create Fabric
@@ -88,6 +101,8 @@ Mods removed:
 - Recall Staffs
 - Philip's Ruins
 - Create Fabric Sodium Fix
+- Adorn
+- Fabric Language Kotlin
 
 Mods disabled: 
 - Improved Stations Updated (Incompatible with new version of 'Architectury API')

@@ -1,0 +1,13 @@
+name = "Respawning Structures[Forge/Fabric]"
+filename = "respawningstructures-fabric-1.20.1-2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f6019ed3524b6c336d711708cbf6bd007c9fba4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5177862
+project-id = 969937

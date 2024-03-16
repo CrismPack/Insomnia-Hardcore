@@ -1,0 +1,13 @@
+name = "Expanded Delight [Fabric]"
+filename = "expandeddelight-0.3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bdc7e76c6bc54eb1840617d9f0f4e6841a2245e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5177998
+project-id = 620770
