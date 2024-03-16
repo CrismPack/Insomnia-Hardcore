@@ -507,6 +507,11 @@ hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "db42581c6dd8b2e518f999500b68397f595344e78f216ff174ac37aa1ce6598e"
+metafile = true
+
+[[files]]
 file = "mods/balanced-recall.pw.toml"
 hash = "b4fd578c2e8e5466601cf589399358d8bfaf1d2b1073a678b5fe9975b8f8ccf2"
 metafile = true
@@ -982,6 +987,11 @@ hash = "acda931d010bb5acce872d18dbd29d5a096727cb790c7ca64bee3415584a8f59"
 metafile = true
 
 [[files]]
+file = "mods/extra-spell-attributes.pw.toml"
+hash = "aefc098d4b5a80dde23338f2e588a11d3cd00758b0345b95e28a154c22a850a0"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
 metafile = true
@@ -1232,6 +1242,11 @@ hash = "f0b15f90b2b2c84435212f32c9bc7d353a2b017e9714c669eff18d97bf23855f"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "9785c074b8ffaeb91fb0120b3b56fa8ba96ce5547205af2695e11f0bcc21faf7"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "d7243807d8bceaa3a3dd2a8383d5c732cb60c033d627df3e85611209d558ded4"
 metafile = true
@@ -1434,6 +1449,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
 metafile = true
 
 [[files]]
@@ -1734,6 +1754,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "fae9d0af983eff51d6c486f1ff525553b94c734f85f29015d5f8ae608b30bf1f"
+metafile = true
+
+[[files]]
+file = "mods/spellblade-next.pw.toml"
+hash = "21543c3e93aee19a47db44494cd6904c4a714dd4fcd350d3c9b4a3a0b5229d6f"
 metafile = true
 
 [[files]]

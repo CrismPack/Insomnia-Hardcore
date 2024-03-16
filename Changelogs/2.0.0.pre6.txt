@@ -60,6 +60,11 @@ Mods added:
 + FastAnim [Client]
 + FastQuit [Client]
 + fix GPU memory leak [Client]
++ Item Obliterator
++ Necronomicon API [Dependency of 'Item Obliterator']
++ Spellblades and Such
++ AzureLib [Dependency of 'Spellblades and Such']
++ Extra RPG Attributes [Dependency of 'Spellblades and Such']
 
 Mods re-enabled:
 + Create Fabric
