@@ -94,6 +94,7 @@ Mods re-enabled:
 
 Mod side changes:
 = Log Begone [Server --> Both]
+= YOSBR [Client --> Both]
 
 
 Metadata changes:
