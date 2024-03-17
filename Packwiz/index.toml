@@ -266,7 +266,7 @@ hash = "93533d9b030625f4af88b15b848cf14541bb985b61395c32ca52ac29dac6a2fa"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "6204d24be2d0b7a73b5979f62345a49d51eb95e42f17c2eaae4995290ad44812"
+hash = "910e5f422e04ef72497dc9401f932b34bf2ec62a165ca38cd66bc9ef23a3b432"
 
 [[files]]
 file = "config/revive.json5"
@@ -655,6 +655,11 @@ hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "dfb633f2c8caea628d11741fb1463508fcc228e264a1a76e93cc099f57c4886c"
+metafile = true
+
+[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "3601930d7f1fffec0232aeff33c3c767449527f867514f8a8ef5bd711befed4a"
 metafile = true
@@ -697,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-border.pw.toml"
 hash = "478088eb9de758c7095e07f9be80eb2708552b2d2262a604a4d87f7873a0a77d"
+metafile = true
+
+[[files]]
+file = "mods/chunky-extension.pw.toml"
+hash = "a217e41e6f44af521e40325b4e4fbedc918b97149ee65f81a0d4ec4c211a0432"
 metafile = true
 
 [[files]]
@@ -967,11 +977,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "618bb39b01ff1611c073f5da10dbef4af159917d1d8fd8e39443be2b7c785528"
-metafile = true
-
-[[files]]
-file = "mods/emerald-geodes.pw.toml"
-hash = "ba69144b069113b0c6dccd91d46abdc43d916c63c4ef0236eef8c29cbc190d87"
 metafile = true
 
 [[files]]
@@ -1695,18 +1700,23 @@ hash = "fc443e1b366e445d99b1394caa4ce7fc20f6bf2c3ce746b6e811dc12a93e4777"
 metafile = true
 
 [[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "6a01e9efbb53b94065d7fc97ed0f15311451e016502d980b41f928e592afff3a"
+metafile = true
+
+[[files]]
 file = "mods/redirectionor.pw.toml"
 hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
 metafile = true
 
 [[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "e6c2c517d8e1ec844474df62428425eefaa72b0fea266f1d7c0eff664ce5749c"
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
 
 [[files]]
-file = "mods/regrowth.pw.toml"
-hash = "e4463ec4154b3efc62947bf0f237a1dadee380dca137080a533657a0065f1830"
+file = "mods/regions-unexplored.pw.toml"
+hash = "e6c2c517d8e1ec844474df62428425eefaa72b0fea266f1d7c0eff664ce5749c"
 metafile = true
 
 [[files]]
@@ -1895,6 +1905,11 @@ hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
 metafile = true
 
 [[files]]
+file = "mods/stutterfix.pw.toml"
+hash = "0174f372918ed7eb79d853c42943495b0d5d9bb6ab7326ca30f466dbc340d4ef"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b06c4ab8ded67fe92b0943cee3593654421b2fa50c888d86e764dae453152ac7"
 metafile = true
@@ -2056,7 +2071,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "8e8925e213f079b6e1bed1e89cc62f034a04111c87ee70217398a03f854128dc"
+hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true
 
 [[files]]

@@ -6,10 +6,11 @@ Fabric version: Fabric-0.15.7
 Update overview: 
 ~ Added most of the remaining 'RPG Series' mods, including 'Simply Skills'.
 ~ Added a bunch more RPG style content mods.
+~ Added some addons for 'Create'.
 ~ Armor rarity can once again give additional health.
 ~ Added ability to invite friends into singleplayer worlds with no port-forwarding required.
 ~ Updated all mods to their latest version.
-~ And more...
+~ And much more...
 
 Mods added:
 + Item Banning [Server]
@@ -88,6 +89,11 @@ Mods added:
 + Elytra Slot
 + Create: Steam 'n' Rails
 + Create Slice & Dice
++ StutterFix [Client] [MR]
++ Chunky Extension [Server] [MR]
++ Recipe Essentials
++ Concurrent Chunk Management Engine
++ Reese's Sodium Options [Client]
 
 Mods re-enabled:
 + Create Fabric
@@ -114,9 +120,12 @@ Mods removed:
 - Create Fabric Sodium Fix
 - Adorn
 - Capes
+- Regrowth
+- More Geodes
 
 Mods disabled: 
 - Improved Stations Updated (Incompatible with new version of 'Architectury API')
+- Better Sodium Video Settings Button (Incompatible with new version of 'Sodium')
 
 Resource Packs removed:
 - 
