@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "21d728349da061151084769f7deaf8d922806d53156e7e5c20b078cdb8cabb8d"
+hash = "90e4fd8979bbc286d1d319d943dfcd83e45b5ff60b845efbbcc2116b7adbe6d2"
 metafile = true
 
 [[files]]
@@ -1711,7 +1711,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
+hash = "1927c657016f17e5ad5f2363782ea2de94db857e962cc547d57dc3157735f246"
 metafile = true
 
 [[files]]

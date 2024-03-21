@@ -9,6 +9,7 @@ Update overview:
 ~ Added some addons for 'Create'.
 ~ Armor rarity can once again give additional health.
 ~ Added ability to invite friends into singleplayer worlds with no port-forwarding required.
+~ Attempt at improving singleplayer performance and lessening stutters.
 ~ Updated all mods to their latest version.
 ~ And much more...
 
