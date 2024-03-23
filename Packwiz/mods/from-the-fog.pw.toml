@@ -1,0 +1,13 @@
+name = "From The Fog"
+filename = "From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8508868b645b4c8bcdfef1437f0278173eaadbbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4603882
+project-id = 852533

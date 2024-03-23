@@ -9,7 +9,8 @@ Update overview:
 ~ And much more...
 
 Mods added:
-+ 
++ Particle Core
++ From The Fog
 
 Mods re-enabled:
 + 
@@ -26,7 +27,7 @@ Resource Packs added:
 + 
 
 Data Packs added:
-+ 
++ From The Fog - Config [Custom]
 
 Mods removed: 
 - Item Banning (Serves same purpose as 'Item Obliterator')
@@ -47,4 +48,6 @@ Mods updated:
 > 
 
 Config Changes: 
-= : [mod], [Server]
+= Changed default value for particles to 1 (decreased): [YOSBR], [Client]
+= Changed encounter to be "rare": [From The Fog], [Both]
+= Disabled major haunting: [From The Fog], [Both]

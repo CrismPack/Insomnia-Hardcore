@@ -22,7 +22,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b7db968228954d152691de87a7f56069fa82fb13070b656ac17e7c7f7677b827"
+hash = "920dbdeef6a4682f7676df143ffa6020159053f62018991549c0aa8455c2a8f2"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -91,6 +91,10 @@ hash = "279100051fa0bc939c754bc386fd95aeb533b0c187cba53a4a4e16b5edaebb2b"
 [[files]]
 file = "config/exordium.json"
 hash = "0a6cd9fe1e515828e0841700dc8a0ca8ca21d9b424358e2229e36799d71799ca"
+
+[[files]]
+file = "config/explosiveenhancement.json"
+hash = "b19e69b56822cb326928042a1a941c5adf68fc95f871b2e1d0a8cac1ab35d3ed"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -370,11 +374,19 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b5b7aae3c3f0b971b5ad1c248c5daa920ef1b80149ff23ecffa1f52b17160359"
+hash = "6f5334eee14c593fe80d5c43f6ae86a7b892d54e7cd088b4e0611216b0963418"
 
 [[files]]
 file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
+
+[[files]]
+file = "global_packs/required_data/Insomnia Data/data/watching/functions/config/autoconfig/disable.mcfunction"
+hash = "bb6871e3d82cae4c7ec0972841b6715f24a9f319f74d13ed385c6a2036c133ba"
+
+[[files]]
+file = "global_packs/required_data/Insomnia Data/pack.mcmeta"
+hash = "b6adb65a8bac7153ec9011fcd7dc1800597cc15ea7284271266e4bdf67ee2344"
 
 [[files]]
 file = "global_packs/required_data/Origins Classes - Disable Merchant/data/origins-classes/origins/merchant.json"
@@ -1165,6 +1177,11 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "d5941a5506020f5cb815baf0d940ecef61f1ad9c7c1d2acc88a8e9e478b940b7"
 metafile = true
@@ -1292,11 +1309,6 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "79e375d6f3dff2d53f9272b7dc275966a88e0c3b29e079c5de1a8c0517e9dcaf"
-metafile = true
-
-[[files]]
-file = "mods/item-banning-fabric.pw.toml"
-hash = "f0b15f90b2b2c84435212f32c9bc7d353a2b017e9714c669eff18d97bf23855f"
 metafile = true
 
 [[files]]
@@ -1617,6 +1629,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "7d937c8ebc4329651901d2d8db8df20f25e232e5c5c32cec1ee651cb45944884"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "224454b1522703fd15a197b2d3b681e23fff1c8510c17dd2800ff6be78e51e29"
 metafile = true
 
 [[files]]
@@ -2250,7 +2267,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "b96182ed09b172c5f7e4440ee24ea793ec9c3c6d0764e7f00d34bafe41857f96"
+hash = "588292c5833a3b6fa772e811618ff569e938bf2f747148050c5e71ecea6f8a9d"
 
 [[files]]
 file = "shaderpacks/README.txt"
