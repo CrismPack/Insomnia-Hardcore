@@ -9,8 +9,10 @@ Update overview:
 ~ And much more...
 
 Mods added:
-+ Particle Core
++ Particle Core [Client]
 + From The Fog
++ Towers of the Wild Modded
++ Connectivity
 
 Mods re-enabled:
 + 
@@ -31,9 +33,11 @@ Data Packs added:
 
 Mods removed: 
 - Item Banning (Serves same purpose as 'Item Obliterator')
+- Structory: Towers (Replaced with 'Towers of the Wild Modded')
+- TimeOutOut (Incompatible with 'Connectivity')
 
 Mods disabled: 
--  
+- 
 
 Resource Packs removed:
 - 
