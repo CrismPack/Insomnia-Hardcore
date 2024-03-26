@@ -270,7 +270,7 @@ hash = "93533d9b030625f4af88b15b848cf14541bb985b61395c32ca52ac29dac6a2fa"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "910e5f422e04ef72497dc9401f932b34bf2ec62a165ca38cd66bc9ef23a3b432"
+hash = "9468c4d7aac90bfdfaee78b9513bb432b613752794e7193484ed64d32c6dba79"
 
 [[files]]
 file = "config/revive.json5"
@@ -302,7 +302,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "c9fa4d1adbeff6dd9f11d8bb385c9293220c68c68ef207d1c18fc706119ab30d"
+hash = "248493206abfff0ddce264e41ef021e8faef1f7d88f458619fa1556cf3127aa1"
 
 [[files]]
 file = "config/starterstructure.json5"
@@ -385,8 +385,52 @@ file = "global_packs/required_data/From The Fog - Config/data/watching/functions
 hash = "bb6871e3d82cae4c7ec0972841b6715f24a9f319f74d13ed385c6a2036c133ba"
 
 [[files]]
+file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/leafless_grove.json"
+hash = "42c8ae8a5f2b19fa8c35f0997179f85db5657346999b103e8749fd08ad465f5c"
+
+[[files]]
+file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/logless_tree.json"
+hash = "1eb266e7d064cd5251f02ca85a474a47edb4b91fb247c2da027bed31d52fd56a"
+
+[[files]]
+file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/mossy_pyramid.json"
+hash = "83433dca1575bb084fed4756e65702a6590490be755e5c5c1d1f4fc17698a888"
+
+[[files]]
+file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/ocean_sand_pyramid.json"
+hash = "6e90bfcb0e9dc14f585977669e9363fb94c91048ad64e165f800e7fb4e5c926c"
+
+[[files]]
+file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/redstone_torch_trail.json"
+hash = "eb40577e2b6311ad6e2bcb4c3c7ec9076b7ff72560fa4586a6ecab9be91d3be4"
+
+[[files]]
+file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/sand_pyramid.json"
+hash = "f4cdf5b2278037083816d56352edbe309a39965fdf6103ca78f45e6be8c886a3"
+
+[[files]]
+file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/torch_cave.json"
+hash = "0edaa5471b0f68724e89ff8263cc8a48fe86dc29ca9db8e51aa5052372ad2155"
+
+[[files]]
+file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/torch_tunnel.json"
+hash = "2f448b361ca4fd9eafdbdfb87d72a7672328dff43c412385557c161cc61066cc"
+
+[[files]]
 file = "global_packs/required_data/From The Fog - Config/pack.mcmeta"
 hash = "00adf7aee1635840f4fdb75fe307b0798b6999afbaada3962f669e16eeb7fd17"
+
+[[files]]
+file = "global_packs/required_data/MVS - Config/data/mvs/worldgen/structure_set/other_decoration/stone_bee.json"
+hash = "e1374290cc8ae5cccc8557c9b680d7fd385ac5ebdd016dc04a49314fc34a9343"
+
+[[files]]
+file = "global_packs/required_data/MVS - Config/icon.png"
+hash = "369369ccd07c12234a549a91f8259fb6b3ae13d693fe0593a06532a2b1b5b2d4"
+
+[[files]]
+file = "global_packs/required_data/MVS - Config/pack.mcmeta"
+hash = "bc04d86dc8acc1a5bb93c7921f6a7202344eaae9fbc74d3ee305367f1aaccfc0"
 
 [[files]]
 file = "global_packs/required_data/Origins Classes - Disable Merchant/data/origins-classes/origins/merchant.json"
@@ -479,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae-fabric.pw.toml"
+hash = "6f9b8e80b39e9c37e75d4bdbe59177696f8ea82f24b335922d88e16523ce1713"
 metafile = true
 
 [[files]]
@@ -708,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "bae47b3a9f8312e237e0d89ae65e725ba8a0afbda0a02c5c439f508735c41b6e"
+hash = "a952fb0d69dd033d3577501d2a0b3f0e4c013fa8b5b06a66a0f22eff8df5066d"
 metafile = true
 
 [[files]]
@@ -749,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "24c51e5bca8286311dabfad52fa2bdb5267a1eba86f58c7ef82b43135e6e51ca"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "64d21b094bd985668a27137909a2c83b6566cd8e934029a7ef51411221a9cc7c"
 metafile = true
 
 [[files]]
@@ -872,6 +926,11 @@ hash = "da632819ce127cca9f1cb8bdb66603566da73dcc975a1afb735a04b4b06ad9b2"
 metafile = true
 
 [[files]]
+file = "mods/darkinventory-keep-inventory-on.pw.toml"
+hash = "5afb7954480325a6052ab7052d80fd1b06b3004ec43fb7e4b3c10a0f9ba34b55"
+metafile = true
+
+[[files]]
 file = "mods/darktimer-clear-entity-lag.pw.toml"
 hash = "c2e07ffbf86b624c063746b5ee224372d22279a83f0c77e9fafa352a428da706"
 metafile = true
@@ -947,6 +1006,11 @@ hash = "e80ba9f9a9e183b3c51509da688b9932f8b6fe2ada38717cb9d4c0f1e0b2acf8"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "c1993987bd1db67fb136623bbf2aaf6d792f4112a85c751e7a757d6d94fb46ab"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trim.pw.toml"
 hash = "d7d713bb51ab473f8a980e70afb5b0c106e39b33e6d9fd6c8d3bfa20de4f7733"
 metafile = true
@@ -1019,6 +1083,11 @@ metafile = true
 [[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "5d35e517bbbe776d4779fac654acd1ae330b9db322ba9a57fcb133821eb26983"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.pw.toml"
+hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
@@ -1172,11 +1241,6 @@ hash = "03eb311abb04930c465b46d7d7201f57d6c916401d4fd5d1d48912bdf642a088"
 metafile = true
 
 [[files]]
-file = "mods/fps-reducer.pw.toml"
-hash = "6586ad47feb3a385741cbd4a817f3dd3fdc15e9caf08cd4e05c91a630b6a9d5b"
-metafile = true
-
-[[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
@@ -1314,6 +1378,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "79e375d6f3dff2d53f9272b7dc275966a88e0c3b29e079c5de1a8c0517e9dcaf"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "e5bd4b34bc3b430920b3a73da52b4ab76e51c67d1e2f7c710f05b68047135c01"
 metafile = true
 
 [[files]]
@@ -1472,6 +1541,11 @@ hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
 metafile = true
 
 [[files]]
+file = "mods/minecells.pw.toml"
+hash = "b7173d1a788a533b34f6f499101de49bbb6bdf50ae994d1a61948345d149d59e"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
@@ -1584,6 +1658,11 @@ metafile = true
 [[files]]
 file = "mods/nvidium.pw.toml"
 hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api-fabric.pw.toml"
+hash = "d5d931c076d4b9b6ffe7f7a4d1e6135ff4f5f26e34ba53fd5110ea8e83c3375d"
 metafile = true
 
 [[files]]
@@ -1779,6 +1858,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-trades.pw.toml"
 hash = "13dc4764ba3bf407de49f19a9771a28784be5a159fa1e04fcd2530538c3144dd"
+metafile = true
+
+[[files]]
+file = "mods/ruins.pw.toml"
+hash = "a6148f1b5ead4a6ca345b352dd622e0a017edf68cb429f281735612b99fbbf84"
 metafile = true
 
 [[files]]
@@ -2141,6 +2225,11 @@ file = "resourcepacks/NoBushyLeaves.zip"
 hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
+file = "resourcepacks/better-aquamirae-combat.pw.toml"
+hash = "3f1e8edcb36e70273c5725898993667dff929047fb69d1ebd5f77a5748f38b03"
+metafile = true
+
+[[files]]
 file = "resourcepacks/disable-incendium-toxic-heap-biome.pw.toml"
 hash = "1c55e256513ed0b0c3c39fbfdacc91f0b05c797c785575365c5cb7975456e08d"
 metafile = true
@@ -2153,6 +2242,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "496de0aeee48cb7caa77aa72820e60db6d161c62ae3fa7039d5a57073d919d64"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "2770a9d9c74854642f7530631991fa03776565a8cc5c878e4d4b169963a3cd45"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "DarkInventory - Keep Inventory On (Fabric/Forge)"
+filename = "darkinventory-fabric-1.20.1-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7664aa8a3828c0042ad7607fcae1f39be6c8af42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5039866
+project-id = 811840

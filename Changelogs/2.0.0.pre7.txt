@@ -4,7 +4,7 @@ v2.0.0.pre7
 
 Fabric version: Fabric-0.15.7
 Update overview: 
-~ 
+~ A bunch of smaller changes and enhancements.
 ~ Updated all mods to their latest version.
 ~ And much more...
 
@@ -13,12 +13,20 @@ Mods added:
 + From The Fog
 + Towers of the Wild Modded
 + Connectivity
++ DarkInventory
++ Client Crafting [Client]
++ Mine Cells
++ Aquamirae
++ Obscure API [Dependency of 'Aquamirae']
++ Iron Chests: Restocked
++ Enhanced Block Entities [Client]
++ Philip's Ruins
 
 Mods re-enabled:
 + 
 
 Mod side changes:
-=  [Server --> Both]
+= Chunk Sending [Server --> Both]
 
 
 Metadata changes:
@@ -26,15 +34,17 @@ Metadata changes:
 
 
 Resource Packs added:
-+ 
++ Enhanced Boss Bars
 
 Data Packs added:
 + From The Fog - Config [Custom]
++ MVS - Config [Custom]
++ Better Aquamirae Combat
 
 Mods removed: 
-- Item Banning (Serves same purpose as 'Item Obliterator')
-- Structory: Towers (Replaced with 'Towers of the Wild Modded')
-- TimeOutOut (Incompatible with 'Connectivity')
+- Item Banning [Serves same purpose as 'Item Obliterator']
+- Structory: Towers [Replaced with 'Towers of the Wild Modded']
+- TimeOutOut [Incompatible with 'Connectivity']
 
 Mods disabled: 
 - 
@@ -55,3 +65,7 @@ Config Changes:
 = Changed default value for particles to 1 (decreased): [YOSBR], [Client]
 = Changed encounter to be "rare": [From The Fog], [Both]
 = Disabled major haunting: [From The Fog], [Both]
+= Disabled "Ocean Sand Pyramid" structure from spawning: [From The Fog], [Both]
+= Disabled "Stone Bee" structure from spawning: [Moog's Voyager Structures], [Both]
+= Added MineCells guidebook as a starter item: [StarterKit], [Client]
+= Added MineCells guidebook as a starter item: [Starter Items], [Server]

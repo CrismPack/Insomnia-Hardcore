@@ -1,0 +1,13 @@
+name = "Better Aquamirae Combat"
+filename = "aquamirae-bettercombat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6c9c676e6b72a9d0bdf1e27ef21d0df9969ddbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4817302
+project-id = 917941
