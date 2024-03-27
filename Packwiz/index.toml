@@ -213,10 +213,6 @@ file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "dd53bb196fe0a9a0cb149a9a59d9657e45271e99c049eee0901254aa494391b0"
 
 [[files]]
-file = "config/iris.properties"
-hash = "8a4dd954daa3279c91a55d498710aa5ff0ec3ddc14c10ff1adb9c4e0a2fee144"
-
-[[files]]
 file = "config/jade/jade.json"
 hash = "a2e0904923e63dc66ffd15c58d51ce66b0c5fe3c2d4dfd7c9b7584a5d20e77f8"
 
@@ -355,6 +351,10 @@ hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "88bc1fb96273806d1487b8a26062c2de1a20473fa0937d8b26be7351d4dc3a46"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "a22314244abfaf7aac80db95c50a3200b014425e33c9d2e1139ad2a1f7be75ed"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "e1b96a7b1d81aa26642379484ff427392dcc11e01d8d780d302f6db0f6af97d7"
+hash = "aa24f75abc776bee5aea483164383d5a0bf3d2f9d68ca1a95b108ef6343330b0"
 metafile = true
 
 [[files]]
@@ -1227,11 +1227,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
-metafile = true
-
-[[files]]
-file = "mods/formations-nether.pw.toml"
-hash = "74bb88ce51be352936dbf7289de55b1c4a82b05daa445d3aaf1fbb6acddd36fc"
 metafile = true
 
 [[files]]
@@ -1872,21 +1867,6 @@ metafile = true
 [[files]]
 file = "mods/revive.pw.toml"
 hash = "13483c664499ef39a8bedc64945f238c3690de58c9d522e7d5687804208961c1"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "297fa1e8d45f324b6e7bb8154bfa604402c2f275d6e4294e465e398c060fcde2"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "1b20f1b5ebefb4a1561cc92f775dcfd22d3986a14e56b5f239e0369f0ee3f2f4"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
 metafile = true
 
 [[files]]
