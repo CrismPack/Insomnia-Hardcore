@@ -53,6 +53,10 @@ file = "config/boringbackgrounds.json"
 hash = "6ded0c65092f76a7d3a3758d17c20b9c484349f0d08d6750bf593aa8149cda82"
 
 [[files]]
+file = "config/builtinservers.json"
+hash = "03520518d577a4d7e4f5fb4d088b541e8b2b831dca7f56613682b89c9838f377"
+
+[[files]]
 file = "config/cem.conf"
 hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 
@@ -114,7 +118,7 @@ hash = "da6f4e1390d63b2cbf2a0a83239cdd15897db85ad84bad7ae58479b18d4d3920"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "8594195d79f97a09f2144f8412ac4e598e89d9624019d291e46eea0ba095b163"
+hash = "bb645469f3eee1e951bb8ea3ee6f5d44a629e1b906b7157557830bcc5ecfed00"
 
 [[files]]
 file = "config/fancymenu/customization/lanmenu.txt"
@@ -165,27 +169,27 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 hash = "02b739c3747fbb8a50467ff3e93f6aaca17300b001ae2c13b44aa7263afb54b5"
 
 [[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_0.png"
+file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_0.png"
 hash = "c0ea003e5f87089502fe025006c876414a4dadc81921fc406a581c56eace7f1b"
 
 [[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_1.png"
+file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_1.png"
 hash = "81ba1381aa7c154a838cfbd0ac63e8be0c6f8e59bb9f91440423970f1ba54beb"
 
 [[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_2.png"
+file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_2.png"
 hash = "80cd30322a9e9e837140a6d1ae82642cb22707273080762203f030b4d152d0d8"
 
 [[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_3.png"
+file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_3.png"
 hash = "1e764c5eedd049d8eb0c52931cc73406d0740d2765b9e606d4a700c057401b4d"
 
 [[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_4.png"
+file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_4.png"
 hash = "623872a2d0ec48bce51bd6f2e7d197bcb1c54a3350f560dc7947b7a147cb77e9"
 
 [[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/panorama_5.png"
+file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_5.png"
 hash = "eed1b8d2e5afbc49cd86bbb69f803c044efca931d9eee06f08f88820c50674c4"
 
 [[files]]
@@ -454,7 +458,7 @@ hash = "de0ffb7f22f7bf11ea64f35c583d809c589f0e7f43eddcc350ea50f160db0913"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "1c364a0dab71ecf2ef04d3ffb58b1823a2d4ab83699e75d7b47d80f223f93744"
+hash = "0daa3aacab54d5c5fd4e3d60b7bb2f2cc2701fdb60373fbc0078f65b1835f0be"
 
 [[files]]
 file = "modlist.html"
@@ -711,6 +715,11 @@ hash = "ab07984eab1a6d4be6e4c98ab7f28ff5fafc72632a6b9d9f3361c09c0f826a09"
 metafile = true
 
 [[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "5ed726de39e2a9db019c42c0cb9423985d3ea2891f3ee4c2aca1324da6550829"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether-fabric.pw.toml"
 hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
 metafile = true
@@ -846,6 +855,11 @@ hash = "f639cf7e7dc85a5f3e1f2a35dffbbef188f2468cb4b39502a6a8c171ac238044"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "e1b96a7b1d81aa26642379484ff427392dcc11e01d8d780d302f6db0f6af97d7"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "fcf0eba22e87809cb09862669571f0b120348a1ea83c0f72c316fa41634231f2"
 metafile = true
@@ -953,11 +967,6 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "463b41c5825e272a6250145b9e9ca21c118abb2eba68192811ffe601591241ea"
-metafile = true
-
-[[files]]
-file = "mods/desired-servers.pw.toml"
-hash = "5d7a391e05fd8acb95ac37b6160186ec15280e3587aafb5affb1ffc529cc1eab"
 metafile = true
 
 [[files]]
@@ -1172,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-knives.pw.toml"
-hash = "17c6927d306012053d7b519381ef6428b6da04f11d57e590f2eb3ed34a59dc4c"
+hash = "f21fd0d69d4db8a119bb1ea6e227982831950d881c8ebe1a436a9bf9a8163d0b"
 metafile = true
 
 [[files]]
@@ -1398,6 +1407,21 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "719efbded91caca11955680ad9e54816a31511184f4a988fb94b8980d62d0726"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "92dcfb598285922727b8a446cd9fb6154686412746eb6c1479052a0e93a9275e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "db138a11b63abaf05df881ad73bdf5a4b67ad21bff0f040eec34cd18d46096e8"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "b38db45e00821e347147acd632bf17c91f9237a35adde827e2b8eb7c20274cb2"
 metafile = true
 
 [[files]]
@@ -1711,8 +1735,18 @@ hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "9e938d8335c88f4968e29f74818d9a6be96a21973cd2f56de28a75c79793395a"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "7d937c8ebc4329651901d2d8db8df20f25e232e5c5c32cec1ee651cb45944884"
+metafile = true
+
+[[files]]
+file = "mods/panorama-screens.pw.toml"
+hash = "677296e7565310ffc0820a04a5d585b40c0b1f896aa341868a565051ef4946ca"
 metafile = true
 
 [[files]]
@@ -2027,7 +2061,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "412e6f26ea8522971b454846066b92fbf77abd5ecf1b6e37783ef293add7a261"
+hash = "3ba1b569892edb84886a4c4a21a09aad19a3280c0feb814630e7240ed5bbca96"
 metafile = true
 
 [[files]]

@@ -1,0 +1,10 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "Official Server",
+      "address": "insomnia.crismpack.net",
+      "forced": true
+    }
+  ]
+}

@@ -21,6 +21,13 @@ Mods added:
 + Iron Chests: Restocked
 + Enhanced Block Entities [Client]
 + Philip's Ruins
++ Builtin Servers [Client]
++ Packet Fixer
++ Panorama Screens [Client]
++ Configured [Client]
++ Just Enough Items
++ Just Enough Professions
++ Just Enough Resources
 
 Mods re-enabled:
 + 
@@ -45,6 +52,12 @@ Mods removed:
 - Item Banning [Serves same purpose as 'Item Obliterator']
 - Structory: Towers [Replaced with 'Towers of the Wild Modded']
 - TimeOutOut [Incompatible with 'Connectivity']
+- Desired Servers [Replaced with 'Builtin Servers']
+- Roughly Enough Items [Replaced with 'Just Enough Items']
+- Roughly Enough Professions [Replaced with 'Just Enough Professions']
+- Roughly Enough Resources [Replaced with 'Just Enough Resources']
+- Formations Nether
+
 
 Mods disabled: 
 - 
@@ -59,7 +72,44 @@ Resource Packs updated:
 > 
 
 Mods updated: 
-> 
+> Advanced Netherite
+> Amendments
+> Chat Heads
+> Collective
+> [Let's Do] API
+> Eating Animation
+> Elytra Trims
+> Extra Origins
+> Falling Leaves
+> Fast Async World Save
+> Fast Paintings
+> GeckoLib
+> ImmediatelyFast
+> Integrated API
+> Integrated Stronghold
+> Inventory Profiles Next
+> [Let's Do] Brewery
+> [Let's Do] NetherVinery
+> libIPN
+> "MCPitanLib
+> Model Gap Fix
+> ModernFix
+> Pehkui
+> Puzzles Lib
+> Raised
+> Recipe Essentials
+> Resourceful Lib
+> Moonlight Lib
+> Simple Voice Chat
+> Simply Skills
+> Supplementaries
+> Tectonic
+> Tidal Towns
+> Trinkets
+> Vein Mining
+> [Let's Do] Vinery
+> Wavey Capes
+> YUNG's Better Nether Fortresses
 
 Config Changes: 
 = Changed default value for particles to 1 (decreased): [YOSBR], [Client]
@@ -69,3 +119,7 @@ Config Changes:
 = Disabled "Stone Bee" structure from spawning: [Moog's Voyager Structures], [Both]
 = Added MineCells guidebook as a starter item: [StarterKit], [Client]
 = Added MineCells guidebook as a starter item: [Starter Items], [Server]
+= Changed "Official Server" button to link to insomnia.crismpack.net: [FancyMenu], [Client]
+= Changed built-in server to "insomnia.crismpack.net": [Builtin Servers], [Client]
+= Removed main menu background panorama (Allows the panorama to be controlled though resource packs instead): [FancyMenu], [Client]
+= Added background panorama override: [Insomnia Textures], [Client]

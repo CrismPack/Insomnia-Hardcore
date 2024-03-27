@@ -9,11 +9,6 @@ customization-meta {
 }
 
 customization {
-  name = insomniapanorama
-  action = setbackgroundpanorama
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -331,9 +326,9 @@ customization {
   restartbackgroundanimations = true
   buttonaction = opengui;net.minecraft.class_500%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\longbutton_hover.png
-  label = Official Server | %serverstatus:insomnia2.crismpack.net%
+  label = Official Server | %serverstatus:insomnia.crismpack.net%
   loopbackgroundanimations = true
-  hoverlabel = %serverstatus:insomnia2.crismpack.net% | %serverping:insomnia2.crismpack.net%ms | %serverplayercount:insomnia2.crismpack.net%
+  hoverlabel = %serverstatus:insomnia.crismpack.net% | %serverping:insomnia.crismpack.net%ms | %serverplayercount:insomnia.crismpack.net%
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 0
   width = 200
