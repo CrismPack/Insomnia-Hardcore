@@ -1,13 +1,13 @@
 name = "Integrated Stronghold"
-filename = "integrated_stronghold-1.1.0+1.20.1-fabric.jar"
+filename = "integrated_stronghold-1.1.1+1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fc680a349649c53280d471819c650999ab9ce70d"
+hash = "d332f8d6087e87eb11257d418c97b91a0c4a4ac6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5135622
+file-id = 5178478
 project-id = 815548
