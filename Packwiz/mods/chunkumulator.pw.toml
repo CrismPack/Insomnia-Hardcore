@@ -1,0 +1,13 @@
+name = "Chunkumulator"
+filename = "chunkumulator-1.0.3+MC1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b99e11b277a13f55e73942c93107ed6289bdfcc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4735455
+project-id = 909640

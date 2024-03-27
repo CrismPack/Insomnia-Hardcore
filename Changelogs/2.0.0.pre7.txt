@@ -28,12 +28,14 @@ Mods added:
 + Just Enough Items
 + Just Enough Professions
 + Just Enough Resources
++ Chunkumulator
++ TimeOutOut
 
 Mods re-enabled:
 + 
 
 Mod side changes:
-= Chunk Sending [Server --> Both]
+=  [Server --> Both]
 
 
 Metadata changes:
@@ -57,10 +59,12 @@ Mods removed:
 - Roughly Enough Professions [Replaced with 'Just Enough Professions']
 - Roughly Enough Resources [Replaced with 'Just Enough Resources']
 - Formations Nether
+- Chunk Sending [Replaced with 'Chunkumulator']
+- Connectivity [Replaced with 'TimeOutOut' & 'Packet Fixer']
 
 
 Mods disabled: 
-- 
+- DoesPotatoTick
 
 Resource Packs removed:
 - 
