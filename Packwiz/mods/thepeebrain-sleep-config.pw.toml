@@ -1,0 +1,13 @@
+name = "Sleep Config [Fabric]"
+filename = "sleep_config-1.1.0+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf557b57851b7be63c4a3bac4d49fb9995840058"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4853574
+project-id = 721804

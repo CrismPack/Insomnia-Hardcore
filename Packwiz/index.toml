@@ -86,7 +86,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dusk.json"
-hash = "fa98ee943cdb8ebff565530a07544032a952f8f2f94ee1bd340bac45d0ce15a1"
+hash = "68ed77369dae4f4dda844fd69e6045db4f25308e0ef9c2351bfbd20406dbaa06"
 
 [[files]]
 file = "config/endgoblintraders.toml"
@@ -270,7 +270,7 @@ hash = "93533d9b030625f4af88b15b848cf14541bb985b61395c32ca52ac29dac6a2fa"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "37e81008f3e7d90704a42f60a551a12a18b56a1efdb071872657149b58a3ccd2"
+hash = "193b854619f4fb436f4a7b665c935ecfa27892758383504e07122852732ffd61"
 
 [[files]]
 file = "config/revive.json5"
@@ -357,6 +357,10 @@ file = "config/yosbr/config/iris.properties"
 hash = "a22314244abfaf7aac80db95c50a3200b014425e33c9d2e1139ad2a1f7be75ed"
 
 [[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "6b0e3ee823563d94940769cc61e79598bfc07722c62febac4bdbae55dd9ef1f3"
+
+[[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "7f6da2b380b28165889f4cc9631418378a8dd8b522c8116ff8f89dfc5b1ea26a"
 
@@ -423,6 +427,18 @@ hash = "2f448b361ca4fd9eafdbdfb87d72a7672328dff43c412385557c161cc61066cc"
 [[files]]
 file = "global_packs/required_data/From The Fog - Config/pack.mcmeta"
 hash = "00adf7aee1635840f4fdb75fe307b0798b6999afbaada3962f669e16eeb7fd17"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/data/insomniaconfig/functions/load.mcfunction"
+hash = "9471b61a603c828c539d653c37619ac881c2e091a8da144123b53d1d62f17dd4"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/data/minecraft/tags/functions/load.json"
+hash = "3f25de60645b8db69bc88b268296c6b168323e9b17c7c0dce525c89070a40cba"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/pack.mcmeta"
+hash = "678d7163390309648315346cbe87c8bced185bbbaa83472fca90e0b82e41e8be"
 
 [[files]]
 file = "global_packs/required_data/MVS - Config/data/mvs/worldgen/structure_set/other_decoration/stone_bee.json"
@@ -577,6 +593,16 @@ metafile = true
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "c4ef03bd04acbdb5e3226417b3afcc2507753abf2517289952c864be8f295a14"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "24c2b1e3610cfd8c8b66d72f1b9660a04045c33a3d872d858713bc1863596c03"
 metafile = true
 
 [[files]]
@@ -765,8 +791,8 @@ hash = "12177397eb8dd927c402f1d63c4986778d90c4ef240c0dd2f0ab8829b74c1d56"
 metafile = true
 
 [[files]]
-file = "mods/chunkumulator.pw.toml"
-hash = "111eedbaadbfdd4733197b1c6c66d9b737853d296a91c965a8aa1da3b0224555"
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "a952fb0d69dd033d3577501d2a0b3f0e4c013fa8b5b06a66a0f22eff8df5066d"
 metafile = true
 
 [[files]]
@@ -932,11 +958,6 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "da632819ce127cca9f1cb8bdb66603566da73dcc975a1afb735a04b4b06ad9b2"
-metafile = true
-
-[[files]]
-file = "mods/darkinventory-keep-inventory-on.pw.toml"
-hash = "5afb7954480325a6052ab7052d80fd1b06b3004ec43fb7e4b3c10a0f9ba34b55"
 metafile = true
 
 [[files]]
@@ -1891,7 +1912,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "72ce52db32f382db85056fea1dfe67959cd709c2b4806704520c0ff760584fd1"
+hash = "b9f2929613228c8b4c1ac31d03598fe7982d11f02d8f8b38174f892e751cf57e"
 metafile = true
 
 [[files]]
@@ -2057,6 +2078,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-castle-fabric.pw.toml"
 hash = "55697d8f856e615c3ceb5daf1462f96a62a0157dff6ec485c968af6d6ea44949"
+metafile = true
+
+[[files]]
+file = "mods/thepeebrain-sleep-config.pw.toml"
+hash = "baada438417d19eb46b7f98223d46a75ad6ad366e405049cba81a3df46024532"
 metafile = true
 
 [[files]]

@@ -31,14 +31,16 @@ Mods added:
 + Just Enough Items
 + Just Enough Professions
 + Just Enough Resources
-+ Chunkumulator
 + TimeOutOut
++ Sleep Config
++ Bad Wither No Cookie - Reloaded [Client]
++ BadOptimizations
 
 Mods re-enabled:
 + 
 
 Mod side changes:
-=  [Server --> Both]
+= Chunk Sending [Server --> Both]
 
 
 Metadata changes:
@@ -52,6 +54,7 @@ Data Packs added:
 + From The Fog - Config [Custom]
 + MVS - Config [Custom]
 + Better Aquamirae Combat
++ Insomnia Config [Custom]
 
 Mods removed: 
 - Item Banning [Serves same purpose as 'Item Obliterator']
@@ -62,7 +65,6 @@ Mods removed:
 - Roughly Enough Professions [Replaced with 'Just Enough Professions']
 - Roughly Enough Resources [Replaced with 'Just Enough Resources']
 - Formations Nether
-- Chunk Sending [Replaced with 'Chunkumulator']
 - Connectivity [Replaced with 'TimeOutOut' & 'Packet Fixer']
 
 
@@ -130,3 +132,8 @@ Config Changes:
 = Changed built-in server to "insomnia.crismpack.net": [Builtin Servers], [Client]
 = Removed main menu background panorama (Allows the panorama to be controlled though resource packs instead): [FancyMenu], [Client]
 = Added background panorama override: [Insomnia Textures], [Client]
+= Changed disableSleep to "false": [Dusk], [Both]
+= Changed minSleepTime to "0": [Dusk], [Both]
+= Executes "gamerule keepInventory true" on load: [Insomnia Config], [Both]
+= Executes "gamerule allowSleeping false" on load: [Insomnia Config], [Both]
+= Fixed formatting of modded built-in textures: [Resource Pack Overrides], [Client]
