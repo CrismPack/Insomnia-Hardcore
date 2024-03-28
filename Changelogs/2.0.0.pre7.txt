@@ -4,15 +4,18 @@ v2.0.0.pre7
 
 Fabric version: Fabric-0.15.7
 Update overview: 
-~ A bunch of smaller changes and enhancements.
+~ Players now spawn with a guidebook for 'Mine Cells' as well as a custom banner that can be equipped as a cape.
+~ New main menu panorama background.
+~ Added 'From The Fog'. Herobrine will visit players at rare intervals but haunting is disabled.
+~ Players no longer drop their inventory upon death.
+~ Improved performance in areas with a lot of particles and chests.
 ~ Updated all mods to their latest version.
-~ And much more...
+~ And more...
 
 Mods added:
 + Particle Core [Client]
 + From The Fog
 + Towers of the Wild Modded
-+ Connectivity
 + DarkInventory
 + Client Crafting [Client]
 + Mine Cells
@@ -95,7 +98,7 @@ Mods updated:
 > [Let's Do] Brewery
 > [Let's Do] NetherVinery
 > libIPN
-> "MCPitanLib
+> MCPitanLib
 > Model Gap Fix
 > ModernFix
 > Pehkui
