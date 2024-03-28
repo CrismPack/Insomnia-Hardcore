@@ -48,42 +48,12 @@ customization {
 }
 
 customization {
-  identifier = %id=376322%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
-  x = 0
-  action = movebutton
-  y = 48
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 98
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\shortbutton_hover.png
-  backgroundnormal = resources\mainmenu\shortbutton_normal.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
   action = hidebutton
 }
 
@@ -103,6 +73,11 @@ customization {
   action = setbuttontexture
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
 }
 
 customization {
@@ -137,6 +112,31 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = sethoverlabel
   label = Lang
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 0
+  action = movebutton
+  y = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
 }
 
 customization {
@@ -197,6 +197,70 @@ customization {
   y = -50
   splash_file_path = resources/mainmenu/splashes.txt
   height = 30
+}
+
+customization {
+  orientation = element
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if_not][req_id:483da16f-298f-49da-b4e4-23873a3347731711668058211] = ["mode":"equals","number":"1","compare_with":"1"]$
+  shape = rectangle
+  color = #ffffffd0
+  orientation_element = 9e77846a-8885-4c68-9fe4-b966797d3eb41711667736267
+  x = 0
+  width = 155
+  action = addshape
+  actionid = 566a1b39-c009-46a7-bc26-3d739877cb841711665584426
+  y = 0
+  height = 200
+}
+
+customization {
+  path = resources/mainmenu/motd.png
+  orientation = mid-right
+  x = -158
+  width = 155
+  action = addtexture
+  actionid = 9e77846a-8885-4c68-9fe4-b966797d3eb41711667736267
+  y = -100
+  height = 200
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  scale = 0.8
+  source = https://gist.githubusercontent.com/HaXrBOT/1e3e3a561e407c2fe09eb4afc60f81a6/raw
+  text_border = 5
+  case_mode = normal
+  source_mode = web
+  line_spacing = 1
+  orientation_element = 566a1b39-c009-46a7-bc26-3d739877cb841711665584426
+  x = 0
+  width = 150
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 082d5e9e-2131-4ade-8733-14d21bc6ba551711660926914
+  y = 27
+  alignment = left
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:0c43e868-7de1-4746-b8f0-2cd65fc9731b1711665334305] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://gist.githubusercontent.com/HaXrBOT/1e3e3a561e407c2fe09eb4afc60f81a6/raw"}}","compare_with":"HIDDEN"]$
+  height = 168
+}
+
+customization {
+  orientation = element
+  basecolor = #aa0000
+  shadow = true
+  rotation = 0.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:c3747d89-04b5-47bb-8e53-52fa29f5c3ef1711665127946] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://gist.githubusercontent.com/HaXrBOT/1e3e3a561e407c2fe09eb4afc60f81a6/raw"}}","compare_with":"HIDDEN"]$
+  vanilla-like = false
+  orientation_element = 566a1b39-c009-46a7-bc26-3d739877cb841711665584426
+  x = 50
+  actionid = ff317304-de7f-4757-8687-b0ef2eaa8dda1711664896730
+  action = addsplash
+  y = 11
+  text = Message of the day
 }
 
 customization {
