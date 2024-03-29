@@ -216,6 +216,7 @@ customization {
 customization {
   path = resources/mainmenu/motd.png
   orientation = mid-right
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:6fe730e3-9587-4a53-8b2a-f0c29a1dd66d1711670518655] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://raw.githubusercontent.com/CrismPack/MOTD/main/InsomniaMOTD-Publish.txt"}}","compare_with":"PUBLISH=1"]$
   x = -158
   width = 155
   action = addtexture
@@ -229,9 +230,10 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 0.8
-  source = https://gist.githubusercontent.com/HaXrBOT/1e3e3a561e407c2fe09eb4afc60f81a6/raw
+  source = https://raw.githubusercontent.com/CrismPack/MOTD/main/InsomniaMOTD.txt
   text_border = 5
   case_mode = normal
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:0c43e868-7de1-4746-b8f0-2cd65fc9731b1711665334305] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://raw.githubusercontent.com/CrismPack/MOTD/main/InsomniaMOTD-Publish.txt"}}","compare_with":"PUBLISH=1"]$
   source_mode = web
   line_spacing = 1
   orientation_element = 566a1b39-c009-46a7-bc26-3d739877cb841711665584426
@@ -241,7 +243,6 @@ customization {
   actionid = 082d5e9e-2131-4ade-8733-14d21bc6ba551711660926914
   y = 27
   alignment = left
-  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:0c43e868-7de1-4746-b8f0-2cd65fc9731b1711665334305] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://gist.githubusercontent.com/HaXrBOT/1e3e3a561e407c2fe09eb4afc60f81a6/raw"}}","compare_with":"HIDDEN"]$
   height = 168
 }
 
@@ -250,10 +251,10 @@ customization {
   basecolor = #aa0000
   shadow = true
   rotation = 0.0
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:c3747d89-04b5-47bb-8e53-52fa29f5c3ef1711665127946] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://raw.githubusercontent.com/CrismPack/MOTD/main/InsomniaMOTD-Publish.txt"}}","compare_with":"PUBLISH=1"]$
   scale = 1.0
   refresh = false
   bouncing = true
-  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:c3747d89-04b5-47bb-8e53-52fa29f5c3ef1711665127946] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://gist.githubusercontent.com/HaXrBOT/1e3e3a561e407c2fe09eb4afc60f81a6/raw"}}","compare_with":"HIDDEN"]$
   vanilla-like = false
   orientation_element = 566a1b39-c009-46a7-bc26-3d739877cb841711665584426
   x = 50
