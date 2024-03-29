@@ -1,10 +1,12 @@
 v2.0.0
 
+Disclaimer: It is highly recommended to do a clean install of the modpack when jumping to this version!
+
 Fabric version: Fabric-0.15.7
 Update overview: 
 ~ First proper release version for 1.20.1!
 ~ Players now spawn with a guidebook for 'Mine Cells' as well as a custom banner that can be equipped as a cape.
-~ New main menu panorama background & added a MOTD box on the main menu.
+~ New main menu panorama background & added an MOTD box on the main menu.
 ~ Added 'From The Fog'. Herobrine will visit players at rare intervals but major haunting is disabled.
 ~ Improved performance in areas with a lot of particles and chests.
 ~ New dimensions, dungeons, structures & equipment.
@@ -12,6 +14,7 @@ Update overview:
 ~ Fixed right-clicking beds not setting respawn point.
 ~ Fixed new players not spawning in the starter structure.
 ~ Updated all mods to their latest version.
+~ General cleanup and polish.
 ~ And more...
 
 Mods added:

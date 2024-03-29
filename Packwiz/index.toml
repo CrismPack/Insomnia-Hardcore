@@ -923,11 +923,6 @@ hash = "da632819ce127cca9f1cb8bdb66603566da73dcc975a1afb735a04b4b06ad9b2"
 metafile = true
 
 [[files]]
-file = "mods/darktimer-clear-entity-lag.pw.toml"
-hash = "c2e07ffbf86b624c063746b5ee224372d22279a83f0c77e9fafa352a428da706"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
@@ -1474,7 +1469,7 @@ metafile = true
 
 [[files]]
 file = "mods/login-protection.pw.toml"
-hash = "72c839b56bc67ce57739e232480a07a9f083b9888d292d37e9e2385795bd7566"
+hash = "54c4dff8e791e05c8082bf5c4b6b97e2df990ab2dd1bce4d57687299aa703bc0"
 metafile = true
 
 [[files]]
