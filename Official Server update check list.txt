@@ -1,3 +1,5 @@
-Delete all mods except: DisFabric, Vanish
+Delete all mods except: DisFabric, Vanish, Maintenance Mode, AFKPlus, CommandSpy, 
 Delete "global_packs" folder
+Backup "server.properties" file
 Upload and unpack new serverpack zip
+Remove RandomTP from mods folder.
