@@ -22,7 +22,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "920dbdeef6a4682f7676df143ffa6020159053f62018991549c0aa8455c2a8f2"
+hash = "529d0feed4caf4a54ca3a6893a07932211a0d37e44fc3bc119c7a9ec9b7c06a7"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -118,7 +118,7 @@ hash = "da6f4e1390d63b2cbf2a0a83239cdd15897db85ad84bad7ae58479b18d4d3920"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "37969520ef9d1615c094f71d37147168349622a363cfefe1c53a2e5bfa698940"
+hash = "7ecb2c90c17a4dd5d2436afe684f3dbb0363a632f191cdea228f7b2028be5261"
 
 [[files]]
 file = "config/fancymenu/customization/lanmenu.txt"
@@ -130,7 +130,7 @@ hash = "65ba6886ecf23ec324a59c1f3e86460cf970a32790b916fc853ad85b578db2fc"
 
 [[files]]
 file = "config/fancymenu/customization/resourcepacks.txt"
-hash = "bfb9c8e85183b8c8fbf73accd560981ac9f05805e4ce43e22b95f22255a7b152"
+hash = "686c919a46c3ea4e26e8c5514928fb430528c6ac98688dd6aae9f883428778b8"
 
 [[files]]
 file = "config/fancymenu/customization/shadermenu.txt"
@@ -167,34 +167,6 @@ hash = "9d4247c8086e4d93a046bf831d69f3bfcf7474e35f59c6c6965ee0f9c27d91d9"
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 hash = "02b739c3747fbb8a50467ff3e93f6aaca17300b001ae2c13b44aa7263afb54b5"
-
-[[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_0.png"
-hash = "c0ea003e5f87089502fe025006c876414a4dadc81921fc406a581c56eace7f1b"
-
-[[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_1.png"
-hash = "81ba1381aa7c154a838cfbd0ac63e8be0c6f8e59bb9f91440423970f1ba54beb"
-
-[[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_2.png"
-hash = "80cd30322a9e9e837140a6d1ae82642cb22707273080762203f030b4d152d0d8"
-
-[[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_3.png"
-hash = "1e764c5eedd049d8eb0c52931cc73406d0740d2765b9e606d4a700c057401b4d"
-
-[[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_4.png"
-hash = "623872a2d0ec48bce51bd6f2e7d197bcb1c54a3350f560dc7947b7a147cb77e9"
-
-[[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/panorama/background/panorama_5.png"
-hash = "eed1b8d2e5afbc49cd86bbb69f803c044efca931d9eee06f08f88820c50674c4"
-
-[[files]]
-file = "config/fancymenu/panoramas/insomniapanorama/properties.txt"
-hash = "861f0b727321bbdd029bf2a5e2321f944843fe7698d1ea47de9b0ad2c91e0c67"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -2202,7 +2174,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ca3ac02ca26b3610a1d82bfaf86bcb143dcee7ddab9495d16e5a58e41e911e01"
+hash = "200557716291399497216a70e772a4f3df1e4e6c7c52b5949b8fc7271b5a42e9"
 metafile = true
 
 [[files]]
@@ -2405,11 +2377,11 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "588292c5833a3b6fa772e811618ff569e938bf2f747148050c5e71ecea6f8a9d"
+hash = "1cf887de9e8df1530de6a3a80e5fb8cef3c26c5248611921bd860c85313a688f"
 
 [[files]]
 file = "shaderpacks/README.txt"
-hash = "2e6634fad4a551fb58785d43912e29c919184fe76f5eb5c0ca1ac1a9b53a24c7"
+hash = "3e3a99b2a49261182d7416f235431c714fc8b504b0ba9f336f9a5255ff465993"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_RU.txt"

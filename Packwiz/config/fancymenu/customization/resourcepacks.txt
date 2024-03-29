@@ -18,18 +18,18 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = It is not recommended to adjust the order of %n%these resource packs. For the best experience %n%please leave them as is. %n%%n%If you encounter buggy textures after messing %n%with the order, you can reset them to default by %n%deleting the "options.txt" file inside the game %n%instance folder.
+  source = It is not recommended to adjust the %n%order of these resource packs. For %n%the best experience please leave %n%them as is. %n%%n%If you encounter buggy textures %n%after messing with the order, you can %n%reset them to default by deleting the %n%"options.txt" file inside the modpack%n%instance folder.
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = 7
-  width = 275
+  x = 6
+  width = 208
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = c7884fd3-af62-48fd-a879-1f1395c1e7f41705849495385
-  y = -41
+  y = -51
   alignment = left
   base_color = #AA0000
-  height = 83
+  height = 103
 }
 

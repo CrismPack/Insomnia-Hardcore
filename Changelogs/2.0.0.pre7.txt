@@ -1,14 +1,14 @@
-v2.0.0.pre7
-
-#Notice: This is a pre-release. Here be dragons!
+v2.0.0
 
 Fabric version: Fabric-0.15.7
 Update overview: 
+~ First proper release version for 1.20.1!
 ~ Players now spawn with a guidebook for 'Mine Cells' as well as a custom banner that can be equipped as a cape.
-~ New main menu panorama background.
-~ Added 'From The Fog'. Herobrine will visit players at rare intervals but haunting is disabled.
-~ Players no longer drop their inventory upon death.
+~ New main menu panorama background and tweaked to some menus.
+~ Added 'From The Fog'. Herobrine will visit players at rare intervals but major haunting is disabled.
 ~ Improved performance in areas with a lot of particles and chests.
+~ New dimensions, dungeons, structures & equipment.
+~ Fixed right-clicking beds not setting respawn point.
 ~ Updated all mods to their latest version.
 ~ And more...
 
@@ -16,7 +16,6 @@ Mods added:
 + Particle Core [Client]
 + From The Fog
 + Towers of the Wild Modded
-+ DarkInventory
 + Client Crafting [Client]
 + Mine Cells
 + Aquamirae
@@ -41,6 +40,7 @@ Mods re-enabled:
 
 Mod side changes:
 = Chunk Sending [Server --> Both]
+= YetAnotherConfigLib [Client --> Both]
 
 
 Metadata changes:
