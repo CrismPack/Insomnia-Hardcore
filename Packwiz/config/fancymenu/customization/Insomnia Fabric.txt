@@ -48,12 +48,42 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  identifier = %id=376322%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=376322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 0
+  action = movebutton
+  y = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
 }
 
@@ -73,11 +103,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = hidebutton
 }
 
 customization {
@@ -112,31 +137,6 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = sethoverlabel
   label = Lang
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
-  x = 0
-  action = movebutton
-  y = 48
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 98
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\shortbutton_hover.png
-  backgroundnormal = resources\mainmenu\shortbutton_normal.png
 }
 
 customization {
@@ -222,6 +222,7 @@ customization {
   action = addtexture
   actionid = 9e77846a-8885-4c68-9fe4-b966797d3eb41711667736267
   y = -100
+  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:bc762629-d3fc-4902-b6f1-1b637506db851711675883796] = 1600
   height = 200
 }
 
@@ -231,6 +232,7 @@ customization {
   shadow = true
   scale = 0.8
   source = https://github.com/CrismPack/MOTD/blob/main/InsomniaMOTD.txt
+  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:0d30a467-e08d-4e3c-b7e5-707797db259c1711675695796] = 1600
   text_border = 5
   case_mode = normal
   [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:0c43e868-7de1-4746-b8f0-2cd65fc9731b1711665334305] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://raw.githubusercontent.com/CrismPack/MOTD/main/InsomniaMOTD-Publish.txt"}}","compare_with":"PUBLISH=1"]$
@@ -250,6 +252,7 @@ customization {
   orientation = element
   basecolor = #aa0000
   shadow = true
+  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:01b78ca1-d71e-424d-9d31-896fc8fdd0361711675770646] = 1600
   rotation = 0.0
   [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if][req_id:c3747d89-04b5-47bb-8e53-52fa29f5c3ef1711665127946] = ["mode":"contains","text":"{"placeholder":"webtext","values":{"link":"https://raw.githubusercontent.com/CrismPack/MOTD/main/InsomniaMOTD-Publish.txt"}}","compare_with":"PUBLISH=1"]$
   scale = 1.0
