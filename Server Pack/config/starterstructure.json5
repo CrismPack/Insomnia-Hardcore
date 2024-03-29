@@ -48,7 +48,7 @@
 	"spawnXCoordinate": 0.5,
 	// The new Y coordinate of the spawn when shouldUseSpawnCoordinates is enabled.
 	// min: -1000, max: 1000
-	"spawnYCoordinate": -5,
+	"spawnYCoordinate": 0,
 	// The new Z coordinate of the spawn when shouldUseSpawnCoordinates is enabled.
 	// min: -1E7, max: 1E7
 	"spawnZCoordinate": 0.5,
