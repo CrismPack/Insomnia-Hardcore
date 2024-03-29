@@ -41,6 +41,7 @@ Mods re-enabled:
 Mod side changes:
 = Chunk Sending [Server --> Both]
 = YetAnotherConfigLib [Client --> Both]
+= e4mc [Both --> Client]
 
 
 Metadata changes:
@@ -66,6 +67,7 @@ Mods removed:
 - Roughly Enough Resources [Replaced with 'Just Enough Resources']
 - Formations Nether
 - Connectivity [Replaced with 'TimeOutOut' & 'Packet Fixer']
+- Better chunk loading [Incompatible with 'ServerCore']
 
 
 Mods disabled: 
