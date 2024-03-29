@@ -11,8 +11,9 @@ phrases = [
     "'forge:entity_gravity'",
     "Parsing error loading recipe",
     "Couldn't parse loot table",
-    "Failed to load model delightfulcreators:", "Failed to modify baked model after bake"
+    "Failed to load model delightfulcreators:", "Failed to modify baked model after bake",
+    "Too many items! Cleared 1001 tasks."
     ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
-regex = ["Failed to load model delightfulcreators:", "Failed to modify baked model after bake"]
+regex = ["Failed to load model delightfulcreators:", "Failed to modify baked model after bake", "Too many items! Cleared 1001 tasks."]

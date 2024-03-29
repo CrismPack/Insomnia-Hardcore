@@ -38,6 +38,7 @@ Mod side changes:
 = Chunk Sending [Server --> Both]
 = YetAnotherConfigLib [Client --> Both]
 = e4mc [Both --> Client]
+= StarterKit [Client --> Both]
 
 
 Metadata changes:
@@ -121,8 +122,6 @@ Config Changes:
 = Disabled major haunting: [From The Fog], [Both]
 = Disabled "Ocean Sand Pyramid" structure from spawning: [From The Fog], [Both]
 = Disabled "Stone Bee" structure from spawning: [Moog's Voyager Structures], [Both]
-= Added MineCells guidebook as a starter item: [StarterKit], [Client]
-= Added MineCells guidebook as a starter item: [Starter Items], [Server]
 = Changed "Official Server" button to link to insomnia.crismpack.net: [FancyMenu], [Client]
 = Changed built-in server to "insomnia.crismpack.net": [Builtin Servers], [Client]
 = Removed main menu background panorama (Allows the panorama to be controlled though resource packs instead): [FancyMenu], [Client]
@@ -132,3 +131,8 @@ Config Changes:
 = Executes "gamerule keepInventory true" on load: [Insomnia Config], [Both]
 = Executes "gamerule allowSleeping false" on load: [Insomnia Config], [Both]
 = Fixed formatting of modded built-in textures: [Resource Pack Overrides], [Client]
+= Fixed new players not spawning inside the starter structure: [Insomnia Respawn], [Server]
+= Filter "Too many items! Cleared 1001 tasks." console spam: [Log Begone], [Both]
+= Commented out starter item lines to let it be handled by 'StarterKit': [Starter Items], [Server]
+= Set up starter items to be handled by this mod: [StarterKit], [Server]
+= Added MineCells guidebook & custom banner as starter items: [StarterKit], [Both]

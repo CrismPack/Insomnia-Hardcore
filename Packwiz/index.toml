@@ -206,7 +206,7 @@ hash = "4a4dda2b52473167b9ead56c2db4e14d7a3b30047385f87672bbe3e548b51cb5"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "acf94ebd627ef3d07120f312ad7c1dae7a1b4dbd1ef46d7416028a6403619ec0"
+hash = "a5f2fc03be39a6d6ef8620e58ba601783757640d91f18c4678b84230f657db04"
 
 [[files]]
 file = "config/logprot.json"
@@ -1979,7 +1979,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "fa4768008c549986782306cfcf8c128a21e4257fb6a71be7dc0dad0dfa30dabd"
+hash = "0168620ca2db8f3eba26a2f02794b42c7662230d0ad841c689dc0694059ed820"
 metafile = true
 
 [[files]]
