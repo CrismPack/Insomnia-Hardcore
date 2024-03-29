@@ -608,11 +608,6 @@ hash = "a2e8fa555dcd7218b0dd7373204cc8081206f6e2ed19212ab06b4a1730a8af82"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "fa62c6bccd5e70d0c509c2164d35349785135cbf32b580a05ab4e898f2a0fdcd"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "2278029a39bb4c99e7a846a440653e47f65e7cff0dbd327c3d074efb6e0b3c31"
 metafile = true
@@ -853,11 +848,6 @@ hash = "f639cf7e7dc85a5f3e1f2a35dffbbef188f2468cb4b39502a6a8c171ac238044"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "aa24f75abc776bee5aea483164383d5a0bf3d2f9d68ca1a95b108ef6343330b0"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "7656223488484e966e067bd517eab3b135c181aa8d8419c6ee8d8d6e39b74a19"
 metafile = true
@@ -1009,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "ead9a96e008129143a6928305600172051275e4dc70a6cfd5b099ac9d5be89c2"
+hash = "5926042aef06380c051688555842d800de390f3cfd24610718283caeb1fac841"
 metafile = true
 
 [[files]]
@@ -1390,21 +1380,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "719efbded91caca11955680ad9e54816a31511184f4a988fb94b8980d62d0726"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "92dcfb598285922727b8a446cd9fb6154686412746eb6c1479052a0e93a9275e"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "db138a11b63abaf05df881ad73bdf5a4b67ad21bff0f040eec34cd18d46096e8"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "b38db45e00821e347147acd632bf17c91f9237a35adde827e2b8eb7c20274cb2"
 metafile = true
 
 [[files]]
@@ -1855,6 +1830,21 @@ metafile = true
 [[files]]
 file = "mods/revive.pw.toml"
 hash = "13483c664499ef39a8bedc64945f238c3690de58c9d522e7d5687804208961c1"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "297fa1e8d45f324b6e7bb8154bfa604402c2f275d6e4294e465e398c060fcde2"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "1b20f1b5ebefb4a1561cc92f775dcfd22d3986a14e56b5f239e0369f0ee3f2f4"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
 metafile = true
 
 [[files]]

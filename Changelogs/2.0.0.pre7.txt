@@ -26,10 +26,6 @@ Mods added:
 + Builtin Servers [Client]
 + Packet Fixer
 + Panorama Screens [Client]
-+ Configured [Client]
-+ Just Enough Items
-+ Just Enough Professions
-+ Just Enough Resources
 + TimeOutOut
 + Sleep Config
 + Bad Wither No Cookie - Reloaded [Client]
@@ -62,9 +58,6 @@ Mods removed:
 - Structory: Towers [Replaced with 'Towers of the Wild Modded']
 - TimeOutOut [Incompatible with 'Connectivity']
 - Desired Servers [Replaced with 'Builtin Servers']
-- Roughly Enough Items [Replaced with 'Just Enough Items']
-- Roughly Enough Professions [Replaced with 'Just Enough Professions']
-- Roughly Enough Resources [Replaced with 'Just Enough Resources']
 - Formations Nether
 - Connectivity [Replaced with 'TimeOutOut' & 'Packet Fixer']
 - Better chunk loading [Incompatible with 'ServerCore']
