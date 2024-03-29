@@ -1,6 +1,6 @@
 name = "Starter Kit"
 filename = "starterkit-1.20.1-6.5.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

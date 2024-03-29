@@ -45,13 +45,13 @@
 	"shouldUseSpawnCoordinates": true,
 	// The new X coordinate of the spawn when shouldUseSpawnCoordinates is enabled.
 	// min: -1E7, max: 1E7
-	"spawnXCoordinate": 0,
+	"spawnXCoordinate": 0.5,
 	// The new Y coordinate of the spawn when shouldUseSpawnCoordinates is enabled.
 	// min: -1000, max: 1000
 	"spawnYCoordinate": -5,
 	// The new Z coordinate of the spawn when shouldUseSpawnCoordinates is enabled.
 	// min: -1E7, max: 1E7
-	"spawnZCoordinate": 0,
+	"spawnZCoordinate": 0.5,
 	// If the spawnCoordOffset config options should be used.
 	"shouldUseSpawnCoordOffsets": false,
 	// The X coordinate offset of the spawn when shouldUseSpawnCoordOffsets is enabled.
