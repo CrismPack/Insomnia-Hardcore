@@ -1,0 +1,1 @@
+schedule function insomniaclear:timerwarn10 1200s
