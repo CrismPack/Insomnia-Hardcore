@@ -1,5 +1,5 @@
-Delete all mods except: DisFabric, Vanish, Maintenance Mode, AFKPlus, CommandSpy, 
-Delete "global_packs" folder
+Delete all mods except: DisFabric, Vanish, Maintenance Mode, AFKPlus, CommandSpy, Custom-Commands
+Delete everything in global_packs/required_data except: 'Faust Origin - Unchoosable'
 Backup "server.properties" file
 Upload and unpack new serverpack zip
 Remove RandomTP from mods folder.

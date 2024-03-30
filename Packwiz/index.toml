@@ -803,6 +803,11 @@ hash = "24c51e5bca8286311dabfad52fa2bdb5267a1eba86f58c7ef82b43135e6e51ca"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "5a55bbd7ec5cef6fdc47f8fff05ff3e871aff29b6945580cb70e9d540d711b8f"
+metafile = true
+
+[[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "64d21b094bd985668a27137909a2c83b6566cd8e934029a7ef51411221a9cc7c"
 metafile = true
@@ -2000,6 +2005,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b06c4ab8ded67fe92b0943cee3593654421b2fa50c888d86e764dae453152ac7"
+metafile = true
+
+[[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "291bd64f9c18ad292f8995660453352462a42d8338ebbc5239dd8af181a755d8"
 metafile = true
 
 [[files]]

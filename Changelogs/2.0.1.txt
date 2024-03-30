@@ -1,0 +1,46 @@
+v2.0.1
+
+Fabric version: Fabric-0.15.7
+Update overview: 
+
+Mods added:
++ Suggestion Tweaker
++ ClickThrough [Client]
+
+Mods re-enabled:
++ 
+
+Mod side changes:
+= [Server --> Both]
+
+Metadata changes:
+=  [MR --> CF]
+
+
+Resource Packs added:
++ 
+
+Data Packs added:
++ 
+
+Mods removed: 
+- 
+
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Data Packs removed:
+- 
+
+Resource Packs updated:
+> 
+
+Mods updated: 
+> 
+
+Config Changes: 
+= : [mod], [Client]
