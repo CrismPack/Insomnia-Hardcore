@@ -1,4 +1,3 @@
-
 [serverConfig]
 	#The default language used for server-side localization for players that don't have the mod installed.
 	defaultLanguage = "en_us"
@@ -16,6 +15,10 @@
 	#If an option is in neither of the configurable option lists, then the value in the default player config is used across the server.
 	#Check the default player config .toml file for the option names.
 	opConfigurablePlayerConfigOptions = ["claims.bonusChunkClaims", "claims.bonusChunkForceloads"]
+	#The permission system to use for everything that requires permission checks (e.g. permission_api, ftb_ranks, luck_perms, prometheus). Non-built-in permission systems can be registered through the API with an addon.
+	permissionSystem = "luck_perms"
+	#The player party system to prefer and use for anything that can't support multiple systems (e.g. default, ftb_teams, argonauts, argonauts_guilds). Non-built-in party systems can be registered through the API with an addon.
+	primaryPartySystem = "ftb_teams"
 
 	[serverConfig.parties]
 		#Whether the parties part of this mod is enabled.
@@ -35,7 +38,6 @@
 		#How often to check for expired parties in order to remove them (in minutes). The interval is effectively rounded up to a multiple of 10 minutes.
 		#Range: > 10
 		partyExpirationCheckInterval = 360
-
 	[serverConfig.claims]
 		#Whether the claims part of this mod is enabled.
 		enabled = true
@@ -48,22 +50,13 @@
 		#Whether to convert expired player chunk claims to "expired claims" instead of completely freeing them. This shouldn't be too bad for performance because it still reduces the number of unique claims.
 		playerClaimsConvertExpiredClaims = true
 		#The maximum number of chunks that a player can claim. Additional claims can be configured in the player config.
-		#This value can be overridden with a FTB Ranks permission.
+		#This value can be overridden with a player permission.
 		#Range: > 0
 		maxPlayerClaims = 100
 		#The maximum number of claimed chunks that a player can forceload. Additional forceloads can be configured in the player config.
-		#This value can be overridden with a FTB Ranks permission.
+		#This value can be overridden with a player permission.
 		#Range: > 0
 		maxPlayerClaimForceloads = 10
-		#The FTB Ranks permission that should override the default "maxPlayerClaims" value. Set it to an empty string to never check permissions.
-		maxPlayerClaimsFTBPermission = "xaero.pac_max_claims"
-		#The FTB Ranks permission that should override the default "maxPlayerClaimForceloads" value. Set it to an empty string to never check permissions.
-		#The permission override only takes effect after the player logs in at least once after a server (re)launch, so it is recommended to keep all permission-based forceload limits equal to or greater than "maxPlayerClaimForceloads".
-		maxPlayerClaimForceloadsFTBPermission = "xaero.pac_max_forceloads"
-		#The FTB Ranks permission that gives non-OP players the ability to make server claims and enable server claim mode.
-		serverClaimFTBPermission = "xaero.pac_server_claims"
-		#The FTB Ranks permission that gives non-OP players the ability to enable claim admin mode.
-		adminModeFTBPermission = "xaero.pac_admin_mode"
 		#The maximum distance on the X or Z axis (forming a square) that a chunk can be claimed at by a player.
 		#Range: > 0
 		maxClaimDistance = 5
@@ -82,6 +75,16 @@
 		#ALL - all claims are synced. OWNED_ONLY - only the claims that the client player owns and server claims are synced. NOT_SYNCED - claims are not synced.
 		#Allowed Values: NOT_SYNCED, OWNED_ONLY, ALL
 		claimsSynchronization = "ALL"
+		#The permission that should override the default "maxPlayerClaims" value. Set it to an empty string to never check permissions. The used permission system can be configured with "permissionSystem".
+		maxPlayerClaimsPermission = "xaero.pac_max_claims"
+		#The permission that should override the default "maxPlayerClaimForceloads" value. Set it to an empty string to never check permissions.
+		#The permission override only takes effect after the player logs in at least once after a server (re)launch, so it is recommended to keep all permission-based forceload limits equal to or greater than "maxPlayerClaimForceloads".
+		#The used permission system can be configured with "permissionSystem".
+		maxPlayerClaimForceloadsPermission = "xaero.pac_max_forceloads"
+		#The permission that gives non-OP players the ability to make server claims and enable server claim mode. The used permission system can be configured with "permissionSystem".
+		serverClaimPermission = "xaero.pac_server_claims"
+		#The permission that gives non-OP players the ability to enable claim admin mode. The used permission system can be configured with "permissionSystem".
+		adminModePermission = "xaero.pac_admin_mode"
 
 		[serverConfig.claims.protection]
 			#The type of the list defined in "friendlyChunkProtectedEntityList". ONLY - include only the listed entities. ALL_BUT - include all but the listed entities.
@@ -117,7 +120,7 @@
 			#Prefix "anything$" is the same as no prefix but allows interaction with any item held in the hand. Please make sure that no item does anything bad when used at a block with such an exception.
 			#Add the same block/tag multiple times to use multiple prefixes. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:lever", "minecraft:*_button", "break$minecraft:*_button", "break$minecraft:(*_|)sand"]
-			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "waystones:waystone", "waystones:desert_waystone", "waystones:red_desert_waystone", "waystones:stone_brick_waystone", "waystones:nether_brick_waystone", "waystones:red_nether_brick_waystone", "waystones:end_stone_brick_waystone", "waystones:deepslate_brick_waystone", "waystones:blackstone_brick_waystone"]
+			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "fwaystones:waystone", "fwaystones:desert_waystone", "fwaystones:red_desert_waystone", "fwaystones:stone_brick_waystone", "fwaystones:nether_brick_waystone", "fwaystones:red_nether_brick_waystone", "fwaystones:end_stone_brick_waystone", "fwaystones:deepslate_brick_waystone", "fwaystones:blackstone_brick_waystone", "adorn:trading_station"]
 			#Custom groups of blocks that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple blocks and block tags.
 			#A group without a prefix creates a player config option for the right-click interaction with the group blocks. The format for a block group is <group ID>{<blocks/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-DIRT35{minecraft:dirt, minecraft:grass_block, minecraft:(oak|spruce)_*}".
@@ -239,7 +242,7 @@
 			#By default, most item right-click uses are disabled in protected chunks. To make an exception for a specific item, add it to this list. This option has a higher priority than "additionalBannedItemsList".
 			#This list applies to both using an item at air and using it at a block/entity. Supports item tags. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:fishing_rod", "minecraft:ender_pearl", "minecraft:(red|green)_bed", "#minecraft:beds"]
-			itemUseProtectionExceptionList = ["minecraft:firework_rocket", "minecraft:potion", "waystones:pocket_wormhole", "waystones:local_void", "waystones:abyss_watcher", "waystones:waystone_scroll"]
+			itemUseProtectionExceptionList = ["minecraft:firework_rocket", "minecraft:potion", "fwaystones:pocket_wormhole", "fwaystones:local_void", "fwaystones:abyss_watcher", "fwaystones:waystone_scroll"]
 			#Custom groups of items that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple items and item tags.
 			#Each group creates a player config option for the right-click use of the group items. The format for an item group is <group ID>{<items/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-stuff98{minecraft:(writable|written)_book, minecraft:*_book, #minecraft:compasses}".
@@ -261,4 +264,8 @@
 			completelyDisabledEntityInteractions = []
 			#Whether to completely disable frost walking on the server. Use this if the regular frost walking protection doesn't work, since there is no game rule for it.
 			completelyDisableFrostWalking = false
-
+			#Whether to ignore most detected entity collisions for boats.
+			#By default, boats detect entity collisions and handle them every tick for every entity that touches them, which is a lot.
+			#This can become very slow on a server if we also add the necessary claim protection checks in the mix.
+			#This option makes it so most collisions with boats are randomly ignored, which helps the performance without affecting gameplay all that much.
+			reducedBoatEntityCollisions = true
