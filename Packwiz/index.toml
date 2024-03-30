@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
+hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
@@ -1708,6 +1708,11 @@ hash = "677296e7565310ffc0820a04a5d585b40c0b1f896aa341868a565051ef4946ca"
 metafile = true
 
 [[files]]
+file = "mods/paragliders.pw.toml"
+hash = "f02e51a9943fe3ed6666e97f94d2f934f023b8a950ba81848ff1e49ea31e6dd6"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "0222f7f9e5a181a0bec59d6d6af223eccdc6b4f5fa3ef3d746c6305b97f96f81"
 metafile = true
@@ -1890,6 +1895,11 @@ metafile = true
 [[files]]
 file = "mods/shield-overhaul.pw.toml"
 hash = "6a29fe0efc060d4c977f15852a24ae23f9d5dec345d055daab33f3d781c4cb70"
+metafile = true
+
+[[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "baf6966f04cac626678b4ebe59029795f9c83a05ccc85496dffd1b8ba225fee9"
 metafile = true
 
 [[files]]

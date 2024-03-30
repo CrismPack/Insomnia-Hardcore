@@ -6,6 +6,8 @@ Update overview:
 Mods added:
 + Suggestion Tweaker
 + ClickThrough [Client]
++ Paragliders
++ Show Me What You Got
 
 Mods re-enabled:
 + 
@@ -24,7 +26,7 @@ Data Packs added:
 + 
 
 Mods removed: 
-- 
+- Login Protection
 
 
 Mods disabled: 
@@ -43,4 +45,5 @@ Mods updated:
 > 
 
 Config Changes: 
-= : [mod], [Client]
+= Disabled "perPlayerDifficulty": [Dungeon Difficulty], [Both]
+= Fixed config not loading: [PhantomConfigFork], [Server]

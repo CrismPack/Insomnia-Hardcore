@@ -1,0 +1,13 @@
+name = "Paragliders"
+filename = "Paraglider-fabric-20.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a340fde2029b871c77aac638e0956ba33fb44b9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5046071
+project-id = 289240
