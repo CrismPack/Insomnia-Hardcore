@@ -1119,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
@@ -1370,6 +1370,11 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "9785c074b8ffaeb91fb0120b3b56fa8ba96ce5547205af2695e11f0bcc21faf7"
+metafile = true
+
+[[files]]
+file = "mods/itemflexer.pw.toml"
+hash = "9aa097a64de29be57161a3afa9adf86e8c32031e19c11fefe4f89233a5d0a146"
 metafile = true
 
 [[files]]
@@ -1625,6 +1630,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
 hash = "23ab8cbe4992e305825d977af0aa8d023a7acff693d0a3a311dae1e78f43a5d1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]

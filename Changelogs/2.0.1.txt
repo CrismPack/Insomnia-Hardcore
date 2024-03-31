@@ -7,7 +7,8 @@ Mods added:
 + Suggestion Tweaker
 + ClickThrough [Client]
 + Paragliders
-+ Show Me What You Got
++ ItemFlexer [Server]
++ No Chat Reports
 
 Mods re-enabled:
 + 
