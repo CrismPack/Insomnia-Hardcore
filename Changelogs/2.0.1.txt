@@ -57,3 +57,4 @@ Config Changes:
 = Enabled "forceUpdates" for chatSettings: [Exordium], [Client]
 = Changed difficulty of Minecells dimensions. Prison=3, Promenade=4, Ramparts=5, Insufferable_Crypt=3, Black_Bridge=3: [Dungeon Difficulty], [Both]
 = Changed difficulty of BOMD bosses. Lich=3, Void_Blossum=3, Gauntlet_Arena=4, Obsidilith_Arena=6: [Dungeon Difficulty], [Both]
+= Enabled scrolling for the MOTD message text box: [FancyMenu], [Client]
