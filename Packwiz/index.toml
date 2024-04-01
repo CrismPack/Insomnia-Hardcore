@@ -85,6 +85,10 @@ file = "config/droplight-common.toml"
 hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
+file = "config/dungeon_difficulty_v2.json"
+hash = "37193222c860b4ee5149965511cceea268d82a47a5ae9d405689c287c352fd28"
+
+[[files]]
 file = "config/dusk.json"
 hash = "68ed77369dae4f4dda844fd69e6045db4f25308e0ef9c2351bfbd20406dbaa06"
 
@@ -402,7 +406,7 @@ hash = "00adf7aee1635840f4fdb75fe307b0798b6999afbaada3962f669e16eeb7fd17"
 
 [[files]]
 file = "global_packs/required_data/Insomnia - Config/data/insomniaconfig/functions/load.mcfunction"
-hash = "9471b61a603c828c539d653c37619ac881c2e091a8da144123b53d1d62f17dd4"
+hash = "fb3849055b6c4afa3253abe0ff582de07fa2b2fe31a6d1ad7f8d8023a579a769"
 
 [[files]]
 file = "global_packs/required_data/Insomnia - Config/data/minecraft/tags/functions/load.json"
@@ -804,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "5a55bbd7ec5cef6fdc47f8fff05ff3e871aff29b6945580cb70e9d540d711b8f"
+hash = "1034fcec23315497e511229ca6e948cce4974254fd6149a0e74704b7f454c149"
 metafile = true
 
 [[files]]
@@ -1478,11 +1482,6 @@ hash = "7fabd6bd7ee1f94d0bbb48a9f0c563eafb0ef878903716f6d989b2c441585bb1"
 metafile = true
 
 [[files]]
-file = "mods/login-protection.pw.toml"
-hash = "54c4dff8e791e05c8082bf5c4b6b97e2df990ab2dd1bce4d57687299aa703bc0"
-metafile = true
-
-[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "cc8bb1b3b19d8af2febeed8a007bb695e8a15e779c9bceaf50f5f7c14ecb98e6"
 metafile = true
@@ -1905,11 +1904,6 @@ metafile = true
 [[files]]
 file = "mods/shield-overhaul.pw.toml"
 hash = "6a29fe0efc060d4c977f15852a24ae23f9d5dec345d055daab33f3d781c4cb70"
-metafile = true
-
-[[files]]
-file = "mods/show-me-what-you-got.pw.toml"
-hash = "baf6966f04cac626678b4ebe59029795f9c83a05ccc85496dffd1b8ba225fee9"
 metafile = true
 
 [[files]]

@@ -230,6 +230,28 @@
             "name": "normal",
             "level": 1
           }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "bosses_of_mass_destruction:lich_tower"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 3
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "bosses_of_mass_destruction:void_blossom"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 3
+          }
         }
       ]
     },
@@ -263,6 +285,17 @@
             "name": "dungeon",
             "level": 4
           }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "bosses_of_mass_destruction:gauntlet_arena"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 4
+          }
         }
       ]
     },
@@ -285,8 +318,69 @@
             "name": "dungeon",
             "level": 6
           }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "bosses_of_mass_destruction:obsidilith_arena"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 6
+          }
         }
       ]
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecells:prison"
+      },
+      "difficulty": {
+        "name": "normal",
+        "level": 3
+      },
+      "zones": []
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecells:promenade"
+      },
+      "difficulty": {
+        "name": "normal",
+        "level": 4
+      },
+      "zones": []
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecells:ramparts"
+      },
+      "difficulty": {
+        "name": "normal",
+        "level": 5
+      },
+      "zones": []
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecells:insufferable_crypt"
+      },
+      "difficulty": {
+        "name": "normal",
+        "level": 3
+      },
+      "zones": []
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecells:black_bridge"
+      },
+      "difficulty": {
+        "name": "normal",
+        "level": 3
+      },
+      "zones": []
     }
   ]
 }

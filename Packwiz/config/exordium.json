@@ -8,7 +8,7 @@
     "enabled": true,
     "maxFps": 20,
     "forceBlend": false,
-    "forceUpdates": false
+    "forceUpdates": true
   },
   "debugScreenSettings": {
     "enabled": true,

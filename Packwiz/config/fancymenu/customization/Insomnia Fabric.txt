@@ -228,7 +228,7 @@ customization {
 
 customization {
   orientation = element
-  enable_scrolling = false
+  enable_scrolling = true
   shadow = true
   scale = 0.8
   source = https://github.com/CrismPack/MOTD/blob/main/InsomniaMOTD.txt
