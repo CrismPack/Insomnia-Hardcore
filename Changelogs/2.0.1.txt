@@ -6,6 +6,7 @@ Update overview:
 ~ Fixed beds in Minecells dimensions being able to set respawn point.
 ~ Fixed phantoms spawning in the Overworld on servers.
 ~ Upped the difficulty of Minecells dimensions and BOMD bosses, getting progressively more difficult.
+~ Added a content to Nether and End dimensions.
 ~ Re-added a few quality of life mods.
 
 Mods added:
@@ -14,6 +15,12 @@ Mods added:
 + Paragliders
 + ItemFlexer [Server]
 + No Chat Reports
++ Eldritch End
++ AzureLib [Dependency of 'Eldritch End']
++ Faster Random
++ MNS - Moog's Nether Structures
++ BetterNether
++ Savage Ender Dragon
 
 Mods re-enabled:
 + 
@@ -58,3 +65,4 @@ Config Changes:
 = Changed difficulty of Minecells dimensions. Prison=3, Promenade=4, Ramparts=5, Insufferable_Crypt=3, Black_Bridge=3: [Dungeon Difficulty], [Both]
 = Changed difficulty of BOMD bosses. Lich=3, Void_Blossum=3, Gauntlet_Arena=4, Obsidilith_Arena=6: [Dungeon Difficulty], [Both]
 = Enabled scrolling for the MOTD message text box: [FancyMenu], [Client]
+= Disabled buttons on multiplayer menu: [No Chat Reports], [Client]

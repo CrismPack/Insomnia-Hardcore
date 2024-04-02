@@ -5,6 +5,10 @@ file = "config/FabricTPA.properties"
 hash = "9a65dce4b8f9f00dfd5565680c31c9d8cb8fff9e29bbdb248fff2a14bd1db0f5"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "c00aaa2a7ab2ab2e5db8d8200116d1588b4d1e31682e26d1c663efb3ff55f247"
+
+[[files]]
 file = "config/Prefab.json"
 hash = "656ea21d3acce17195962e71a60a497f9e40f8bcd6d1dab0535436f1dada8c62"
 
@@ -22,7 +26,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "529d0feed4caf4a54ca3a6893a07932211a0d37e44fc3bc119c7a9ec9b7c06a7"
+hash = "19b39c4f922cf939b5fa699acae5d0d15ea58a0a148af543cb060d06049a02b2"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -86,7 +90,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dungeon_difficulty_v2.json"
-hash = "37193222c860b4ee5149965511cceea268d82a47a5ae9d405689c287c352fd28"
+hash = "52964654747f11d1cdb93eb99aa0c49af123a62a20fce2e3268e40f64b3c4de5"
 
 [[files]]
 file = "config/dusk.json"
@@ -98,7 +102,7 @@ hash = "279100051fa0bc939c754bc386fd95aeb533b0c187cba53a4a4e16b5edaebb2b"
 
 [[files]]
 file = "config/exordium.json"
-hash = "0a6cd9fe1e515828e0841700dc8a0ca8ca21d9b424358e2229e36799d71799ca"
+hash = "50627831384f755834b8aa227b733bb3f52d0942fd6f70d816a400f4feb1d5e5"
 
 [[files]]
 file = "config/explosiveenhancement.json"
@@ -122,7 +126,7 @@ hash = "da6f4e1390d63b2cbf2a0a83239cdd15897db85ad84bad7ae58479b18d4d3920"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "7ecb2c90c17a4dd5d2436afe684f3dbb0363a632f191cdea228f7b2028be5261"
+hash = "01d4475050a956d583c4be94051d3161764386deb4fda7d1c79a463e0dcd0953"
 
 [[files]]
 file = "config/fancymenu/customization/lanmenu.txt"
@@ -572,6 +576,11 @@ hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "db42581c6dd8b2e518f999500b68397f595344e78f216ff174ac37aa1ce6598e"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "c4ef03bd04acbdb5e3226417b3afcc2507753abf2517289952c864be8f295a14"
 metafile = true
@@ -654,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
@@ -1027,6 +1041,11 @@ hash = "a9db08b3d98b29426251a81044df9f63de98adafa377386e3e08d4d01fefa2be"
 metafile = true
 
 [[files]]
+file = "mods/eldritch-end.pw.toml"
+hash = "687de1a7e2a4c90450881641a29871dc8d9a9e74bd79ff3f5ca9d6cbb78ea843"
+metafile = true
+
+[[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "227f9763e81e5a0b26113320b1e53ff11f29e32c71e36d445e278783f09ba2c5"
 metafile = true
@@ -1123,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
 metafile = true
 
 [[files]]
@@ -1179,6 +1198,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "9bfc164bd208fea956b88282e83dcc2f20074c1bf5dbf03566624764079b0502"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "56107724b6c4bc54a13b822529e71bff3d2d4c63f6ead6a98bf8a1e603fee7c1"
 metafile = true
 
 [[files]]
@@ -1542,6 +1566,11 @@ hash = "8a72a4a9c8423a92771121544a6ed259c69bd95187de27bd290f404b1a86667a"
 metafile = true
 
 [[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "95f657382464ee5918328dcc510a23fa8262bdc87b559dff2ec235a6e20dacf6"
+metafile = true
+
+[[files]]
 file = "mods/mo-glass.pw.toml"
 hash = "5383f39c26454484a6a76265fa79aead51b39ef75b36585232b077102c778d67"
 metafile = true
@@ -1879,6 +1908,11 @@ metafile = true
 [[files]]
 file = "mods/saplanting.pw.toml"
 hash = "6cc4f6d7026729efbdfa2fa79da37b008ed3d0d4db80a19ca170ba65860eaee6"
+metafile = true
+
+[[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "786c817f12e6b7a5a36a311e6abd04569c63169321ab090379fbb2e5a378f6f3"
 metafile = true
 
 [[files]]
@@ -2386,7 +2420,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "1cf887de9e8df1530de6a3a80e5fb8cef3c26c5248611921bd860c85313a688f"
+hash = "13cac872108ed8e2a86d4064af36355497cc034b6f1957c55bd71e6ee7ad2772"
 
 [[files]]
 file = "shaderpacks/README.txt"
