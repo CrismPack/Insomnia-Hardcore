@@ -66,3 +66,4 @@ Config Changes:
 = Changed difficulty of BOMD bosses. Lich=3, Void_Blossum=3, Gauntlet_Arena=4, Obsidilith_Arena=6: [Dungeon Difficulty], [Both]
 = Enabled scrolling for the MOTD message text box: [FancyMenu], [Client]
 = Disabled buttons on multiplayer menu: [No Chat Reports], [Client]
+= Disabled Void Strike and Void Shot enchantments: [MC Dungeons Weapons], [Both]
