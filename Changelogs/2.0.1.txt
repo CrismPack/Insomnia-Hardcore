@@ -45,6 +45,7 @@ Mods removed:
 - Dark Enchanting [Crashes server: https://github.com/frqnny/dark-enchanting/issues/83]
 - Incendium [Incompatible with 'BetterNether']
 - Structure Essentials [Replaced with 'Async Locator']
+- Roughly Enough Resources [Causes server lag spike when players join]
 
 
 Mods disabled: 
