@@ -22,6 +22,7 @@ Mods added:
 + MNS - Moog's Nether Structures
 + BetterNether
 + Savage Ender Dragon
++ Async Locator
 
 Mods re-enabled:
 + 
@@ -43,6 +44,7 @@ Mods removed:
 - Login Protection [Invulnerable effect would sometimes persist]
 - Dark Enchanting [Crashes server: https://github.com/frqnny/dark-enchanting/issues/83]
 - Incendium [Incompatible with 'BetterNether']
+- Structure Essentials [Replaced with 'Async Locator']
 
 
 Mods disabled: 

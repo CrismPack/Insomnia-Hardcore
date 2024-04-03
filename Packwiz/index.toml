@@ -550,6 +550,11 @@ hash = "1d5f2e974748fdbf5cc765c7f0e9e4626c9690f974bf0ef4f2469be605d24e00"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
 metafile = true
@@ -2035,11 +2040,6 @@ hash = "7a954b499a9d3a231d8398471a5d7dac9779af5c1a00539b9eeaacfc39b3651a"
 metafile = true
 
 [[files]]
-file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
-metafile = true
-
-[[files]]
 file = "mods/stutterfix.pw.toml"
 hash = "0174f372918ed7eb79d853c42943495b0d5d9bb6ab7326ca30f466dbc340d4ef"
 metafile = true
@@ -2279,11 +2279,6 @@ hash = "3f1e8edcb36e70273c5725898993667dff929047fb69d1ebd5f77a5748f38b03"
 metafile = true
 
 [[files]]
-file = "resourcepacks/disable-incendium-toxic-heap-biome.pw.toml"
-hash = "1c55e256513ed0b0c3c39fbfdacc91f0b05c797c785575365c5cb7975456e08d"
-metafile = true
-
-[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "496de0aeee48cb7caa77aa72820e60db6d161c62ae3fa7039d5a57073d919d64"
 metafile = true
@@ -2316,11 +2311,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "117d627490665e956f84207902d02865d3ca05b7efe0dc0ec15418fc9bf3eb5c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sparkles.pw.toml"
-hash = "9fb46a8dd6c7300b9918d3936eeb7c395d3e6f1ebcef844cd00584f02f5a5300"
 metafile = true
 
 [[files]]
