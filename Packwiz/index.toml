@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "dfb633f2c8caea628d11741fb1463508fcc228e264a1a76e93cc099f57c4886c"
+hash = "320e19bf3ee8d4468593cec1029db9785ed9e2aa40a69453b7a11990aedb434a"
 metafile = true
 
 [[files]]
@@ -1337,11 +1337,6 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "6035dc99eebe6cf06ce56952046989133b17e601aeed3a2ea05a22dae6e880e9"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "ac1e67e8fd33b13ed99c8aed964ab2501d8a2092f01c22b901e43b6824b2bc6f"
 metafile = true
 
 [[files]]
@@ -2286,11 +2281,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/disable-incendium-toxic-heap-biome.pw.toml"
 hash = "1c55e256513ed0b0c3c39fbfdacc91f0b05c797c785575365c5cb7975456e08d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/disable-tieredz-max-health.pw.toml"
-hash = "78f9478745c45cc5d09c0baf13b322dea4d9bde02aeba31a15ac20900fcb1bfd"
 metafile = true
 
 [[files]]

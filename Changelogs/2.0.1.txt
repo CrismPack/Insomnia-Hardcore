@@ -7,6 +7,7 @@ Update overview:
 ~ Fixed phantoms spawning in the Overworld on servers.
 ~ Upped the difficulty of Minecells dimensions and BOMD bosses, getting progressively more difficult.
 ~ Added a content to Nether and End dimensions.
+~ Fixed some crashing issues.
 ~ Re-added a few quality of life mods.
 
 Mods added:
@@ -41,14 +42,14 @@ Data Packs added:
 Mods removed: 
 - Login Protection [Invulnerable effect would sometimes persist]
 - Dark Enchanting [Crashes server: https://github.com/frqnny/dark-enchanting/issues/83]
-- Incendium [Incompatible]
+- Incendium [Incompatible with 'BetterNether']
 
 
 Mods disabled: 
 - 
 
 Resource Packs removed:
-- 
+- Sparkles: Stardust Labs Resourcepack [Textures for 'Incendium']
 
 Data Packs removed:
 - 
