@@ -52,7 +52,7 @@ Resource Packs removed:
 - Sparkles: Stardust Labs Resourcepack [Textures for 'Incendium']
 
 Data Packs removed:
-- 
+- Disable Incendium Toxic Heap Biome
 
 Resource Packs updated:
 > 
