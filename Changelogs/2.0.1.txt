@@ -39,7 +39,8 @@ Data Packs added:
 + 
 
 Mods removed: 
-- Login Protection
+- Login Protection [Invulnerable effect would sometimes persist]
+- Dark Enchanting [Crashes server: https://github.com/frqnny/dark-enchanting/issues/83]
 
 
 Mods disabled: 

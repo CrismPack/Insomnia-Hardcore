@@ -935,11 +935,6 @@ hash = "279938c65dc9d92030733b9284499cfb39ba970e37bf0872005fcb1e53dc8206"
 metafile = true
 
 [[files]]
-file = "mods/dark-enchanting.pw.toml"
-hash = "42904f49f8065582f46cdd222a8cbf8c67dca5ef80f1cb6c235655dc6a570b7b"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "417a83ae5e3130f95c3c3c4f7ae9b497e7649a093081b27e8341e4d448cf7896"
 metafile = true
