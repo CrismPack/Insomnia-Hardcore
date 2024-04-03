@@ -221,6 +221,10 @@ file = "config/logprot.json"
 hash = "ffc115e469b3dddab530c23f8b996142171220ed3ea80fb21a3f4a4db27d52dd"
 
 [[files]]
+file = "config/mcdw/mcdw_enchantments_config.json5"
+hash = "bc0683bbd90cf78e03fe8cf075dc1a81d5f5d3cb442e4d663fe5f0cb295e4abc"
+
+[[files]]
 file = "config/memorysettings.json"
 hash = "a5f4d246ddf21a3f53240cb8ba5b276f5543c142516fd3ce9e64b7bb2ff8d6c5"
 
