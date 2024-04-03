@@ -1,6 +1,6 @@
 name = "Concurrent Chunk Management Engine (Fabric)"
 filename = "c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -26,7 +26,7 @@ Mods re-enabled:
 + 
 
 Mod side changes:
-= [Server --> Both]
+= C2ME [Both --> Client]
 
 Metadata changes:
 =  [MR --> CF]
@@ -41,6 +41,7 @@ Data Packs added:
 Mods removed: 
 - Login Protection [Invulnerable effect would sometimes persist]
 - Dark Enchanting [Crashes server: https://github.com/frqnny/dark-enchanting/issues/83]
+- Incendium [Incompatible]
 
 
 Mods disabled: 
