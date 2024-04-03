@@ -8,6 +8,7 @@ Update overview:
 ~ Upped the difficulty of Minecells dimensions and BOMD bosses, getting progressively more difficult.
 ~ Added a content to Nether and End dimensions.
 ~ Fixed some crashing issues.
+~ Replaced REI suite with EMI.
 ~ Re-added a few quality of life mods.
 
 Mods added:
@@ -23,12 +24,18 @@ Mods added:
 + BetterNether
 + Savage Ender Dragon
 + Async Locator
++ EMI
++ EMI Trades
++ EMI Loot
++ EMI Ores
++ EMI Extra Integrations
++ Just Enough Items
 
 Mods re-enabled:
 + 
 
 Mod side changes:
-= C2ME [Both --> Client]
+= [Both --> Client]
 
 Metadata changes:
 =  [MR --> CF]
@@ -45,7 +52,11 @@ Mods removed:
 - Dark Enchanting [Crashes server: https://github.com/frqnny/dark-enchanting/issues/83]
 - Incendium [Incompatible with 'BetterNether']
 - Structure Essentials [Replaced with 'Async Locator']
-- Roughly Enough Resources [Causes server lag spike when players join]
+- Roughly Enough Items
+- Roughly Enough Resources
+- Roughly Enough Professions
+- Roughly Enough Trades
+- C2ME [Causes server crash when shield bashing]
 
 
 Mods disabled: 
@@ -73,3 +84,4 @@ Config Changes:
 = Enabled scrolling for the MOTD message text box: [FancyMenu], [Client]
 = Disabled buttons on multiplayer menu: [No Chat Reports], [Client]
 = Disabled Void Strike and Void Shot enchantments: [MC Dungeons Weapons], [Both]
+= Unbound keybinding by default for favoring items: [EMI], [Client]

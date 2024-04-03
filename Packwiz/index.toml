@@ -1070,6 +1070,26 @@ hash = "2fd589f271af53bc86ea6bd0130ee12b4bceda0206e854c289f1c8f300a64720"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "c63ebdda8a816d0161169c422086ea0e3be4a0d9ba40c09558bd1abfd088299a"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "b6c519c77dacae8431b342b7428044d068e44b49ffff5977d03aaea30f0c255b"
+metafile = true
+
+[[files]]
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "cba9a89d5114ad8aaec8c4593851388bacf317cbe99428e347441c93ae9f8c1b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "8865897b48fe88ed2770379d5c1effdd8fe1cc62d84304482df323fb55982570"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "9e58bc37851da235aeb6462b331205e0c68790a207cc1c96f014e8adc5858e2f"
 metafile = true
@@ -1137,6 +1157,11 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "9eb35f07d36640750db0bb41550dbfc67908f9729c01e10062b4bdf3f5686c35"
 metafile = true
 
 [[files]]
@@ -1412,6 +1437,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "719efbded91caca11955680ad9e54816a31511184f4a988fb94b8980d62d0726"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "92dcfb598285922727b8a446cd9fb6154686412746eb6c1479052a0e93a9275e"
 metafile = true
 
 [[files]]
@@ -1872,26 +1902,6 @@ metafile = true
 [[files]]
 file = "mods/revive.pw.toml"
 hash = "13483c664499ef39a8bedc64945f238c3690de58c9d522e7d5687804208961c1"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "297fa1e8d45f324b6e7bb8154bfa604402c2f275d6e4294e465e398c060fcde2"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "1b20f1b5ebefb4a1561cc92f775dcfd22d3986a14e56b5f239e0369f0ee3f2f4"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "13dc4764ba3bf407de49f19a9771a28784be5a159fa1e04fcd2530538c3144dd"
 metafile = true
 
 [[files]]
