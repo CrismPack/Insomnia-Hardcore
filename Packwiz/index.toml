@@ -329,6 +329,10 @@ file = "config/yosbr/config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/yosbr/config/emi.css"
+hash = "42803b28bba57603fcbc0f45d38de12afd91317e057ecbe770ed54349600d198"
+
+[[files]]
 file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
 hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
@@ -742,11 +746,6 @@ metafile = true
 [[files]]
 file = "mods/bygone-nether-fabric.pw.toml"
 hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "320e19bf3ee8d4468593cec1029db9785ed9e2aa40a69453b7a11990aedb434a"
 metafile = true
 
 [[files]]
@@ -1572,6 +1571,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "5cbddccd51b8aab55929b6475229bf481e37bf3ebc5e458e5d399dd6d0e19162"
 metafile = true
 
 [[files]]

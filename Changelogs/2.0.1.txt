@@ -30,6 +30,7 @@ Mods added:
 + EMI Ores
 + EMI Extra Integrations
 + Just Enough Items
++ Metal Bundles
 
 Mods re-enabled:
 + 
@@ -85,3 +86,4 @@ Config Changes:
 = Disabled buttons on multiplayer menu: [No Chat Reports], [Client]
 = Disabled Void Strike and Void Shot enchantments: [MC Dungeons Weapons], [Both]
 = Unbound keybinding by default for favoring items: [EMI], [Client]
+= Changed minimap to be enabled by default: [Xaero's Minimap], [Client]
