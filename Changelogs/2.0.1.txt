@@ -49,14 +49,14 @@ Data Packs added:
 
 Mods removed: 
 - Login Protection [Invulnerable effect would sometimes persist]
-- Dark Enchanting [Crashes server: https://github.com/frqnny/dark-enchanting/issues/83]
+- Dark Enchanting [Causing server crash when opening GUI: https://github.com/frqnny/dark-enchanting/issues/83]
 - Incendium [Incompatible with 'BetterNether']
 - Structure Essentials [Replaced with 'Async Locator']
-- Roughly Enough Items
-- Roughly Enough Resources
-- Roughly Enough Professions
-- Roughly Enough Trades
-- C2ME [Causes server crash when shield bashing]
+- Roughly Enough Items [Replaced with 'EMI' & 'Just Enough Items']
+- Roughly Enough Resources [Replaced with 'EMI Loot' & 'EMI Ores']
+- Roughly Enough Professions [Replaced with 'EMI Trades']
+- Roughly Enough Trades [Replaced with 'EMI Trades']
+- C2ME [Causes server crash when shield bashing: https://github.com/nvb-uy/Shield_Overhaul/issues/25]
 
 
 Mods disabled: 
