@@ -17,7 +17,7 @@
 	"DDRAmount": 13,
 	"DDRAttackSpeedWeight": 20,
 	"DDRAffectsPlayers": false,
-	"enableDAS": true,
+	"enableDAS": false,
 	"enableDASDebugLog": false,
 	"DASRadius": 64.0,
 	"DASUpdateFrequency": 30,

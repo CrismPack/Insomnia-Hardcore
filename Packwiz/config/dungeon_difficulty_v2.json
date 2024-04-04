@@ -153,7 +153,7 @@
             "structure_id": "stronghold"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 4
           }
         },
@@ -164,7 +164,7 @@
             "structure_id": "monument"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 2
           }
         },
@@ -175,7 +175,7 @@
             "structure_id": "desert_pyramid"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 2
           }
         },
@@ -186,7 +186,7 @@
             "structure_id": "jungle_pyramid"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 2
           }
         },
@@ -238,7 +238,7 @@
             "structure_id": "integrated_stronghold:stronghold"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 4
           }
         },
@@ -249,7 +249,7 @@
             "structure_id": "betterdeserttemples:desert_temple"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 2
           }
         },
@@ -260,7 +260,7 @@
             "structure_id": "betterjungletemples:better_jungle_temples"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 2
           }
         },
@@ -271,7 +271,7 @@
             "structure_id": "betteroceanmonuments:better_ocean_monuments"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 2
           }
         },
@@ -282,7 +282,7 @@
             "structure_id": "bosses_of_mass_destruction:lich_tower"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 3
           }
         },
@@ -293,7 +293,7 @@
             "structure_id": "bosses_of_mass_destruction:void_blossom"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 3
           }
         }
@@ -315,7 +315,7 @@
             "structure_id": "fortress"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 4
           }
         },
@@ -326,7 +326,7 @@
             "structure_id": "bastion_remnant"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 4
           }
         },
@@ -337,7 +337,7 @@
             "structure_id": "betterfortresses:fortress"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 4
           }
         },
@@ -381,7 +381,7 @@
             "structure_id": "end_city"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 6
           }
         },
@@ -392,7 +392,7 @@
             "structure_id": "bosses_of_mass_destruction:obsidilith_arena"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "normal",
             "level": 6
           }
         }
