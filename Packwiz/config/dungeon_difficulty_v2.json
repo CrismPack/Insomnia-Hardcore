@@ -235,6 +235,50 @@
           "zone_matches": {
             "biome_regex": ".*",
             "biome_tag_regex": ".*",
+            "structure_id": "integrated_stronghold:stronghold"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 4
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betterdeserttemples:desert_temple"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betterjungletemples:better_jungle_temples"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betteroceanmonuments:better_ocean_monuments"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
             "structure_id": "bosses_of_mass_destruction:lich_tower"
           },
           "difficulty": {
@@ -290,10 +334,32 @@
           "zone_matches": {
             "biome_regex": ".*",
             "biome_tag_regex": ".*",
-            "structure_id": "bosses_of_mass_destruction:gauntlet_arena"
+            "structure_id": "betterfortresses:fortress"
           },
           "difficulty": {
             "name": "dungeon",
+            "level": 4
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "friendsandfoes:citadel"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 4
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "bosses_of_mass_destruction:gauntlet_arena"
+          },
+          "difficulty": {
+            "name": "normal",
             "level": 4
           }
         }

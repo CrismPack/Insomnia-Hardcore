@@ -31,6 +31,8 @@ Mods added:
 + EMI Extra Integrations
 + Just Enough Items
 + Metal Bundles
++ Amplified Nether
++ Hearths
 
 Mods re-enabled:
 + 

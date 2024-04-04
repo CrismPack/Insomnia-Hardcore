@@ -514,6 +514,11 @@ hash = "246f2bc5642cfcb8409a3ed567ceb30e2b89be5ce4838c536c068f6d5c06f878"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "6430f9ad8dfd144c993df5063d89a6b585f986847f0c5f1e5a9096878762cc0c"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c61e23259e422098fde9b6393492f4f6e22e1bc074a397ae4c6edd686481e397"
 metafile = true
@@ -1331,6 +1336,11 @@ metafile = true
 [[files]]
 file = "mods/heartbond.pw.toml"
 hash = "5ef6344ab2bbe1b4951d324028cac992468e8ea2f97d579301f96a04ac41b0b2"
+metafile = true
+
+[[files]]
+file = "mods/hearths.pw.toml"
+hash = "8ebf55176115dee4d1ef114584d99eeacd2d3eddb369e519e31041262ecab22f"
 metafile = true
 
 [[files]]
