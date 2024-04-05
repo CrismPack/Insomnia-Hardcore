@@ -119,5 +119,18 @@
                 "top": 2
             }
         }
+    },
+    "com.mrcrayfish.backpacked.client.gui.screen.inventory.BackpackScreen": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 26
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 26
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 26
+            }
+        }
     }
 }

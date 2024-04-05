@@ -39,6 +39,7 @@ Mods added:
 + Amplified Nether
 + Hearths
 + Backpacked
++ More Armor Trims
 
 Mods re-enabled:
 + 
@@ -104,3 +105,4 @@ Config Changes:
 = Fixed Withered origin not being unselectable: [TooManyOrigins - Disable Withered], [Server]
 = Enabled "forceBetterXPreset": [BCLib], [Both]
 = Disabled "Blackstone Basin" nether biome: [Regions Unexplored], [Both]
+= Changed horizontal offset of buttons to "26" for the backpacked menu: [Inventory Profiles Next], [Client]
