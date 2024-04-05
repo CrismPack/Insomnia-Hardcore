@@ -289,6 +289,72 @@
           "zone_matches": {
             "biome_regex": ".*",
             "biome_tag_regex": ".*",
+            "structure_id": "betterdungeons:skeleton_dungeon"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "philipsruins:bone_dungeon"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "philipsruins:lost_soul_city"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betterdungeons:small_dungeon"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betterdungeons:spider_dungeon"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betterdungeons:zombie_dungeon"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
             "structure_id": "bosses_of_mass_destruction:lich_tower"
           },
           "difficulty": {

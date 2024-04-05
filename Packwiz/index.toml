@@ -90,7 +90,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dungeon_difficulty_v2.json"
-hash = "c8554c75baf622b4f0f01624f743bf88a56db323b9c15bd794cb680b7e15d0ff"
+hash = "0d0f3a22be1daf17d45c60dbd1de8958224ddf6b93e935e4ab80ef8c7506ef75"
 
 [[files]]
 file = "config/dusk.json"
@@ -2321,8 +2321,16 @@ hash = "ba45cf92c559d95cb74d539cbb88c70730e2b902ae6f081f3d45bcd2e46de499"
 metafile = true
 
 [[files]]
+file = "resourcepacks/GUI-Reimagined-Edit.zip"
+hash = "bf37f47ce901fdbb17a3c520329d313e29270ccd66e4c85ed1e5ecd05fa3f79f"
+
+[[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
 hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
+
+[[files]]
+file = "resourcepacks/TOTW-Modded-FWaystones-Compat-1.0.1.zip"
+hash = "15095fc13e49b24437e5f3024f43aae5d5af6e45a17072c944aabaf70d969a59"
 
 [[files]]
 file = "resourcepacks/better-aquamirae-combat.pw.toml"
@@ -2355,11 +2363,6 @@ hash = "2de5f4bcae860f5778ac2faf761c0d2bc01993e82a53e480d643432ad8cba571"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gui-reimagined-edit.pw.toml"
-hash = "5c1f23ba9eed924b5cf0964c2ece5d4ae0e88f146f64929f44d8caff56044768"
-metafile = true
-
-[[files]]
 file = "resourcepacks/insomnia-compat.pw.toml"
 hash = "ba6f4ddd010b9421f0333743880d1a2817d0a704f39eb528b72c35c140b555ee"
 metafile = true
@@ -2377,11 +2380,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "d6659cf4b15cb7d52b46cdfc3a7884ca0799f522940498b83284ce10cf77686c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/towers-of-the-wild-modded-fabric-waystones-compat.pw.toml"
-hash = "02cc280571272877c4127a805175e5eae2df2a63fc8f4c94cd892b5e30883612"
 metafile = true
 
 [[files]]
