@@ -40,6 +40,7 @@ Mods added:
 + Hearths
 + More Armor Trims
 + Friends&Foes
++ StackDeobfuscator
 
 Mods re-enabled:
 + 
@@ -85,7 +86,29 @@ Resource Packs updated:
 > 
 
 Mods updated: 
-> 
+> Amendments
+> Archers (RPG Series)
+> CIT Resewn
+> Crafting Manipulator
+> Elytra Trims Extensions
+> Elytra Trims
+> End's Delight
+> Extra Origins
+> Integrated API
+> [Let's Do] NetherVinery
+> Mouse Tweaks
+> Ocean's Delight
+> Paladins & Priests (RPG Series)
+> Polymorph
+> Philip's Ruins
+> ServerCore
+> Simple Voice Chat
+> Simply Skills
+> Spell Engine
+> Tectonic
+> TieredZ
+> [Let's Do] Vinery
+> Wizards (RPG Series)
 
 Config Changes: 
 = Disabled "perPlayerDifficulty": [Dungeon Difficulty], [Both]

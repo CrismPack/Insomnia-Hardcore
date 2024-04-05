@@ -1,13 +1,13 @@
 name = "Extra Origins"
-filename = "extraorigins-1.20-6.jar"
+filename = "extraorigins-1.20-8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "530b1c39b5144d26eb467249fd26e27afc9632be"
+hash = "fc82b9fc86ed9be11d6d47ae117e2d9c5bcd47b0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5203148
+file-id = 5230043
 project-id = 398419

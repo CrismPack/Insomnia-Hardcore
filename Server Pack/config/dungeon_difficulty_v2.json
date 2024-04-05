@@ -233,6 +233,16 @@
         },
         {
           "zone_matches": {
+            "biome_regex": "ancient_city",
+            "biome_tag_regex": ".*"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 3
+          }
+        },
+        {
+          "zone_matches": {
             "biome_regex": ".*",
             "biome_tag_regex": ".*",
             "structure_id": "integrated_stronghold:stronghold"
