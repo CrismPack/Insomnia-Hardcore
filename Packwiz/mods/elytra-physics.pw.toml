@@ -1,6 +1,6 @@
 name = "Elytra Physics"
 filename = "ElytraPhysics-1.3-1.20.jar"
-side = "client"
+side = "client(disabled)"
 pin = true
 
 [download]

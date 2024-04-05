@@ -1,15 +1,20 @@
-v2.0.1
+v2.1.0
+
+DISCLAIMER: If updating an existing world to this version, be sure to delete the Nether dimension beforehand to avoid issues.
 
 Fabric version: Fabric-0.15.7
 Update overview: 
+~ Revamped Nether terrain generation.
+~ Added additional content to Nether and End dimensions.
 ~ Fixed mob health and damage being too high.
 ~ Fixed beds in Minecells dimensions being able to set respawn point.
 ~ Fixed phantoms spawning in the Overworld on servers.
 ~ Upped the difficulty of Minecells dimensions and BOMD bosses, getting progressively more difficult.
-~ Added a content to Nether and End dimensions.
 ~ Fixed some crashing issues.
-~ Replaced REI suite with EMI.
+~ Replaced REI suite with EMI for improved compatibility.
+~ Added a backpack mod.
 ~ Re-added a few quality of life mods.
+~ And probably more that i have forgotten to write down. ¯\_(ツ)_/¯
 
 Mods added:
 + Suggestion Tweaker
@@ -33,6 +38,7 @@ Mods added:
 + Metal Bundles
 + Amplified Nether
 + Hearths
++ Backpacked
 
 Mods re-enabled:
 + 
@@ -65,6 +71,7 @@ Mods removed:
 
 Mods disabled: 
 - CIT Resewn
+- Elytra Physics
 
 Resource Packs removed:
 - Sparkles: Stardust Labs Resourcepack [Textures for 'Incendium']

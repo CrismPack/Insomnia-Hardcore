@@ -607,6 +607,11 @@ hash = "db42581c6dd8b2e518f999500b68397f595344e78f216ff174ac37aa1ce6598e"
 metafile = true
 
 [[files]]
+file = "mods/backpacked-fabric.pw.toml"
+hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "c4ef03bd04acbdb5e3226417b3afcc2507753abf2517289952c864be8f295a14"
 metafile = true
@@ -818,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "bed84ea542648fc65b622c84a0b9cb645b057005f29358c46afb03bd03200d9f"
+hash = "f772f8be87235afea4ac49a574266b74f90811eaa810eeee4e0a2b501b9c98f2"
 metafile = true
 
 [[files]]
