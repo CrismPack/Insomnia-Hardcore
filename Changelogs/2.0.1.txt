@@ -49,6 +49,7 @@ Resource Packs added:
 
 Data Packs added:
 + Towers of the Wild Modded: Fabric Waystones Compat
++ Origins Classes - Disable Blacksmith [Custom] [Disabled due to being quite useless]
 
 Mods removed: 
 - Login Protection [Invulnerable effect would sometimes persist]
@@ -70,6 +71,7 @@ Resource Packs removed:
 
 Data Packs removed:
 - Disable Incendium Toxic Heap Biome
+- Disable TieredZ Max Health [Forgot to actually remove it last update]
 
 Resource Packs updated:
 > 
@@ -82,8 +84,10 @@ Config Changes:
 = Renamed config file to "phantomconfigfork.json5" so it actually can be read by the mod: [PhantomConfigFork], [Server]
 = Enabled "sleepCheckOverworldOnly": [Insomnia Config], [Both]
 = Enabled "forceUpdates" for chatSettings: [Exordium], [Client]
+= Added config entries for 'Integrated Strongholds', 'Better Desert Temples', 'Better Jungle Temples', 'Better Ocean Monuments', 'Better Fortresses', 'Friends and Foes', 'Bosses of Mass Destruction' and 'Minecells': [Dungeon Difficulty], [Both]
 = Changed difficulty of Minecells dimensions. Prison=3, Promenade=4, Ramparts=5, Insufferable_Crypt=3, Black_Bridge=3: [Dungeon Difficulty], [Both]
 = Changed difficulty of BOMD bosses. Lich=3, Void_Blossum=3, Gauntlet_Arena=4, Obsidilith_Arena=6: [Dungeon Difficulty], [Both]
+= Changed all structures to be "normal" difficulty type to prevent spawner spam: [Dungeon Difficulty], [Both]
 = Enabled scrolling for the MOTD message text box: [FancyMenu], [Client]
 = Disabled buttons on multiplayer menu: [No Chat Reports], [Client]
 = Disabled Void Strike and Void Shot enchantments: [MC Dungeons Weapons], [Both]

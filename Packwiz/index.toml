@@ -90,7 +90,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dungeon_difficulty_v2.json"
-hash = "52964654747f11d1cdb93eb99aa0c49af123a62a20fce2e3268e40f64b3c4de5"
+hash = "c627d88359b7d7c210598e449b1e1a55c408daae3f941ae571f108ea5f07e926"
 
 [[files]]
 file = "config/dusk.json"
@@ -273,6 +273,10 @@ file = "config/simplefog.json"
 hash = "df984e638a0d3c1653ca812aa276b51fe9aa62f16a9638efba2a2f56c8a0606a"
 
 [[files]]
+file = "config/simplyskills/general.json5"
+hash = "4a48de4818617ed3902111316f0633add1f0b485096910a6f747c9554c55eb21"
+
+[[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
 hash = "92295f730c20e0a9c64d9986e2c417c704d725314419739b4906f0e3e1ee39f6"
 
@@ -317,10 +321,6 @@ file = "config/waystones/config.json"
 hash = "4074559c52ecfd21a0e392138678a8c11fa6fe2ae4c295ce99ad6d2ec5022776"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "e6f8a039ba63937eee1c75bf6c9034171fe17342a1b10babca35ebfc69234002"
-
-[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
@@ -362,7 +362,7 @@ hash = "010b3433e705792e8ae0cb39a14b86f124f8ea304b5f9276bb737debae9e10c6"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "e7faf2f124703ddb0d6c88411fdd27d9bbbea503d4b9ec23b9863a595d91f440"
+hash = "db1841271a95b9c0038a41efb96c83dbc5139edd59aa5bf136e6763b15b02e8c"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
@@ -439,6 +439,14 @@ hash = "369369ccd07c12234a549a91f8259fb6b3ae13d693fe0593a06532a2b1b5b2d4"
 [[files]]
 file = "global_packs/required_data/MVS - Config/pack.mcmeta"
 hash = "bc04d86dc8acc1a5bb93c7921f6a7202344eaae9fbc74d3ee305367f1aaccfc0"
+
+[[files]]
+file = "global_packs/required_data/Origins Classes - Disable Blacksmith/data/origins-classes/origins/blacksmith.json"
+hash = "f6a49f5d28a725bf64bbcf0ab2ce15007ec4b7a2a480188ef24c50de1d469bb6"
+
+[[files]]
+file = "global_packs/required_data/Origins Classes - Disable Blacksmith/pack.mcmeta"
+hash = "150ea07dad914d0382358314e625e14cf0e9666fa21409161af1dfb493a0f270"
 
 [[files]]
 file = "global_packs/required_data/Origins Classes - Disable Merchant/data/origins-classes/origins/merchant.json"
