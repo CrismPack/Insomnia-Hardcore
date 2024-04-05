@@ -26,7 +26,7 @@ hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "19b39c4f922cf939b5fa699acae5d0d15ea58a0a148af543cb060d06049a02b2"
+hash = "aafeb252a844f0fbc9297343c6942186624c476770523b2fc5961cffdf96c356"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-physics.pw.toml"
-hash = "227f9763e81e5a0b26113320b1e53ff11f29e32c71e36d445e278783f09ba2c5"
+hash = "68730de1fd8e667126d052728dc59b0c16c043274312fb3884667a001de5cd85"
 metafile = true
 
 [[files]]
@@ -2361,6 +2361,11 @@ hash = "d6659cf4b15cb7d52b46cdfc3a7884ca0799f522940498b83284ce10cf77686c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/towers-of-the-wild-modded-fabric-waystones-compat.pw.toml"
+hash = "913ebafdceada602608623043b4d6402c28ef0959776928996e6ccfc5d8cef13"
+metafile = true
+
+[[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
 hash = "bf0a7d3a52a99256cacfa20750cc82651e1ce7e420e9906979c9783372b5bc58"
 metafile = true
@@ -2436,7 +2441,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "13cac872108ed8e2a86d4064af36355497cc034b6f1957c55bd71e6ee7ad2772"
+hash = "a6fd69e48a481181b0daaac2d424a83659a05dc4c918ef17e6aac513adb37330"
 
 [[files]]
 file = "shaderpacks/README.txt"
@@ -4769,8 +4774,3 @@ hash = "96c656bcb7c126813eacb7493c556eae0d23a6f6e1acf06537e1b02669b9225d"
 [[files]]
 file = "shaderpacks/[Quality] ComplementaryReimagined_RU/shaders/world1/shadow.vsh"
 hash = "a6fc8439347f4a97103b4ed6c3171ee3f86600f33c4a4dcd9add71352a37b6e6"
-
-[[files]]
-file = "towers-of-the-wild-modded-fabric-waystones-compat.pw.toml"
-hash = "913ebafdceada602608623043b4d6402c28ef0959776928996e6ccfc5d8cef13"
-metafile = true
