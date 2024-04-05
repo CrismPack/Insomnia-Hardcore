@@ -64,7 +64,7 @@ Mods removed:
 
 
 Mods disabled: 
-- 
+- CIT Resewn
 
 Resource Packs removed:
 - Sparkles: Stardust Labs Resourcepack [Textures for 'Incendium']
@@ -95,3 +95,5 @@ Config Changes:
 = Changed minimap to be enabled by default: [Xaero's Minimap], [Client]
 = Enabled DDR: [Simply Skills], [Both]
 = Fixed Withered origin not being unselectable: [TooManyOrigins - Disable Withered], [Server]
+= Enabled "forceBetterXPreset": [BCLib], [Both]
+= Disabled "Blackstone Basin" nether biome: [Regions Unexplored], [Both]

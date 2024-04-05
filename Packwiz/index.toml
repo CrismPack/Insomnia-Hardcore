@@ -30,7 +30,7 @@ hash = "19b39c4f922cf939b5fa699acae5d0d15ea58a0a148af543cb060d06049a02b2"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "96346d591f1af45d941c2dc64fe92512fd91737fc7aaa9027ed4b0e8784e223b"
+hash = "bb227fe7619727badfc0a3d7553d9df8d9c145792c0aa05cc76da20fe1c4dc7f"
 
 [[files]]
 file = "config/bclib/main.json"
@@ -250,7 +250,7 @@ hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
 
 [[files]]
 file = "config/regions_unexplored.conf"
-hash = "93533d9b030625f4af88b15b848cf14541bb985b61395c32ca52ac29dac6a2fa"
+hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"

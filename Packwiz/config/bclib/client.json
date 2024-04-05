@@ -5,10 +5,10 @@
   },
   "ui": {
     "showUpdateInfo [default: true]": false,
-    "preferModrinthForUpdates [default: true]": true,
-    "forceBetterXPreset [default: true]": false,
-    "suppressExperimentalDialogOnLoad [default: false]": false,
-    "iAmNotTheDonorType [default: false]": false
+    "useModrinthForUpdates [default: false]": false,
+    "forceBetterXPreset [default: true]": true,
+    "suppressExperimentalDialogOnLoad [default: false]": true,
+    "notTheDonorType [default: true]": true
   },
   "auto_sync": {
     "enabled [default: true]": true,

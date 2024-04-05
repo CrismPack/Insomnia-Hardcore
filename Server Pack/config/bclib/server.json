@@ -8,6 +8,6 @@
     "sendAllModInfo [default: false]": false,
     "additionalMods": [],
     "excludeMods": [],
-    "forceBetterXPreset [default: true]": false
+    "forceBetterXPreset [default: true]": true
   }
 }
