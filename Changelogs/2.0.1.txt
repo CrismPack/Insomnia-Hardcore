@@ -48,7 +48,7 @@ Resource Packs added:
 + 
 
 Data Packs added:
-+ 
++ Towers of the Wild Modded: Fabric Waystones Compat
 
 Mods removed: 
 - Login Protection [Invulnerable effect would sometimes persist]
@@ -90,3 +90,4 @@ Config Changes:
 = Unbound keybinding by default for favoring items: [EMI], [Client]
 = Changed minimap to be enabled by default: [Xaero's Minimap], [Client]
 = Enabled DDR: [Simply Skills], [Both]
+= Fixed Withered origin not being unselectable: [TooManyOrigins - Disable Withered], [Server]

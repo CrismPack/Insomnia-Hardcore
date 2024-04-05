@@ -1,17 +1,16 @@
 {
+	"loading_priority": 1,
 	"powers": [
-		"toomanyorigins:wither_toxins",
-		"origins:nether_spawn",
-		"toomanyorigins:black_thumb",
-		"toomanyorigins:weariness",
-		"toomanyorigins:scorched_structure",
-		"toomanyorigins:soul_shield",
-		"toomanyorigins:soul_shield_overlay",
-		"toomanyorigins:wither_immunity",
-		"toomanyorigins:unholy"
+	  "toomanyorigins:affliction",
+	  "toomanyorigins:soul_siphon",
+	  "origins:nether_spawn",
+	  "toomanyorigins:hell_raised",
+	  "toomanyorigins:spirit_strider",
+	  "toomanyorigins:deathly_digestion",
+	  "toomanyorigins:unholy"
 	],
 	"icon": "minecraft:wither_rose",
-	"order": 4,
+	"order": 561,
 	"impact": 3,
 	"unchoosable": true
-}
+  }

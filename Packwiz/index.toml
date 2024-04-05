@@ -4756,3 +4756,8 @@ hash = "96c656bcb7c126813eacb7493c556eae0d23a6f6e1acf06537e1b02669b9225d"
 [[files]]
 file = "shaderpacks/[Quality] ComplementaryReimagined_RU/shaders/world1/shadow.vsh"
 hash = "a6fc8439347f4a97103b4ed6c3171ee3f86600f33c4a4dcd9add71352a37b6e6"
+
+[[files]]
+file = "towers-of-the-wild-modded-fabric-waystones-compat.pw.toml"
+hash = "913ebafdceada602608623043b4d6402c28ef0959776928996e6ccfc5d8cef13"
+metafile = true
