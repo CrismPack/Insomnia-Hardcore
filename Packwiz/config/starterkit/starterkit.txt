@@ -9,7 +9,7 @@
 3 : '{Count:8b,id:"farmersdelight:bone_broth"}',
 4 : '{Count:8b,id:"farmersdelight:mixed_salad"}',
 5 : '{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"minecells:minecells_guidebook"}}',
-6 : '',
+6 : '{Count:1b,id:"metalbundles:leather_bundle"}',
 7 : '',
 8 : '',
 9 : '{Count:1b,id:"minecraft:red_banner",tag:{BlockEntityTag:{Patterns:[{Color:15,Pattern:"bo"},{Color:15,Pattern:"tts"},{Color:15,Pattern:"cbo"},{Color:15,Pattern:"mc"},{Color:15,Pattern:"ss"},{Color:15,Pattern:"gra"}]}}}',

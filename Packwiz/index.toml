@@ -97,6 +97,10 @@ file = "config/dusk.json"
 hash = "68ed77369dae4f4dda844fd69e6045db4f25308e0ef9c2351bfbd20406dbaa06"
 
 [[files]]
+file = "config/eldritch_end/mechanics/corruption.json"
+hash = "c20554bd7d2a17f087c6ced5d41156730611cc13783c28242061d7ce0849b709"
+
+[[files]]
 file = "config/endgoblintraders.toml"
 hash = "279100051fa0bc939c754bc386fd95aeb533b0c187cba53a4a4e16b5edaebb2b"
 
@@ -254,7 +258,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "193b854619f4fb436f4a7b665c935ecfa27892758383504e07122852732ffd61"
+hash = "c285ed791c96cd4839a173ce426394d7b510b65a979662575b2052a647587536"
 
 [[files]]
 file = "config/revive.json5"
@@ -290,7 +294,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "5dddf02ecf91dc3c91c931187c0da86cf65a53132fa6acc32c7bbe4bc36e5cdd"
+hash = "f1dd01785cb3689c7983945355c172344b36fdbba208d1bc49bdffc22eb128fb"
 
 [[files]]
 file = "config/starterstructure.json5"
@@ -604,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "db42581c6dd8b2e518f999500b68397f595344e78f216ff174ac37aa1ce6598e"
-metafile = true
-
-[[files]]
-file = "mods/backpacked-fabric.pw.toml"
-hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
 
 [[files]]
@@ -1299,6 +1298,11 @@ metafile = true
 [[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "5622ca6faf2d4d237d429a679b4e17be1ddb5e7d3bd0e85dd887531d85d8d659"
 metafile = true
 
 [[files]]
@@ -2338,6 +2342,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "9428d56f4fdafe8961477ba59a843be627f5a4acc6622eb41222c9012f752435"
+metafile = true
+
+[[files]]
+file = "resourcepacks/freshly-modded.pw.toml"
+hash = "2de5f4bcae860f5778ac2faf761c0d2bc01993e82a53e480d643432ad8cba571"
 metafile = true
 
 [[files]]

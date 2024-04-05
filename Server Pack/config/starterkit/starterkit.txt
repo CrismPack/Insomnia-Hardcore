@@ -10,7 +10,7 @@
 4 : '{Count:8b,id:"farmersdelight:mixed_salad"}',
 5 : '{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"minecells:minecells_guidebook"}}',
 6 : '{Count:1b,id:"minecraft:written_book",tag:{author:"CrismPack",pages:["‵Potion of Supportive Revivify‵: Using this potion on a fallen ally will bring them back from the brink of death! (Drinking it has no affects)"],resolved:1b,title:"Revivify"}}',
-7 : '',
+7 : '{Count:1b,id:"metalbundles:leather_bundle"}',
 8 : '',
 9 : '{Count:1b,id:"minecraft:red_banner",tag:{BlockEntityTag:{Patterns:[{Color:15,Pattern:"bo"},{Color:15,Pattern:"tts"},{Color:15,Pattern:"cbo"},{Color:15,Pattern:"mc"},{Color:15,Pattern:"ss"},{Color:15,Pattern:"gra"}]}}}',
 10 : '{Count:1b,id:"minecraft:clock"}',

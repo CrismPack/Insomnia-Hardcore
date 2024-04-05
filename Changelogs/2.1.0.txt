@@ -12,7 +12,7 @@ Update overview:
 ~ Upped the difficulty of Minecells dimensions and BOMD bosses, getting progressively more difficult.
 ~ Fixed some crashing issues.
 ~ Replaced REI suite with EMI for improved compatibility.
-~ Added a backpack mod.
+~ Added more options for inventory expansion.
 ~ Re-added a few quality of life mods.
 ~ And probably more that i have forgotten to write down. ¯\_(ツ)_/¯
 
@@ -38,8 +38,8 @@ Mods added:
 + Metal Bundles
 + Amplified Nether
 + Hearths
-+ Backpacked
 + More Armor Trims
++ Friends&Foes
 
 Mods re-enabled:
 + 
@@ -52,7 +52,7 @@ Metadata changes:
 
 
 Resource Packs added:
-+ 
++ Freshly Modded (F.M.R.P)
 
 Data Packs added:
 + Towers of the Wild Modded: Fabric Waystones Compat
@@ -106,3 +106,5 @@ Config Changes:
 = Enabled "forceBetterXPreset": [BCLib], [Both]
 = Disabled "Blackstone Basin" nether biome: [Regions Unexplored], [Both]
 = Changed horizontal offset of buttons to "26" for the backpacked menu: [Inventory Profiles Next], [Client]
+= Enabled "show_icon_only_when_corrupted": [Eldritch End], [Both]
+= Added "metalbundles:leather_bundle" as a starter item: [StarterKit], [Both]

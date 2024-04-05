@@ -1,0 +1,13 @@
+name = "F.M.R.P"
+filename = "freshly-modded-1-4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "194989809b6ce8aa8d8a3fb6372f72f34961f4be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5030351
+project-id = 961754
