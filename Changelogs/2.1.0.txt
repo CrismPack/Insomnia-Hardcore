@@ -69,6 +69,8 @@ Mods removed:
 - Roughly Enough Professions [Replaced with 'EMI Trades']
 - Roughly Enough Trades [Replaced with 'EMI Trades']
 - C2ME [Causes server crash when shield bashing: https://github.com/nvb-uy/Shield_Overhaul/issues/25]
+- Heartbond
+- Fabric Permissions API [Not needed anymore]
 
 
 Mods disabled: 
@@ -131,3 +133,4 @@ Config Changes:
 = Changed horizontal offset of buttons to "26" for the backpacked menu: [Inventory Profiles Next], [Client]
 = Enabled "show_icon_only_when_corrupted": [Eldritch End], [Both]
 = Added "metalbundles:leather_bundle" as a starter item: [StarterKit], [Both]
+= Disabled "allowLootablePlayer": [Revive], [Server]

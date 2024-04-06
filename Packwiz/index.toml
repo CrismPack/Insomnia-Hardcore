@@ -1201,11 +1201,6 @@ hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
 metafile = true
 
 [[files]]
-file = "mods/fabric-permissions-api.pw.toml"
-hash = "ee95b53ae0fc4e81d544b9d0e19246290d707643043ad2da77dde6014c9d42b3"
-metafile = true
-
-[[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "5a2f2a09a70bd194f1da118ec9bf15ba143f3a4da309fe1865a90ce0a56d20e1"
 metafile = true
@@ -1348,11 +1343,6 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "204d94d167fa6601821f22dbabd6d46dc8abc6168214543ea4984defe6beccef"
-metafile = true
-
-[[files]]
-file = "mods/heartbond.pw.toml"
-hash = "5ef6344ab2bbe1b4951d324028cac992468e8ea2f97d579301f96a04ac41b0b2"
 metafile = true
 
 [[files]]

@@ -10,7 +10,7 @@
 	// Chance for each inventory item to drop
 	"dropChance": 0.30000001192092896,
 	// Mainly for compatibility with RpgZ
-	"allowLootablePlayer": true,
+	"allowLootablePlayer": false,
 	"reviveHealthPoints": 2,
 	"reviveSupportiveHealthPoints": 10,
 	"showDeathCoordinates": true,
