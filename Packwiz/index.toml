@@ -25,6 +25,10 @@ file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
+file = "config/amendments-common.json"
+hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
+
+[[files]]
 file = "config/bcc.json"
 hash = "aafeb252a844f0fbc9297343c6942186624c476770523b2fc5961cffdf96c356"
 
@@ -90,7 +94,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dungeon_difficulty_v2.json"
-hash = "0d0f3a22be1daf17d45c60dbd1de8958224ddf6b93e935e4ab80ef8c7506ef75"
+hash = "48e02359643c14aa3b907b159385d26632e4f7f0ffd4b12eb3fdc4c631b1942a"
 
 [[files]]
 file = "config/dusk.json"
@@ -243,6 +247,10 @@ hash = "5df83b31cbdf40a7a1d2ffab12e43b38663588ece4c5bc8ea91fa5890adb62b2"
 [[files]]
 file = "config/overflowingbars-client.toml"
 hash = "c10d57b89ec3e173c0d913e2463c5a84dbdec57d10a00df467f3321d15983fea"
+
+[[files]]
+file = "config/paraglider-common.toml"
+hash = "2cf8391b00f99d17617535b241dd64bc58bcc14551ff9b248fa0fe19832d3c56"
 
 [[files]]
 file = "config/phantomconfigfork.json5"

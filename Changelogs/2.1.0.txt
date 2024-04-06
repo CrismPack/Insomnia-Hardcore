@@ -134,3 +134,5 @@ Config Changes:
 = Enabled "show_icon_only_when_corrupted": [Eldritch End], [Both]
 = Added "metalbundles:leather_bundle" as a starter item: [StarterKit], [Both]
 = Disabled "allowLootablePlayer": [Revive], [Server]
+= Disabled "heartContainers": [Paragliders], [Both]
+= Disabled "enhanced_cauldron": [Amendments], [Both]
