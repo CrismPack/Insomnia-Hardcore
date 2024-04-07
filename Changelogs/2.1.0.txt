@@ -9,7 +9,7 @@ Update overview:
 ~ Fixed mob health and damage being too high.
 ~ Fixed beds in Minecells dimensions being able to set respawn point.
 ~ Fixed phantoms spawning in the Overworld on servers.
-~ Upped the difficulty of Minecells dimensions and BOMD bosses, getting progressively more difficult.
+~ Reworked the difficulty system to have a more sharp increase as you progress through dimensions and bosses.
 ~ Configured difficulty of many modded dungeons.
 ~ Fixed some crashing issues.
 ~ Replaced REI suite with EMI for improved compatibility.

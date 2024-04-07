@@ -78,65 +78,56 @@
             "attitude": "ANY",
             "entity_id_regex": ".*"
           },
-          "attributes": [],
-          "spawners": {
-            "spawn_range_multiplier": 0.0,
-            "spawn_count_multiplier": 0.5,
-            "max_nearby_entities_multiplier": 1.0,
-            "min_spawn_delay_multiplier": -0.2,
-            "max_spawn_delay_multiplier": -0.2,
-            "required_player_range_multiplier": 0.0
-          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 0.1
+            }
+          ],
           "experience_multiplier": 0.0
         }
       ],
       "rewards": {
-        "armor": [
-          {
-            "item_matches": {
-              "item_id_regex": ".*",
-              "loot_table_regex": ".*",
-              "rarity_regex": ".*"
+        "armor": [],
+        "weapons": []
+      }
+    },
+    {
+      "name": "boss",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": ".*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 0.25
             },
-            "attributes": [
-              {
-                "attribute": "generic.armor",
-                "operation": "MULTIPLY_BASE",
-                "randomness": 0.0,
-                "value": 0.1
-              },
-              {
-                "attribute": "generic.max_health",
-                "operation": "ADDITION",
-                "randomness": 0.0,
-                "value": 1.0
-              }
-            ]
-          }
-        ],
-        "weapons": [
-          {
-            "item_matches": {
-              "item_id_regex": ".*",
-              "loot_table_regex": ".*",
-              "rarity_regex": ".*"
+            {
+              "attribute": "generic.armor",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 0.25
             },
-            "attributes": [
-              {
-                "attribute": "damage",
-                "operation": "MULTIPLY_BASE",
-                "randomness": 0.05,
-                "value": 0.15
-              },
-              {
-                "attribute": "power",
-                "operation": "MULTIPLY_BASE",
-                "randomness": 0.05,
-                "value": 0.15
-              }
-            ]
-          }
-        ]
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 0.5
+            }
+          ],
+          "experience_multiplier": 0.3
+        }
+      ],
+      "rewards": {
+        "armor": [],
+        "weapons": []
       }
     }
   ],
@@ -358,7 +349,7 @@
             "structure_id": "bosses_of_mass_destruction:lich_tower"
           },
           "difficulty": {
-            "name": "normal",
+            "name": "boss",
             "level": 3
           }
         },
@@ -369,8 +360,8 @@
             "structure_id": "bosses_of_mass_destruction:void_blossom"
           },
           "difficulty": {
-            "name": "normal",
-            "level": 3
+            "name": "boss",
+            "level": 4
           }
         }
       ]
@@ -381,7 +372,7 @@
       },
       "difficulty": {
         "name": "normal",
-        "level": 3
+        "level": 4
       },
       "zones": [
         {
@@ -392,7 +383,7 @@
           },
           "difficulty": {
             "name": "normal",
-            "level": 4
+            "level": 6
           }
         },
         {
@@ -403,7 +394,7 @@
           },
           "difficulty": {
             "name": "normal",
-            "level": 4
+            "level": 6
           }
         },
         {
@@ -414,7 +405,7 @@
           },
           "difficulty": {
             "name": "normal",
-            "level": 4
+            "level": 6
           }
         },
         {
@@ -425,7 +416,7 @@
           },
           "difficulty": {
             "name": "normal",
-            "level": 4
+            "level": 6
           }
         },
         {
@@ -435,8 +426,8 @@
             "structure_id": "friendsandfoes:citadel"
           },
           "difficulty": {
-            "name": "normal",
-            "level": 4
+            "name": "boss",
+            "level": 6
           }
         },
         {
@@ -446,8 +437,8 @@
             "structure_id": "bosses_of_mass_destruction:gauntlet_arena"
           },
           "difficulty": {
-            "name": "normal",
-            "level": 4
+            "name": "boss",
+            "level": 6
           }
         }
       ]
@@ -458,7 +449,7 @@
       },
       "difficulty": {
         "name": "normal",
-        "level": 5
+        "level": 6
       },
       "zones": [
         {
@@ -468,8 +459,8 @@
             "structure_id": "end_city"
           },
           "difficulty": {
-            "name": "normal",
-            "level": 6
+            "name": "dungeon",
+            "level": 8
           }
         },
         {
@@ -479,8 +470,8 @@
             "structure_id": "bosses_of_mass_destruction:obsidilith_arena"
           },
           "difficulty": {
-            "name": "normal",
-            "level": 6
+            "name": "boss",
+            "level": 8
           }
         }
       ]
@@ -491,7 +482,7 @@
       },
       "difficulty": {
         "name": "normal",
-        "level": 3
+        "level": 4
       },
       "zones": []
     },
@@ -501,7 +492,7 @@
       },
       "difficulty": {
         "name": "normal",
-        "level": 4
+        "level": 5
       },
       "zones": []
     },
@@ -520,7 +511,7 @@
         "dimension_regex": "minecells:insufferable_crypt"
       },
       "difficulty": {
-        "name": "normal",
+        "name": "boss",
         "level": 3
       },
       "zones": []
@@ -530,7 +521,7 @@
         "dimension_regex": "minecells:black_bridge"
       },
       "difficulty": {
-        "name": "normal",
+        "name": "boss",
         "level": 3
       },
       "zones": []

@@ -94,7 +94,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dungeon_difficulty_v2.json"
-hash = "48e02359643c14aa3b907b159385d26632e4f7f0ffd4b12eb3fdc4c631b1942a"
+hash = "9bce40afd22a72d0c4e2be42ee546664bd5dbc7e25edf1836c76456da08faee0"
 
 [[files]]
 file = "config/dusk.json"
