@@ -1,0 +1,13 @@
+name = "Towers of the Wild Modded: Fabric Waystones Compat"
+filename = "TOTW-Modded-FWaystones-Compat-1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21ceff41cf44c72ca27b64f6b2bef7e44f0b558d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5237594
+project-id = 997095

@@ -2327,10 +2327,6 @@ file = "resourcepacks/NoBushyLeaves.zip"
 hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
-file = "resourcepacks/TOTW-Modded-FWaystones-Compat-1.0.1.zip"
-hash = "15095fc13e49b24437e5f3024f43aae5d5af6e45a17072c944aabaf70d969a59"
-
-[[files]]
 file = "resourcepacks/better-aquamirae-combat.pw.toml"
 hash = "3f1e8edcb36e70273c5725898993667dff929047fb69d1ebd5f77a5748f38b03"
 metafile = true
@@ -2378,6 +2374,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "d6659cf4b15cb7d52b46cdfc3a7884ca0799f522940498b83284ce10cf77686c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/towers-of-the-wild-modded-fabric-waystones-compat.pw.toml"
+hash = "9d5727c67b54ad96b4cddb42771c4d489f57f680f634928f4f9a348f1555c9f6"
 metafile = true
 
 [[files]]
