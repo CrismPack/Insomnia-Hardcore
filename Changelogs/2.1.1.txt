@@ -5,7 +5,7 @@ Update overview:
 ~ 
 
 Mods added:
-+ 
++ Icterine
 
 Mods re-enabled:
 + 
@@ -45,4 +45,5 @@ Mods updated:
 Config Changes: 
 = Unbound keybinds per default for "cycleLeft" & "cycleRight" from 'PuzzleApi': [YOSBR], [Both]
 = Disabled "Chilling" enchantment: [MC Dungeons Armor], [Both]
+= Disabled "ENIGMA_RESONATOR" enchantment: [MC Dungeons Weapons], [Both]
 = Made 'Freshly Modded' actually be force-enabled: [Resource Pack Overrides], [Client]

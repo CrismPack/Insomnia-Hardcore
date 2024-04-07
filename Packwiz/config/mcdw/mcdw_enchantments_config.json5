@@ -186,9 +186,9 @@
 				"Default:        3.25f"
 			],
 			"offset": 3.25,
-			"isEnabled": true,
-			"isAvailableForEnchantedBookOffer": true,
-			"isAvailableForRandomSelection": true,
+			"isEnabled": false,
+			"isAvailableForEnchantedBookOffer": false,
+			"isAvailableForRandomSelection": false,
 			"maxLevel": 3,
 			"procChance": null
 		},
