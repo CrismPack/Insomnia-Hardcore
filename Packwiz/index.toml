@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "aafeb252a844f0fbc9297343c6942186624c476770523b2fc5961cffdf96c356"
+hash = "dc905e1ddc09d47170f0cb8a5df395416b928c26fdb849af8f54de56651fe79b"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -229,6 +229,10 @@ file = "config/logprot.json"
 hash = "ffc115e469b3dddab530c23f8b996142171220ed3ea80fb21a3f4a4db27d52dd"
 
 [[files]]
+file = "config/mcda/mcda_enchant_and_effect_registry.json5"
+hash = "89bc5db0ac2e589b4031af182ab2ef90179de925bee6c9b840daa357044c52c2"
+
+[[files]]
 file = "config/mcdw/mcdw_enchantments_config.json5"
 hash = "bc0683bbd90cf78e03fe8cf075dc1a81d5f5d3cb442e4d663fe5f0cb295e4abc"
 
@@ -266,7 +270,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "2a55dcfb9cc4e293432641a94e20b3a8f68d9ec9edc0fd9ce07e9347d5aa939c"
+hash = "acdce106c25e7a4e463c2f16d63ae71e31e7c732a6f438e4159808fe2b806ee8"
 
 [[files]]
 file = "config/revive.json5"
@@ -382,7 +386,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6f5334eee14c593fe80d5c43f6ae86a7b892d54e7cd088b4e0611216b0963418"
+hash = "155c3b7f25d51a128ed05745431d8216cc92c745db45aede96f7285edb3ef768"
 
 [[files]]
 file = "config/zoomify.json"
@@ -2457,7 +2461,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "a6fd69e48a481181b0daaac2d424a83659a05dc4c918ef17e6aac513adb37330"
+hash = "1a24018836a139a3c5cf21dd8142137b61d83d895ea5f5eaf5186e47ddad9b3a"
 
 [[files]]
 file = "shaderpacks/README.txt"

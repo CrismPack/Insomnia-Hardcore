@@ -43,4 +43,6 @@ Mods updated:
 > 
 
 Config Changes: 
-= : [], [Both]
+= Unbound keybinds per default for "cycleLeft" & "cycleRight" from 'PuzzleApi': [YOSBR], [Both]
+= Disabled "Chilling" enchantment: [MC Dungeons Armor], [Both]
+= Made 'Freshly Modded' actually be force-enabled: [Resource Pack Overrides], [Client]
