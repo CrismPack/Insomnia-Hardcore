@@ -1,6 +1,7 @@
 name = "End's Delight"
 filename = "ends_delight-fabric-1.20.1-1.0.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

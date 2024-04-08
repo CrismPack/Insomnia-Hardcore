@@ -489,10 +489,6 @@ file = "global_packs/required_resources/Insomnia Textures.zip"
 hash = "0fddabedead546ccb55ab8a228e2f14727b0333c12f43e9b3db6f7166932867b"
 
 [[files]]
-file = "modlist.html"
-hash = "453a01b46b2b06c1e752bdd34285ebb2d1cbef106b151df7122ba4801fe920b1"
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "8aef0ca57651665e0523fbb2022299e46e720af2f1fd9da3c93360dc37eb08eb"
 metafile = true
@@ -889,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-roll.pw.toml"
-hash = "a12e896f3420fab9549f7c121588f172d3f639c28774f42d297846b88141649e"
+hash = "065b976df69c80bd983e8b5182b6d0524b405b6773f4483ac07f73fd1bae8b91"
 metafile = true
 
 [[files]]
@@ -944,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d67269baf485814ebd40b2f12475e2fd639db6c3d69863dee6af0d0ab2ab6216"
+hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
@@ -1139,7 +1135,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "5d35e517bbbe776d4779fac654acd1ae330b9db322ba9a57fcb133821eb26983"
+hash = "e13558a0030d8f8091628c348aa83b5c02d30897d97ca47cd6215c223580f447"
 metafile = true
 
 [[files]]
@@ -1219,7 +1215,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "016015ee35525e43190e2a0982aa9f5f73a2b23bab12181dc746cd22e729eb07"
+hash = "aa4f7442c65ddef2cd7594e49e2cd26f28f25f4c8b11b95a611b16a7a242a07b"
 metafile = true
 
 [[files]]
@@ -1409,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "5212c6a15a43c6abf6338c05931e2825278a4f9e038d47c974d74d1d5bba0f7f"
+hash = "adc6d8bb39ea31c192bc7d84d4c8d8448d545c4b819f3176e3230e17b5f953db"
 metafile = true
 
 [[files]]
@@ -1569,12 +1565,12 @@ metafile = true
 
 [[files]]
 file = "mods/mavapi.pw.toml"
-hash = "cc8bb1b3b19d8af2febeed8a007bb695e8a15e779c9bceaf50f5f7c14ecb98e6"
+hash = "a9a105475f0c90f42e36a5faa0c4fc3ba34691f3b688abc523d195d69fc7498d"
 metafile = true
 
 [[files]]
 file = "mods/mavm.pw.toml"
-hash = "d9dcf3aa4af68c86b82d2dd449860b39d4a426436d13b23a3a711fa34f11f547"
+hash = "c5c23cd1b5ebe15dc83ead959df0873e8b87f57f6af95fd515adb267c3781116"
 metafile = true
 
 [[files]]
@@ -1589,7 +1585,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "bf24eabf660e2e2fd4dad8386d27ca8c1125d6475a05de749212cf1c5b0ed988"
+hash = "ee5c9f6ef062fe28614a86bca7233ee8d834213724b1b0376ce8b8b2c1074edb"
 metafile = true
 
 [[files]]
@@ -1739,7 +1735,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "9ca0bad38fed184ee50085d17a401105b3e848ff8ce12cf79441d5170082512c"
+hash = "e96aaa7d953f793cbfc854a648f00ba86d726f4d679caf56dbb2ed5fa9c114c4"
 metafile = true
 
 [[files]]
@@ -1769,7 +1765,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "84643181b5182bc5c95570b60c0b823d4235f0c851826ce85c0bfc2c6f02e1ed"
+hash = "6f48c6cdecb897e8f74bf15e811ed1646d162e9a8516f699adf51a1e36053133"
 metafile = true
 
 [[files]]
@@ -2004,7 +2000,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fcac7f6fe9085eaad3b69cd44aedee058b9c379895090444ba722800d2d27d24"
+hash = "b7a1a5ec8d74b507610bafd74d9f9bba6ce9da3d5847b0003dca5f42b56378f7"
 metafile = true
 
 [[files]]
@@ -2134,7 +2130,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "574ef6d685c2f82a7357d1172779b9715cf0ceb3d95f809563c1d3c83331b6f3"
+hash = "8eebb68df4f4626718ba11977e553595a1d11252bb881321019ab252a2ee0878"
 metafile = true
 
 [[files]]
@@ -2189,7 +2185,7 @@ metafile = true
 
 [[files]]
 file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "f445fa8e16f59554ad5dd009fa9aeadb17141ab3fcd67d1a14a94232cc2db00a"
+hash = "aaf42d9bcffd056c2c3cc12d476687b950b140215b438e96ffe09ab94dbda9d3"
 metafile = true
 
 [[files]]
