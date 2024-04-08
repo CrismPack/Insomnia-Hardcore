@@ -2,7 +2,10 @@ v2.1.1
 
 Fabric version: Fabric-0.15.7
 Update overview: 
-~ 
+~ Fixed crashing issue related to 'Create Fabric'. [https://github.com/Fabricators-of-Create/Create/issues/1428]
+~ Fixed some keybind conflicts.
+~ Fixed 'Freshly Modded' not being enabled.
+~ Disabled some overpowered enchantments.
 
 Mods added:
 + Icterine
@@ -28,7 +31,8 @@ Mods removed:
 
 
 Mods disabled: 
-- 
+- Sound Physics Remastered [Incompatible with new version of 'Create Fabric' (build.1417)]
+- Iris & Oculus Flywheel Compat [Causes crashing issue with 'Create Fabric': https://github.com/Fabricators-of-Create/Create/issues/1428]
 
 Resource Packs removed:
 - 
@@ -40,10 +44,21 @@ Resource Packs updated:
 > 
 
 Mods updated: 
-> 
+> Combat Roll
+> Create Fabric
+> Falling Leaves
+> Integrated API
+> More Axolotl Variants API
+> More Axolotl Variants Mod
+> MCPitanLib
+> Noisium
+> Open Parties and Claims
+> Simple Voice Chat
+> Tectonic
+> Towers of the Wild Modded
 
 Config Changes: 
-= Unbound keybinds per default for "cycleLeft" & "cycleRight" from 'PuzzleApi': [YOSBR], [Both]
+= Unbound keybinds per default for "cycleLeft" & "cycleRight" from 'PuzzleApi': [YOSBR], [Client]
 = Disabled "Chilling" enchantment: [MC Dungeons Armor], [Both]
 = Disabled "ENIGMA_RESONATOR" enchantment: [MC Dungeons Weapons], [Both]
 = Made 'Freshly Modded' actually be force-enabled: [Resource Pack Overrides], [Client]

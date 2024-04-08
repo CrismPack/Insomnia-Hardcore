@@ -1435,7 +1435,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7bd67429011cf3593464a6e3768558941a827c8cd46050a71a8c2716f3781b26"
+hash = "7008b59badb2a0d620bb5f991e553ee1298894e66c73d957d8e6a297db484f34"
 metafile = true
 
 [[files]]
@@ -2045,7 +2045,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1e086041b1176bd6aaf0ed9de79352b9382a06bab6368816bd2c16fae3e1b8f8"
+hash = "16d2b9ae86e94685d70c0eabc1b4174daad219d6802d409fac7556f9bb19619e"
 metafile = true
 
 [[files]]
