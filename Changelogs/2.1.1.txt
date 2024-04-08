@@ -46,6 +46,7 @@ Resource Packs updated:
 Mods updated: 
 > Combat Roll
 > Create Fabric
+> Create Support for Open Parties and Claims
 > Falling Leaves
 > Integrated API
 > More Axolotl Variants API

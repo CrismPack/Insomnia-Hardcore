@@ -1760,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "ef7a20c7914c030de16316ba93cfef6762129e37be362d7f2283b0b86cb776dd"
+hash = "841f099fb592e5c60a0c828cba374267b77d8b6998aaa682dcf85202da3ddd87"
 metafile = true
 
 [[files]]
