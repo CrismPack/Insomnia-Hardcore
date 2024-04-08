@@ -62,3 +62,4 @@ Config Changes:
 = Disabled "Chilling" enchantment: [MC Dungeons Armor], [Both]
 = Disabled "ENIGMA_RESONATOR" enchantment: [MC Dungeons Weapons], [Both]
 = Made 'Freshly Modded' actually be force-enabled: [Resource Pack Overrides], [Client]
+= Changed "dayDelayConfig" to 10: [From the Fog - Config], [Both]

@@ -3,7 +3,7 @@
 
 # First, let's reset everything to "default" and open the normal config.
 
-scoreboard players set dayDelayConfig ftf.configOptions 9999
+scoreboard players set dayDelayConfig ftf.configOptions 10
 scoreboard players set ghostDoorConfig ftf.configOptions 1
 scoreboard players set ghostMineConfig ftf.configOptions 1
 scoreboard players set creepingConfig ftf.configOptions 1
