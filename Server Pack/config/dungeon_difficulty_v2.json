@@ -83,7 +83,7 @@
               "attribute": "damage",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.0,
-              "value": 0.20
+              "value": 1.0
             },
             {
               "attribute": "generic.armor",
@@ -95,7 +95,7 @@
               "attribute": "generic.max_health",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.1,
-              "value": 0.10
+              "value": 0.1
             }
           ],
           "experience_multiplier": 0.3
@@ -119,19 +119,19 @@
               "attribute": "damage",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.0,
-              "value": 0.5
+              "value": 2.0
             },
             {
               "attribute": "generic.armor",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.0,
-              "value": 0.5
+              "value": 1.0
             },
             {
               "attribute": "generic.max_health",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.0,
-              "value": 0.5
+              "value": 1.0
             }
           ],
           "experience_multiplier": 0.3

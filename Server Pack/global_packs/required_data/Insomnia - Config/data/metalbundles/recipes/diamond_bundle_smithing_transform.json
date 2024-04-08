@@ -1,0 +1,13 @@
+{
+  "type": "metalbundles:legacy_smithing_transform",
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "base": {
+    "item": "metalbundles:golden_bundle"
+  },
+  "result": {
+    "item": "metalbundles:diamond_bundle"
+  },
+  "template": []
+}

@@ -1,0 +1,13 @@
+{
+  "type": "metalbundles:legacy_smithing_transform",
+  "addition": {
+    "item": "minecraft:iron_block"
+  },
+  "base": {
+    "item": "metalbundles:copper_bundle"
+  },
+  "result": {
+    "item": "metalbundles:iron_bundle"
+  },
+  "template": []
+}
