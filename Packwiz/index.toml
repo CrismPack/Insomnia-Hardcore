@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "dc905e1ddc09d47170f0cb8a5df395416b928c26fdb849af8f54de56651fe79b"
+hash = "f4471b1f85879cd7f810dc7371fcceba88308a981d44e678ef35c6173ce3d1d9"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -94,7 +94,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dungeon_difficulty_v2.json"
-hash = "9bce40afd22a72d0c4e2be42ee546664bd5dbc7e25edf1836c76456da08faee0"
+hash = "00ef69068963cf66e3237a6d112b5f49f602efb8ee823928d2e0515388ac916a"
 
 [[files]]
 file = "config/dusk.json"
@@ -435,6 +435,30 @@ hash = "00adf7aee1635840f4fdb75fe307b0798b6999afbaada3962f669e16eeb7fd17"
 [[files]]
 file = "global_packs/required_data/Insomnia - Config/data/insomniaconfig/functions/load.mcfunction"
 hash = "fb3849055b6c4afa3253abe0ff582de07fa2b2fe31a6d1ad7f8d8023a579a769"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/copper_bundle_smithing_transform.json"
+hash = "788a5bbd1b1da78026c62b3a274a95b1e79bbfe465c745d36d7698c8435d6e1f"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/diamond_bundle_smithing_transform.json"
+hash = "5cf29dcc07476fc98e1fc658cb0a6982c81004194cb2c165cba6d941bcb27736"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/golden_bundle_smithing_transform.json"
+hash = "6c73fcf7d366ce51ea1e95894aca49f856e6513d6c6e201f63c6ba95e657c1b5"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/iron_bundle_smithing_transform.json"
+hash = "34046b26050a19e7f7127c6e4fedc20eef6e1b79980173627083f48c930635b0"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/leather_bundle.json"
+hash = "bc375e8ad95aa2273b77e53bb3981b19b56cb137dc80db62db69e4dd57effb09"
+
+[[files]]
+file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/netherite_bundle_smithing_transform.json"
+hash = "6ff29a5a7cc96869ccfd25e3ced952ce879386c0bd2692f613e6260c27410100"
 
 [[files]]
 file = "global_packs/required_data/Insomnia - Config/data/minecraft/tags/functions/load.json"
@@ -1760,12 +1784,12 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "841f099fb592e5c60a0c828cba374267b77d8b6998aaa682dcf85202da3ddd87"
+hash = "ef7a20c7914c030de16316ba93cfef6762129e37be362d7f2283b0b86cb776dd"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "6f48c6cdecb897e8f74bf15e811ed1646d162e9a8516f699adf51a1e36053133"
+hash = "fb5e4497b9221b3b6657bb5fe4622121b8279412c19092923d1790ee075175b5"
 metafile = true
 
 [[files]]
@@ -2462,7 +2486,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "1a24018836a139a3c5cf21dd8142137b61d83d895ea5f5eaf5186e47ddad9b3a"
+hash = "b3fd563f77464f6de613026aee199dbda3c3c351d5f378f0497c333892d56df4"
 
 [[files]]
 file = "shaderpacks/README.txt"
