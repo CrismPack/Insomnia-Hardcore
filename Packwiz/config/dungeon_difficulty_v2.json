@@ -431,6 +431,17 @@
             "level": 10
           }
         },
+                {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "betternether:nether_city"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 11
+          }
+        },
         {
           "zone_matches": {
             "biome_regex": ".*",
