@@ -3,7 +3,7 @@ v2.1.2
 Fabric version: Fabric-0.15.7
 Update overview: 
 ~ Reverted 'OPAC' and 'OPAC Create Support' update to fix issues with pipes from 'Create'. [https://github.com/thexaero/open-parties-and-claims/issues/446]
-~ Made the difficulty scaling even more aggressive. Especially for dungeons and bosses.
+~ Made the difficulty scaling of dungeons and bosses even more aggressive.
 ~ Changed recipes for Metal Bundles to be more expensive.
 
 Mods added:
