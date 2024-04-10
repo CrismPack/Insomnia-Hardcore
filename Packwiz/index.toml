@@ -270,7 +270,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "acdce106c25e7a4e463c2f16d63ae71e31e7c732a6f438e4159808fe2b806ee8"
+hash = "e44ee6d686a8b1738f4c08dd1cab9a2ccf54bcbed13f93af0775c7436ba0e96a"
 
 [[files]]
 file = "config/revive.json5"
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "8b42e29e66c5d88dbda15476e89435a0202942b85e4ffed2148bda13a82db255"
+hash = "8a1742770549bed4f5165f07835a72a0aa6de8c6fa341bcbbcc3e1ffae068a5d"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "d12e1ffd08b9f26a5ad78dabdc9a4a2212ca4058dd9d6347a716bd5e25139dae"
+hash = "396d37ad75490eff495442503d6bd0bd6a26162a61ca860988f9d9ce064b4fea"
 metafile = true
 
 [[files]]
@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "4347a900e5f4c6181e6e7216d0a91304d64d3235972b4b6860a1e08312feadc6"
+hash = "dfee5092c791f1183959fd4e3c84f4eed840987a8934779eee636bc434d9b8a5"
 metafile = true
 
 [[files]]
@@ -1223,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
+hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
 metafile = true
 
 [[files]]
@@ -1793,12 +1793,12 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "ef7a20c7914c030de16316ba93cfef6762129e37be362d7f2283b0b86cb776dd"
+hash = "695b9f5005afd8b091a887ae44a63b1626cf5a223031682dfe69eac21fec71f9"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "fb5e4497b9221b3b6657bb5fe4622121b8279412c19092923d1790ee075175b5"
+hash = "6f48c6cdecb897e8f74bf15e811ed1646d162e9a8516f699adf51a1e36053133"
 metafile = true
 
 [[files]]
@@ -1908,7 +1908,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
-hash = "a0f4e71abdcb3fa24e45fe8fb83aa43fb40e1be7d0729795ae15f42a8b642f27"
+hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
 metafile = true
 
 [[files]]
@@ -2401,7 +2401,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
-hash = "117d627490665e956f84207902d02865d3ca05b7efe0dc0ec15418fc9bf3eb5c"
+hash = "51a9f49649c17c226cb882220a0da0505739c3a773e68529874d0cffedbe77ed"
 metafile = true
 
 [[files]]

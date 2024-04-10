@@ -42,10 +42,16 @@ Mod updates reverted:
 > Noisium
 
 Resource Packs updated:
-> 
+> Slightly Improved Font (32x)
 
 Mods updated: 
-> 
+> Amendments
+> Bookshelf
+> Create: Steam 'n' Rails
+> Fabric API
+> Create Support for Open Parties and Claims
+> Open Parties and Claims
+> Projectile Damage Attribute
 
 Config Changes: 
 = Disabled parrying: [Shield Overhaul], [Both]
