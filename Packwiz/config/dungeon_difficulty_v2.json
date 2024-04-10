@@ -216,12 +216,12 @@
         },
         {
           "zone_matches": {
-            "biome_regex": "frozen|snowy|ice",
+            "biome_regex": "frozen_ocean|deep_frozen_ocean",
             "biome_tag_regex": ".*"
           },
           "difficulty": {
             "name": "normal",
-            "level": 1
+            "level": 4
           }
         },
         {
@@ -369,6 +369,39 @@
           "zone_matches": {
             "biome_regex": ".*",
             "biome_tag_regex": ".*",
+            "structure_id": "aquamirae:ship"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "aquamirae:outpost"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "aquamirae:shelter"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 4
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
             "structure_id": "bosses_of_mass_destruction:lich_tower"
           },
           "difficulty": {
@@ -442,7 +475,7 @@
             "level": 10
           }
         },
-                {
+        {
           "zone_matches": {
             "biome_regex": ".*",
             "biome_tag_regex": ".*",

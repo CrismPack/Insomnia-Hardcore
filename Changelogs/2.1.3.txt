@@ -5,7 +5,7 @@ Update overview:
 ~ Fixed shields not working properly. [https://github.com/nvb-uy/Shield_Overhaul/issues/24]
 ~ Fixed crashing issue when entering the Promenade dimension. [https://github.com/Steveplays28/noisium/issues/22]
 ~ Greatly nerfed the effectiveness of mob farms.
-~ Upped the difficulty of the Otherside dimension, Deep Dark biome, Strongholds & Ancient Cities.
+~ Upped the difficulty of the Otherside dimension, Deep Dark biome, Frozen Ocean biomes, Aquamirae structures, Strongholds, Ancient Cities.
 ~ Fixed conflicting keybinds with the "R" key.
 
 Mods added:
