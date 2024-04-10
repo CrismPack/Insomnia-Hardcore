@@ -163,7 +163,7 @@
 				"Default:        20f"
 			],
 			"offset": 20.0,
-			"isEnabled": true,
+			"isEnabled": false,
 			"isAvailableForEnchantedBookOffer": false,
 			"isAvailableForRandomSelection": false,
 			"maxLevel": 3,

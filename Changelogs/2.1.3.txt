@@ -65,3 +65,4 @@ Config Changes:
 = Fixed the faulty config entry for the "ancient_city" structure and set its difficulty to 4: [Dungeon Difficulty], [Both]
 = Upped the difficulty of the "integrated_stronghold:stronghold" structure from 4 to 6: [Dungeon Difficulty], [Both]
 = Added config entries for "aquamirae:captain_cornelia", "aquamirae:maze_mother" & "wither" to independently change their difficulty in the Overworld: [Dungeon Difficulty], [Both]
+= Disabled "Dynamo" enchantment: [MC Dungeons Weapons], [Both]
