@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f4471b1f85879cd7f810dc7371fcceba88308a981d44e678ef35c6173ce3d1d9"
+hash = "691bfa9f66074e83919ccc1883c93740a4a9f332c5faebf814d8fe2b30c01e09"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -2495,7 +2495,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "b3fd563f77464f6de613026aee199dbda3c3c351d5f378f0497c333892d56df4"
+hash = "730e183f34f899826506d4cbe869dd3587b73b18a6bbd60bb1ae665a3bcae2fe"
 
 [[files]]
 file = "shaderpacks/README.txt"
