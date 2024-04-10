@@ -5,7 +5,8 @@ Update overview:
 ~ Fixed shields not working properly. [https://github.com/nvb-uy/Shield_Overhaul/issues/24]
 ~ Fixed crashing issue when entering the Promenade dimension. [https://github.com/Steveplays28/noisium/issues/22]
 ~ Greatly nerfed the effectiveness of mob farms.
-~ Upped the difficulty of the Otherside dimension, Deep Dark biome, Frozen Ocean biomes, Aquamirae structures, Strongholds, Ancient Cities.
+~ Upped the general difficulty of the Otherside dimension, Deep Dark biome, Frozen Ocean biomes, Aquamirae structures, Strongholds & Ancient Cities.
+~ Greatly increased the difficulty of Wither Boss, Mother of the Maze & Captain Cornelia in the Overworld.
 ~ Fixed conflicting keybinds with the "R" key.
 
 Mods added:
@@ -62,4 +63,5 @@ Config Changes:
 = Added config entry for "deep_dark" biome and set its difficulty to 4: [Dungeon Difficulty], [Both]
 = Added config entry for "overside" dimension and set its difficulty to 4: [Dungeon Difficulty], [Both]
 = Fixed the faulty config entry for the "ancient_city" structure and set its difficulty to 4: [Dungeon Difficulty], [Both]
-= Upped the difficulty of the "integrated_stronghold:stronghold" strucutre from 4 to 6: [Dungeon Difficulty], [Both]
+= Upped the difficulty of the "integrated_stronghold:stronghold" structure from 4 to 6: [Dungeon Difficulty], [Both]
+= Added config entries for "aquamirae:captain_cornelia", "aquamirae:maze_mother" & "wither" to independently change their difficulty in the Overworld: [Dungeon Difficulty], [Both]
