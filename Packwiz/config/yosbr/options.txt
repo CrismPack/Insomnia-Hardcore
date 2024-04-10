@@ -120,11 +120,12 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.brb.pin:key.keyboard.r
+key_key.brb.pin:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.namepain.showculled:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.period
+key_key.azurelib.reload:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.cleanview.togglecleanview:key.keyboard.unknown

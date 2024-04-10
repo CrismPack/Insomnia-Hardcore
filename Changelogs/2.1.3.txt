@@ -5,6 +5,8 @@ Update overview:
 ~ Fixed shields not working properly. [https://github.com/nvb-uy/Shield_Overhaul/issues/24]
 ~ Fixed crashing issue when entering the Promenade dimension. [https://github.com/Steveplays28/noisium/issues/22]
 ~ Greatly nerfed the effectiveness of mob farms.
+~ Upped the difficulty of the Otherside dimension, Deep Dark biome, Strongholds & Ancient Cities.
+~ Fixed conflicting keybinds with the "R" key.
 
 Mods added:
 + No Mob Farms
@@ -26,7 +28,8 @@ Data Packs added:
 + 
 
 Mods removed: 
-- 
+- Better Recipe Books [Recipe Book is hidden anyways with EMI]
+- Mobs Attempt Parkour [Removed to save on performance]
 
 
 Mods disabled: 
@@ -49,9 +52,14 @@ Mods updated:
 > Bookshelf
 > Create: Steam 'n' Rails
 > Fabric API
-> Create Support for Open Parties and Claims
-> Open Parties and Claims
+> Create Support for Open Parties and Claims [Unpinned]
+> Open Parties and Claims [Unpinned]
 > Projectile Damage Attribute
 
 Config Changes: 
 = Disabled parrying: [Shield Overhaul], [Both]
+= Unbound conflicting "R" keybind from 'BRB' & 'Azurelib': [YOSBR], [Client]
+= Added config entry for "deep_dark" biome and set its difficulty to 4: [Dungeon Difficulty], [Both]
+= Added config entry for "overside" dimension and set its difficulty to 4: [Dungeon Difficulty], [Both]
+= Fixed the faulty config entry for the "ancient_city" structure and set its difficulty to 4: [Dungeon Difficulty], [Both]
+= Upped the difficulty of the "integrated_stronghold:stronghold" strucutre from 4 to 6: [Dungeon Difficulty], [Both]

@@ -94,7 +94,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dungeon_difficulty_v2.json"
-hash = "00ef69068963cf66e3237a6d112b5f49f602efb8ee823928d2e0515388ac916a"
+hash = "36ba0bc23f29deb5f650ad67f9e2bb545bf96d593522e33a9b42ff0dced9d638"
 
 [[files]]
 file = "config/dusk.json"
@@ -390,7 +390,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "155c3b7f25d51a128ed05745431d8216cc92c745db45aede96f7285edb3ef768"
+hash = "73196cb430bc65d336dea0fbc0f8199aa6af08d1e0102b1a7e7f9a318b003c21"
 
 [[files]]
 file = "config/zoomify.json"
@@ -784,11 +784,6 @@ metafile = true
 [[files]]
 file = "mods/branded-logs.pw.toml"
 hash = "4f42de83f5f66e05d3ecd1300a0f0da0a8658fb9237c5cc496e7ab6169e2703e"
-metafile = true
-
-[[files]]
-file = "mods/brb.pw.toml"
-hash = "ab07984eab1a6d4be6e4c98ab7f28ff5fafc72632a6b9d9f3361c09c0f826a09"
 metafile = true
 
 [[files]]
@@ -1664,11 +1659,6 @@ metafile = true
 [[files]]
 file = "mods/mo-glass.pw.toml"
 hash = "5383f39c26454484a6a76265fa79aead51b39ef75b36585232b077102c778d67"
-metafile = true
-
-[[files]]
-file = "mods/mobs-attempt-parkour.pw.toml"
-hash = "a57c6cfd6e28e088696d795f770f6c04c3579e23d10ee567bc9174163fecfd13"
 metafile = true
 
 [[files]]
