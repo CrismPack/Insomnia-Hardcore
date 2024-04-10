@@ -1,0 +1,13 @@
+name = "No Mob Farms"
+filename = "nomobfarm-1.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2995fcf7ce4bc71fb19bc0d61e7396de96fdf511"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4585048
+project-id = 560784

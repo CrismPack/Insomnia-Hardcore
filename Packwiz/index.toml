@@ -277,6 +277,10 @@ file = "config/revive.json5"
 hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
 
 [[files]]
+file = "config/shield_overhaul.json"
+hash = "c45f82ab1e57b0cc810ab6f2ce2287f18743131634e31c529ad87d22ebabaaa4"
+
+[[files]]
 file = "config/shulkerplus/client.json"
 hash = "a1e737ada220ee043bb5d75af31386be87ba0d6c78511b07750e970b4da427f1"
 
@@ -1758,8 +1762,13 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
+file = "mods/no-mob-farms.pw.toml"
+hash = "62f15c41d1ef3227e73f0c4398eb45087f1c5c3840ad9042a5afd532d042719d"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
-hash = "e96aaa7d953f793cbfc854a648f00ba86d726f4d679caf56dbb2ed5fa9c114c4"
+hash = "afce3ea53ee95807ce7173a78f47e20bccb3321189df7ad9395a9c71d2387d1f"
 metafile = true
 
 [[files]]
