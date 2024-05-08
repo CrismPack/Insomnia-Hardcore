@@ -1,14 +1,13 @@
 name = "Noisium"
-filename = "noisium-1.0.2+mc1.20.x.jar"
+filename = "noisium-fabric-2.0.3+mc1.20-1.20.1.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"
-hash = "509c144a11659c638267fe5090fe5923c019f7d7"
+hash = "6841863d47b3152d540e523eeebf670287c9cbcf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4862033
+file-id = 5302289
 project-id = 930207

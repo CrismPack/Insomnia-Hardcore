@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "8f6db29f14fdf067095082606646d320911603d2e94cdf8e3aefdc0c7ebb1c78"
+hash = "fbb7c2db20a38c0a5c451b2a7d31720f4e8d72daa7d0475292030546f2479199"
 metafile = true
 
 [[files]]
@@ -1163,7 +1163,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "e13558a0030d8f8091628c348aa83b5c02d30897d97ca47cd6215c223580f447"
+hash = "eaf1ccd2f10b95d58026be6dd07ce11224758a6d1916478be7b85547a4aba598"
 metafile = true
 
 [[files]]
@@ -1179,11 +1179,6 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "7d83c6003d79dbe29a8cd051b740920870f4f8b24699d72ae08a7593256fec98"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "688fde4acc6a4775e88f7f66195eca2446c6e8fcaab49c0f7e448b1d44f805a1"
 metafile = true
 
 [[files]]
@@ -1252,13 +1247,13 @@ hash = "81afec1faa8078eec3f85ea36827fa95e63885ac1295d99a2d1fbfb0c8e50a7f"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "3b86de705a9329aac3d5e44b74cfbfc40667dfad73da42dabcea55391c33f7c2"
 metafile = true
 
 [[files]]
 file = "mods/farmers-knives.pw.toml"
-hash = "f21fd0d69d4db8a119bb1ea6e227982831950d881c8ebe1a436a9bf9a8163d0b"
+hash = "f625714c4c9f892f5a36b4434bb3e7b6fac42346a7c6d34e83c3ce56ec96741a"
 metafile = true
 
 [[files]]
@@ -1429,11 +1424,6 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "6035dc99eebe6cf06ce56952046989133b17e601aeed3a2ea05a22dae6e880e9"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "da65fbd10ed7aa55571b3713dffb9beddbd356acf4bad6c923d53664dad7cf5a"
 metafile = true
 
 [[files]]
@@ -1758,7 +1748,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "afce3ea53ee95807ce7173a78f47e20bccb3321189df7ad9395a9c71d2387d1f"
+hash = "b67abea74ec9d9135ee0864c53f81a1b74ab7c2e16288eb133297fac55a9a69b"
 metafile = true
 
 [[files]]
@@ -1778,7 +1768,7 @@ metafile = true
 
 [[files]]
 file = "mods/oceans-delight.pw.toml"
-hash = "294fba386cfc18c8528395d8f76d36c01aa90632ffea0969d16319e75fa3de95"
+hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
 metafile = true
 
 [[files]]
@@ -1903,7 +1893,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "57a1bd6278ba7ba55f41e5c88a78de9955dbf592f0167fd5ef1f22259c41fe1e"
+hash = "cbd0349bf5b06bc3c8f7c5f40f9f7072d3ab1da1be7ea2ae16287d86eea26eea"
 metafile = true
 
 [[files]]
@@ -1934,11 +1924,6 @@ metafile = true
 [[files]]
 file = "mods/redirectionor.pw.toml"
 hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "1927c657016f17e5ad5f2363782ea2de94db857e962cc547d57dc3157735f246"
 metafile = true
 
 [[files]]
@@ -1993,7 +1978,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b9f2929613228c8b4c1ac31d03598fe7982d11f02d8f8b38174f892e751cf57e"
+hash = "1f0bec3ad99e321884a4e7af58399a99982f00c3eb647b80d371525eede4b725"
 metafile = true
 
 [[files]]
@@ -2133,7 +2118,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3ba1b569892edb84886a4c4a21a09aad19a3280c0feb814630e7240ed5bbca96"
+hash = "5113afb95c37a18d4fec0e7521707354cb09f68b16952588855dfdd26ca5290e"
 metafile = true
 
 [[files]]
