@@ -11,6 +11,7 @@ Update overview:
 
 Mods added:
 + No Mob Farms
++ Connectivity
 
 Mods re-enabled:
 + 
@@ -31,6 +32,7 @@ Data Packs added:
 Mods removed: 
 - Better Recipe Books [Recipe Book is hidden anyways with EMI]
 - Mobs Attempt Parkour [Removed to save on performance]
+- Chunk Sending
 
 
 Mods disabled: 

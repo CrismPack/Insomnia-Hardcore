@@ -94,7 +94,7 @@ hash = "a9f4b803104438859a60a6a20957b4632f0c5945194aea2bf670f8b8b9634818"
 
 [[files]]
 file = "config/dungeon_difficulty_v2.json"
-hash = "36ba0bc23f29deb5f650ad67f9e2bb545bf96d593522e33a9b42ff0dced9d638"
+hash = "e1d40e35720eeb38af366d22044d2bc32b2d89992e657e1eaddb0583eee3a6ca"
 
 [[files]]
 file = "config/dusk.json"
@@ -234,7 +234,7 @@ hash = "89bc5db0ac2e589b4031af182ab2ef90179de925bee6c9b840daa357044c52c2"
 
 [[files]]
 file = "config/mcdw/mcdw_enchantments_config.json5"
-hash = "0c488c6f6f6f6d5bd6ede8f61ff29781834d16018be63c676c1030de68942bda"
+hash = "132fe1cac9ebcaf731b7fac9f2bf5bba5c087a6f247d65ff8689d0143d844254"
 
 [[files]]
 file = "config/memorysettings.json"
@@ -797,6 +797,11 @@ hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "dfb633f2c8caea628d11741fb1463508fcc228e264a1a76e93cc099f57c4886c"
+metafile = true
+
+[[files]]
 file = "mods/camp-chair.pw.toml"
 hash = "3601930d7f1fffec0232aeff33c3c767449527f867514f8a8ef5bd711befed4a"
 metafile = true
@@ -829,11 +834,6 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "12177397eb8dd927c402f1d63c4986778d90c4ef240c0dd2f0ab8829b74c1d56"
-metafile = true
-
-[[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "a952fb0d69dd033d3577501d2a0b3f0e4c013fa8b5b06a66a0f22eff8df5066d"
 metafile = true
 
 [[files]]
@@ -924,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "f639cf7e7dc85a5f3e1f2a35dffbbef188f2468cb4b39502a6a8c171ac238044"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "fcf0eba22e87809cb09862669571f0b120348a1ea83c0f72c316fa41634231f2"
 metafile = true
 
 [[files]]
@@ -1033,7 +1038,7 @@ metafile = true
 
 [[files]]
 file = "mods/doespotatotick.pw.toml"
-hash = "35bdba235a41d98c2df281a9dfa97614b614d80d3a535c752ca82037fcce39e4"
+hash = "bd4ad03dd9604c4899414d1995dbd8a51c827b82b947add2ae5466fda4cf5f83"
 metafile = true
 
 [[files]]
@@ -1114,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "871e3e1c28e7e5ba378c28d252890d8137d5ee9087c0c41ecb58b6d02bef2ec8"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "e65753c049f86b3b1be388b943288a78d2b60b8553f87a744767b198fa1f7aca"
 metafile = true
 
 [[files]]
@@ -1507,11 +1517,6 @@ hash = "250ac597bc8217567cc86ac03e3b10b0cee50661ea3a4113cd20ca134b67674a"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "987cb94ae9c60a811784617fad5eb48b574691d8eba12eb79a1ca3640e5892f4"
 metafile = true
@@ -1659,11 +1664,6 @@ metafile = true
 [[files]]
 file = "mods/mo-glass.pw.toml"
 hash = "5383f39c26454484a6a76265fa79aead51b39ef75b36585232b077102c778d67"
-metafile = true
-
-[[files]]
-file = "mods/mobtimizations.pw.toml"
-hash = "a06d3c4d3e5963e97183c930124b25c82c5a04de93086f3a60c12d36a38b39a1"
 metafile = true
 
 [[files]]
@@ -2007,11 +2007,6 @@ hash = "e7c2cf3725a8f03fac6f78b889cd365ccd3f119f4700ed67a09a89f4fa434e06"
 metafile = true
 
 [[files]]
-file = "mods/shield-overhaul.pw.toml"
-hash = "6a29fe0efc060d4c977f15852a24ae23f9d5dec345d055daab33f3d781c4cb70"
-metafile = true
-
-[[files]]
 file = "mods/shulker.pw.toml"
 hash = "0e9cf1de1bfb27a41b4fa796cae495aaa6908de9f86d18efef9df42ea60435ca"
 metafile = true
@@ -2059,11 +2054,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "602eb16e6b3ca9ace56a0c97789bc61536c9e7e0a32d4dd6cd610386323261c0"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "1331427cd33d8978bb1b37a6537ed1ab259b1df67cbbccf54e5056221eee783d"
 metafile = true
 
 [[files]]
@@ -2259,6 +2249,11 @@ metafile = true
 [[files]]
 file = "mods/vinery.pw.toml"
 hash = "0659b9dee53d354d9b472524a47bd45ce1320804e7fcddaaf11865419d96d0be"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "253f063ab4e9a5716870b13c15aff75787aa2553c48b5b061ff1e0fe64779d3e"
 metafile = true
 
 [[files]]
