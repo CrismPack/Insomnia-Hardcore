@@ -1,0 +1,13 @@
+name = "Sophisticated Backpacks (Unofficial Fabric port)"
+filename = "sophisticatedbackpacks-3.19.4+mc1.20.1-SNAPSHOT-build.39.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a4c8e335d69c338ed130d582c10340400423a2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5298295
+project-id = 979322

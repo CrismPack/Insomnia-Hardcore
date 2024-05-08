@@ -1562,11 +1562,6 @@ hash = "fe67c874eff89617dbbc0a3ff6303840c49feded877316f591c402fd2d2f7f46"
 metafile = true
 
 [[files]]
-file = "mods/limited-chunkloading.pw.toml"
-hash = "ce595d7649b9cb8772f1dc3f722afe8fce7b659985034409afcff1ce32a61200"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
@@ -1659,6 +1654,11 @@ metafile = true
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "bf34fb2e0a79348b19f915c27d648e91dfea583171069b92a08424c6baa51cea"
+metafile = true
+
+[[files]]
+file = "mods/modern-keybinding-fabric.pw.toml"
+hash = "c95ebbff90fa8facf46e20571d8db9c00706617d8181466f53037ecc04b8c218"
 metafile = true
 
 [[files]]
@@ -1912,11 +1912,6 @@ hash = "2a483c75ceab8aab598179b78605c3f36ba24b5b8b6a1d6f20a7e5c2cd5777aa"
 metafile = true
 
 [[files]]
-file = "mods/recipe-book-delight.pw.toml"
-hash = "fc443e1b366e445d99b1394caa4ce7fc20f6bf2c3ce746b6e811dc12a93e4777"
-metafile = true
-
-[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "b3a3bd28c751f602041f895abd4d58d92fd4358f77c9cc83f26f9776637b73fa"
 metafile = true
@@ -2042,6 +2037,16 @@ hash = "602eb16e6b3ca9ace56a0c97789bc61536c9e7e0a32d4dd6cd610386323261c0"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "8911eb328404482d894ffef5fe40703954f2b0cf93b441f82518d749722e200c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "fa50bb65efd66a53d4d89225d887909930434d7c93f5248230346508ecd0362c"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "16d2b9ae86e94685d70c0eabc1b4174daad219d6802d409fac7556f9bb19619e"
 metafile = true
@@ -2159,11 +2164,6 @@ metafile = true
 [[files]]
 file = "mods/tieredz.pw.toml"
 hash = "50b0983cb9db38b50c0e470731587a7c394898d62cc20cdbf309992acc09ca62"
-metafile = true
-
-[[files]]
-file = "mods/timeoutout-fabric.pw.toml"
-hash = "aa30fa9ce08bc01bf1d858b7d0c020b0955954e29f7c560fbacb7e90318308f0"
 metafile = true
 
 [[files]]
