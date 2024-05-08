@@ -9,6 +9,7 @@ Update overview:
 ~ Greatly increased the difficulty of Wither Boss, Mother of the Maze & Captain Cornelia in the Overworld.
 ~ Fixed conflicting keybinds with the "R" key.
 ~ Switched to use 'Farmer's Delight Refabricated'.
+~ Changes to the selection of optimization mods, hopefully improving compatibility & server performance.
 
 Mods added:
 + No Mob Farms
@@ -20,6 +21,8 @@ Mods added:
 + Paginated Advancements & Custom Frames
 + Fzzy Config [New dependency of 'Particle Core']
 + Farmer's Delight Refabricated
++ Every Compat (Wood Good)
++ Small Ships
 
 Mods re-enabled:
 + 

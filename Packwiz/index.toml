@@ -1187,6 +1187,11 @@ hash = "96d858465dc3f95046d8aff3d2adeccfd364b713d38ca9168cebe7606b3dc8b5"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "75166a15f99c4e74da53e645c341585119a0996f2a916a76b149603070cb95c6"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "af91e1a3c2cd85b3493741f3e413854f83c33666eff478d02202eeb83d4cefc2"
 metafile = true
@@ -1867,11 +1872,6 @@ hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
 
 [[files]]
-file = "mods/playerex.pw.toml"
-hash = "66a7676a27b5800672b29b1cd12d57b54fbb4747b6bd126b8d7483dfbfa55afa"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "493835cdfbd01e78637ecf9343b21da9eecbe33a7e60c4243b6a838e241e19a5"
 metafile = true
@@ -2024,6 +2024,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "a2efbd3f3ef9b7f19b4d9378d967ad12a750cf59b899643fc8b7b256da971b49"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "7fb4ade4d8add216f1d880e4d823a470d5adbf687f274f57502893a6b00baafc"
 metafile = true
 
 [[files]]
