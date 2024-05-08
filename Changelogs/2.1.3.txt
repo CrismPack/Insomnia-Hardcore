@@ -4,12 +4,13 @@ Fabric version: Fabric-0.15.11
 Update overview: 
 ~ Fixed shields not working properly. [https://github.com/nvb-uy/Shield_Overhaul/issues/24]
 ~ Fixed crashing issue when entering the Promenade dimension. [https://github.com/Steveplays28/noisium/issues/22]
-~ Greatly nerfed the effectiveness of mob farms.
+~ Greatly nerfed the effectiveness of some mob farms.
 ~ Upped the general difficulty of the Otherside dimension, Deep Dark biome, Frozen Ocean biomes, Aquamirae structures, Strongholds & Ancient Cities.
 ~ Greatly increased the difficulty of Wither Boss, Mother of the Maze & Captain Cornelia in the Overworld.
 ~ Fixed conflicting keybinds with the "R" key.
 ~ Switched to use 'Farmer's Delight Refabricated'.
 ~ Changes to the selection of optimization mods, hopefully improving compatibility & server performance.
+~ Updated mods to their latest versions.
 
 Mods added:
 + No Mob Farms
@@ -45,12 +46,12 @@ Mods removed:
 - Mobs Attempt Parkour [Removed to save on performance]
 - Chunk Sending
 - Krypton
-- Shield Overhaul
+- Shield Overhaul [Incompatible with 'Concurrent Chunk Management Engine']
 - Mobtimizations
 - Sodium [Replaced by 'Embedium']
 - Advancements Enlarger [Replaced by 'Paginated Advancements']
 - Packet Fixer [Replaced by 'Connectivity']
-- Reese's Sodium Options
+- Reese's Sodium Options [Replaced by 'Embedium']
 - Entity Culling
 - Farmer's Delight Fabric [Replaced by 'Farmer's Delight Refabricated']
 - Indium [Replaced by 'Embedium']
