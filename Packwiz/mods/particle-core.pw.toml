@@ -1,13 +1,13 @@
 name = "Particle Core"
-filename = "particle_core-0.1.2+1.20.jar"
+filename = "particle_core-0.2.3+1.20.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "938f95d8ae7b9da3d20d2ac0977c83dd26928ea3"
+hash = "739b7c02e09ff8b15869ad3f7620b9a43ec51cbf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5177211
+file-id = 5295323
 project-id = 985426

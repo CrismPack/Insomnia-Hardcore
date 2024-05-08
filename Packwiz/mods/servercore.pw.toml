@@ -1,13 +1,13 @@
 name = "ServerCore"
-filename = "servercore-fabric-1.5.0+1.20.1.jar"
+filename = "servercore-fabric-1.5.1+1.20.1.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "7b224193ad6082098290a490fa1277153685115b"
+hash = "3aa98a433b7bfc2fbf0ace15505030796ff51a1b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5230932
+file-id = 5288512
 project-id = 550579

@@ -1,13 +1,13 @@
 name = "EMI Loot"
-filename = "emi_loot-0.6.5+1.20.1.jar"
+filename = "emi_loot-0.6.6+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e6398e3aef04cbe96273e9174601953ab48f5191"
+hash = "1ecb08d3a45f000e835e9214eb6bae282bd8fdb0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4662969
+file-id = 5263376
 project-id = 681783

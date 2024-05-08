@@ -12,6 +12,12 @@ Update overview:
 Mods added:
 + No Mob Farms
 + Connectivity
++ Very Many Players [Server]
++ Concurrent Chunk Management Engine
++ DoesPotatoTick
++ Embeddium [Client]
++ Paginated Advancements & Custom Frames
++ Fzzy Config [New dependency of 'Particle Core']
 
 Mods re-enabled:
 + 
@@ -33,6 +39,12 @@ Mods removed:
 - Better Recipe Books [Recipe Book is hidden anyways with EMI]
 - Mobs Attempt Parkour [Removed to save on performance]
 - Chunk Sending
+- Krypton
+- Shield Overhaul
+- Mobtimizations
+- Sodium [Replaced by 'Embedium']
+- Advancements Enlarger [Replaced by 'Paginated Advancements']
+- Packet Fixer [Replaced by 'Connectivity']
 
 
 Mods disabled: 

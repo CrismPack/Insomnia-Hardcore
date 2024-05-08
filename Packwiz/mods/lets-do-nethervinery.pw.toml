@@ -1,13 +1,13 @@
 name = "[Let's Do] NetherVinery"
-filename = "letsdo-nethervinery-fabric-1.2.9.jar"
+filename = "letsdo-nethervinery-fabric-1.2.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3d8e17277f24ea21a5b6c5b7fd561eebbf6f1563"
+hash = "11b5de197195061c4fe430c00c7bdb2143a544f3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5221326
+file-id = 5322920
 project-id = 930072

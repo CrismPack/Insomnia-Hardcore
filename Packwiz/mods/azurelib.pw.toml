@@ -1,13 +1,13 @@
 name = "AzureLib"
-filename = "azurelib-fabric-1.20.1-2.0.20.jar"
+filename = "azurelib-fabric-1.20.1-2.0.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "daebe971a137025eeddca879c9f94ee04a2d44ee"
+hash = "c15882158a5d9633e380f0151c2b7c6688db015e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5069934
+file-id = 5283197
 project-id = 817423
