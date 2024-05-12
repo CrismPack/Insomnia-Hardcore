@@ -77,6 +77,10 @@ file = "config/chatpatches.json"
 hash = "f61cb7c41385d61c6ac2ba01bd9f54934457a6ba1a7845354ee801ef24d56251"
 
 [[files]]
+file = "config/combatroll/hud_config.json"
+hash = "2719d3ff9f33a84760018ac4d5f5919aeaf0293ec0a6f6708426286520c7f932"
+
+[[files]]
 file = "config/darkness.properties"
 hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
 
@@ -270,7 +274,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e44ee6d686a8b1738f4c08dd1cab9a2ccf54bcbed13f93af0775c7436ba0e96a"
+hash = "25fddaf5dd9a296959bbf6650568fc37ad04b35d583c6bfc3b67cbdc0da538d8"
 
 [[files]]
 file = "config/revive.json5"
@@ -341,6 +345,10 @@ file = "config/waystones/config.json"
 hash = "4074559c52ecfd21a0e392138678a8c11fa6fe2ae4c295ce99ad6d2ec5022776"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "83773d6b40a905514fb9785e636a1edac0738d9283b3d41322ea41756373e33f"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
@@ -382,11 +390,11 @@ hash = "010b3433e705792e8ae0cb39a14b86f124f8ea304b5f9276bb737debae9e10c6"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "db1841271a95b9c0038a41efb96c83dbc5139edd59aa5bf136e6763b15b02e8c"
+hash = "92a8cb0db4ac8763c757c6551696c47c6506b8365aa99cec2d17a97872a728ce"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
+hash = "754addb444684a000539de3b356bc7b9efd15d1d3af8955e80d5f1733a4021a7"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -762,11 +770,6 @@ hash = "396d37ad75490eff495442503d6bd0bd6a26162a61ca860988f9d9ce064b4fea"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "254abad1aa642594a197f9bd5be223b6561e4b56af55ec82519de6eb38f25ea7"
-metafile = true
-
-[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "62a06523495d2fe4423080876dbcd631378cf805c20a64c63f3768027b4f8c15"
 metafile = true
@@ -974,6 +977,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "e17ff5e3dea72bb9f7eda2f00527c640a24220472394304ad2a26ca303ec6bf4"
 metafile = true
 
 [[files]]
@@ -1512,6 +1520,11 @@ hash = "250ac597bc8217567cc86ac03e3b10b0cee50661ea3a4113cd20ca134b67674a"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "987cb94ae9c60a811784617fad5eb48b574691d8eba12eb79a1ca3640e5892f4"
 metafile = true
@@ -1814,6 +1827,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "65860d4d22148389848533605f46b05e742ed703dcf17beefedef33fdd9a3399"
 metafile = true
 
 [[files]]
@@ -2262,8 +2280,8 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "038d957224e81ed0dad2124a2caa5abce3e1e157b01232db7d9d64bf6ffeeccd"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9ad6017237b0d2631f00cb1f141d319cac8f09172616b202611be88f209c237e"
 metafile = true
 
 [[files]]
