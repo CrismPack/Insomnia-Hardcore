@@ -101,6 +101,10 @@ file = "config/dungeon_difficulty_v2.json"
 hash = "e1d40e35720eeb38af366d22044d2bc32b2d89992e657e1eaddb0583eee3a6ca"
 
 [[files]]
+file = "config/dungeonnowloading-server.toml"
+hash = "05e84411caa3f71fa8e7a84335a73238bb11b4eadab8732b8e13e0b1dfcfb7d5"
+
+[[files]]
 file = "config/dusk.json"
 hash = "68ed77369dae4f4dda844fd69e6045db4f25308e0ef9c2351bfbd20406dbaa06"
 
@@ -374,7 +378,7 @@ hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/yosbr/config/emi.css"
-hash = "42803b28bba57603fcbc0f45d38de12afd91317e057ecbe770ed54349600d198"
+hash = "bf665acb90d79381c91aee4a42225d6945bd801335af579643c7b70aa2b57e6f"
 
 [[files]]
 file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
