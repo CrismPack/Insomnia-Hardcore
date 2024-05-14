@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "691bfa9f66074e83919ccc1883c93740a4a9f332c5faebf814d8fe2b30c01e09"
+hash = "6d98a5e4af0c345a27cb2cf3b9eae6ce83e88498042fa0e0bdcbf6c1dedf15c9"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -78,7 +78,7 @@ hash = "f61cb7c41385d61c6ac2ba01bd9f54934457a6ba1a7845354ee801ef24d56251"
 
 [[files]]
 file = "config/combatroll/hud_config.json"
-hash = "2719d3ff9f33a84760018ac4d5f5919aeaf0293ec0a6f6708426286520c7f932"
+hash = "7a990d3679e4d07bd88a404e0ef21e4b8a2589a7d6a40653096ce0a656ac1a9b"
 
 [[files]]
 file = "config/darkness.properties"
@@ -111,6 +111,14 @@ hash = "c20554bd7d2a17f087c6ced5d41156730611cc13783c28242061d7ce0849b709"
 [[files]]
 file = "config/endgoblintraders.toml"
 hash = "279100051fa0bc939c754bc386fd95aeb533b0c187cba53a4a4e16b5edaebb2b"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/exordium.json"
@@ -253,6 +261,10 @@ file = "config/mostructures-config-v5.json5"
 hash = "5df83b31cbdf40a7a1d2ffab12e43b38663588ece4c5bc8ea91fa5890adb62b2"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "f72cd4bb8098adc0921bb13e0708d56d0b22fa7607f6be7bcbb325439a8238d3"
+
+[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "c10d57b89ec3e173c0d913e2463c5a84dbdec57d10a00df467f3321d15983fea"
 
@@ -269,12 +281,16 @@ file = "config/power_config.json5"
 hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
 
 [[files]]
+file = "config/recipeessentials.json"
+hash = "80f1ae8517f9ba265ba0620bc701298cc95ae7b93fd5da23782ce56d1743f8ea"
+
+[[files]]
 file = "config/regions_unexplored.conf"
 hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "25fddaf5dd9a296959bbf6650568fc37ad04b35d583c6bfc3b67cbdc0da538d8"
+hash = "4512e490189ca44b54d5c8e0fb8087b6eea2f59340c6391d828f4b6eca5313cc"
 
 [[files]]
 file = "config/revive.json5"
@@ -575,11 +591,6 @@ hash = "c61e23259e422098fde9b6393492f4f6e22e1bc074a397ae4c6edd686481e397"
 metafile = true
 
 [[files]]
-file = "mods/antighost.pw.toml"
-hash = "4462d8a3c707b422c62d24fc78cddff5f580d22b3a1e1c685b8d1701a3699d1c"
-metafile = true
-
-[[files]]
 file = "mods/antixray.pw.toml"
 hash = "1511b8c9a032d2ff744f09dfffa67de7b77cb4d6c6f4f499b1211bbedfcbbe56"
 metafile = true
@@ -712,6 +723,11 @@ metafile = true
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
 hash = "90e4fd8979bbc286d1d319d943dfcd83e45b5ff60b845efbbcc2116b7adbe6d2"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "c938d7304e448940072bc922cf6616dc6386289d1421e563dfd2a4ce5f5afa17"
 metafile = true
 
 [[files]]
@@ -965,6 +981,11 @@ hash = "a21be9bc722d7d99e07578c15086aa64b0022a20322c30f583f88e8b3a23a474"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "7d8c0c0bb4d93eb33b62bc5e69509051de5902b6d40c10807ed0f8e96507139a"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
@@ -987,6 +1008,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
+metafile = true
+
+[[files]]
+file = "mods/daily-rewards.pw.toml"
+hash = "61452d438ee37b8794f439fe347a8bb530482f6dec894b4233aaefec2847a7a4"
 metafile = true
 
 [[files]]
@@ -1060,6 +1086,11 @@ hash = "149d038651f1bfe86693a285bd67d209d2b037d136bcb6907a6fc8040ea1b07f"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+hash = "ade4c3026cf78133bda027958ce8b504076cd30d94580f93510a71696321e3ce"
+metafile = true
+
+[[files]]
 file = "mods/dusk.pw.toml"
 hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
 metafile = true
@@ -1087,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "e11870c3d508d66b49a6f712a72f1adf2ac552de411c86877bcb4332c935f962"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "26f6302dc256584cfd7c95877b0db142a42eaf24237b036873e723071e0264cf"
 metafile = true
 
 [[files]]
@@ -1350,6 +1386,21 @@ hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "bfc8afbaed7f82e3a4d820a7d3b4edca6b7af8f7915e972c72832e0786fd9dbd"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "c1ad4d481598aebbe8d6c608c0db8e2a0f604818e408e03c565bfc709fc11291"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "d5941a5506020f5cb815baf0d940ecef61f1ad9c7c1d2acc88a8e9e478b940b7"
 metafile = true
@@ -1421,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "888ac3cb4030d19b32313c29e0ecbe7b6b466905b092a03b7947750bef54e2db"
+hash = "66a5f4d7c5668cdcbbeb6453ee9350ba577783a92d4d41a0a1de95bbd84d705a"
 metafile = true
 
 [[files]]
@@ -2090,6 +2141,11 @@ hash = "444b11039c83ad16ef16a509bb8e43c97382ac04dcebcc8930c99d02c93a2914"
 metafile = true
 
 [[files]]
+file = "mods/stackablepotions.pw.toml"
+hash = "50eb43a9845aec15b36ba3dcc82d08083426d8da1f4f077231e461e80d1e1fd8"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "f873a549b596170178920aefb8bda3956f3014700af54b36f32a34f373309a57"
 metafile = true
@@ -2270,6 +2326,11 @@ hash = "989363965486c214ea341db3b22194d5b88bc7015b910b9d1198fe252a1a5750"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ac560ce69c138b924f261cfc84729a487df812d4e40fd34c614b3d5969acdfe9"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
 hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
 metafile = true
@@ -2383,6 +2444,16 @@ hash = "9428d56f4fdafe8961477ba59a843be627f5a4acc6622eb41222c9012f752435"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-compats-emf.pw.toml"
+hash = "648b1236a14396ad00d5cdc0258e7acd1197b681a884aeefa10ffafb027e261d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-moves.pw.toml"
+hash = "a5c69abbe5856c23afe916903013cd33284a02eee9e4f438dcbc0431e04d624d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/freshly-modded.pw.toml"
 hash = "2de5f4bcae860f5778ac2faf761c0d2bc01993e82a53e480d643432ad8cba571"
 metafile = true
@@ -2488,7 +2559,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "730e183f34f899826506d4cbe869dd3587b73b18a6bbd60bb1ae665a3bcae2fe"
+hash = "5f5bb3017aade764bcee7f62f12f4bb17c0c89dac6da7d84ac9fe416ee034328"
 
 [[files]]
 file = "shaderpacks/README.txt"

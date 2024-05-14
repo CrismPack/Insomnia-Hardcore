@@ -2,10 +2,26 @@ v2.1.4
 
 Fabric version: Fabric-0.15.11
 Update overview: 
-~ 
+~ Added Quests! (At present it only involves defeating bosses)
+~ Added 'Fresh Moves' resource pack, giving some nice animations to the player model.
+~ Added 'Daily Rewards' mod, giving players som daily rewards for simply logging in.
+~ Added 'Dungeon Now Loading 1%' mod, which includes a new dungeon & boss to the Overworld.
+~ Added 'Create Enchantment Industry' mod, which is all about handling XP and enchanting with Create.
+~ Switched to use 'FTB Teams' for creating & managing parties.
+~ Changed potions to be stackable up to 16.
+~ Fixed hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
 
 Mods added:
-+ 
++ Daily Rewards
++ Easy NPC
++ StackablePotions
++ Dungeon Now Loading 1%
++ Create Enchantment Industry Fabric
++ FTB Library
++ FTB Teams
++ FTB Quests
++ What Are They Up To
++ Better Statistics Screen
 
 Mods re-enabled:
 + 
@@ -18,7 +34,9 @@ Metadata changes:
 
 
 Resource Packs added:
-+ 
++ Fresh Compats
++ Fresh Moves
+
 
 Data Packs added:
 + 
@@ -36,8 +54,10 @@ Resource Packs removed:
 Data Packs removed:
 - 
 
+
 Mod updates reverted:
-> 
+> ImmediatelyFast [1.2.14 --> 1.2.13] [Pinned]
+
 
 Resource Packs updated:
 > 
@@ -47,4 +67,9 @@ Mods updated:
 
 
 Config Changes: 
-= : [mod], [Both]
+= Changed disableRecipebook to "true": [Recipe Essentials], [Both]
+= Changed preventFirstPersonHandAnimating to "true": [Entity Model Features], [Client]
+= Changed skinTransparencyMode to "ALL": [Entity Texture Features], [Client]
+= Changed permissionSystem to "luck_perms": [Open Parties And Claims], [Both]
+= Changed primaryPartySystem to "ftb_teams": [Open Parties And Claims], [Both]
+= Moved arrow to the bottom right corner: [Combat Roll], [Client]

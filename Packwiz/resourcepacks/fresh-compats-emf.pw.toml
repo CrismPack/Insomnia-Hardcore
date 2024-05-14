@@ -1,0 +1,13 @@
+name = "Fresh Compats (EMF pack)"
+filename = "FreshCompats_v1.5.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b2f84578a1fe5d6d255dd6b472708c731558215"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5284897
+project-id = 852603

@@ -1,0 +1,13 @@
+name = "StackablePotions [Fabric]"
+filename = "Stackable Potions-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "232d12ff320038ddd3a0aa8885519aead6b733b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4627632
+project-id = 396596
