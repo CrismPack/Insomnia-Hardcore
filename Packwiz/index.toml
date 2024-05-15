@@ -1195,6 +1195,11 @@ hash = "9e58bc37851da235aeb6462b331205e0c68790a207cc1c96f014e8adc5858e2f"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "e965542bde2548fdedc2ab3b1d9a24705d462e4f3e2c841f527ac4595b1a0d1a"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b7b9b0764c765ef65db6da8802bf0d7e9da46241c1ef69281e4521d5d617ce08"
 metafile = true

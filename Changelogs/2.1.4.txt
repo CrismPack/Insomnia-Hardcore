@@ -7,6 +7,7 @@ Update overview:
 ~ Added 'Daily Rewards' mod, giving players som daily rewards for simply logging in.
 ~ Added 'Dungeon Now Loading 1%' mod, which includes a new dungeon & boss to the Overworld.
 ~ Added 'Create Enchantment Industry' mod, which is all about handling XP and enchanting with Create.
+~ Added 'Emotecraft' mod, allowing players to use emote animations.
 ~ Switched to use 'FTB Teams' for creating & managing parties.
 ~ Changed potions to be stackable up to 16.
 ~ Fixed hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
@@ -22,6 +23,7 @@ Mods added:
 + FTB Quests
 + What Are They Up To
 + Better Statistics Screen
++ Emotecraft
 
 Mods re-enabled:
 + 
