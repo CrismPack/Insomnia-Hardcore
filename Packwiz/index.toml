@@ -78,7 +78,7 @@ hash = "f61cb7c41385d61c6ac2ba01bd9f54934457a6ba1a7845354ee801ef24d56251"
 
 [[files]]
 file = "config/combatroll/hud_config.json"
-hash = "7a990d3679e4d07bd88a404e0ef21e4b8a2589a7d6a40653096ce0a656ac1a9b"
+hash = "90cca9f822e8d32e110347792a55d86e494097d9d6754c280fcd40a8e9d6590c"
 
 [[files]]
 file = "config/darkness.properties"
@@ -1481,7 +1481,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "66a5f4d7c5668cdcbbeb6453ee9350ba577783a92d4d41a0a1de95bbd84d705a"
+hash = "d9421ae7c69d681b0ee4ed6913ebd41804db86547de7c592efddc83cfe360041"
 metafile = true
 
 [[files]]
@@ -2192,6 +2192,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b06c4ab8ded67fe92b0943cee3593654421b2fa50c888d86e764dae453152ac7"
+metafile = true
+
+[[files]]
+file = "mods/styled-player-list.pw.toml"
+hash = "151f9926392fc4a6dc0081281f2150bfedda481037b869d4187c69075cd6e2b9"
 metafile = true
 
 [[files]]
