@@ -575,11 +575,6 @@ hash = "c61e23259e422098fde9b6393492f4f6e22e1bc074a397ae4c6edd686481e397"
 metafile = true
 
 [[files]]
-file = "mods/antighost.pw.toml"
-hash = "4462d8a3c707b422c62d24fc78cddff5f580d22b3a1e1c685b8d1701a3699d1c"
-metafile = true
-
-[[files]]
 file = "mods/antixray.pw.toml"
 hash = "1511b8c9a032d2ff744f09dfffa67de7b77cb4d6c6f4f499b1211bbedfcbbe56"
 metafile = true
@@ -1421,7 +1416,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "888ac3cb4030d19b32313c29e0ecbe7b6b466905b092a03b7947750bef54e2db"
+hash = "d9421ae7c69d681b0ee4ed6913ebd41804db86547de7c592efddc83cfe360041"
 metafile = true
 
 [[files]]
@@ -1911,7 +1906,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "cbd0349bf5b06bc3c8f7c5f40f9f7072d3ab1da1be7ea2ae16287d86eea26eea"
+hash = "a7ea2ca9971a1ca82e06f211e6112d628ec9bbb9fe1c6ccb039be2cff3faaa52"
 metafile = true
 
 [[files]]
@@ -2026,7 +2021,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-skills.pw.toml"
-hash = "89dda1b0ed1ea2357d60e2016544a24cebdd649d7bc92e885b7ccbcb1a95b77b"
+hash = "e65b4ac5ea5eff9de6898682e94a07d0a672f8211f7e0400e88128a2544d0c79"
 metafile = true
 
 [[files]]
