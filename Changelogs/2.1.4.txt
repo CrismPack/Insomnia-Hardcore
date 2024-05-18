@@ -1,4 +1,4 @@
-v2.1.4
+v2.2.0
 
 Fabric version: Fabric-0.15.11
 Update overview: 
@@ -8,9 +8,11 @@ Update overview:
 ~ Added 'Dungeon Now Loading 1%' mod, which includes a new dungeon & boss to the Overworld.
 ~ Added 'Create Enchantment Industry' mod, which is all about handling XP and enchanting with Create.
 ~ Added 'Emotecraft' mod, allowing players to use emote animations.
+~ New content from 'Mine Cells', including new shields and ranged weapons.
 ~ Switched to use 'FTB Teams' for creating & managing parties.
 ~ Changed potions to be stackable up to 16.
 ~ Fixed hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
+~ Updated mods to their latest version.
 
 Mods added:
 + Daily Rewards
@@ -27,7 +29,7 @@ Mods added:
 + Styled Player List [Server]
 
 Mods re-enabled:
-+ 
++ Iris & Oculus Flywheel Compat [Client]
 
 Mod side changes:
 = [Both --> Client]
@@ -64,10 +66,34 @@ Mod updates reverted:
 
 
 Resource Packs updated:
-> 
+> Freshly Modded
 
 Mods updated: 
-> 
+> Amendments
+> Amplified Nether
+> AzureLib
+> Better Archeology
+> Chat Heads
+> Continuity
+> Create: Steam 'n' Rails
+> Let's Do API
+> Elytra Trims
+> Embeddium
+> Iris & Oculus Flywheel Compat
+> Jade 🔍
+> Mine Cells - Dead Cells Mod
+> Neruina - Ticking Entity Fixer
+> Puzzles Lib
+> Philip's Ruins
+> Savage Ender Dragon
+> Moonlight Lib
+> Simple Voice Chat
+> Simply Skills
+> Suggestion Tweaker
+> Supplementaries
+> Wavey Capes
+> YUNG's API
+> YUNG's Better Jungle Temples
 
 
 Config Changes: 
