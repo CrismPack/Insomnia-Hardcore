@@ -46,6 +46,7 @@ Data Packs added:
 
 Mods removed: 
 - Anti Ghost
+- Fast Async World Save
 
 
 Mods disabled: 
@@ -81,3 +82,4 @@ Config Changes:
 = Changed dungeon mob health and attack scale from "1.0" to "1.5": [Dungeon Now Loading 1%], [Both]
 = Deleted ping placeholder: [Styled Player List], [Server]
 = Fixed alignment of "Insomnia: Hardcore" text: [Styled Player List], [Server]
+= Changed allowThreadedFeatures to "false": [C2ME], [Both]
