@@ -221,6 +221,10 @@ file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "df16e30d299e0541d508ecb8bd53627baae104775485d18c3d298bf7993bb257"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "ed153c9e439a58265b7b690783cce435f7bac9ebd24fa9b896dec8fdf427213b"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "a2e0904923e63dc66ffd15c58d51ce66b0c5fe3c2d4dfd7c9b7584a5d20e77f8"
 

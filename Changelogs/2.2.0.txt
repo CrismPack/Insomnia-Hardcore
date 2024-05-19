@@ -12,7 +12,7 @@ Update overview:
 ~ Switched to use 'FTB Teams' for creating & managing parties.
 ~ Changed potions to be stackable up to 16.
 ~ Fixed hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
-~ Disabled the anvil upgrade for backpacks due to it crashing the game.
+~ Fixed crashing issue related to backpacks by disabling the anvil upgrade.
 ~ Updated mods to their latest version.
 
 Mods added:
@@ -50,6 +50,7 @@ Data Packs added:
 Mods removed: 
 - Anti Ghost
 - Fast Async World Save
+- Redirector
 
 
 Mods disabled: 
@@ -111,4 +112,4 @@ Config Changes:
 = Deleted ping placeholder: [Styled Player List], [Server]
 = Fixed alignment of "Insomnia: Hardcore" text: [Styled Player List], [Server]
 = Changed allowThreadedFeatures to "false": [C2ME], [Both]
-= Added "sophisticatedbackpacks:anvil_upgrade" to the blacklisted_items list: [Item Obliterator], [Both]
+= Added "sophisticatedbackpacks:anvil_upgrade" to the blacklisted_items list (Crashes the client): [Item Obliterator], [Both]
