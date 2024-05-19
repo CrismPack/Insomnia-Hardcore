@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6d98a5e4af0c345a27cb2cf3b9eae6ce83e88498042fa0e0bdcbf6c1dedf15c9"
+hash = "a0874fbb0669ffdb542655ffa9a8713df7a1f5f61c861e42a05d4f6f05550ce2"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -1149,11 +1149,6 @@ hash = "687de1a7e2a4c90450881641a29871dc8d9a9e74bd79ff3f5ca9d6cbb78ea843"
 metafile = true
 
 [[files]]
-file = "mods/elytra-physics.pw.toml"
-hash = "68730de1fd8e667126d052728dc59b0c16c043274312fb3884667a001de5cd85"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "803b74a214998313742d95245d8be2c0db616c2bb6327896247dff36379cc2d0"
 metafile = true
@@ -1970,7 +1965,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "cbd0349bf5b06bc3c8f7c5f40f9f7072d3ab1da1be7ea2ae16287d86eea26eea"
+hash = "a7ea2ca9971a1ca82e06f211e6112d628ec9bbb9fe1c6ccb039be2cff3faaa52"
 metafile = true
 
 [[files]]
@@ -2572,7 +2567,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "5f5bb3017aade764bcee7f62f12f4bb17c0c89dac6da7d84ac9fe416ee034328"
+hash = "c3f991ed0f7bc00c631591ef0ad097ef1df20e91a43276d49a33cd9f451d7634"
 
 [[files]]
 file = "shaderpacks/README.txt"

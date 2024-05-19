@@ -94,6 +94,7 @@ Mods updated:
 > Wavey Capes
 > YUNG's API
 > YUNG's Better Jungle Temples
+> Pufferfish's Skills [Unpinned]
 
 
 Config Changes: 

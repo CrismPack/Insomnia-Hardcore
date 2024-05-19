@@ -1,12 +1,12 @@
 name = "InsomniaHardcore-1.20.1"
 author = "CrismPack"
-version = "2.1.4"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6503eaad4814314a371a2b6e23067d593e3c14a6b58da53f187b6060c97ca5ce"
+hash = "e7c58cac66476f3991db1d952b4ba57720c914215798d059db748826aaeeb3b0"
 
 [versions]
 fabric = "0.15.11"
