@@ -10,6 +10,7 @@ Update overview:
 
 Mods added:
 + StackablePotions
++ Styled Player List [Server]
 
 Mods re-enabled:
 + 

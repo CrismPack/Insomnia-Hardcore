@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "691bfa9f66074e83919ccc1883c93740a4a9f332c5faebf814d8fe2b30c01e09"
+hash = "6d98a5e4af0c345a27cb2cf3b9eae6ce83e88498042fa0e0bdcbf6c1dedf15c9"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -78,7 +78,7 @@ hash = "f61cb7c41385d61c6ac2ba01bd9f54934457a6ba1a7845354ee801ef24d56251"
 
 [[files]]
 file = "config/combatroll/hud_config.json"
-hash = "2719d3ff9f33a84760018ac4d5f5919aeaf0293ec0a6f6708426286520c7f932"
+hash = "90cca9f822e8d32e110347792a55d86e494097d9d6754c280fcd40a8e9d6590c"
 
 [[files]]
 file = "config/darkness.properties"
@@ -111,6 +111,14 @@ hash = "c20554bd7d2a17f087c6ced5d41156730611cc13783c28242061d7ce0849b709"
 [[files]]
 file = "config/endgoblintraders.toml"
 hash = "279100051fa0bc939c754bc386fd95aeb533b0c187cba53a4a4e16b5edaebb2b"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/exordium.json"
@@ -274,7 +282,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "25fddaf5dd9a296959bbf6650568fc37ad04b35d583c6bfc3b67cbdc0da538d8"
+hash = "ba580f9ea2b91cd4c5dc4943a73c57b4ebd4b64a268d3a6ae3e535d7c24ec47e"
 
 [[files]]
 file = "config/revive.json5"
@@ -1351,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0cc8b23ff897c146c7a66baafd92a3fb498d622a7fd6611bd9d33ef0f0c42adb"
+hash = "f2d36b712795885dc8d38aabbdf4327693acd5398461b877d09d329d01b486b4"
 metafile = true
 
 [[files]]
@@ -1391,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-fabric.pw.toml"
-hash = "cedbbcfcf56863a0864af328f5770c2f963c886cf69554057bc50b5f08a1a343"
+hash = "dcaaaf706f802e2eb0ad4cf13c1c525508d505d7b0e859c52bba482ff78479ce"
 metafile = true
 
 [[files]]
@@ -1461,7 +1469,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "e47734cf7421d3312e70333f7b08186344e8c596a9009bbc7af1330e1a9e84f8"
+hash = "7008b59badb2a0d620bb5f991e553ee1298894e66c73d957d8e6a297db484f34"
 metafile = true
 
 [[files]]
@@ -1636,7 +1644,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecells.pw.toml"
-hash = "7aaff10b5db1c2eebc936c3213dbfc5113dd3723fd9bb126fa6e42ca27a136e6"
+hash = "7a0a88fd8c24e8155bbf708f839e59e8570c0b7792b1e37cf28fc5bb83a76f25"
 metafile = true
 
 [[files]]
@@ -2061,7 +2069,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "23c83d5244e87115be4dfcb15d5c45f9fbebaa85e12418c9affd6a398b5f9be3"
+hash = "16d2b9ae86e94685d70c0eabc1b4174daad219d6802d409fac7556f9bb19619e"
 metafile = true
 
 [[files]]
@@ -2122,6 +2130,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b06c4ab8ded67fe92b0943cee3593654421b2fa50c888d86e764dae453152ac7"
+metafile = true
+
+[[files]]
+file = "mods/styled-player-list.pw.toml"
+hash = "93cf1fc28d62de1afd142ab6b85359923a8c0d9c6b16ec4322308fa49e8ab153"
 metafile = true
 
 [[files]]
@@ -2493,7 +2506,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "730e183f34f899826506d4cbe869dd3587b73b18a6bbd60bb1ae665a3bcae2fe"
+hash = "5f5bb3017aade764bcee7f62f12f4bb17c0c89dac6da7d84ac9fe416ee034328"
 
 [[files]]
 file = "shaderpacks/README.txt"
