@@ -57,6 +57,7 @@ Mods updated:
 > EMI Extra Integrations
 > Fabric Language Kotlin
 > Fzzy Config
+> ImmediatelyFast
 > Item Obliterator
 > Jade 🔍
 > Neruina - Ticking Entity Fixer
