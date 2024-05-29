@@ -2,7 +2,8 @@ v2.1.4
 
 Fabric version: Fabric-0.15.11
 Update overview: 
-~ 
+~ Fixes hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
+~ Fixes crashing issue when using the anvil upgrade in backpacks.
 
 Mods added:
 + 
@@ -23,8 +24,10 @@ Resource Packs added:
 Data Packs added:
 + 
 
+
 Mods removed: 
 - Anti Ghost
+- Elytra Physics [Previously disabled]
 
 
 Mods disabled: 
@@ -38,8 +41,9 @@ Data Packs removed:
 
 Mod updates reverted:
 > 
+
 Resource Packs updated:
-> 
+> Freshly Modded
 
 Mods updated: 
 > Amendments
