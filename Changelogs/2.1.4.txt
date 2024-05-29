@@ -2,8 +2,11 @@ v2.1.4
 
 Fabric version: Fabric-0.15.11
 Update overview: 
-~ Fixes hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
-~ Fixes crashing issue when using the anvil upgrade in backpacks.
+~ Added 'Fresh Moves' resource pack, giving some nice animations to the player model.
+~ Changed potions to be stackable up to 16.
+~ Updated mods to their latest version.
+~ Fixed hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
+~ Fixed crashing issue when using the anvil upgrade in backpacks.
 
 Mods added:
 + 
@@ -19,7 +22,9 @@ Metadata changes:
 
 
 Resource Packs added:
-+ 
++ Fresh Compats
++ Fresh Moves
+
 
 Data Packs added:
 + 
