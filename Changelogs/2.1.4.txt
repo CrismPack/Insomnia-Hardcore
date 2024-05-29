@@ -9,7 +9,7 @@ Update overview:
 ~ Fixed crashing issue when using the anvil upgrade in backpacks.
 
 Mods added:
-+ 
++ StackablePotions
 
 Mods re-enabled:
 + 
@@ -23,7 +23,7 @@ Metadata changes:
 
 Resource Packs added:
 + Fresh Compats
-+ Fresh Moves
++ Fresh Moves [Pinned]
 
 
 Data Packs added:
@@ -99,3 +99,4 @@ Config Changes:
 = Moved arrow to the bottom right corner: [Combat Roll], [Client]
 = Deleted ping placeholder: [Styled Player List], [Server]
 = Fixed alignment of "Insomnia: Hardcore" text: [Styled Player List], [Server]
+= Force enabled 'Fresh Moves' & 'FreshCompats': [Resource Pack Overrides], [Client]

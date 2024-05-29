@@ -2080,6 +2080,11 @@ hash = "444b11039c83ad16ef16a509bb8e43c97382ac04dcebcc8930c99d02c93a2914"
 metafile = true
 
 [[files]]
+file = "mods/stackablepotions.pw.toml"
+hash = "50eb43a9845aec15b36ba3dcc82d08083426d8da1f4f077231e461e80d1e1fd8"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "f873a549b596170178920aefb8bda3956f3014700af54b36f32a34f373309a57"
 metafile = true
@@ -2370,6 +2375,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "9428d56f4fdafe8961477ba59a843be627f5a4acc6622eb41222c9012f752435"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-compats-emf.pw.toml"
+hash = "648b1236a14396ad00d5cdc0258e7acd1197b681a884aeefa10ffafb027e261d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-moves.pw.toml"
+hash = "a5c69abbe5856c23afe916903013cd33284a02eee9e4f438dcbc0431e04d624d"
 metafile = true
 
 [[files]]
