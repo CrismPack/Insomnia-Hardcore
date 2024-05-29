@@ -2,15 +2,17 @@ v2.1.4
 
 Fabric version: Fabric-0.15.11
 Update overview: 
-~ Added 'Fresh Moves' resource pack, giving some nice animations to the player model.
+~ Added 'Just Expressions' & 'Fresh Compats' animation resource packs.
 ~ Changed potions to be stackable up to 16.
 ~ Updated mods to their latest version.
 ~ Fixed hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
 ~ Fixed crashing issue when using the anvil upgrade in backpacks.
+~ May or may not fix server crashing related to spell projectiles.
 
 Mods added:
 + StackablePotions
 + Styled Player List [Server]
++ Pufferfish's Attributes [New dependency of 'Simply Skills']
 
 Mods re-enabled:
 + 
@@ -24,7 +26,7 @@ Metadata changes:
 
 Resource Packs added:
 + Fresh Compats
-+ Fresh Moves [Pinned]
++ Just Expressions
 
 
 Data Packs added:
@@ -34,6 +36,7 @@ Data Packs added:
 Mods removed: 
 - Anti Ghost
 - Elytra Physics [Previously disabled]
+- Redirector
 
 
 Mods disabled: 
@@ -72,7 +75,7 @@ Mods updated:
 > Jade 🔍
 > Neruina - Ticking Entity Fixer
 > Packet Fixer
-> Pehkui
+> Pehkui [Pinned 3.8.0]
 > Polymorph
 > Pufferfish's Skills [Unpinned]
 > Puzzles Lib
@@ -82,6 +85,7 @@ Mods updated:
 > Moonlight Lib
 > Simple Voice Chat
 > Skin Layers 3D
+> Simply Skills
 > Sophisticated Backpacks Unofficial Fabric port
 > Sophisticated Core Unofficial Fabric port
 > Suggestion Tweaker

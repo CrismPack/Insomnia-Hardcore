@@ -282,7 +282,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ba580f9ea2b91cd4c5dc4943a73c57b4ebd4b64a268d3a6ae3e535d7c24ec47e"
+hash = "1bf5fd58381ac0bf3a131e18156ad57dc5056021c11af68407f85a66ffe8f642"
 
 [[files]]
 file = "config/revive.json5"
@@ -1864,7 +1864,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "55fc08465e842d049d632c9ff13f538d08ca873990ef72e6a30704b92236bb1c"
+hash = "5a16f97736ef6fe7116c8f76974d911f55f042770bb142367ad01beeef3418ac"
 metafile = true
 
 [[files]]
@@ -1908,6 +1908,11 @@ hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
 metafile = true
 
 [[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "6ac0a53f5254d7622c8e0bc7ff05ab8282b65e3b2965bd7ba108694f81262dda"
+metafile = true
+
+[[files]]
 file = "mods/puffish-skills.pw.toml"
 hash = "f17f46633ebb69e0ce3d471a7986e7bf22a616b84882b684bbdf965efd983efb"
 metafile = true
@@ -1930,11 +1935,6 @@ metafile = true
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "b3a3bd28c751f602041f895abd4d58d92fd4358f77c9cc83f26f9776637b73fa"
-metafile = true
-
-[[files]]
-file = "mods/redirectionor.pw.toml"
-hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
 metafile = true
 
 [[files]]
@@ -2134,7 +2134,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-player-list.pw.toml"
-hash = "93cf1fc28d62de1afd142ab6b85359923a8c0d9c6b16ec4322308fa49e8ab153"
+hash = "151f9926392fc4a6dc0081281f2150bfedda481037b869d4187c69075cd6e2b9"
 metafile = true
 
 [[files]]
@@ -2396,11 +2396,6 @@ hash = "648b1236a14396ad00d5cdc0258e7acd1197b681a884aeefa10ffafb027e261d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-moves.pw.toml"
-hash = "a5c69abbe5856c23afe916903013cd33284a02eee9e4f438dcbc0431e04d624d"
-metafile = true
-
-[[files]]
 file = "resourcepacks/freshly-modded.pw.toml"
 hash = "65e8ae9fcce77c170e323c71c44b8b952aad533feaa3f1975128274062adb171"
 metafile = true
@@ -2408,6 +2403,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/insomnia-compat.pw.toml"
 hash = "ba6f4ddd010b9421f0333743880d1a2817d0a704f39eb528b72c35c140b555ee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/just-expressions.pw.toml"
+hash = "37b6610d670c61b94200e1c9cba12c7f9b74dd00f4fac24c4abee1f2d04a4911"
 metafile = true
 
 [[files]]
