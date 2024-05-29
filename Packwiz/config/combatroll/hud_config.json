@@ -1,9 +1,9 @@
 {
   "rollWidget": {
-    "origin": "BOTTOM_LEFT",
+    "origin": "BOTTOM_RIGHT",
     "offset": {
-      "field_1343": 16.668022,
-      "field_1342": -12.0
+      "field_1343": -22.002892,
+      "field_1342": -18.342272
     }
   }
 }
