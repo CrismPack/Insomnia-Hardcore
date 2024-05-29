@@ -2278,6 +2278,11 @@ hash = "28a056b84fcca233272d634b4212f920ae073bc138b4ab2b4cc3c01de5c82a02"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ac560ce69c138b924f261cfc84729a487df812d4e40fd34c614b3d5969acdfe9"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
 hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
 metafile = true

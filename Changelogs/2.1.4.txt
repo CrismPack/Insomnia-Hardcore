@@ -2,7 +2,7 @@ v2.1.4
 
 Fabric version: Fabric-0.15.11
 Update overview: 
-~ Added 'Just Expressions' & 'Fresh Compats' animation resource packs.
+~ Added some neat animation related resource packs and mods.
 ~ Changed potions to be stackable up to 16.
 ~ Updated mods to their latest version.
 ~ Fixed hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
@@ -13,6 +13,7 @@ Mods added:
 + StackablePotions
 + Styled Player List [Server]
 + Pufferfish's Attributes [New dependency of 'Simply Skills']
++ What Are They Up To
 
 Mods re-enabled:
 + 
