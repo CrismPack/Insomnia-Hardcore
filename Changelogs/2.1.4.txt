@@ -89,4 +89,8 @@ Mods updated:
 
 
 Config Changes: 
-= : [mod], [Both]
+= Changed preventFirstPersonHandAnimating to "true": [Entity Model Features], [Client]
+= Changed skinTransparencyMode to "ALL": [Entity Texture Features], [Client]
+= Moved arrow to the bottom right corner: [Combat Roll], [Client]
+= Deleted ping placeholder: [Styled Player List], [Server]
+= Fixed alignment of "Insomnia: Hardcore" text: [Styled Player List], [Server]
