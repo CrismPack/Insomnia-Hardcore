@@ -2511,7 +2511,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "5f5bb3017aade764bcee7f62f12f4bb17c0c89dac6da7d84ac9fe416ee034328"
+hash = "33fd4a0d2eca47dfd53e634f695fa9d45d24c9478f493837b49362481065e77a"
 
 [[files]]
 file = "shaderpacks/README.txt"
