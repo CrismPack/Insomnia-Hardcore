@@ -2,10 +2,14 @@ v2.1.5
 
 Fabric version: Fabric-0.15.11
 Update overview: 
+~ Fixed modded dungeon and boss structures not being allowed to respawn.
+~ Added RPG style damage indicators.
 ~ Removed unused library mods.
 
 Mods added:
-+ 
++ Log Cleaner
++ Mmm Indicators [Client]
+
 
 Mods re-enabled:
 + 
@@ -58,4 +62,6 @@ Mods updated:
 
 
 Config Changes: 
-= : [mod], [Client]
+= Added structure IDs for BOMD boss structures: [Respawning Structures], [Both]
+= Added structure ID "riendsandfoes:citadel": [Respawning Structures], [Both]
+= Added entries for modded chest loot tables to allow for detecting and respawning modded dungeons: [Respawning Structures], [Both]

@@ -1593,6 +1593,11 @@ hash = "7fabd6bd7ee1f94d0bbb48a9f0c563eafb0ef878903716f6d989b2c441585bb1"
 metafile = true
 
 [[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "0612494ff45a866a77bc1fe26a05c34560c9d6472a772a4f90b0d730e65cd8f0"
+metafile = true
+
+[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "a9a105475f0c90f42e36a5faa0c4fc3ba34691f3b688abc523d195d69fc7498d"
 metafile = true
@@ -1650,6 +1655,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
+file = "mods/mmm-indicators.pw.toml"
+hash = "3f88bbb14715cc27932cc3869ea1e46eda155c0a35d2d5d9f8ad042047033c95"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Mmm Indicators"
+filename = "Mmm_Indicators-MC1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d6119227a11e1e15f9de11af0995fbecb1e6b297"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5054147
+project-id = 965802
