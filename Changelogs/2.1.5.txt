@@ -1,0 +1,61 @@
+v2.1.5
+
+Fabric version: Fabric-0.15.11
+Update overview: 
+~ Removed unused library mods.
+
+Mods added:
++ 
+
+Mods re-enabled:
++ 
+
+Mod side changes:
+= [Both --> Client]
+
+Metadata changes:
+=  [Bundled --> CF]
+
+
+Resource Packs added:
++ 
+
+
+Data Packs added:
++ 
+
+
+Mods removed: 
+- Faux Custom Entity Data: [Unused dependency]
+- AzureLib: [Unused dependency]
+- Better Sodium Video Settings Button: [Previously disabled]
+- CoroUtil: [Unused dependency]
+- Crafting Manipulator: [Unused dependency]
+- LiLaC: [Unused dependency]
+- Memory Leak Fix: [Functionality included in 'ModernFix']
+- Smooth Chunk Save
+- SuperMartijn642's Config Lib: [Unused dependency]
+- TipTheScales: [Incompatible with 'Embedium']
+
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Data Packs removed:
+- 
+
+Mod updates reverted:
+> 
+
+Resource Packs updated:
+> 
+
+Mods updated: 
+> 
+
+
+Config Changes: 
+= : [mod], [Client]
