@@ -353,6 +353,10 @@ file = "config/travelerstitles-fabric-1_20.toml"
 hash = "cc29964026fca4121919492493a4d2de89f82ba5d17d0993971133a3cbc63e9f"
 
 [[files]]
+file = "config/watut-client.toml"
+hash = "b3f21d9768241285af7743a731e7da5526296970f9fc25731c1b9f4fe8e24c60"
+
+[[files]]
 file = "config/waystones/config.json"
 hash = "4074559c52ecfd21a0e392138678a8c11fa6fe2ae4c295ce99ad6d2ec5022776"
 
@@ -1034,11 +1038,6 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "2215a1c2b0ac55cb1d780938f441b819cd2ea32cfb841427f45897bb61586a32"
-metafile = true
-
-[[files]]
-file = "mods/doespotatotick.pw.toml"
-hash = "bd4ad03dd9604c4899414d1995dbd8a51c827b82b947add2ae5466fda4cf5f83"
 metafile = true
 
 [[files]]

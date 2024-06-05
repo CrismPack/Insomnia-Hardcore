@@ -3,6 +3,7 @@ v2.1.5
 Fabric version: Fabric-0.15.11
 Update overview: 
 ~ Fixed modded dungeon and boss structures not being allowed to respawn.
+~ Fixed "Saving entity NBT" crashing issue. Thank you Crash Master Razor for helping narrowing down the cause!
 ~ Added RPG style damage indicators.
 ~ Removed unused library mods.
 
@@ -38,6 +39,7 @@ Mods removed:
 - Smooth Chunk Save
 - SuperMartijn642's Config Lib: [Unused dependency]
 - TipTheScales: [Incompatible with 'Embedium']
+- DoesPotatoTick?: [Incompatible with 'Neruina'], [Culprit of crashing issue]
 
 
 Mods disabled: 
