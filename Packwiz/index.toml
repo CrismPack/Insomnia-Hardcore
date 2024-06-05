@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6d98a5e4af0c345a27cb2cf3b9eae6ce83e88498042fa0e0bdcbf6c1dedf15c9"
+hash = "39a0b31a6d2ed3cb5f4b6cd1db0b062a0072d4ac7d6a1d91a78bb8129bf45b11"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -283,6 +283,10 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "1bf5fd58381ac0bf3a131e18156ad57dc5056021c11af68407f85a66ffe8f642"
+
+[[files]]
+file = "config/respawningstructures.json"
+hash = "a41dbc6e93c9836081671f7c7e469b149af3b7cd4f1e2f8fabad0e2cb1b45533"
 
 [[files]]
 file = "config/revive.json5"
@@ -649,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "ee9cb94fa86697b52e9dbc310777aed4b552f601d9fc988aaca868cdf51a5b91"
+hash = "36c89a9e6c271d6b03816c0d965ee09aaf5fbd907ab3fa7d5b816459d3eb277c"
 metafile = true
 
 [[files]]
@@ -710,11 +714,6 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "7df0ea8570cd262aeab481bd7cafefbeb49f04fcebf37b7ed3967c678e4f0586"
-metafile = true
-
-[[files]]
-file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "90e4fd8979bbc286d1d319d943dfcd83e45b5ff60b845efbbcc2116b7adbe6d2"
 metafile = true
 
 [[files]]
@@ -950,11 +949,6 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
-metafile = true
-
-[[files]]
-file = "mods/crafting-manipulator.pw.toml"
-hash = "71084db42cea6871cb51330e98fb5edc1b412283cad0d25f871cc64c1b37eacd"
 metafile = true
 
 [[files]]
@@ -1293,11 +1287,6 @@ hash = "3c42a829336457bcc9ad7e103c49c985e54867f16d1c9d7b659e0bfc11afa6f9"
 metafile = true
 
 [[files]]
-file = "mods/faux-custom-entity-data.pw.toml"
-hash = "8629f55ffd91cfa46eb26611afc3b188dbccc7164277c3d9b7df2dc09b219932"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
@@ -1573,11 +1562,6 @@ hash = "1549ddf6a28c530fe7e54d00a28149bf8bf1c3e66231a0aefb7b9185a827a2ae"
 metafile = true
 
 [[files]]
-file = "mods/lilac.pw.toml"
-hash = "fe67c874eff89617dbbc0a3ff6303840c49feded877316f591c402fd2d2f7f46"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
@@ -1633,11 +1617,6 @@ hash = "00e5eb7ee4f0c9b48cb8f6ff107cad51c291a7187a7ca9bdcd5595cd593170df"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
-metafile = true
-
-[[files]]
 file = "mods/metal-bundles.pw.toml"
 hash = "5cbddccd51b8aab55929b6475229bf481e37bf3ebc5e458e5d399dd6d0e19162"
 metafile = true
@@ -1659,7 +1638,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmm-indicators.pw.toml"
-hash = "3f88bbb14715cc27932cc3869ea1e46eda155c0a35d2d5d9f8ad042047033c95"
+hash = "c0e00dfcf1b7c496a04c3dee8d2e424eddbb0f0fb85ca38905060c5e97924d90"
 metafile = true
 
 [[files]]
@@ -2058,11 +2037,6 @@ hash = "7fb4ade4d8add216f1d880e4d823a470d5adbf687f274f57502893a6b00baafc"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "602eb16e6b3ca9ace56a0c97789bc61536c9e7e0a32d4dd6cd610386323261c0"
 metafile = true
@@ -2158,11 +2132,6 @@ hash = "b69d9ef19b394e1750d9b2e51e9907385b543866c992df5970e03263b3518c74"
 metafile = true
 
 [[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "38f8bd3cf2c32c8faefdb069b91e3657a3410793404180cae395b8563ba97b07"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "36a46701d9aa137c61c0008f0c8a7e32e501a56d220688688a3bdad93579fd45"
 metafile = true
@@ -2205,11 +2174,6 @@ metafile = true
 [[files]]
 file = "mods/tieredz.pw.toml"
 hash = "50b0983cb9db38b50c0e470731587a7c394898d62cc20cdbf309992acc09ca62"
-metafile = true
-
-[[files]]
-file = "mods/tipthescales.pw.toml"
-hash = "2955764f5e4c8f6c7c4f0609f2c58790574de5d6b67ec9d1373eed6c1fd7ce82"
 metafile = true
 
 [[files]]
@@ -2521,7 +2485,7 @@ hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "33fd4a0d2eca47dfd53e634f695fa9d45d24c9478f493837b49362481065e77a"
+hash = "d3fb779b2acdbfee8a3dc2b3ab20fd081df640c8c54f22fcc4ff26b6192e9962"
 
 [[files]]
 file = "shaderpacks/README.txt"

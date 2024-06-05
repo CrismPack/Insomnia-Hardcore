@@ -31,9 +31,7 @@ Data Packs added:
 
 Mods removed: 
 - Faux Custom Entity Data: [Unused dependency]
-- AzureLib: [Unused dependency]
 - Better Sodium Video Settings Button: [Previously disabled]
-- CoroUtil: [Unused dependency]
 - Crafting Manipulator: [Unused dependency]
 - LiLaC: [Unused dependency]
 - Memory Leak Fix: [Functionality included in 'ModernFix']
@@ -65,3 +63,4 @@ Config Changes:
 = Added structure IDs for BOMD boss structures: [Respawning Structures], [Both]
 = Added structure ID "riendsandfoes:citadel": [Respawning Structures], [Both]
 = Added entries for modded chest loot tables to allow for detecting and respawning modded dungeons: [Respawning Structures], [Both]
+= Changed screenTypingVisible to "false": [What are they up to?], [Client]
