@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "03914897c92bf3bb18b8008b46a7a44a2b698d886d2e56f91a7581f1744cfe9e"
+
+[[files]]
 file = "config/FabricTPA.properties"
 hash = "9a65dce4b8f9f00dfd5565680c31c9d8cb8fff9e29bbdb248fff2a14bd1db0f5"
 
@@ -21,6 +25,10 @@ file = "config/RandomTP/messages.yml"
 hash = "3e3dcde5510f76d9396d170f9639cfeb056aa5f2deb11300b0bae4a52b2095f0"
 
 [[files]]
+file = "config/TrueDarknessFork.json5"
+hash = "ebda779a990768c43517ab2cf3479296751eff39cc64b081340da4fdaf85c1e3"
+
+[[files]]
 file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
@@ -30,7 +38,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "39a0b31a6d2ed3cb5f4b6cd1db0b062a0072d4ac7d6a1d91a78bb8129bf45b11"
+hash = "a362c8926b6f0297cfb4a01e502e5642f974fb4f71115f902f0c858052dba316"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -61,8 +69,16 @@ file = "config/boringbackgrounds.json"
 hash = "6ded0c65092f76a7d3a3758d17c20b9c484349f0d08d6750bf593aa8149cda82"
 
 [[files]]
+file = "config/brandedlogs.json5"
+hash = "73253a17555427f3c3bf3098358c3128830fc616ad5ec44403295568aa69aa00"
+
+[[files]]
 file = "config/builtinservers.json"
 hash = "03520518d577a4d7e4f5fb4d088b541e8b2b831dca7f56613682b89c9838f377"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "a6859583d05018682e93cfd641462e1f25588230c21f83d61d065412a0277c5a"
 
 [[files]]
 file = "config/cem.conf"
@@ -82,7 +98,7 @@ hash = "90cca9f822e8d32e110347792a55d86e494097d9d6754c280fcd40a8e9d6590c"
 
 [[files]]
 file = "config/darkness.properties"
-hash = "30e93b2aeed77e50fef8dd29447fb445589ad83b8e82fda4b0279f3a3bdafd24"
+hash = "6dfcdfb6c9a0d0d22c135293755a61ed524ad0e95f3a9c75c0498b5cada9ab01"
 
 [[files]]
 file = "config/debugify.json"
@@ -134,7 +150,7 @@ hash = "a2d4dc30d05c042e4a943dd816c17e0b554dbfd61f27edb96eb6a7599c817570"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9b7424132396e5ac311693aa03332d0ee4a081c737e03aed4b5f130a987ae054"
+hash = "dde2d90bd028313e7296f295f5ed070572a9b519eddb588951fba51fdf6f493a"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen Singleplayer.txt"
@@ -161,8 +177,8 @@ file = "config/fancymenu/customization/resourcepacks.txt"
 hash = "686c919a46c3ea4e26e8c5514928fb430528c6ac98688dd6aae9f883428778b8"
 
 [[files]]
-file = "config/fancymenu/customization/shadermenu.txt"
-hash = "751137c286a6bd4ae33180e0f1384fa2112c542dec123b116fd65df4e2e081bc"
+file = "config/fancymenu/customization/shaderpack_menu.txt"
+hash = "20a05394eba1a918f07e65b73b142140954635b768c623183620a59d294de349"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -787,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/branded-logs.pw.toml"
-hash = "cb0323d22a6d6199cf336542f1da52b97c9895a8c849e1d39f441ecd643620ed"
+hash = "319fd45d4ae04e13c764f242137380b361b75da59700c7868cfd4bbdcc1f2d23"
 metafile = true
 
 [[files]]
@@ -2479,12 +2495,12 @@ file = "resources/mainmenu/splashes.txt"
 hash = "73b2843e8502533cdb2be0551cfc5d8c6761bd7936caeab5d0084b47cc50e0ff"
 
 [[files]]
-file = "resources/modpack/modpackname.txt"
-hash = "455a0a743d576704ce546fa6308169ec3c307a14ed47ac7bcb91a772add3a4e3"
+file = "shaderpacks/Complementary r5.2.1 [Insomnia Edit].zip"
+hash = "3c462f27df68f6bc492177e4f0874b0df96b7afc8e5ebba32091066ae6289970"
 
 [[files]]
-file = "resources/modpack/modpackversion.txt"
-hash = "d3fb779b2acdbfee8a3dc2b3ab20fd081df640c8c54f22fcc4ff26b6192e9962"
+file = "shaderpacks/Complementary r5.2.1 [Insomnia Edit].zip.txt"
+hash = "6ff09c3b739f33ef6dff6ff3321973a76ee02a879929d644416653eaf5e91f19"
 
 [[files]]
 file = "shaderpacks/README.txt"

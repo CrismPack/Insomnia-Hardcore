@@ -2,6 +2,7 @@ v2.1.6
 
 Fabric version: Fabric-0.15.11
 Update overview: 
+~ Moonphases now impact the light levels at night in the Overworld.
 ~ 
 
 Mods added:
@@ -48,8 +49,13 @@ Resource Packs updated:
 > 
 
 Mods updated: 
-> 
+> Branded Logs
 
 
 Config Changes: 
 = Changed chunkStreamVersion to "1": [C2ME], [Both]
+= Changed CPU Load to "minimal": [Distant Horizons], [Client]
+= Changed shader pack menu to allow for editing settings: [FancyMenu], [Client]
+= Added disclaimer message to shader pack menu: [FancyMenu], [Client]
+= Changed doWriteToResourceTextFile to "true": [Branded Logs], [Client]
+= Changed only_affect_block_light to "false": [True Darknes Fork], [Client]

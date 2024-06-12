@@ -1,0 +1,54 @@
+type = menu
+
+customization-meta {
+  identifier = net.irisshaders.iris.gui.screen.ShaderPackScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=346949%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502949%
+  orientation = bottom-centered
+  x = -154
+  action = movebutton
+  y = -51
+}
+
+customization {
+  identifier = %id=502949%
+  width = 308
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = &cFor the intended experience, be sure to %n%&conly use the provided shader packs!
+  text_border = 2
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -154
+  width = 308
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 98da0484-454b-4d50-a4aa-fb54d49d2f011718206589081
+  y = -85
+  alignment = centered
+  height = 28
+}
+
