@@ -2,14 +2,15 @@ v2.1.6
 
 Fabric version: Fabric-0.15.11
 Update overview: 
-~ Moonphases now impact the light levels at night in the Overworld.
+~ Added 'Distant Horizons' (Its rendering is disabled by default)
+~ Moonphases now impact the light levels in the Overworld.
 ~ Changed to use a single shader pack that includes both the Unbound and Reimagined visual styles.
 ~ Improved framerate stability in singleplayer.
 
 
 Mods added:
 + ThreadTweak [MR]
-+ Distant Horizons [Optional]
++ Distant Horizons [Client]
 + Mobtimizations
 
 
@@ -52,6 +53,11 @@ Mod updates reverted:
 Resource Packs updated:
 > 
 
+
+Shader Packs updated:
+> Complementary Insomnia Edit
+
+
 Mods updated: 
 > Branded Logs
 > ModernFix
@@ -59,9 +65,10 @@ Mods updated:
 
 Config Changes: 
 = Changed chunkStreamVersion to "1": [C2ME], [Both]
-= Changed CPU Load to "minimal": [Distant Horizons], [Client]
 = Changed shader pack menu to allow for editing settings: [FancyMenu], [Client]
 = Added disclaimer message to shader pack menu: [FancyMenu], [Client]
 = Changed doWriteToResourceTextFile to "true": [Branded Logs], [Client]
 = Changed only_affect_block_light to "false": [True Darknes Fork], [Client]
 = Changed integratedServer priority to "2": [ThreadTweak], [Client]
+= Changed CPU Load to "minimal" by default: [Distant Horizons], [Client]
+= Changed enableRendering to "false" by default: [Distant Horizons], [Client]

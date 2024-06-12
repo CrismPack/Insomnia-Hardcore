@@ -29,3 +29,6 @@ net.minecraft.class_5375 {
 
 net.minecraft.class_436 {
 }
+
+loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen {
+}
