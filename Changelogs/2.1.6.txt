@@ -2,7 +2,6 @@ v2.1.6
 
 Fabric version: Fabric-0.15.11
 Update overview: 
-~ Added 'Distant Horizons' (Its rendering is disabled by default)
 ~ Moonphases now impact the light levels in the Overworld.
 ~ Changed to use a single shader pack that includes both the Unbound and Reimagined visual styles.
 ~ Improved framerate stability in singleplayer.
@@ -11,17 +10,18 @@ Update overview:
 
 Mods added:
 + ThreadTweak [MR]
-+ Distant Horizons [Client]
++ Distant Horizons [Client], [Optional]
 + Mobtimizations
 + Ranged Weapon API [1.0.0]
-
++ Structure Essentials
++ Smooth Chunk Save
 
 Mods re-enabled:
 + 
 
 
 Mod side changes:
-=  [Both --> Client]
+= Very Many Players [Client --> Both]
 
 
 Metadata changes:
@@ -39,6 +39,7 @@ Data Packs added:
 Mods removed: 
 - StutterFix
 - Pufferfish's Attributes
+- Unsafe World Random Access Detector [Functionality covered by 'C2ME']
 
 
 Mods disabled: 

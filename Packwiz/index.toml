@@ -74,7 +74,7 @@ hash = "03520518d577a4d7e4f5fb4d088b541e8b2b831dca7f56613682b89c9838f377"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "a6859583d05018682e93cfd641462e1f25588230c21f83d61d065412a0277c5a"
+hash = "757ff5612393f1046647f7c0ae5babc17e96c615467af49a530a378d6cedfbff"
 
 [[files]]
 file = "config/cem.conf"
@@ -283,6 +283,10 @@ hash = "c10d57b89ec3e173c0d913e2463c5a84dbdec57d10a00df467f3321d15983fea"
 [[files]]
 file = "config/paraglider-common.toml"
 hash = "2cf8391b00f99d17617535b241dd64bc58bcc14551ff9b248fa0fe19832d3c56"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
 
 [[files]]
 file = "config/phantomconfigfork.json5"
@@ -1061,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "d1a31ec475f06753152930fedd4eb500c07bf83d67801dbe7115e1b89d8b1e2d"
+hash = "9f02fe970df2b87febc9048d76e26270e39bdd6f93dc3c00c6892bab9f580a4b"
 metafile = true
 
 [[files]]
@@ -2140,6 +2144,11 @@ hash = "7a954b499a9d3a231d8398471a5d7dac9779af5c1a00539b9eeaacfc39b3651a"
 metafile = true
 
 [[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "b06c4ab8ded67fe92b0943cee3593654421b2fa50c888d86e764dae453152ac7"
 metafile = true
@@ -2245,11 +2254,6 @@ hash = "ec83f6b5b972bac6528a7ec65198b5db6592d2d2172bfa9064421fe8942a672a"
 metafile = true
 
 [[files]]
-file = "mods/uwrad.pw.toml"
-hash = "b904cd84869c6e4ed875380b662672768bfe44e69b412fbccfa420b1c05e7247"
-metafile = true
-
-[[files]]
 file = "mods/variant-tiered-shields-fabric.pw.toml"
 hash = "a2e41f2d956d2587a352825e765663f8f7c2474cd6c69aa9dc0ce6f97b36e1cd"
 metafile = true
@@ -2276,7 +2280,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "253f063ab4e9a5716870b13c15aff75787aa2553c48b5b061ff1e0fe64779d3e"
+hash = "4208b682ff7512da07a0d9b0d786efd8fc4753fab3100d54bf4ceb1feeb956da"
 metafile = true
 
 [[files]]
@@ -2530,7 +2534,7 @@ hash = "d8130e02cfb2213119d735ecff8d8d552e00a273d95760016047d954b2ecd090"
 
 [[files]]
 file = "shaderpacks/Complementary r5.2.1 [Insomnia Edit]/shaders/block.properties"
-hash = "b53864919f84a8b6442c46bcd29f47ad3d75338188f5db2cde1dce270fe03d0d"
+hash = "f895024c981defa0f8251d8593dce6494f0c20b97198aa9d6c0f0029ed650734"
 
 [[files]]
 file = "shaderpacks/Complementary r5.2.1 [Insomnia Edit]/shaders/dimension.properties"
@@ -3871,10 +3875,6 @@ hash = "4e6a316b12ad0c9de4d4247f5517b9245d5b08ab5786d0881ed728074ea6351b"
 [[files]]
 file = "shaderpacks/Complementary r5.2.1 [Insomnia Edit]/shaders/world1/shadowcomp.csh"
 hash = "de297bcb78aa6890a7d34b1b7220f65031b363c1708622e1b51263af2bfb605f"
-
-[[files]]
-file = "shaderpacks/Performance Preset/Complementary r5.2.1 [Insomnia Edit].txt"
-hash = "b5b8847dd0e0472751d80aec67b3956d7cffffeee2c2cddac8dcca8bedc3a46b"
 
 [[files]]
 file = "shaderpacks/README.txt"
