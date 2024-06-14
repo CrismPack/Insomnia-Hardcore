@@ -1,13 +1,14 @@
 name = "Simply Skills [FABRIC]"
-filename = "simplyskills-1.4.1+1.20.1.jar"
+filename = "simplyskills-1.3.0+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "f26e9fa76fdb9a8b3148c173cbdace3a7c17b8e9"
+hash = "b4426921896b65409ef9e77f341fc02df51c8ec4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5340208
+file-id = 5224534
 project-id = 890301

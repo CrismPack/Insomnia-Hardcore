@@ -6,12 +6,14 @@ Update overview:
 ~ Moonphases now impact the light levels in the Overworld.
 ~ Changed to use a single shader pack that includes both the Unbound and Reimagined visual styles.
 ~ Improved framerate stability in singleplayer.
+~ Reverted 'RPG Series' mods to versions prior to "Saving NBT Data" server crashing issue. 
 
 
 Mods added:
 + ThreadTweak [MR]
 + Distant Horizons [Client]
 + Mobtimizations
++ Ranged Weapon API [1.0.0]
 
 
 Mods re-enabled:
@@ -36,6 +38,7 @@ Data Packs added:
 
 Mods removed: 
 - StutterFix
+- Pufferfish's Attributes
 
 
 Mods disabled: 
@@ -48,7 +51,15 @@ Data Packs removed:
 - 
 
 Mod updates reverted:
-> 
+> Archers [1.2.1 -> 1.1.0], [Pinned]
+> Paladins & Priests [1.2.0 -> 1.1.0], [Pinned]
+> Pufferfish's Skills [0.12.2 -> 0.11.3], [Pinned]
+> Simply Skills [1.4.1 -> 1.3.0], [Pinned]
+> Spell Engine [0.14.3 -> 0.13.3], [Pinned]
+> Spell Power Attributes [0.10.2 -> 0.9.19], [Pinned]
+> Wizards [1.2.0 -> 1.1.1], [Pinned]
+> MC Dungeons Weapons [9.0.4 -> 9.0.2], [Pinned]
+
 
 Resource Packs updated:
 > 
@@ -72,3 +83,4 @@ Config Changes:
 = Changed integratedServer priority to "2": [ThreadTweak], [Client]
 = Changed CPU Load to "minimal" by default: [Distant Horizons], [Client]
 = Changed enableRendering to "false" by default: [Distant Horizons], [Client]
+= Added message to dh-menu to help with fixing fog issue: [FancyMenu], [Client]

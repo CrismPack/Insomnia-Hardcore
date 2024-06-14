@@ -1,13 +1,14 @@
 name = "MC Dungeons Weapons"
-filename = "mcdw-9.0.4.jar"
+filename = "mcdw-9.0.2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "3412ce494badd3b583d2f7c9a3460511db38d11b"
+hash = "798e842a4585e612e5de17500270463453ff47ad"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5280243
+file-id = 5263794
 project-id = 407311

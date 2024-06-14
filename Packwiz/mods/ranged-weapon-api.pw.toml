@@ -1,0 +1,14 @@
+name = "Ranged Weapon API"
+filename = "ranged_weapon_api-1.0.0+1.20.1.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "3e71da343dd7dfd0dfd21d9f7aaeb54a90243206"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5032945
+project-id = 962162

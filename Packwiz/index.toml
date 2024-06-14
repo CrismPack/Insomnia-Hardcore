@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "03914897c92bf3bb18b8008b46a7a44a2b698d886d2e56f91a7581f1744cfe9e"
-
-[[files]]
 file = "config/FabricTPA.properties"
 hash = "9a65dce4b8f9f00dfd5565680c31c9d8cb8fff9e29bbdb248fff2a14bd1db0f5"
 
@@ -150,7 +146,7 @@ hash = "a2d4dc30d05c042e4a943dd816c17e0b554dbfd61f27edb96eb6a7599c817570"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "dde2d90bd028313e7296f295f5ed070572a9b519eddb588951fba51fdf6f493a"
+hash = "170c4ed51e6731fd9f828fce16bb332d48cf7680ade44bfde20640a74f189b2a"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen Singleplayer.txt"
@@ -163,6 +159,10 @@ hash = "da6f4e1390d63b2cbf2a0a83239cdd15897db85ad84bad7ae58479b18d4d3920"
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
 hash = "01d4475050a956d583c4be94051d3161764386deb4fda7d1c79a463e0dcd0953"
+
+[[files]]
+file = "config/fancymenu/customization/distanthorizons_menu.txt"
+hash = "153cf3d38e91ecf70cdd269879184e10fe58d56abe7cef3422d4fd134d97106d"
 
 [[files]]
 file = "config/fancymenu/customization/lanmenu.txt"
@@ -383,6 +383,10 @@ hash = "4074559c52ecfd21a0e392138678a8c11fa6fe2ae4c295ce99ad6d2ec5022776"
 [[files]]
 file = "config/xaerominimap-common.txt"
 hash = "83773d6b40a905514fb9785e636a1edac0738d9283b3d41322ea41756373e33f"
+
+[[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "e77a9a25eb02f9c349778a6829b6e50c6085c81a1b2b449c19ba671fb4074fb2"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -627,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "f236bc25de265a3182557136a3e541bb868b0d478b76de5bbd9ca3780b56efcf"
+hash = "cceb92121ee399232e35c2a21a7e3bc47a8fe96658405f501a3812264f328524"
 metafile = true
 
 [[files]]
@@ -1057,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
+hash = "d1a31ec475f06753152930fedd4eb500c07bf83d67801dbe7115e1b89d8b1e2d"
 metafile = true
 
 [[files]]
@@ -1622,7 +1626,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdw.pw.toml"
-hash = "0e3ba214541f37a2a7b79cc2e3d89783b7aa2ebd704c9a38e58a0b606cb71141"
+hash = "2fc139dcc6e0a72901ed9dc1363fd507a57740758292ffd9b7902e938597ad42"
 metafile = true
 
 [[files]]
@@ -1857,7 +1861,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "57b8a5d76bf66af547618353b986d3b9a7663b3e7efc7cfe5382207ae84405d9"
+hash = "8b8ec7561288bf6104e584dee7d885d895ba1e559aab9ad3a1a1ad3c11eb3f9c"
 metafile = true
 
 [[files]]
@@ -1926,13 +1930,8 @@ hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
 metafile = true
 
 [[files]]
-file = "mods/puffish-attributes.pw.toml"
-hash = "6ac0a53f5254d7622c8e0bc7ff05ab8282b65e3b2965bd7ba108694f81262dda"
-metafile = true
-
-[[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "f17f46633ebb69e0ce3d471a7986e7bf22a616b84882b684bbdf965efd983efb"
+hash = "57a1bd6278ba7ba55f41e5c88a78de9955dbf592f0167fd5ef1f22259c41fe1e"
 metafile = true
 
 [[files]]
@@ -1948,6 +1947,11 @@ metafile = true
 [[files]]
 file = "mods/randomtp.pw.toml"
 hash = "2a483c75ceab8aab598179b78605c3f36ba24b5b8b6a1d6f20a7e5c2cd5777aa"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "dee4adbee58a30a1812a309a5b8d144012e96b7a7d45d9a7fc676c978e7efe5b"
 metafile = true
 
 [[files]]
@@ -2042,7 +2046,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-skills.pw.toml"
-hash = "e65b4ac5ea5eff9de6898682e94a07d0a672f8211f7e0400e88128a2544d0c79"
+hash = "229a6fa5f6e525618c5e2dee48e3312af730877896e2db7fad207879c4e96f71"
 metafile = true
 
 [[files]]
@@ -2092,12 +2096,12 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "5df3192e091c1831f694af0dd49ff7d2514e7edd15973b534947992beb6b71be"
+hash = "e03908bb8c6aecef642d08035e7a48bd489610a78283a892461708f4c6fa1b2c"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "444b11039c83ad16ef16a509bb8e43c97382ac04dcebcc8930c99d02c93a2914"
+hash = "6967f05ea7ac4853d9998e05031bdb496008feff1049682ecdf261d2b7b23ecc"
 metafile = true
 
 [[files]]
@@ -2287,7 +2291,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
+hash = "773e4b9884baa5a6efbebe09f7cdc7c3baad83acb8b6a8a916d21b7bfcae15db"
 metafile = true
 
 [[files]]
