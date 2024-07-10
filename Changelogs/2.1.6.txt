@@ -37,9 +37,14 @@ Data Packs added:
 
 
 Mods removed: 
-- StutterFix
+- StutterFix [Replaced by 'ThreadTweak']
 - Pufferfish's Attributes
 - Unsafe World Random Access Detector [Functionality covered by 'C2ME']
+- BadOptimizations
+- All The Trims
+- Faster Random
+- TieFix
+- Delightful Creators
 
 
 Mods disabled: 
@@ -76,12 +81,21 @@ Mods updated:
 
 
 Config Changes: 
-= Changed chunkStreamVersion to "1": [C2ME], [Both]
 = Changed shader pack menu to allow for editing settings: [FancyMenu], [Client]
 = Added disclaimer message to shader pack menu: [FancyMenu], [Client]
 = Changed doWriteToResourceTextFile to "true": [Branded Logs], [Client]
 = Changed only_affect_block_light to "false": [True Darknes Fork], [Client]
-= Changed integratedServer priority to "2": [ThreadTweak], [Client]
+= Changed game priority to "8": [ThreadTweak], [Both]
 = Changed CPU Load to "minimal" by default: [Distant Horizons], [Client]
 = Changed enableRendering to "false" by default: [Distant Horizons], [Client]
 = Added message to dh-menu to help with fixing fog issue: [FancyMenu], [Client]
+= Changed gcFreeChunkSerializer to false: [C2ME], [Both]
+= Changed threadedWorldGen enabled to "true": [C2ME], [Both]
+= Changed clientSideConfig.modifyMaxVDConfig enabled to "false": [C2ME], [Both]
+= Changed useSmallThreadingDetector to "true": [FerriteCore], [Both]
+= Changed mixin.experimental to "true": [Lithium], [Both]
+= Changed mixin.experimental.chunk_tickets to "false": [Lithium], [Both]
+= Changed bugfix chunk_deadlock, packet_leak, paper_chunk_patches to "true": [ModernFix], [Both]
+= Changed perf clear_fabric_mapping_tables, clear_mixin_classinfo, dynamic_entity_renderers, faster_item_rendering, nbt_memory_usage, dynamic_sounds, dynamic_resources & deduplicate_location to "true": [ModernFix]
+= Changed thread_priorities to "false": [ModernFix]
+= Changed exp_use_optimized_chunk_ticking_iteration to "true": [Very Many Players], [Both]

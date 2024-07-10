@@ -74,7 +74,7 @@ hash = "03520518d577a4d7e4f5fb4d088b541e8b2b831dca7f56613682b89c9838f377"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "757ff5612393f1046647f7c0ae5babc17e96c615467af49a530a378d6cedfbff"
+hash = "f57b0e8a30fb360a2348d7efff913422c7cfa7981927d125d656351af76be7c1"
 
 [[files]]
 file = "config/cem.conf"
@@ -213,6 +213,10 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 hash = "02b739c3747fbb8a50467ff3e93f6aaca17300b001ae2c13b44aa7263afb54b5"
 
 [[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "b30c37d522297798263882bc833c53618b220f52cc8b063915076044d353e1ba"
 
@@ -246,7 +250,7 @@ hash = "2edf2dc9c2a4b27d4b17d8e8693ad9ff234b96c8863bd62616192487d3a71b90"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "4a4dda2b52473167b9ead56c2db4e14d7a3b30047385f87672bbe3e548b51cb5"
+hash = "3b2f611253d4020b9d6fad3d4a816da526cdd18778434c4a4063c00f81db1ccb"
 
 [[files]]
 file = "config/logbegone.toml"
@@ -267,6 +271,10 @@ hash = "132fe1cac9ebcaf731b7fac9f2bf5bba5c087a6f247d65ff8689d0143d844254"
 [[files]]
 file = "config/memorysettings.json"
 hash = "a5f4d246ddf21a3f53240cb8ba5b276f5543c142516fd3ce9e64b7bb2ff8d6c5"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "01efa88c78eacbeb89c8fe068e237fe2509e57d0b622b854593018d3c6503715"
 
 [[files]]
 file = "config/modmenu.json"
@@ -370,11 +378,15 @@ hash = "5fbd1a91ff93cecc3ea20936cb44bacfcaa1ba2ac6b127abf581a8dd6b8aa144"
 
 [[files]]
 file = "config/threadtweak.json"
-hash = "fade05976c3e7e2dcb68c9baccde6272b7d7ea022871893f28e31a18f186a8b6"
+hash = "42a38e05a8114607dd54b5888b04ea18bba8c284df9f5c2996bd4d9bef379c59"
 
 [[files]]
 file = "config/travelerstitles-fabric-1_20.toml"
 hash = "cc29964026fca4121919492493a4d2de89f82ba5d17d0993971133a3cbc63e9f"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "f3d2d7fbeb541d98c0138f2133408384c4206afd38d0130cf2d17e9e78c60f16"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -584,11 +596,6 @@ hash = "f3f884edbfe1dbf265f06ce05a7e0b4d0da0ab0df9983078802d8a118b81bd1c"
 metafile = true
 
 [[files]]
-file = "mods/all-the-trims.pw.toml"
-hash = "1894c9c1523240fa1fd4c7a7c17e52778d5360237b9472dd8457f870cbdf4f43"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fbb7c2db20a38c0a5c451b2a7d31720f4e8d72daa7d0475292030546f2479199"
 metafile = true
@@ -691,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "c4ef03bd04acbdb5e3226417b3afcc2507753abf2517289952c864be8f295a14"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "655593774fc1cf3fdcf6a38ce9fd0d883444a1bb5f78e2dd964a62b98c818abb"
 metafile = true
 
 [[files]]
@@ -1049,11 +1051,6 @@ hash = "f6b1dec1cfae143633cea05231d3825cadb921bbe0ffce29dd0ae3c9c4361ee6"
 metafile = true
 
 [[files]]
-file = "mods/delightful-creators-fabric.pw.toml"
-hash = "463b41c5825e272a6250145b9e9ca21c118abb2eba68192811ffe601591241ea"
-metafile = true
-
-[[files]]
 file = "mods/deuf-refabricated.pw.toml"
 hash = "d335c0c8295531e491bf07e40751e41bcdb29e04c31ec4d2b304b08c370f797c"
 metafile = true
@@ -1306,11 +1303,6 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "c5124e484278b66d796c657e3a48c2bda634f7a73aacce05911e677bcbdb07f1"
-metafile = true
-
-[[files]]
-file = "mods/faster-random.pw.toml"
-hash = "9afa18269996bcaa57899af3175ad0bef142363c3c863b1ed7206089677fcd3d"
 metafile = true
 
 [[files]]
@@ -1705,7 +1697,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c280e68ef025b2615a20546a3e69c4e87ba039c1d2677f96f8aba31fffb2a7f"
+hash = "3199aa1324b0f0daba1e1c7943eb056da6f5b1cebcea3d0a3bf1589f46f0bbe0"
 metafile = true
 
 [[files]]
@@ -2206,11 +2198,6 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "a9b8ce3d1bb71f4d0f6664b98de4b1dc7553ba82aa108e24bb2369e232c54a1f"
-metafile = true
-
-[[files]]
-file = "mods/tiefix.pw.toml"
-hash = "91f9ee4e41c7627db968e333fc0cae58756eb0d38927e635bdace95c285feee7"
 metafile = true
 
 [[files]]
