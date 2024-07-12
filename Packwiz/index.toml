@@ -585,10 +585,6 @@ file = "global_packs/required_resources/Insomnia Textures.zip"
 hash = "0fddabedead546ccb55ab8a228e2f14727b0333c12f43e9b3db6f7166932867b"
 
 [[files]]
-file = "mmc-cache/packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "8aef0ca57651665e0523fbb2022299e46e720af2f1fd9da3c93360dc37eb08eb"
 metafile = true
@@ -1057,10 +1053,6 @@ metafile = true
 file = "mods/ding-for-fabric.pw.toml"
 hash = "dbf9d9cd9f79eefeb440b39a7d1259de5ad922f0f16e63298956b53bda3ba76c"
 metafile = true
-
-[[files]]
-file = "mods/disabled/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/do-api.pw.toml"
