@@ -34,7 +34,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "a362c8926b6f0297cfb4a01e502e5642f974fb4f71115f902f0c858052dba316"
+hash = "03625744187e5907a1fa77143bcd522c43792d4c41aa5768797d6f0148eb7785"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -585,6 +585,10 @@ file = "global_packs/required_resources/Insomnia Textures.zip"
 hash = "0fddabedead546ccb55ab8a228e2f14727b0333c12f43e9b3db6f7166932867b"
 
 [[files]]
+file = "mmc-cache/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "8aef0ca57651665e0523fbb2022299e46e720af2f1fd9da3c93360dc37eb08eb"
 metafile = true
@@ -652,11 +656,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
-metafile = true
-
-[[files]]
-file = "mods/armor-sound-tweak.pw.toml"
-hash = "1d5f2e974748fdbf5cc765c7f0e9e4626c9690f974bf0ef4f2469be605d24e00"
 metafile = true
 
 [[files]]
@@ -851,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "5573737581841f1747b75d707e2b82697f7591f45f3d4b9b23e41f64465f0a07"
+hash = "c33ddec929da06625a03b8d60f8dc430c528b5afcb58b6e7ca69bda89b2035d7"
 metafile = true
 
 [[files]]
@@ -1025,11 +1024,6 @@ hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
-file = "mods/damage-tilt.pw.toml"
-hash = "279938c65dc9d92030733b9284499cfb39ba970e37bf0872005fcb1e53dc8206"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "417a83ae5e3130f95c3c3c4f7ae9b497e7649a093081b27e8341e4d448cf7896"
 metafile = true
@@ -1063,6 +1057,10 @@ metafile = true
 file = "mods/ding-for-fabric.pw.toml"
 hash = "dbf9d9cd9f79eefeb440b39a7d1259de5ad922f0f16e63298956b53bda3ba76c"
 metafile = true
+
+[[files]]
+file = "mods/disabled/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/do-api.pw.toml"
@@ -1886,7 +1884,7 @@ metafile = true
 
 [[files]]
 file = "mods/persistent-inventory-search.pw.toml"
-hash = "aef9482086b958b6d56ae4c04333a91b75ecdd19dc01a17cc00324bf65bed167"
+hash = "48927c92c9d2bc6bbb2ec8850c14f040cc73bfee3932742c8a922aff4788fe0b"
 metafile = true
 
 [[files]]
@@ -2115,11 +2113,6 @@ hash = "f873a549b596170178920aefb8bda3956f3014700af54b36f32a34f373309a57"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "7f62c410527dc79c9aa13e5f142bc2868146eb5f5d70397cdb56e769d723eca9"
-metafile = true
-
-[[files]]
 file = "mods/starter-items.pw.toml"
 hash = "38e1c51d6bf73c3ec5cad632092df41f97a9e27cfd050ca8fb9f665f76b4164f"
 metafile = true
@@ -2261,7 +2254,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagers-respawn.pw.toml"
-hash = "a9905592db74b237ddacdc0f3d187500685bb51c6fd7398ce3bb6a5c3c685532"
+hash = "e9fe746a14f58742dbbe5978401f55c9c036da22d2b7b1250a0641a8f78a4a38"
 metafile = true
 
 [[files]]

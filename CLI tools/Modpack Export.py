@@ -61,6 +61,7 @@ cleanup_cache = True
 move_disabled_mods = True
 test_linux_mappings = False
 create_release_notes = True
+NO_GUI_BOOTSTRAP = False
 
 
 # Remap paths if running on Linux
@@ -131,9 +132,9 @@ def main():
         os.chdir(git_path)
         changelog_path = git_path + f"\\Changelogs\\{minecraft_version}+{pack_version}.yml"
         
-        md_element_full_changelog = f"#### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/{minecraft_version}#v{pack_version})**"
+        md_element_full_changelog = f"#### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomnia-hardcore/changelog/1.20#v{pack_version})**"
         md_element_pre_release = '**This is a pre-release. Here be dragons!**'
-        md_element_bh_banner = "[![BisectHosting Banner](https://github.com/CrismPack/CDN/blob/main/desc/breakneck/bh.png?raw=true)](https://bisecthosting.com/CRISM)"
+        md_element_bh_banner = "[![BisectHosting Banner](https://i.imgur.com/NYGUM1c.png)](https://bisecthosting.com/CRISM)"
         md_element_crism_spacer = "![CrismPack Spacer](https://github.com/CrismPack/CDN/blob/main/desc/breakneck/79ESzz1-tiny.png?raw=true)"
         
         with open(changelog_path, "r") as f:
@@ -190,8 +191,8 @@ def main():
                             f.close()
                             move(item, disabled_mods_path)
 
-                except OSError as e:
-                    print(e)
+                except:
+                    print("[DEBUG] Error occured in disabled parser")
 
 
 
@@ -217,12 +218,21 @@ def main():
 
         
         file = Path(mmc_cache_path + "packwiz-installer.jar")
-        if file.is_file():
-            # Export Packwiz modpack to MMC cache folder and zip it.
-            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g --bootstrap-no-update", shell=True)
+        
+        if NO_GUI_BOOTSTRAP:
+            if file.is_file():
+                # Export Packwiz modpack to MMC cache folder and zip it.
+                subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g --bootstrap-no-update", shell=True)
+            else:
+                # Export Packwiz modpack to MMC cache folder and zip it.
+                subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g", shell=True)
         else:
-            # Export Packwiz modpack to MMC cache folder and zip it.
-            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g", shell=True)
+            if file.is_file():
+                # Export Packwiz modpack to MMC cache folder and zip it.
+                subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" --bootstrap-no-update", shell=True)
+            else:
+                # Export Packwiz modpack to MMC cache folder and zip it.
+                subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
 
         # Creates mmc\.minecraft folder if it doesn't already exist.
         try:

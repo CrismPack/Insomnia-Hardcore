@@ -1,0 +1,104 @@
+name: 2.1.6 for 1.20.1
+
+Fabric version: Fabric-0.15.11
+Update overview: |
+  - Moonphases now impact the light levels in the Overworld.
+  - Changed to use a single shader pack that includes both the Unbound and Reimagined visual styles.
+  - Improved framerate stability in singleplayer.
+  - Reverted 'RPG Series' mods to versions prior to "Saving NBT Data" server crashing issue started occuring. 
+
+
+Mods added: |
+  + ThreadTweak [MR]
+  + Mobtimizations
+  + Ranged Weapon API [1.0.0]
+  + Structure Essentials
+  + Smooth Chunk Save
+  + Persistent Inventory Search [Client]
+  + Villagers Respawn
+
+Mods re-enabled: |
+  + 
+
+
+Mod side changes: |
+  = Very Many Players [Client --> Both]
+
+
+Metadata changes: |
+  =  [Bundled --> CF]
+
+
+Resource Packs added: |
+  + 
+
+
+Data Packs added: |
+  + 
+
+
+Mods removed: |
+  - StutterFix [Replaced by 'ThreadTweak']
+  - Pufferfish's Attributes
+  - Unsafe World Random Access Detector [Functionality covered by 'C2ME']
+  - BadOptimizations
+  - All The Trims
+  - Faster Random
+  - TieFix
+  - Delightful Creators
+  - Armor Sound Tweak [Previously disabled]
+  - Damage Tilt [Previously disabled]
+  - Starlight [Previously disabled]
+
+
+Mods disabled: |
+  - 
+
+Resource Packs removed: |
+  - 
+
+Data Packs removed: |
+  - 
+
+Mod updates reverted: |
+  > Archers [1.2.1 -> 1.1.0], [Pinned]
+  > Paladins & Priests [1.2.0 -> 1.1.0], [Pinned]
+  > Pufferfish's Skills [0.12.2 -> 0.11.3], [Pinned]
+  > Simply Skills [1.4.1 -> 1.3.0], [Pinned]
+  > Spell Engine [0.14.3 -> 0.13.3], [Pinned]
+  > Spell Power Attributes [0.10.2 -> 0.9.19], [Pinned]
+  > Wizards [1.2.0 -> 1.1.1], [Pinned]
+  > MC Dungeons Weapons [9.0.4 -> 9.0.2], [Pinned]
+
+
+Resource Packs updated: |
+  > 
+
+
+Shader Packs updated: |
+  > Complementary Insomnia Edit
+
+
+Mods updated: |
+  > Branded Logs
+  > ModernFix
+
+
+Config Changes: |
+  = Changed shader pack menu to allow for editing settings: [FancyMenu], [Client]
+  = Added disclaimer message to shader pack menu: [FancyMenu], [Client]
+  = Changed doWriteToResourceTextFile to "true": [Branded Logs], [Client]
+  = Changed only_affect_block_light to "false": [True Darknes Fork], [Client]
+  = Changed game priority to "8": [ThreadTweak], [Both]
+  = Added message to dh-menu to help with fixing fog issue: [FancyMenu], [Client]
+  = Changed gcFreeChunkSerializer to false: [C2ME], [Both]
+  = Changed threadedWorldGen enabled to "true": [C2ME], [Both]
+  = Changed clientSideConfig.modifyMaxVDConfig enabled to "false": [C2ME], [Both]
+  = Changed useSmallThreadingDetector to "true": [FerriteCore], [Both]
+  = Changed mixin.experimental to "true": [Lithium], [Both]
+  = Changed mixin.experimental.chunk_tickets to "false": [Lithium], [Both]
+  = Changed bugfix chunk_deadlock, packet_leak, paper_chunk_patches to "true": [ModernFix], [Both]
+  = Changed perf clear_fabric_mapping_tables, clear_mixin_classinfo, dynamic_entity_renderers, faster_item_rendering, nbt_memory_usage, dynamic_sounds, dynamic_resources & deduplicate_location to "true": [ModernFix], [Both]
+  = Changed thread_priorities to "false": [ModernFix], [Both]
+  = Changed exp_use_optimized_chunk_ticking_iteration to "true": [Very Many Players], [Both]
+  = Changed checkForNewUpdates to "false": [Friend&Foes], [Both]
