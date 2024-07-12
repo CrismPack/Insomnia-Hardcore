@@ -1885,6 +1885,11 @@ hash = "5a16f97736ef6fe7116c8f76974d911f55f042770bb142367ad01beeef3418ac"
 metafile = true
 
 [[files]]
+file = "mods/persistent-inventory-search.pw.toml"
+hash = "aef9482086b958b6d56ae4c04333a91b75ecdd19dc01a17cc00324bf65bed167"
+metafile = true
+
+[[files]]
 file = "mods/phantom-config-fork-fabric.pw.toml"
 hash = "c99d9941789355b72326f1ecc158f1243280852b31bb4f4fbcaf7d16a1d226c8"
 metafile = true

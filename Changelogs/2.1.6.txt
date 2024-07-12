@@ -5,7 +5,7 @@ Update overview:
 ~ Moonphases now impact the light levels in the Overworld.
 ~ Changed to use a single shader pack that includes both the Unbound and Reimagined visual styles.
 ~ Improved framerate stability in singleplayer.
-~ Reverted 'RPG Series' mods to versions prior to "Saving NBT Data" server crashing issue. 
+~ Reverted 'RPG Series' mods to versions prior to "Saving NBT Data" server crashing issue started occuring. 
 
 
 Mods added:
@@ -14,6 +14,7 @@ Mods added:
 + Ranged Weapon API [1.0.0]
 + Structure Essentials
 + Smooth Chunk Save
++ Persistent Inventory Search
 
 Mods re-enabled:
 + 
@@ -93,7 +94,7 @@ Config Changes:
 = Changed mixin.experimental to "true": [Lithium], [Both]
 = Changed mixin.experimental.chunk_tickets to "false": [Lithium], [Both]
 = Changed bugfix chunk_deadlock, packet_leak, paper_chunk_patches to "true": [ModernFix], [Both]
-= Changed perf clear_fabric_mapping_tables, clear_mixin_classinfo, dynamic_entity_renderers, faster_item_rendering, nbt_memory_usage, dynamic_sounds, dynamic_resources & deduplicate_location to "true": [ModernFix]
-= Changed thread_priorities to "false": [ModernFix]
+= Changed perf clear_fabric_mapping_tables, clear_mixin_classinfo, dynamic_entity_renderers, faster_item_rendering, nbt_memory_usage, dynamic_sounds, dynamic_resources & deduplicate_location to "true": [ModernFix], [Both]
+= Changed thread_priorities to "false": [ModernFix], [Both]
 = Changed exp_use_optimized_chunk_ticking_iteration to "true": [Very Many Players], [Both]
 = Changed checkForNewUpdates to "false": [Friend&Foes], [Both]
