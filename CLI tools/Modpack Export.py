@@ -14,8 +14,8 @@ from mdutils import Html
 ##########################################################
 # Configuration
 
-export_client = True
-export_server = True
+export_client = False
+export_server = False
 
 refresh_only = False
 update_bcc_version = True
@@ -69,13 +69,15 @@ def main():
         
         md_element_full_changelog = f"#### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomnia-hardcore/changelog/1.20#v{pack_version})**"
         md_element_pre_release = '**This is a pre-release. Here be dragons!**'
-        md_element_bh_banner = "[![BisectHosting Banner](https://i.imgur.com/NYGUM1c.png)](https://bisecthosting.com/CRISM)"
+        md_element_bh_banner = "[![BisectHosting Banner](https://github.com/CrismPack/CDN/blob/main/desc/insomnia/bhbanner.png?raw=true)](https://bisecthosting.com/CRISM)"
         md_element_crism_spacer = "![CrismPack Spacer](https://github.com/CrismPack/CDN/blob/main/desc/breakneck/79ESzz1-tiny.png?raw=true)"
-        
+        # html_element_bh_banner = "<p><a href='https://bisecthosting.com/CRISM'><img src='https://github.com/CrismPack/CDN/blob/main/desc/insomnia/bhbanner.png?raw=true' width='800' /></a></p>"
+
         with open(changelog_path, "r") as f:
             changelog_yml = yaml.safe_load(f)
         update_overview = changelog_yml['Update overview']
-        
+        #update_overview = update_overview.replace("-","### -")
+
         mdFile_CF = MdUtils(file_name='CurseForge-Release')
         mdFile_MR = MdUtils(file_name='Modrinth-Release')
         
@@ -85,9 +87,11 @@ def main():
             print("pack_version = " + pack_version)
             mdFile_CF.new_paragraph(md_element_pre_release)
             mdFile_MR.new_paragraph(md_element_pre_release)
-        
+
         mdFile_CF.new_paragraph(update_overview)
         mdFile_CF.new_paragraph(md_element_full_changelog)
+        mdFile_CF.new_paragraph("<br>")
+        # mdFile_CF.new_paragraph(md_element_crism_spacer)
         mdFile_CF.new_paragraph(md_element_bh_banner)
         mdFile_CF.create_md_file()
         
@@ -95,7 +99,7 @@ def main():
         mdFile_MR.new_paragraph(md_element_full_changelog)
         mdFile_MR.new_paragraph(md_element_crism_spacer)
         mdFile_MR.create_md_file()
-        
+
 
     if not refresh_only:
         
