@@ -10,7 +10,6 @@ Update overview:
 
 Mods added:
 + ThreadTweak [MR]
-+ Distant Horizons [Client], [Optional]
 + Mobtimizations
 + Ranged Weapon API [1.0.0]
 + Structure Essentials
@@ -86,8 +85,6 @@ Config Changes:
 = Changed doWriteToResourceTextFile to "true": [Branded Logs], [Client]
 = Changed only_affect_block_light to "false": [True Darknes Fork], [Client]
 = Changed game priority to "8": [ThreadTweak], [Both]
-= Changed CPU Load to "minimal" by default: [Distant Horizons], [Client]
-= Changed enableRendering to "false" by default: [Distant Horizons], [Client]
 = Added message to dh-menu to help with fixing fog issue: [FancyMenu], [Client]
 = Changed gcFreeChunkSerializer to false: [C2ME], [Both]
 = Changed threadedWorldGen enabled to "true": [C2ME], [Both]
@@ -99,3 +96,4 @@ Config Changes:
 = Changed perf clear_fabric_mapping_tables, clear_mixin_classinfo, dynamic_entity_renderers, faster_item_rendering, nbt_memory_usage, dynamic_sounds, dynamic_resources & deduplicate_location to "true": [ModernFix]
 = Changed thread_priorities to "false": [ModernFix]
 = Changed exp_use_optimized_chunk_ticking_iteration to "true": [Very Many Players], [Both]
+= Changed checkForNewUpdates to "false": [Friend&Foes], [Both]

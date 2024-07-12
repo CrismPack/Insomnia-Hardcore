@@ -217,6 +217,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
+file = "config/friendsandfoes.json"
+hash = "4b308c821f68512de8742bf3bdabbea379ca0a2cb058a8986b6d280610577b14"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "b30c37d522297798263882bc833c53618b220f52cc8b063915076044d353e1ba"
 
@@ -1058,11 +1062,6 @@ metafile = true
 [[files]]
 file = "mods/ding-for-fabric.pw.toml"
 hash = "dbf9d9cd9f79eefeb440b39a7d1259de5ad922f0f16e63298956b53bda3ba76c"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "9f02fe970df2b87febc9048d76e26270e39bdd6f93dc3c00c6892bab9f580a4b"
 metafile = true
 
 [[files]]
