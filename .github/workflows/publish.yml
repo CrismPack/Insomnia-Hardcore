@@ -1,4 +1,4 @@
-name: Automatically publish to Modrinth and CurseForge
+name: Automatically publish to CurseForge
 
 on:
   release:
@@ -6,6 +6,7 @@ on:
 
 env:
   MC_VERSION: 1.20.1
+  RELEASE_TYPE: release
   MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
   CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
 
@@ -32,21 +33,37 @@ jobs:
         zipBall: false
 
     - name: Publish to CurseForge
-      uses: Kir-Antipov/mc-publish@v3.3
+      uses: HaXrBOT/upload-curseforge-modpack-action@master
       with:
-        name: "Insomnia: Hardcore v${{ steps.download-files.outputs.tag_name }} for ${{ env.MC_VERSION }}"
-        changelog-file: CurseForge-Release.md
+        api-token: "${{env.CURSEFORGE_TOKEN}}"
+        project-id: "560596"
+        modpack-path: "./InsomniaHardcore-${{ env.MC_VERSION }}-${{ steps.download-files.outputs.tag_name }}.zip"
+        modpack-server-path: "./InsomniaHardcore-ServerPack-${{ env.MC_VERSION }}-${{ steps.download-files.outputs.tag_name }}.zip"
+        changelog-path: "CurseForge-Release.md"
+        changelog-format: "markdown"
+        game-version: "${{ env.MC_VERSION }}"
+        display-name: "Insomnia v${{ steps.download-files.outputs.tag_name }} for ${{ env.MC_VERSION }}"
+        server-display-name: "Server Pack v${{ steps.download-files.outputs.tag_name }} for ${{ env.MC_VERSION }}"
+        release-type: "${{ env.RELEASE_TYPE }}"
 
-        curseforge-id: 560596
-        curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
-        #curseforge-files: '*.zip'
+    # - name: Publish to CurseForge
+    #   uses: Kir-Antipov/mc-publish@v3.3
+    #   with:
+    #     name: "Insomnia v${{ steps.download-files.outputs.tag_name }} for ${{ env.MC_VERSION }}"
+    #     changelog-file: CurseForge-Release.md
 
-        files: | 
-          '!(*-@(ServerPack)).zip'
-          '*-@(ServerPack).zip'
+    #     curseforge-id: 560596
+    #     curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
+    #     curseforge-files: '*.zip'
+    #     #   '!*@(-ServerPack-)*.zip'
+    #     #   '*@(-ServerPack-)*.zip'
+        
+    #     # files: | 
+    #     #   "./InsomniaHardcore-${{ env.MC_VERSION }}-${{ steps.download-files.outputs.tag_name }}.zip"
+    #     #   "./InsomniaHardcore-ServerPack-${{ env.MC_VERSION }}-${{ steps.download-files.outputs.tag_name }}.zip"
 
-        loaders: fabric
-        game-versions: ${{ env.MC_VERSION }}
+    #     loaders: fabric
+    #     game-versions: ${{ env.MC_VERSION }}
 
 
   # publish-to-modrinth:
