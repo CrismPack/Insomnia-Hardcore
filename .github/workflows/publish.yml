@@ -33,7 +33,7 @@ jobs:
         zipBall: false
 
     - name: Publish to CurseForge
-      uses: HaXrBOT/upload-curseforge-modpack-action@v1.2.0
+      uses: HaXrBOT/upload-curseforge-modpack-action@master
       with:
         api-token: "${{env.CURSEFORGE_TOKEN}}"
         project-id: "560596"
