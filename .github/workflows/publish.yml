@@ -44,8 +44,8 @@ jobs:
         #   '*@(-ServerPack-)*.zip'
         
         files: | 
-          '!*@(-ServerPack-)*.zip'
-          '*@(-ServerPack-)*.zip'
+          '!(*-@(ServerPack)-*).zip'
+          '*-@(ServerPack)-*.zip'
 
         loaders: fabric
         game-versions: ${{ env.MC_VERSION }}
