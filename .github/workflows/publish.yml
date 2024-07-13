@@ -14,7 +14,7 @@ permissions:
 
 jobs:   
   publish-to-curseforge:
-    if: github.repository_owner == 'CrismPack'
+    # if: github.repository_owner == 'CrismPack'
     runs-on: ubuntu-24.04
     environment: github-actions
 
