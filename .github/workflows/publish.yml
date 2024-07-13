@@ -39,7 +39,7 @@ jobs:
         project-id: "560596"
         modpack-path: "./InsomniaHardcore-${{ env.MC_VERSION }}-${{ steps.download-files.outputs.tag_name }}.zip"
         modpack-server-path: "./InsomniaHardcore-ServerPack-${{ env.MC_VERSION }}-${{ steps.download-files.outputs.tag_name }}.zip"
-        changelog: "CurseForge-Release.md"
+        changelog-path: "CurseForge-Release.md"
         changelog-format: "markdown"
         game-version: "${{ env.MC_VERSION }}"
         display-name: "Insomnia v${{ steps.download-files.outputs.tag_name }} for ${{ env.MC_VERSION }}"
