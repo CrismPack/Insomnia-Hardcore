@@ -34,18 +34,18 @@ jobs:
     - name: Publish to CurseForge
       uses: Kir-Antipov/mc-publish@v3.3
       with:
-        name: "Insomnia: Hardcore v${{ steps.download-files.outputs.tag_name }} for ${{ env.MC_VERSION }}"
+        name: "Insomnia v${{ steps.download-files.outputs.tag_name }} for ${{ env.MC_VERSION }}"
         changelog-file: CurseForge-Release.md
 
         curseforge-id: 560596
         curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
-        curseforge-files: | #'*.zip'
-          '!(*-@(ServerPack)).zip'
-          '*-@(ServerPack).zip'
+        curseforge-files: |
+          '!*@(-ServerPack-)*.zip'
+          '*@(-ServerPack-)*.zip'
         
         # files: | 
-        #   '!(*-@(ServerPack)).zip'
-        #   '*-@(ServerPack).zip'
+        #   '!*@(-ServerPack-)*.zip'
+        #   '*@(-ServerPack-)*.zip'
 
         loaders: fabric
         game-versions: ${{ env.MC_VERSION }}
