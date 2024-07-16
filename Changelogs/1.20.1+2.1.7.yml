@@ -1,0 +1,61 @@
+name: 2.1.7 for 1.20.1
+
+Fabric version: Fabric-0.15.11
+Update overview: |
+  - 
+
+
+Mods added: |
+  + 
+
+Mods re-enabled: |
+  + 
+
+
+Mod side changes: |
+  =  [Client --> Both]
+
+
+Metadata changes: |
+  =  [Bundled --> CF]
+
+
+Resource Packs added: |
+  + 
+
+
+Data Packs added: |
+  + 
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+Resource Packs removed: |
+  - 
+
+Data Packs removed: |
+  - 
+
+Mod updates reverted: |
+  >  [1.2.1 -> 1.1.0], [Pinned]
+
+
+Resource Packs updated: |
+  > 
+
+
+Shader Packs updated: |
+  > 
+
+
+Mods updated: |
+  > 
+
+
+Config Changes: |
+  = : [mod], [Client]
