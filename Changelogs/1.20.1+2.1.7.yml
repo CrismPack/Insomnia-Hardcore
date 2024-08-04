@@ -66,4 +66,4 @@ Mods updated: |
 
 
 Config Changes: |
-  = : [mod], [Client]
+  = Changed update_checker to "false": [Mod Menu], [Client]
