@@ -14,7 +14,7 @@ from mdutils import Html
 ##########################################################
 # Configuration
 
-export_client = False
+export_client = True
 export_server = False
 
 refresh_only = False

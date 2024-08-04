@@ -34,7 +34,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "03625744187e5907a1fa77143bcd522c43792d4c41aa5768797d6f0148eb7785"
+hash = "c62ade4adbc687e9be38330b14d463948a4f96914680269d10606432b34f83dc"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -1920,8 +1920,13 @@ hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
 metafile = true
 
 [[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "f27e5c31a8c6ac306817c44a86059e794244526dbd55e0ec43435d0c931e6e5e"
+metafile = true
+
+[[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "df336403c2e1d0a3ffaa2ec44ee144cabe293f0701174074e2c9acd00b8b53a8"
+hash = "f9f1e04f30927788c042d6dd03660031f262814aeb7d5ecbadafb5361e0c72ea"
 metafile = true
 
 [[files]]

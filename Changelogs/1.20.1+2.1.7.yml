@@ -2,11 +2,10 @@ name: 2.1.7 for 1.20.1
 
 Fabric version: Fabric-0.15.11
 Update overview: |
-  - 
-
+  - Updated the 'RPG Series' suite of mods, fixing deserialization crash on servers. [[Issue]](https://github.com/ZsoltMolnarrr/SpellEngine/issues/62)
 
 Mods added: |
-  + 
+  + Pufferfish's Attributes [New dependency of 'Simply Skills']
 
 Mods re-enabled: |
   + 
@@ -54,7 +53,16 @@ Shader Packs updated: |
 
 
 Mods updated: |
-  > 
+  > Archers [Unpinned]
+  > MC Dungeons Weapons [Unpinned]
+  > Paladins & Priests [Unpinned]
+  > Pufferfish's Skills [0.11.3 -> 0.12.2]
+  > Ranged Weapon API [Unpinned]
+  > Simply Skills [Unpinned]
+  > Spell Engine [Unpinned]
+  > Spell Power Attributes [Unpinned]
+  > Wizards [Unpinned]
+  > Fabric API
 
 
 Config Changes: |
