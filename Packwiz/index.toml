@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "cceb92121ee399232e35c2a21a7e3bc47a8fe96658405f501a3812264f328524"
+hash = "a366ee5f635f8b57b639bcebf356c7fbaa0505f1b74040c75e9d018f5523d26e"
 metafile = true
 
 [[files]]
@@ -1611,7 +1611,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdw.pw.toml"
-hash = "2fc139dcc6e0a72901ed9dc1363fd507a57740758292ffd9b7902e938597ad42"
+hash = "0e3ba214541f37a2a7b79cc2e3d89783b7aa2ebd704c9a38e58a0b606cb71141"
 metafile = true
 
 [[files]]
@@ -1846,7 +1846,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "8b8ec7561288bf6104e584dee7d885d895ba1e559aab9ad3a1a1ad3c11eb3f9c"
+hash = "491c14d1ca9f0db748604d16b6bec77177672e8acfad2329b1c3cd2d454fbd90"
 metafile = true
 
 [[files]]
@@ -1921,7 +1921,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "57a1bd6278ba7ba55f41e5c88a78de9955dbf592f0167fd5ef1f22259c41fe1e"
+hash = "df336403c2e1d0a3ffaa2ec44ee144cabe293f0701174074e2c9acd00b8b53a8"
 metafile = true
 
 [[files]]
@@ -1941,7 +1941,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "dee4adbee58a30a1812a309a5b8d144012e96b7a7d45d9a7fc676c978e7efe5b"
+hash = "ea9dc10b9c697ac70baa6907ed3719c09caaf6a4bab63596fb50e66291b233aa"
 metafile = true
 
 [[files]]
@@ -2036,7 +2036,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-skills.pw.toml"
-hash = "229a6fa5f6e525618c5e2dee48e3312af730877896e2db7fad207879c4e96f71"
+hash = "022e26a9779e3e2901c971b83eb4ead860ed361091587710b7b25b11c789bb4f"
 metafile = true
 
 [[files]]
@@ -2086,12 +2086,12 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "e03908bb8c6aecef642d08035e7a48bd489610a78283a892461708f4c6fa1b2c"
+hash = "ce09556fee66e56208264ae8c385852bbdc5bf3a1ddc132dac5bbbf7bf12fa37"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "6967f05ea7ac4853d9998e05031bdb496008feff1049682ecdf261d2b7b23ecc"
+hash = "6955c024252577178298e691d7fe0111c5bd1155e4497df6ed1251bdac9b5b44"
 metafile = true
 
 [[files]]
@@ -2271,7 +2271,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "773e4b9884baa5a6efbebe09f7cdc7c3baad83acb8b6a8a916d21b7bfcae15db"
+hash = "b41106b7632569e92faf1f79e8665704f05f43eb0f1743f667b156745e923e96"
 metafile = true
 
 [[files]]
