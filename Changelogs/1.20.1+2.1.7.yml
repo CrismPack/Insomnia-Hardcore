@@ -3,6 +3,7 @@ name: 2.1.7 for 1.20.1
 Fabric version: Fabric-0.15.11
 Update overview: |
   - Updated the 'RPG Series' suite of mods, fixing deserialization crash on servers. [[Issue]](https://github.com/ZsoltMolnarrr/SpellEngine/issues/62)
+  - Fixed Creeper animations and textures not loading correctly.
 
 Mods added: |
   + Pufferfish's Attributes [New dependency of 'Simply Skills']
@@ -67,3 +68,4 @@ Mods updated: |
 
 Config Changes: |
   = Changed update_checker to "false": [Mod Menu], [Client]
+  = Moved 'Fresh Animations Extensions' above the FA compat packs: [Resource Pack Overrides], [Client]
