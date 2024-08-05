@@ -8,6 +8,7 @@ Update overview: |
   - Implemented a script that schedules respawn waves on servers. (Monday, Wednesday, Friday, Saturday & Sunday by default)
   - Changed how armor functions, improving balance of modded armor sets.
   - Players now drop their head when killed.
+  - Fixed permadead text showing up when respawning normally.
 
 Mods added: |
   + Pufferfish's Attributes [New dependency of 'Simply Skills']
@@ -73,10 +74,11 @@ Mods updated: |
   > Spell Power Attributes [Unpinned]
   > Wizards [Unpinned]
   > Fabric API
+  > Collective
 
 
 Script changes: |
-  + Wrote 'respawn_schedule' script for the server pack. Days of the week can be configured in the "kubejs/config/respawn.json" file.
+  + Wrote 'respawn_schedule' script for the server pack. Days of the week and time of the day can be configured in the "kubejs/config/respawn.json" file.
 
 
 Config Changes: |
@@ -85,3 +87,4 @@ Config Changes: |
   = Set days array for respawn_schedule script to "[1, 3, 5, 6, 7]": [KubeJS], [Server]
   = Set targetHour for respawn_schedule script to "15": [KubeJS], [Server]
   = Set targetMinute for respawn_schedule script to "0": [KubeJS], [Server]
+  = Removed "Warning" text from death screen: [FancyMenu], [Client]

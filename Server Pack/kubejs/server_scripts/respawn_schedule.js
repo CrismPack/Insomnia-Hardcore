@@ -43,7 +43,7 @@ function getHoursToNextExecution(config) {
 
 
 let commandExecuted = false;
-let commandExecutedDaily = false;
+let commandExecutedMinutely = false;
 
 // Load the configuration file
 const configFilePath = 'kubejs/config/respawn.json';
@@ -58,18 +58,18 @@ ServerEvents.tick(event => {
     const currentDay = currentTime.getDay(); // 0: Sunday, 1: Monday, ..., 6: Saturday
     const currentHour = currentTime.getHours();
     const currentMinute = currentTime.getMinutes();
-
+    const currentSecond = currentTime.getSeconds();
     // Get target hour and minute from config
     const targetHour = config.targetHour;
     const targetMinute = config.targetMinute;
     const days = config.days;
 
-    // Executes every hour
-    if (currentMinute === targetMinute) {
-        if (!commandExecutedDaily) {
+    // Executes every minute
+    if (currentSecond === 0) {
+        if (!commandExecutedMinutely) {
         // Execute the command
             const hoursLeft = getHoursToNextExecution(config);
-            event.server.runCommand(`scoreboard players set dummy respawnCountdown ${hoursLeft}`);
+            event.server.runCommandSilent(`scoreboard players set dummy respawnCountdown ${hoursLeft}`);
             commandExecutedDaily = true;
         }
     }

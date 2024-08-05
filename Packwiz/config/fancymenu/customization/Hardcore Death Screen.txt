@@ -100,19 +100,6 @@ customization {
   orientation = element
   shadow = true
   orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 99
-  actionid = 04cd4f46-6b7d-4d30-9248-cea3e65f4e471679535049337
-  action = addtext
-  y = -62
-  scale = 2.0
-  alignment = centered
-  value = §c§lWarning!
-}
-
-customization {
-  orientation = element
-  shadow = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
   x = 98
   actionid = 479cdefa-4cee-4313-ad32-39cf3ea524ac1679535259642
   action = addtext
