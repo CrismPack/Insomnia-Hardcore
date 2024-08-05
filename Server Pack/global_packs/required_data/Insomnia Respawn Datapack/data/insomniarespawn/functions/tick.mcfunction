@@ -1,7 +1,7 @@
-execute as @a[gamemode=spectator] at @a[gamemode=spectator] run function insomniarespawn:deadmessage
+execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead >= dummy maxDeaths run function insomniarespawn:deadmessage
 execute as @a[gamemode=spectator] at @a[gamemode=spectator] run tp @s 0.5 0 0.5
 
-execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead matches 0..1 run function insomniarespawn:resurrection
+execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead < dummy maxDeaths run function insomniarespawn:resurrection
 
 
 # Teleports new players to the correct location

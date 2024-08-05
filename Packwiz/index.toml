@@ -655,6 +655,11 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
+file = "mods/armor-damage-scaling-forge-fabric.pw.toml"
+hash = "9a71b0056e98e83fe37e8ba9654e83dd5ad0dcc306cb0b90e9e8c047a5a5442f"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
 metafile = true
@@ -1510,6 +1515,11 @@ hash = "92dcfb598285922727b8a446cd9fb6154686412746eb6c1479052a0e93a9275e"
 metafile = true
 
 [[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "c00e89c7f02bce1687c59ca09c2986cd4aebeb4ac73b62fc4dad302baae62f34"
+metafile = true
+
+[[files]]
 file = "mods/knaves-needs.pw.toml"
 hash = "261b1ad09e9edb5016dfbe3b5e114c46d0a3c0bd2e908957395abfea7dfa7806"
 metafile = true
@@ -1987,6 +1997,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "825be2106446bd057fad8c1474b39cb3245ec2af27eff33de83f1578f84afed6"
+metafile = true
+
+[[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "5d47427d2d8e13164af132620ff91bbcc1c3dd4460b9bf91affb2a9bd6496bce"
 metafile = true
 
 [[files]]
