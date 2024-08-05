@@ -70,7 +70,7 @@ ServerEvents.tick(event => {
         // Execute the command
             const hoursLeft = getHoursToNextExecution(config);
             event.server.runCommandSilent(`scoreboard players set dummy respawnCountdown ${hoursLeft}`);
-            commandExecutedDaily = true;
+            commandExecutedMinutely = true;
         }
     }
 

@@ -154,7 +154,7 @@ hash = "2cfb9cb42f6d58c51edca99e170a9948b289b1875252b148e7cd07c787c64927"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
-hash = "da6f4e1390d63b2cbf2a0a83239cdd15897db85ad84bad7ae58479b18d4d3920"
+hash = "84c5dea92d6ca19e9fb0bc11037094e209108fcf748beb0d968d9c767731c78d"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
@@ -1442,6 +1442,11 @@ metafile = true
 [[files]]
 file = "mods/incantationem.pw.toml"
 hash = "6035dc99eebe6cf06ce56952046989133b17e601aeed3a2ea05a22dae6e880e9"
+metafile = true
+
+[[files]]
+file = "mods/individual-keep-inventory.pw.toml"
+hash = "f7f8e69b5930cfe0df4648eee9fefc2f5c94b3c911fb107d9eff59835d3dad4b"
 metafile = true
 
 [[files]]

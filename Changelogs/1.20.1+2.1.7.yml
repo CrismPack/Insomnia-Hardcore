@@ -4,11 +4,12 @@ Fabric version: Fabric-0.15.11
 Update overview: |
   - Added 'Rogues & Warriors' mod.
   - Updated the 'RPG Series' suite of mods, fixing deserialization crash on servers. [[Issue]](https://github.com/ZsoltMolnarrr/SpellEngine/issues/62)
-  - Fixed Creeper animations and textures not loading correctly.
   - Implemented a script that schedules respawn waves on servers. (Monday, Wednesday, Friday, Saturday & Sunday by default)
   - Changed how armor functions, improving balance of modded armor sets.
   - Players now drop their head when killed.
+  - Fixed Creeper animations and textures not loading correctly.
   - Fixed permadead text showing up when respawning normally.
+  - Changed keepInventory functionality to make players drop their inventory when all lives are depleted.
 
 Mods added: |
   + Pufferfish's Attributes [New dependency of 'Simply Skills']
@@ -17,6 +18,7 @@ Mods added: |
   + Rogues & Warriors
   + Just Player Heads
   + Armor & damage scaling
+  + Individual Keep Inventory [Server]
 
 Mods re-enabled: |
   + 
@@ -79,6 +81,7 @@ Mods updated: |
 
 Script changes: |
   + Wrote 'respawn_schedule' script for the server pack. Days of the week and time of the day can be configured in the "kubejs/config/respawn.json" file.
+  + Wrote 'keepinv' script for the server pack, which interacts with the 'Individual Keep Inventory' mod to make the player drop their inventory if they deplete all of their lives.
 
 
 Config Changes: |
