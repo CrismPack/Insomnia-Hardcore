@@ -282,7 +282,7 @@ hash = "01efa88c78eacbeb89c8fe068e237fe2509e57d0b622b854593018d3c6503715"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "f113015034da62d248d144ae962010b4fe195ea33b673fa9a73b06560dd44ec2"
+hash = "9e3d66bd0161e1d2e78828f07b148eade787ece01431f79d0da7051fcecb8643"
 
 [[files]]
 file = "config/mostructures-config-v5.json5"
@@ -314,7 +314,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1bf5fd58381ac0bf3a131e18156ad57dc5056021c11af68407f85a66ffe8f642"
+hash = "8fc7dfd431ed014bf2210b2f44f872c8f1101f242dadf3a7efc3ecd5a547456e"
 
 [[files]]
 file = "config/respawningstructures.json"
@@ -1525,6 +1525,11 @@ hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "a73defaa93f5622ec5efbbcb9f8dd71f9ed4d0d27c8376fe14cc1ac41d0ff3f9"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "987cb94ae9c60a811784617fad5eb48b574691d8eba12eb79a1ca3640e5892f4"
 metafile = true
@@ -1977,6 +1982,11 @@ metafile = true
 [[files]]
 file = "mods/revive.pw.toml"
 hash = "13483c664499ef39a8bedc64945f238c3690de58c9d522e7d5687804208961c1"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "825be2106446bd057fad8c1474b39cb3245ec2af27eff33de83f1578f84afed6"
 metafile = true
 
 [[files]]
