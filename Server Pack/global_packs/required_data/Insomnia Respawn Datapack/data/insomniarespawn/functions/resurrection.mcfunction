@@ -5,6 +5,7 @@ scoreboard players operation dummy lifeCount -= @s isDead
 execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead matches 0 run tellraw @s [{"text":"A respawn wave have granted you new life! Try to stay alive this time...", "color": "green"}]
 execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead matches 0 run tellraw @s [{"text":"You have ", "color": "yellow"},{"score":{"name":"dummy","objective":"lifeCount"},"color":"yellow"}, {"text":" lives in reserve!", "color": "yellow"}]
 execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead matches 0 run origin gui @s
+execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead matches 0 run starterkit give @s starterkit
 
 # Stuff to run when having no lives left
 # execute as @a[gamemode=spectator] at @a[gamemode=spectator] if score @s isDead = dummy lifeReserveAmount run tellraw @s [{"text":"You have respawned!", "color": "green"}]

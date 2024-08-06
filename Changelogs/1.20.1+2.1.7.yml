@@ -10,6 +10,7 @@ Update overview: |
   - Fixed Creeper animations and textures not loading correctly.
   - Fixed permadead text showing up when respawning normally.
   - Changed keepInventory functionality to make players drop their inventory when all lives are depleted.
+  - Players now gets a starter kit when respawning from a respawn wave.
 
 Mods added: |
   + Pufferfish's Attributes [New dependency of 'Simply Skills']
@@ -77,11 +78,13 @@ Mods updated: |
   > Wizards [Unpinned]
   > Fabric API
   > Collective
+  > Starter Kit
 
 
-Script changes: |
+Script/Datapack changes: |
   + Wrote 'respawn_schedule' script for the server pack. Days of the week and time of the day can be configured in the "kubejs/config/respawn.json" file.
   + Wrote 'keepinv' script for the server pack, which interacts with the 'Individual Keep Inventory' mod to make the player drop their inventory if they deplete all of their lives.
+  + Changed resurrection function of 'Insomnia Respawn Datapack' to give players a starter kit when respawning from a respawn wave.
 
 
 Config Changes: |
