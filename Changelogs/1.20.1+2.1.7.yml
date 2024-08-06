@@ -11,6 +11,7 @@ Update overview: |
   - Fixed permadeath text showing up when not supposed to while respawning normally.
   - Changed keepInventory functionality to make players drop their inventory when all lives are depleted.
   - Players now gets a starter kit when respawning from a respawn wave.
+  - Refreshed design of server spawn structure. Now includes the rtp portal and buyable respawn mechanic as seen on the official server.
 
 Mods added: |
   + Pufferfish's Attributes [New dependency of 'Simply Skills']
@@ -42,7 +43,8 @@ Data Packs added: |
 
 
 Mods removed: |
-  - 
+  - RandomTP
+  - AntiXray
 
 
 Mods disabled: |
@@ -94,3 +96,4 @@ Config Changes: |
   = Set targetHour for respawn_schedule script to "15": [KubeJS], [Server]
   = Set targetMinute for respawn_schedule script to "0": [KubeJS], [Server]
   = Removed "Warning" text from death screen: [FancyMenu], [Client]
+  = Changed enable-command-block to "true" by default: [Default Server Properties], [Server]

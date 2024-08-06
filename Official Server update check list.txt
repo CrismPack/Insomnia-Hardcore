@@ -1,4 +1,4 @@
-Delete all mods except: DisFabric, Vanish, Maintenance Mode(mmode), AFKPlus, CommandSpy, Custom-Commands
+Delete all mods except: DisFabric, Vanish, Maintenance Mode(mmode), AFKPlus, CommandSpy, Custom-Commands, AntiXray
 Delete everything in global_packs/required_data except: 'Faust Origin - Unchoosable'
 Backup "server.properties" file
 Upload and unpack new serverpack zip

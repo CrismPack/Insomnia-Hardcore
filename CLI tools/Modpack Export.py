@@ -15,7 +15,7 @@ from mdutils import Html
 # Configuration
 
 export_client = True
-export_server = True
+export_server = False
 
 refresh_only = False
 update_bcc_version = True

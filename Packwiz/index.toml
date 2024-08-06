@@ -630,11 +630,6 @@ hash = "c61e23259e422098fde9b6393492f4f6e22e1bc074a397ae4c6edd686481e397"
 metafile = true
 
 [[files]]
-file = "mods/antixray.pw.toml"
-hash = "1511b8c9a032d2ff744f09dfffa67de7b77cb4d6c6f4f499b1211bbedfcbbe56"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
@@ -1957,11 +1952,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "06b4c112aa910a7ba5973e6505eec8cc2489bfbf8b0813d51d597b6875149264"
-metafile = true
-
-[[files]]
-file = "mods/randomtp.pw.toml"
-hash = "2a483c75ceab8aab598179b78605c3f36ba24b5b8b6a1d6f20a7e5c2cd5777aa"
 metafile = true
 
 [[files]]
