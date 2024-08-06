@@ -1476,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7008b59badb2a0d620bb5f991e553ee1298894e66c73d957d8e6a297db484f34"
+hash = "573198d8e129da25e7c6deffefd20e827bb2737a3b271c4ebc64824b16d6a46a"
 metafile = true
 
 [[files]]
