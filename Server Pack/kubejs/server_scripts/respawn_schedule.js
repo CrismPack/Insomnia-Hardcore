@@ -72,6 +72,9 @@ ServerEvents.tick(event => {
             event.server.runCommandSilent(`scoreboard players set dummy respawnCountdown ${hoursLeft}`);
             commandExecutedMinutely = true;
         }
+    }   else {
+        // Reset the flag if it's not the target time
+        commandExecutedMinutely = false;
     }
 
     // Check if it's one of the specified days at the target time

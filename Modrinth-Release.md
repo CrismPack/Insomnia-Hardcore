@@ -10,6 +10,7 @@
 - Players now drop their head when killed.
 - Fixed Creeper animations and textures not loading correctly.
 - Fixed permadead text showing up when respawning normally.
+- Changed keepInventory functionality to make players drop their inventory when all lives are depleted.
 
 
 #### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomnia-hardcore/changelog/1.20#v2.1.7)**
