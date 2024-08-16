@@ -1,0 +1,63 @@
+name: 2.1.8 for 1.20.1
+
+Fabric version: Fabric-0.15.11
+Update overview: |
+  - Fixed issue with mobs becoming invincible when attacking with certain spells.
+
+Mods added: |
+  + 
+
+Mods re-enabled: |
+  + 
+
+
+Mod side changes: |
+  =  [Client --> Both]
+
+
+Metadata changes: |
+  =  [Bundled --> CF]
+
+
+Resource Packs added: |
+  + 
+
+
+Data Packs added: |
+  + 
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+Resource Packs removed: |
+  - 
+
+Data Packs removed: |
+  - 
+
+Mod updates reverted: |
+  > Pufferfish's Attributes [5.0.0 -> 4.0.0], [Pinned]
+
+
+Resource Packs updated: |
+  > 
+
+
+Shader Packs updated: |
+  > 
+
+
+Mods updated: |
+  > 
+
+
+Script/Datapack changes: |
+  + 
+
+Config Changes: |
+  = : [mod], [Client]
