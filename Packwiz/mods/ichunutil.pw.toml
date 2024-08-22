@@ -1,0 +1,13 @@
+name = "iChunUtil"
+filename = "iChunUtil-1.20.1-Fabric-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "070fb8c348a5744febf5009753aa92fad65856b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5477557
+project-id = 229060

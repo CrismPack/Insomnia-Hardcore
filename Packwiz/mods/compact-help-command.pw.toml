@@ -1,13 +1,13 @@
 name = "Compact Help Command"
-filename = "compacthelpcommand-1.20.1-2.6.jar"
+filename = "compacthelpcommand-1.20.1-2.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f88d8f4301e75b3f25428b20e6f2968cc985a77b"
+hash = "434d11b9c072c41c0dc0b88885472cdc2eaf6d82"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5169072
+file-id = 5572842
 project-id = 515753

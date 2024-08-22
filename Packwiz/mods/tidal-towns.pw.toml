@@ -1,13 +1,13 @@
 name = "Tidal Towns"
-filename = "tidal.jar"
+filename = "tidal-towns-1.3.3_1.20.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eebdf2667cd0fba946276554db0164af213a6091"
+hash = "7deebce9fcf48a96b7323d665e9a520308756646"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5213912
+file-id = 5615688
 project-id = 891880

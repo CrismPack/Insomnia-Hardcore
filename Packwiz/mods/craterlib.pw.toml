@@ -1,13 +1,13 @@
 name = "CraterLib"
-filename = "CraterLib-Fabric-1.20-1.1.1.jar"
+filename = "CraterLib-Fabric-1.20-2.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8b82a3c2875b23e3fc22ff12c8ac0b96077978f5"
+hash = "173e87d6b884ae8aa5607263018b0d0cc3dffcf9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5005002
+file-id = 5614791
 project-id = 867099

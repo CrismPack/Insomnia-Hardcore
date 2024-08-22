@@ -5,7 +5,9 @@ Update overview: |
   - Fixed issue with mobs becoming invincible when attacking with certain spells.
 
 Mods added: |
-  + 
+  + Cobweb [New dependency of 'Harvest with ease']
+  + iChunUtil [New dependency of 'Ding'], [Client]
+  + Sawmill
 
 Mods re-enabled: |
   + 
@@ -28,7 +30,7 @@ Data Packs added: |
 
 
 Mods removed: |
-  - 
+  - C2ME
 
 
 Mods disabled: |
@@ -45,7 +47,9 @@ Mod updates reverted: |
 
 
 Resource Packs updated: |
-  > 
+  > Enhanced Boss Bars
+  > Fresh Animations Extensions
+  > Fresh Animations
 
 
 Shader Packs updated: |
@@ -53,11 +57,110 @@ Shader Packs updated: |
 
 
 Mods updated: |
-  > 
+  > Advanced Netherite
+  > Amendments
+  > Animatica
+  > AzureLib Armor
+  > AzureLib
+  > Balm
+  > Blockus
+  > Bookshelf
+  > Branded Logs
+  > Chat Heads
+  > Chat Patches
+  > Collective
+  > Compact Help Command
+  > Companion 🐕
+  > CompleteConfig
+  > Connectivity
+  > CraterLib
+  > Cubes Without Borders
+  > Cupboard
+  > Ding
+  > Let's Do API
+  > Dungeon Difficulty
+  > Dyed
+  > e4mc
+  > Elytra Slot
+  > Elytra Trims Extensions
+  > Elytra Trims
+  > Embeddium
+  > EMI
+  > Enchantment Descriptions
+  > End's Delight
+  > Entity Model Features
+  > Entity Texture Features
+  > Every Compat
+  > Fabric Language Kotlin
+  > Farmer's Delight Refabricated
+  > Formations Overworld
+  > Friends&Foes
+  > Furnace Recycle
+  > Fzzy Config
+  > GeckoLib
+  > Geophilic
+  > Harvest with ease
+  > Hearths
+  > Iris & Oculus Flywheel Compat
+  > Iris Shaders
+  > Item Obliterator
+  > Jade Addons
+  > Jade 🔍
+  > Just Enough Items
+  > Let Me Despawn
+  > Let's Do Brewery
+  > Let's Do NetherVinery
+  > Lithostitched
+  > MCPitanLib
+  > Memory Settings
+  > Mine Cells
+  > MmmMmmMmmMmm
+  > ModernFix
+  > More Armor Trims
+  > Music Maker Mod
+  > Neruina
+  > Nether Portal Spread
+  > Noisium
+  > Not Enough Animations
+  > Open Parties and Claims
+  > Packet Fixer
+  > Particle Core
+  > Persistent Inventory Search
+  > Puzzles Lib
+  > Raised
+  > Ranged Weapon API
+  > Recipe Essentials
+  > Regions Unexplored
+  > Resourceful Lib
+  > Philip's Ruins
+  > Runes
+  > Savage Ender Dragon
+  > Moonlight Lib
+  > Simple Discord RPC
+  > Simple Voice Chat
+  > Skin Layers 3D
+  > Create Slice & Dice
+  > Small Ships
+  > Sophisticated Backpacks
+  > Sophisticated Core
+  > StackDeobfuscator
+  > Starter Structure
+  > Supplementaries
+  > Tectonic
+  > Tidal Towns
+  > Vein Mining
+  > Let's Do Vinery
+  > Wavey Capes
+  > What Are They Up To
+  > Xaero's Minimap
+  > Xaero's World Map
+  > YetAnotherConfigLib
+  > YDM's Weapon Master
+  > Zoomify
 
 
 Script/Datapack changes: |
   + 
 
 Config Changes: |
-  = : [mod], [Client]
+  = Changed Nvidium's dependency of Sodium to allow any version: [Fabric Loader], [Client]

@@ -1,13 +1,13 @@
 name = "Ranged Weapon API"
-filename = "ranged_weapon_api-1.1.2+1.20.1.jar"
+filename = "ranged_weapon_api-1.1.3+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "98f2910945070f6a9a86be72c040984aa4feec35"
+hash = "beaed472245d9db83455133980631394ba025e90"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5446128
+file-id = 5612185
 project-id = 962162

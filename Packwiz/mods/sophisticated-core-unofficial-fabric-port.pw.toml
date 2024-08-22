@@ -1,13 +1,13 @@
 name = "Sophisticated Core (Unofficial Fabric port)"
-filename = "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.76.jar"
+filename = "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.104.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "24398fd7d82bb22f0632ae89d33cd5fa551cb899"
+hash = "6115c54fd7eec1f440494931726ae0034af407af"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5370245
+file-id = 5450729
 project-id = 979317
