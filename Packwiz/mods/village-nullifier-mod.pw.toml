@@ -1,6 +1,7 @@
 name = "Village Nullifier"
 filename = "village_nullifier-2.0.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

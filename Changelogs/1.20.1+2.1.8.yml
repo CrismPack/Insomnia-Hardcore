@@ -2,15 +2,16 @@ name: 2.1.8 for 1.20.1
 
 Fabric version: Fabric-0.15.11
 Update overview: |
-  - Fixed issue with mobs becoming invincible when attacking with certain spells.
+  - Fixed issue with mobs becoming invincible when attacking with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
+  - Re-added 'Sound Physics Remastered'.
 
 Mods added: |
   + Cobweb [New dependency of 'Harvest with ease']
   + iChunUtil [New dependency of 'Ding'], [Client]
   + Sawmill
 
-Mods re-enabled: |
-  + 
+Mods re-added: |
+  + Sound Physics Remastered
 
 
 Mod side changes: |
@@ -43,13 +44,15 @@ Data Packs removed: |
   - 
 
 Mod updates reverted: |
-  > Pufferfish's Attributes [5.0.0 -> 4.0.0], [Pinned]
+  > 
 
 
 Resource Packs updated: |
   > Enhanced Boss Bars
   > Fresh Animations Extensions
   > Fresh Animations
+  > Fresh Compats
+  > xali's Enchanted Books
 
 
 Shader Packs updated: |
@@ -58,34 +61,39 @@ Shader Packs updated: |
 
 Mods updated: |
   > Advanced Netherite
+  > Alternate Origin GUI
   > Amendments
   > Animatica
-  > AzureLib Armor
   > AzureLib
+  > AzureLib Armor
   > Balm
+  > Better Archeology
+  > Better Combat
   > Blockus
   > Bookshelf
   > Branded Logs
   > Chat Heads
   > Chat Patches
   > Collective
+  > Combat Roll
   > Compact Help Command
   > Companion 🐕
   > CompleteConfig
   > Connectivity
   > CraterLib
+  > Create Slice & Dice
   > Cubes Without Borders
   > Cupboard
+  > Deeper and Darker
   > Ding
-  > Let's Do API
   > Dungeon Difficulty
   > Dyed
-  > e4mc
-  > Elytra Slot
-  > Elytra Trims Extensions
-  > Elytra Trims
-  > Embeddium
   > EMI
+  > EMI Loot
+  > Elytra Slot
+  > Elytra Trims
+  > Elytra Trims Extensions
+  > Embeddium
   > Enchantment Descriptions
   > End's Delight
   > Entity Model Features
@@ -108,17 +116,22 @@ Mods updated: |
   > Jade 🔍
   > Just Enough Items
   > Let Me Despawn
+  > Let's Do API
   > Let's Do Brewery
   > Let's Do NetherVinery
+  > Let's Do Vinery
   > Lithostitched
   > MCPitanLib
   > Memory Settings
   > Mine Cells
   > MmmMmmMmmMmm
   > ModernFix
+  > Moog's Voyager Structures
+  > Moonlight Lib
   > More Armor Trims
   > Music Maker Mod
   > Neruina
+  > Neruina - Ticking Entity Fixer
   > Nether Portal Spread
   > Noisium
   > Not Enough Animations
@@ -126,38 +139,43 @@ Mods updated: |
   > Packet Fixer
   > Particle Core
   > Persistent Inventory Search
+  > Philip's Ruins
   > Puzzles Lib
   > Raised
   > Ranged Weapon API
   > Recipe Essentials
   > Regions Unexplored
   > Resourceful Lib
-  > Philip's Ruins
+  > Rhino
   > Runes
   > Savage Ender Dragon
-  > Moonlight Lib
+  > Separated Leaves
   > Simple Discord RPC
   > Simple Voice Chat
+  > Simply Skills
+  > Simply Swords
   > Skin Layers 3D
-  > Create Slice & Dice
   > Small Ships
   > Sophisticated Backpacks
   > Sophisticated Core
+  > Sound Physics Remastered
+  > Spell Engine
+  > Spell Power Attributes
   > StackDeobfuscator
   > Starter Structure
   > Supplementaries
   > Tectonic
   > Tidal Towns
   > Vein Mining
-  > Let's Do Vinery
+  > Vinery
   > Wavey Capes
   > What Are They Up To
   > Xaero's Minimap
   > Xaero's World Map
-  > YetAnotherConfigLib
   > YDM's Weapon Master
+  > YetAnotherConfigLib
   > Zoomify
-
+  > e4mc
 
 Script/Datapack changes: |
   + 
