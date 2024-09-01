@@ -8,3 +8,5 @@
 
 # Exclude Server Pack mod jars
 /Server Pack/mods/*.jar
+
+/CLI tools/venv
