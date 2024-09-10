@@ -2,6 +2,7 @@ name: 2.1.8 for 1.20.1
 
 Fabric version: Fabric-0.15.11
 Update overview: |
+  - Added 'Death Knights' & 'Paradise Lost' mods.
   - Fixed issue with mobs becoming invincible when attacking with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
   - Re-added 'Sound Physics Remastered'.
 
@@ -9,9 +10,12 @@ Mods added: |
   + Cobweb [New dependency of 'Harvest with ease']
   + iChunUtil [New dependency of 'Ding'], [Client]
   + Sawmill
+  + Death Knights
+  + Paradise Lost
 
 Mods re-added: |
   + Sound Physics Remastered
+  + SuperMartijn642's Config Lib
 
 
 Mod side changes: |
@@ -53,6 +57,7 @@ Resource Packs updated: |
   > Fresh Animations
   > Fresh Compats
   > xali's Enchanted Books
+  > Visual Traveler's Titles
 
 
 Shader Packs updated: |
@@ -77,7 +82,7 @@ Mods updated: |
   > Collective
   > Combat Roll
   > Compact Help Command
-  > Companion 🐕
+  > Companion
   > CompleteConfig
   > Connectivity
   > CraterLib
@@ -113,7 +118,7 @@ Mods updated: |
   > Iris Shaders
   > Item Obliterator
   > Jade Addons
-  > Jade 🔍
+  > Jade
   > Just Enough Items
   > Let Me Despawn
   > Let's Do API
@@ -182,3 +187,5 @@ Script/Datapack changes: |
 
 Config Changes: |
   = Changed Nvidium's dependency of Sodium to allow any version: [Fabric Loader], [Client]
+  = Added lang override for 'Visual Traveler's Titles', changing "travelerstitles.the_aether.the_aether" to "travelerstitles.paradise_lost.paradise_lost": [Insomnia Custom Lang], [Client]
+  = Added override for Create's breakage with 'Sound Physics Remastered': [Fabric Loader], [Both]

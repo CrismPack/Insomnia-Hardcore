@@ -34,7 +34,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c62ade4adbc687e9be38330b14d463948a4f96914680269d10606432b34f83dc"
+hash = "cebaad6a2ee98adff60d6361a999586d14652e9066055e314f2ea5bb5f817fb8"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -318,7 +318,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "8e1ac22c94766a7a94afd0bf700cd72d38343063f0f7d85552929c43e76ea0c0"
+hash = "6aaf7ae4ee04481b584ae03ede21000f68a013c63e59b8a83138d2e57a2775c9"
 
 [[files]]
 file = "config/respawningstructures.json"
@@ -1031,6 +1031,11 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "da632819ce127cca9f1cb8bdb66603566da73dcc975a1afb735a04b4b06ad9b2"
+metafile = true
+
+[[files]]
+file = "mods/death-knights.pw.toml"
+hash = "dc24945eb73c7a03948edf74ed02122ecc78cfdc193790af2dd1a5478f7bc101"
 metafile = true
 
 [[files]]
@@ -1879,6 +1884,11 @@ hash = "677296e7565310ffc0820a04a5d585b40c0b1f896aa341868a565051ef4946ca"
 metafile = true
 
 [[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "cb75188f5d38e3c627c733a0cec6607b67ddd7b9a8ef6c65a4b8aa5f8d127f47"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "f02e51a9943fe3ed6666e97f94d2f934f023b8a950ba81848ff1e49ea31e6dd6"
 metafile = true
@@ -2115,7 +2125,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "73050266abdfb3c8bea10198c76cc1c2deffd3796cc72ef3ae651a62fc2298b4"
+hash = "3e1f327af3d210ab74bb1301a2eba7f38391bcf6ee9b71b643bac5262fb998a9"
 metafile = true
 
 [[files]]
@@ -2186,6 +2196,11 @@ metafile = true
 [[files]]
 file = "mods/super-better-grass.pw.toml"
 hash = "b69d9ef19b394e1750d9b2e51e9907385b543866c992df5970e03263b3518c74"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
 metafile = true
 
 [[files]]
@@ -2463,7 +2478,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "bf0a7d3a52a99256cacfa20750cc82651e1ce7e420e9906979c9783372b5bc58"
+hash = "51fc17f7865f9aa4539df866f2d3eb1180688f78ce4fa5f370bd76b8cb853edf"
 metafile = true
 
 [[files]]

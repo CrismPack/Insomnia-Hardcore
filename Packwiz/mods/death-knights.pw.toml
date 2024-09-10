@@ -1,0 +1,13 @@
+name = "Death Knights (RPG Series)"
+filename = "Death_Knights-0.3.1beta-MC1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10f4a0b491bc0e6fc588a7280e7d48953d4631a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5653607
+project-id = 968119

@@ -1,0 +1,1 @@
+{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.15.10"}},"create":{"breaks":{"sound-physics-remastered":""}}}}

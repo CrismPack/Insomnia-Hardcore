@@ -1,0 +1,13 @@
+name = "Paradise Lost"
+filename = "paradise-lost-2.2.3-beta+1.20.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7494fdfcc9a2c365780e1398489fb46bcdeaaec6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5645289
+project-id = 418680

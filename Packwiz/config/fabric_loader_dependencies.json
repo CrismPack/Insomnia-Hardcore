@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.15.10"}},"dynamic_fps":{"recommends":{}},"lambdynlights":{"recommends":{}},"nvidium":{"-depends":{"sodium":""}}}}
+{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.15.10"}},"dynamic_fps":{"recommends":{}},"lambdynlights":{"recommends":{}},"nvidium":{"-depends":{"sodium":""}},"create":{"breaks":{"sound-physics-remastered":""}}}}
