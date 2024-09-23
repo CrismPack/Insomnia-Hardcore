@@ -1,6 +1,6 @@
 <!--Modpack Banner-->
 <p style="text-align: center;" alt="Insomnia: Hardcore">
-	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/insomnia/insomnia.png"/>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/insomnia/insomnia.png" width="1000"/>
 </p>
 
 <!--Link Buttons-->
@@ -434,18 +434,3 @@ Wanna get your video featured here? Link it in our <a href="https://discord.gg/K
 </h5>
 
 <br>
-
-<!--Crism Banner-->
-
-<p style="text-align: center;">
-	<a href="https://wiki.crismpack.net/modpacks/insomnia-hardcore">
-		<img src="https://i.imgur.com/79ESzz1.png"/>
-	</a>
-</p>
-
-<!--BisectHosting Banner-->
-
-<p style="text-align: center;">
-	<a href="https://bisecthosting.com/CRISM">
-	<img src="https://www.bisecthosting.com/partners/custom-banners/a4d63c8f-8ca0-4fbe-a8ad-8292edc68a84.png"/>
-</a></p>
