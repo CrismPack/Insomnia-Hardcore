@@ -1,3 +1,6 @@
+# Exclude Modpack-CLI-Tool folder
+Modpack-CLI-Tool
+
 # Exclude exported CurseForge zip files
 /Packwiz/*.zip
 /Server Pack/*.zip

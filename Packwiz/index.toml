@@ -142,7 +142,7 @@ hash = "b19e69b56822cb326928042a1a941c5adf68fc95f871b2e1d0a8cac1ab35d3ed"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ee54083f2e3b838846cd5abebd7de59b33936283b31ce2bbc91fb76cb44ecc47"
+hash = "7d1160745755318bfdbd6d40d0bc2b3775c02d1d2fc2a30c2a071ed1a005d11b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -579,6 +579,14 @@ hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 [[files]]
 file = "global_packs/required_resources/Insomnia Custom Lang/assets/minecraft/lang/en_us.json"
 hash = "99b77bc5350d56f89751ed9543dce3fc1b75c0451f55a830f3ceab1dd7c25951"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Custom Lang/assets/travelerstitles/lang/en_us.json"
+hash = "14960a97340bb4bacd0cdac0cafdd902d2847d62751c7e82a43593150d380205"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Custom Lang/assets/travelerstitles/lang/uk_ua.json"
+hash = "a03702f6fa5305f22b7528cd4b87380a793c432f8c9750dec56a15fed6047168"
 
 [[files]]
 file = "global_packs/required_resources/Insomnia Custom Lang/pack.mcmeta"
@@ -2478,7 +2486,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "51fc17f7865f9aa4539df866f2d3eb1180688f78ce4fa5f370bd76b8cb853edf"
+hash = "0851ca47f3104048f705e0cc42a2ca54bbd3acb01ae9a12d0a945918aa1f05f3"
 metafile = true
 
 [[files]]
