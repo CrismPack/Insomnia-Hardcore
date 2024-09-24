@@ -42,6 +42,6 @@ jobs:
         changelog-path: CurseForge-Release.md
         changelog-format: markdown
         game-version: ${{env.MC_VERSION}}
-        display-name: Insomnia v${{steps.download-files.outputs.tag_name}} for ${{env.MC_VERSION}}
-        server-display-name: Server Pack v${{steps.download-files.outputs.tag_name}} for ${{env.MC_VERSION}}
+        display-name: Insomnia v${{steps.download-files.outputs.tag_name}}
+        server-display-name: Server Pack v${{steps.download-files.outputs.tag_name}}
         release-type: ${{env.RELEASE_TYPE}}
