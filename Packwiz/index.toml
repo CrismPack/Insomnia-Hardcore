@@ -93,8 +93,8 @@ file = "config/combatroll/hud_config.json"
 hash = "90cca9f822e8d32e110347792a55d86e494097d9d6754c280fcd40a8e9d6590c"
 
 [[files]]
-file = "config/darkness.properties"
-hash = "6dfcdfb6c9a0d0d22c135293755a61ed524ad0e95f3a9c75c0498b5cada9ab01"
+file = "config/darkness.json5"
+hash = "48f41ddba2590fc573f10de71d52f31da74931ce00e663883cd07ba3b10d26b4"
 
 [[files]]
 file = "config/debugify.json"
@@ -2303,7 +2303,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness-refabricated.pw.toml"
-hash = "ec83f6b5b972bac6528a7ec65198b5db6592d2d2172bfa9064421fe8942a672a"
+hash = "40e4d0544db5c7b2665bf7dbecb79de489c4b847f3e7980e967ed9a1f66c1b06"
 metafile = true
 
 [[files]]
