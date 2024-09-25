@@ -1232,6 +1232,11 @@ hash = "709d317f886c3cd8586cd7553bfd64fc9fbe99c331242bab51b91b59ff557d78"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "2b5d8d8115fdf4cb1dddab625edd88e168ce30f5fa0c758571b5b33aef34a815"
+metafile = true
+
+[[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
 hash = "96d858465dc3f95046d8aff3d2adeccfd364b713d38ca9168cebe7606b3dc8b5"
 metafile = true

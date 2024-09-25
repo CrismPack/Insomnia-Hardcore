@@ -17,6 +17,8 @@ Mods added: |
   + SuperMartijn642's Config Lib [New dependency of 'Better Archeology']
   + Better Trims
   + Configurable [Dependency of 'Better Trims']
+  + Entity Culling
+
 
 Mods re-added: |
   + Sound Physics Remastered
@@ -209,3 +211,5 @@ Config Changes: |
   = Added override for Create's breakage with 'Sound Physics Remastered': [Fabric Loader], [Both]
   = Changed shaderPack value to "Complementary r5.2.1 [Insomnia Edit]" by default: [Iris], [Client]
   = Changed "requireMod" to "true": [True Darkness Refabricated], [Server]
+  = Deleted "mixin.experimental.chunk_tickets=false" line (effectively enabling it): [Lithium], [Client]
+  = Changed "mixin.experimental" to "true": [Server], [Server]
