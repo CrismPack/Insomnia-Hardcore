@@ -5,6 +5,8 @@ Update overview: |
   - Added 'Death Knights', 'Paradise Lost', 'Advanced Enderite' & 'Better Trims'.
   - Re-added 'Sound Physics Remastered' & 'Hephaestus'.
   - Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
+  - Fixed shader pack unable to be activated with keybind from fresh install.
+  - Updated mods & resource packs.
 
 Mods added: |
   + Cobweb [New dependency of 'Harvest with ease']
@@ -61,6 +63,7 @@ Resource Packs updated: |
   > Fresh Compats
   > xali's Enchanted Books
   > Visual Traveler's Titles
+  > Freshly Modded
 
 
 Shader Packs updated: |
@@ -184,6 +187,57 @@ Mods updated: |
   > YetAnotherConfigLib
   > Zoomify
   > e4mc
+  > Advancement Plaques
+  > Amendments
+  > Armor & damage scaling
+  > AzureLib Armor
+  > AzureLib
+  > Better Archeology
+  > Blockus
+  > Chat Heads
+  > Cloth Config API
+  > Companion 🐕
+  > Connectivity
+  > CraterLib
+  > Deeper and Darker
+  > e4mc
+  > Eldritch End
+  > Elytra Trims
+  > EMI Loot
+  > EMI
+  > Entity Model Features
+  > Entity Texture Features
+  > Every Compat
+  > Expanded Delight
+  > Fabric Language Kotlin
+  > Farmer's Delight Refabricated
+  > Friends & Foes
+  > Fzzy Config
+  > Geophilic
+  > Harvest with ease
+  > Just Enough Items
+  > Let Me Despawn
+  > Lithostitched
+  > MCPitanLib
+  > Mine Cells
+  > MmmMmmMmmMmm
+  > More Armor Trims
+  > No Mob Farms
+  > Not Enough Animations
+  > Particle Core
+  > Polymorph
+  > Puzzles Lib
+  > Philip's Ruins
+  > Saplanting
+  > Moonlight Lib
+  > Simple Discord RPC
+  > Simple Voice Chat
+  > Simply Skills
+  > Create Slice & Dice
+  > Spell Engine
+  > Tectonic
+  > Xaero's Minimap
+
 
 Script/Datapack changes: |
   + 
