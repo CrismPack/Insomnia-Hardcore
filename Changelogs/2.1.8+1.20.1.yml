@@ -3,8 +3,8 @@ name: 2.1.8 for 1.20.1
 Fabric version: Fabric-0.15.11
 Update overview: |
   - Added 'Death Knights' & 'Paradise Lost' mods.
-  - Fixed issue with mobs becoming invincible when attacking with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
-  - Re-added 'Sound Physics Remastered'.
+  - Re-added 'Sound Physics Remastered' & 'Hephaestus'.
+  - Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
 
 Mods added: |
   + Cobweb [New dependency of 'Harvest with ease']
@@ -12,10 +12,11 @@ Mods added: |
   + Sawmill
   + Death Knights
   + Paradise Lost
+  + SuperMartijn642's Config Lib
 
 Mods re-added: |
   + Sound Physics Remastered
-  + SuperMartijn642's Config Lib
+  + Hephaestus
 
 
 Mod side changes: |

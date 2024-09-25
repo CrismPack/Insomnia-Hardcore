@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-fabric.pw.toml"
-hash = "c9c1f68fda0ecaa2698692f946e2e569ef55c4c71e9745b86f28453943df6af9"
+hash = "457b1ace30879d22e9f881f3b3701071648d7988f189a0f11c3a0f56f8e8205e"
 metafile = true
 
 [[files]]
@@ -2287,7 +2287,7 @@ hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
-file = "mods/true-darkness-fork-fabric.pw.toml"
+file = "mods/true-darkness-refabricated.pw.toml"
 hash = "ec83f6b5b972bac6528a7ec65198b5db6592d2d2172bfa9064421fe8942a672a"
 metafile = true
 

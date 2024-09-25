@@ -36,9 +36,8 @@ jobs:
       with:
         api-token: ${{env.CURSEFORGE_TOKEN}}
         project-id: '560596'
-        modpack-path: ./InsomniaHardcore-${{env.MC_VERSION}}-${{steps.download-files.outputs.tag_name}}.zip
-        modpack-server-path: ./InsomniaHardcore-ServerPack-${{env.MC_VERSION}}-${{
-          steps.download-files.outputs.tag_name }}.zip
+        modpack-path: ./InsomniaHardcore-${{steps.download-files.outputs.tag_name}}.zip
+        modpack-server-path: ./InsomniaHardcore-Server-${{steps.download-files.outputs.tag_name}}.zip
         changelog-path: CurseForge-Release.md
         changelog-format: markdown
         game-version: ${{env.MC_VERSION}}
