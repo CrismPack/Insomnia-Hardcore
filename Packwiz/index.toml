@@ -602,6 +602,11 @@ hash = "8aef0ca57651665e0523fbb2022299e46e720af2f1fd9da3c93360dc37eb08eb"
 metafile = true
 
 [[files]]
+file = "mods/advanced-enderite.pw.toml"
+hash = "9c74617dd3d5547318c1938ca9d9e9129833220c38e7f20e71ab6ea3e094f538"
+metafile = true
+
+[[files]]
 file = "mods/advanced-netherite-fabric.pw.toml"
 hash = "5684fd18919e9169a25ca72cf30ce7fb5538f318d0120ee8a3b62f3a4bef5ee0"
 metafile = true
@@ -774,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/better-trim-tooltips.pw.toml"
 hash = "9385b339d42a7c7aa577adb2408b25ff2afe2cbc45af052978a4974efc11c5e7"
+metafile = true
+
+[[files]]
+file = "mods/better-trims.pw.toml"
+hash = "fe64d0af780215ef2da83338b01fdebb38e04ccb4976288700b51e370d681fc0"
 metafile = true
 
 [[files]]
@@ -969,6 +979,11 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "df5f2b8c3894cbfa6b21b2eb4ee9fd0320776a8c4ce1de6b57433db3b50ee6d0"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "18a7f8d0ef2373586d7a871c7cb7bd4c67633b8bb08e99afdd083a060e07fbba"
 metafile = true
 
 [[files]]
@@ -2279,6 +2294,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
 hash = "31b45a23d9e7de7cdb4b34eca8d43d59277c002dee5ac6c6765cce4d8fa1c8fa"
+metafile = true
+
+[[files]]
+file = "mods/trimseffects.pw.toml"
+hash = "5f369273aeeaad501ac005957f19fb1b5d9f49170ee5c5d413a312ca9eca71d7"
 metafile = true
 
 [[files]]

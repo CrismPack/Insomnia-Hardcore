@@ -1,8 +1,8 @@
 name: 2.1.8 for 1.20.1
 
-Fabric version: Fabric-0.15.11
+Fabric version: Fabric-0.16.5
 Update overview: |
-  - Added 'Death Knights' & 'Paradise Lost' mods.
+  - Added 'Death Knights', 'Paradise Lost', 'Advanced Enderite' & 'Better Trims'.
   - Re-added 'Sound Physics Remastered' & 'Hephaestus'.
   - Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
 
@@ -12,7 +12,9 @@ Mods added: |
   + Sawmill
   + Death Knights
   + Paradise Lost
-  + SuperMartijn642's Config Lib
+  + SuperMartijn642's Config Lib [New dependency of 'Better Archeology']
+  + Better Trims
+  + Configurable [Dependency of 'Better Trims']
 
 Mods re-added: |
   + Sound Physics Remastered

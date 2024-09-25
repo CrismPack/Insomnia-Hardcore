@@ -9,3 +9,7 @@
 
 
 #### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomniahardcore/changelog/1.20.1#v2.1.8)**
+
+<br>
+
+[![BisectHosting Banner](https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc/insomnia/bhbanner.png)](https://bisecthosting.com/CRISM)
