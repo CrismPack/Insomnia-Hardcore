@@ -1,4 +1,4 @@
-name: 2.1.8 for 1.20.1
+name: 2.2.0 for 1.20.1
 
 Fabric version: Fabric-0.16.5
 Update overview: |
@@ -7,6 +7,7 @@ Update overview: |
   - Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
   - Fixed shader pack unable to be activated with keybind from fresh install.
   - Updated mods & resource packs.
+
 
 Mods added: |
   + Cobweb [New dependency of 'Harvest with ease']
@@ -17,7 +18,9 @@ Mods added: |
   + SuperMartijn642's Config Lib [New dependency of 'Better Archeology']
   + Better Trims
   + Configurable [Dependency of 'Better Trims']
-  + Entity Culling
+  + Entity Culling [Client]
+  + Elytra Physics [Client]
+  + Phantom Config
 
 
 Mods re-added: |
@@ -43,6 +46,7 @@ Data Packs added: |
 
 Mods removed: |
   - C2ME
+  - Phantom Config Fork
 
 
 Mods disabled: |
@@ -200,6 +204,12 @@ Mods updated: |
   > YetAnotherConfigLib
   > Zoomify
   > e4mc
+  > Alternate Current
+  > ImmediatelyFast
+  > OptiGUI
+  > Pehkui
+  > Pufferfish's Skills
+  > TooManyOrigins
 
 
 Script/Datapack changes: |
@@ -213,3 +223,4 @@ Config Changes: |
   = Changed "requireMod" to "true": [True Darkness Refabricated], [Server]
   = Deleted "mixin.experimental.chunk_tickets=false" line (effectively enabling it): [Lithium], [Client]
   = Changed "mixin.experimental" to "true": [Server], [Server]
+  = Removed "minecells:minecells_guidebook" item from starterkit: [StarterKit], [Client]

@@ -10,7 +10,7 @@
 - Updated mods & resource packs.
 
 
-#### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomniahardcore/changelog/1.20.1#v2.1.8)**
+#### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomniahardcore/changelog/1.20.1#v2.2.0)**
 
 <br>
 

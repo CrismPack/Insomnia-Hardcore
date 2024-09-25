@@ -1,0 +1,13 @@
+name = "Phantom Config"
+filename = "phantomconfig-1.1.0+1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d154e1a7d1fb85c8a7399eed96c25e69453b6bc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4957567
+project-id = 623883
