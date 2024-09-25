@@ -318,7 +318,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "6aaf7ae4ee04481b584ae03ede21000f68a013c63e59b8a83138d2e57a2775c9"
+hash = "5e1434816f721066dceb44e4adcda6e442ea99a7fc757b36af5cfd52ae71ee41"
 
 [[files]]
 file = "config/respawningstructures.json"

@@ -72,9 +72,11 @@ Shader Packs updated: |
 
 Mods updated: |
   > Advanced Netherite
+  > Advancement Plaques
   > Alternate Origin GUI
   > Amendments
   > Animatica
+  > Armor & damage scaling
   > AzureLib
   > AzureLib Armor
   > Balm
@@ -85,9 +87,11 @@ Mods updated: |
   > Branded Logs
   > Chat Heads
   > Chat Patches
+  > Cloth Config API
   > Collective
   > Combat Roll
   > Compact Help Command
+  > Companion
   > Companion
   > CompleteConfig
   > Connectivity
@@ -101,6 +105,7 @@ Mods updated: |
   > Dyed
   > EMI
   > EMI Loot
+  > Eldritch End
   > Elytra Slot
   > Elytra Trims
   > Elytra Trims Extensions
@@ -110,9 +115,11 @@ Mods updated: |
   > Entity Model Features
   > Entity Texture Features
   > Every Compat
+  > Expanded Delight
   > Fabric Language Kotlin
   > Farmer's Delight Refabricated
   > Formations Overworld
+  > Friends & Foes
   > Friends&Foes
   > Furnace Recycle
   > Fzzy Config
@@ -123,8 +130,8 @@ Mods updated: |
   > Iris & Oculus Flywheel Compat
   > Iris Shaders
   > Item Obliterator
-  > Jade Addons
   > Jade
+  > Jade Addons
   > Just Enough Items
   > Let Me Despawn
   > Let's Do API
@@ -144,6 +151,7 @@ Mods updated: |
   > Neruina
   > Neruina - Ticking Entity Fixer
   > Nether Portal Spread
+  > No Mob Farms
   > Noisium
   > Not Enough Animations
   > Open Parties and Claims
@@ -151,6 +159,7 @@ Mods updated: |
   > Particle Core
   > Persistent Inventory Search
   > Philip's Ruins
+  > Polymorph
   > Puzzles Lib
   > Raised
   > Ranged Weapon API
@@ -159,6 +168,7 @@ Mods updated: |
   > Resourceful Lib
   > Rhino
   > Runes
+  > Saplanting
   > Savage Ender Dragon
   > Separated Leaves
   > Simple Discord RPC
@@ -187,56 +197,6 @@ Mods updated: |
   > YetAnotherConfigLib
   > Zoomify
   > e4mc
-  > Advancement Plaques
-  > Amendments
-  > Armor & damage scaling
-  > AzureLib Armor
-  > AzureLib
-  > Better Archeology
-  > Blockus
-  > Chat Heads
-  > Cloth Config API
-  > Companion 🐕
-  > Connectivity
-  > CraterLib
-  > Deeper and Darker
-  > e4mc
-  > Eldritch End
-  > Elytra Trims
-  > EMI Loot
-  > EMI
-  > Entity Model Features
-  > Entity Texture Features
-  > Every Compat
-  > Expanded Delight
-  > Fabric Language Kotlin
-  > Farmer's Delight Refabricated
-  > Friends & Foes
-  > Fzzy Config
-  > Geophilic
-  > Harvest with ease
-  > Just Enough Items
-  > Let Me Despawn
-  > Lithostitched
-  > MCPitanLib
-  > Mine Cells
-  > MmmMmmMmmMmm
-  > More Armor Trims
-  > No Mob Farms
-  > Not Enough Animations
-  > Particle Core
-  > Polymorph
-  > Puzzles Lib
-  > Philip's Ruins
-  > Saplanting
-  > Moonlight Lib
-  > Simple Discord RPC
-  > Simple Voice Chat
-  > Simply Skills
-  > Create Slice & Dice
-  > Spell Engine
-  > Tectonic
-  > Xaero's Minimap
 
 
 Script/Datapack changes: |

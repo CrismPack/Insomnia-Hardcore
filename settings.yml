@@ -2,7 +2,7 @@ modpack_name: "InsomniaHardcore"
 minecraft_version: "1.20.1"
 
 export_client: True
-export_server: False
+export_server: True
 
 refresh_only: False
 update_bcc_version: True
