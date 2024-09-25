@@ -224,3 +224,5 @@ Config Changes: |
   = Deleted "mixin.experimental.chunk_tickets=false" line (effectively enabling it): [Lithium], [Client]
   = Changed "mixin.experimental" to "true": [Server], [Server]
   = Removed "minecells:minecells_guidebook" item from starterkit: [StarterKit], [Client]
+  = Changed boss health and damage scale from "1.0" to "2.0": [Dungeon Now Loading 1%], [Both]
+  = Changed dungeon mob health and attack scale from "1.0" to "1.5": [Dungeon Now Loading 1%], [Both]

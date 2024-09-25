@@ -1107,6 +1107,11 @@ hash = "0e6f24252e90dbf9293b523a7256acd532912f5ca7a3c4cf131f3c56a247bf10"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+hash = "ade4c3026cf78133bda027958ce8b504076cd30d94580f93510a71696321e3ce"
+metafile = true
+
+[[files]]
 file = "mods/dusk.pw.toml"
 hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
 metafile = true
