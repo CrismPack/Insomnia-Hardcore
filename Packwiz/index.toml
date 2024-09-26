@@ -113,6 +113,10 @@ file = "config/dungeon_difficulty_v2.json"
 hash = "e1d40e35720eeb38af366d22044d2bc32b2d89992e657e1eaddb0583eee3a6ca"
 
 [[files]]
+file = "config/dungeonnowloading-server.toml"
+hash = "05e84411caa3f71fa8e7a84335a73238bb11b4eadab8732b8e13e0b1dfcfb7d5"
+
+[[files]]
 file = "config/dusk.json"
 hash = "68ed77369dae4f4dda844fd69e6045db4f25308e0ef9c2351bfbd20406dbaa06"
 
@@ -305,12 +309,16 @@ file = "config/particle_core_config.toml"
 hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
 
 [[files]]
-file = "config/phantomconfigfork.json5"
-hash = "c2acbab2b98525d6e4646945297338123d662d3a6c5df6cde15513835aeea3d2"
+file = "config/phantomconfig.json5"
+hash = "59481783300a6fcd5b0460e1f28c12543f2502779394f26929950b256e679689"
 
 [[files]]
 file = "config/power_config.json5"
 hash = "eb7922189ce1e0c02d46e7823a536e65cd329ec1ae9e32285960bc3876674b81"
+
+[[files]]
+file = "config/recipeessentials.json"
+hash = "80f1ae8517f9ba265ba0620bc701298cc95ae7b93fd5da23782ce56d1743f8ea"
 
 [[files]]
 file = "config/regions_unexplored.conf"
@@ -362,7 +370,7 @@ hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "f1dd01785cb3689c7983945355c172344b36fdbba208d1bc49bdffc22eb128fb"
+hash = "095430790ec08d5dd3fe56f45d562386724af4062c965733736fc659ee141866"
 
 [[files]]
 file = "config/starterstructure.json5"
@@ -1492,11 +1500,6 @@ hash = "809c13f43e35f7792d420ba0d525fa2adb339886766b55c588ed52c0023e08af"
 metafile = true
 
 [[files]]
-file = "mods/improved-stations-for-1-19.pw.toml"
-hash = "af00ec366a35ad6d6f1e6ed3ea7a69b85bd41ec90e7055b86c17afead2458121"
-metafile = true
-
-[[files]]
 file = "mods/incantationem.pw.toml"
 hash = "6035dc99eebe6cf06ce56952046989133b17e601aeed3a2ea05a22dae6e880e9"
 metafile = true
@@ -1962,11 +1965,6 @@ hash = "f7067c0074aa8a7bf8074ac93eb2ac694d29bff5be2ba20f750eec7e14d837ce"
 metafile = true
 
 [[files]]
-file = "mods/phantom-config-fork-fabric.pw.toml"
-hash = "c99d9941789355b72326f1ecc158f1243280852b31bb4f4fbcaf7d16a1d226c8"
-metafile = true
-
-[[files]]
 file = "mods/phantom-config.pw.toml"
 hash = "684881ce77f7dd02e3c3cde360d3bdaaf7f14b4b5f4289d0ef3d1fa588db8ad7"
 metafile = true
@@ -2207,6 +2205,11 @@ hash = "1338fe3f258a472b58526481cba2bf624d966866f4cde360e466caa5c9d24274"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
+metafile = true
+
+[[files]]
 file = "mods/starter-items.pw.toml"
 hash = "38e1c51d6bf73c3ec5cad632092df41f97a9e27cfd050ca8fb9f665f76b4164f"
 metafile = true
@@ -2349,11 +2352,6 @@ metafile = true
 [[files]]
 file = "mods/village-nullifier-mod.pw.toml"
 hash = "624275b0f64a7a137599a29dd41d9834a8d726d5fec9a17878977cdff613fa5a"
-metafile = true
-
-[[files]]
-file = "mods/village-nullifier.pw.toml"
-hash = "5add3fcf11c147962f7e2fbbfddcb82c68b6746134d22162ee0717489aa31211"
 metafile = true
 
 [[files]]
