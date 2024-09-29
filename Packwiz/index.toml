@@ -21,10 +21,6 @@ file = "config/RandomTP/messages.yml"
 hash = "3e3dcde5510f76d9396d170f9639cfeb056aa5f2deb11300b0bae4a52b2095f0"
 
 [[files]]
-file = "config/TrueDarknessFork.json5"
-hash = "ebda779a990768c43517ab2cf3479296751eff39cc64b081340da4fdaf85c1e3"
-
-[[files]]
 file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
