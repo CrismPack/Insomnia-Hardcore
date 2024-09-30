@@ -1,7 +1,7 @@
-name: 2.1.7 for 1.20.1
+version: 2.1.7
 
-Fabric version: Fabric-0.15.11
-Update overview: |
+Fabric version: 0.15.11
+Update overview:
   - Added 'Rogues & Warriors' mod.
   - Updated the 'RPG Series' suite of mods, fixing deserialization crash on servers. [[Issue]](https://github.com/ZsoltMolnarrr/SpellEngine/issues/62)
   - Implemented a script that schedules respawn waves on servers. (Monday, Wednesday, Friday, Saturday & Sunday by default)

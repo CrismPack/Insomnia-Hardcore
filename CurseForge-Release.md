@@ -3,6 +3,8 @@
 
 
 
+### Changes/Improvements ⭐
+
 - Added 'Death Knights' mod, become a deathbringer using blood, unholy and frost magic.
 - Added 'Advanced Enderite' mod, giving Enderite armor & tools upgradable tiers.
 - Added 'Better Trims' mod, making trim materials give additional attributes.
@@ -12,10 +14,13 @@
 - Re-added 'Paradise Lost' mod, the return of the Aether dimension.
 - Re-added 'Sound Physics Remastered' mod, bringing back cave reverbs!
 - Re-added 'Hephaestus' mod, bringing back the classic smeltery & tool forging.
-- Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
-- Fixed shader pack unable to be activated with keybind from fresh install.
 - Minor quality of life changes & performance gains.
 - Updated mods & resource packs.
+
+### Bug Fixes 🪲
+
+- Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
+- Fixed shader pack unable to be activated with keybind from fresh install.
 
 #### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomniahardcore/changelog/1.20.1#v2.2.0)**
 

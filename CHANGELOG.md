@@ -3,6 +3,7 @@
 *Fabric Loader 0.16.5* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.2.0.md)*
 
 ### Changes/Improvements ⭐
+
 - Added 'Death Knights' mod, become a deathbringer using blood, unholy and frost magic.
 - Added 'Advanced Enderite' mod, giving Enderite armor & tools upgradable tiers.
 - Added 'Better Trims' mod, making trim materials give additional attributes.
@@ -15,12 +16,13 @@
 - Minor quality of life changes & performance gains.
 - Updated mods & resource packs.
 
-
 ### Bug Fixes 🪲
+
 - Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
 - Fixed shader pack unable to be activated with keybind from fresh install.
 
 ### Added Mods ✅
+
 - Advanced Enderite
 - Better Trims
 - Cobweb
@@ -40,6 +42,7 @@
 - True Darkness Refabricated
 
 ### Removed Mods ❌
+
 - Concurrent Chunk Management Engine (Fabric)
 - Improved Stations Updated (Fabric)
 - Phantom Config Fork [Fabric]
