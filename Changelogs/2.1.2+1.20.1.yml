@@ -1,0 +1,61 @@
+version: v2.1.2
+
+Fabric version: Fabric-0.15.7
+Update overview: 
+  - Reverted 'OPAC' and 'OPAC Create Support' update to fix issues with pipes from 'Create'. [https://github.com/thexaero/open-parties-and-claims/issues/446]
+  - Made the difficulty scaling of dungeons and bosses even more aggressive.
+  - Changed recipes for Metal Bundles to be more expensive.
+
+Mods added: |
+  + 
+
+Mods re-enabled: |
+  + 
+
+Mod side changes: |
+  = [Both --> Client]
+
+Metadata changes: |
+  =  [Bundled --> CF]
+
+
+Resource Packs added: |
+  + 
+
+Data Packs added: |
+  + 
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+Resource Packs removed: |
+  - 
+
+Data Packs removed: |
+  - 
+
+Mod updates reverted: |
+  > Create Support for Open Parties and Claims
+  > Open Parties and Claims [https://github.com/thexaero/open-parties-and-claims/issues/446]
+
+Resource Packs updated:
+  > 
+
+Mods updated: 
+  > 
+
+Config Changes: |
+  = Replaced all recipes for Metal Bundles to use blocks: [Insomnia - Config], [Both]
+  = Added entry for "betternether:nether_city": [Dungeon Difficulty], [Both]
+  = Added attributes for health and armor for the dungeon difficulty type: [Dungeon Difficulty], [Both]
+  = Armor addition set to "1.0" for the dungeon difficulty type: [Dungeon Difficulty], [Both]
+  = Health multiplier set to "0.1" for the dungeon difficulty type: [Dungeon Difficulty], [Both]
+  = Increased the experience multiplier from "0.0" to "0.3" for the dungeon difficulty type: [Dungeon Difficulty], [Both]
+  = Increased the damage multiplier from "0.1" to "1.0" for the dungeon difficulty type: [Dungeon Difficulty], [Both]
+  = Increased the damage multiplier from "0.25" to "2.0" for the boss difficulty type: [Dungeon Difficulty], [Both]
+  = Increased the armor multiplier from "0.25" to "1.0" for the boss difficulty type: [Dungeon Difficulty], [Both]
+  = Increased the health multiplier from "0.5" to "1.0" for the boss difficulty type: [Dungeon Difficulty], [Both]

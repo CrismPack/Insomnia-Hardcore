@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG-test.md"
-hash = "8bf04f13692cb851557bb958128b9bdb0f46c1d0198fe5fd98cedce5b6b118a5"
-
-[[files]]
 file = "config/FabricTPA.properties"
 hash = "9a65dce4b8f9f00dfd5565680c31c9d8cb8fff9e29bbdb248fff2a14bd1db0f5"
 
