@@ -5,7 +5,7 @@
 
 ## InsomniaHardcore | v2.2.0
 
-*Fabric Loader 0.16.5* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.2.0.md)*
+*Fabric Loader 0.16.5* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.2.0.md)*
 
 ### Changes/Improvements ⭐
 
@@ -57,7 +57,7 @@
 
 ## InsomniaHardcore | v2.1.7
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.7.md)*
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.7.md)*
 
 ### Update overview
 
@@ -91,7 +91,7 @@
 
 ## InsomniaHardcore | v2.1.6
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.6.md)*
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.6.md)*
 
 ### Update overview
 
@@ -126,7 +126,7 @@
 
 ## InsomniaHardcore | v2.1.5
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.5.md)*
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.5.md)*
 
 ### Update overview
 
@@ -156,7 +156,7 @@
 
 ## InsomniaHardcore | v2.1.4a
 
-*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.4a.md)*
+*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.4a.md)*
 
 ### Update overview
 
@@ -166,7 +166,7 @@
 
 ## InsomniaHardcore | v2.1.4
 
-*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.4.md)*
+*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.4.md)*
 
 ### Update overview
 
@@ -194,7 +194,7 @@
 
 ## InsomniaHardcore | v2.1.3
 
-*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.3.md)*
+*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.3.md)*
 
 ### Update overview
 
@@ -252,7 +252,7 @@
 
 ## InsomniaHardcore | v2.1.2
 
-*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.2.md)*
+*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.2.md)*
 
 ### Update overview
 
@@ -264,7 +264,7 @@
 
 ## InsomniaHardcore | v2.1.1
 
-*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.1.md)*
+*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.1.md)*
 
 ### Update overview
 
@@ -281,7 +281,7 @@
 
 ## InsomniaHardcore | v2.1.0
 
-*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.1.0.md)*
+*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.1.0.md)*
 
 ### Update overview
 
@@ -343,7 +343,7 @@
 
 ## InsomniaHardcore | v2.0.0
 
-*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/main/changelogs/changelog_mods_2.0.0.md)*
+*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/changelogs/changelog_mods_2.0.0.md)*
 
 ### Update overview
 
