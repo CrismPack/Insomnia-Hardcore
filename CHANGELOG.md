@@ -3,7 +3,11 @@
 
 
 
-## InsomniaHardcore | v2.2.0
+##### InsomniaHardcore
+
+# Changelog - 1.20.1
+
+## v2.2.0
 
 *Fabric Loader 0.16.5* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md)*
 
@@ -53,9 +57,7 @@
 - Phantom Config Fork 
 - True Darkness Fork
 
----
-
-## InsomniaHardcore | v2.1.7
+## v2.1.7
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.7.md)*
 
@@ -87,9 +89,7 @@
 - AntiXray 
 - RandomTP
 
----
-
-## InsomniaHardcore | v2.1.6
+## v2.1.6
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.6.md)*
 
@@ -122,9 +122,7 @@
 - TieFix
 - Unsafe World Random Access Detector
 
----
-
-## InsomniaHardcore | v2.1.5
+## v2.1.5
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.5.md)*
 
@@ -152,9 +150,7 @@
 - SuperMartijn642's Config Lib
 - TipTheScales
 
----
-
-## InsomniaHardcore | v2.1.4a
+## v2.1.4a
 
 *Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md)*
 
@@ -162,9 +158,7 @@
 
 - Client hotfix, fixing hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
 
----
-
-## InsomniaHardcore | v2.1.4
+## v2.1.4
 
 *Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md)*
 
@@ -190,9 +184,7 @@
 - Elytra Physics
 - Redirector
 
----
-
-## InsomniaHardcore | v2.1.3
+## v2.1.3
 
 *Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md)*
 
@@ -248,9 +240,7 @@
 - TimeOutOut 
 - Xaero's Minimap
 
----
-
-## InsomniaHardcore | v2.1.2
+## v2.1.2
 
 *Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md)*
 
@@ -260,9 +250,7 @@
 - Made the difficulty scaling of dungeons and bosses even more aggressive.
 - Changed recipes for Metal Bundles to be more expensive.
 
----
-
-## InsomniaHardcore | v2.1.1
+## v2.1.1
 
 *Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md)*
 
@@ -277,9 +265,7 @@
 
 - Icterine
 
----
-
-## InsomniaHardcore | v2.1.0
+## v2.1.0
 
 *Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md)*
 
@@ -339,9 +325,7 @@
 - Roughly Enough Trades
 - Structure Essentials
 
----
-
-## InsomniaHardcore | v2.0.0
+## v2.0.0
 
 *Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md)*
 
@@ -359,5 +343,3 @@
 - Updated all mods to their latest version.
 - General cleanup and polish.
 - And more...
-
----
