@@ -17,11 +17,11 @@ Mods re-enabled: |
 
 
 Mod side changes: |
-  = Mod Menu [Both --> Client]
+  - Mod Menu [Both --> Client]
 
 
 Metadata changes: |
-  =  [Bundled --> CF]
+  -  [Bundled --> CF]
 
 
 Resource Packs added:
@@ -64,8 +64,8 @@ Mods updated: |
 
 
 Config Changes: |
-  = Added structure IDs for BOMD boss structures: [Respawning Structures], [Both]
-  = Added structure ID "riendsandfoes:citadel": [Respawning Structures], [Both]
-  = Added entries for modded chest loot tables to allow for detecting and respawning modded dungeons: [Respawning Structures], [Both]
-  = Blacklisted "integrated_stronghold:stronghold": [Respawning Structures], [Both]
-  = Changed screenTypingVisible to "false": [What are they up to?], [Client]
+  - Added structure IDs for BOMD boss structures: [Respawning Structures], [Both]
+  - Added structure ID "riendsandfoes:citadel": [Respawning Structures], [Both]
+  - Added entries for modded chest loot tables to allow for detecting and respawning modded dungeons: [Respawning Structures], [Both]
+  - Blacklisted "integrated_stronghold:stronghold": [Respawning Structures], [Both]
+  - Changed screenTypingVisible to "false": [What are they up to?], [Client]

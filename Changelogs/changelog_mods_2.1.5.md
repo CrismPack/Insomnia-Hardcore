@@ -6,7 +6,6 @@
 - Mmm Indicators
 ## Removed
 
-- Better Sodium Video Settings Button
 - Crafting Manipulator
 - DoesPotatoTick?
 - Faux Custom Entity Data

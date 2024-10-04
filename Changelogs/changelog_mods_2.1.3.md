@@ -5,6 +5,7 @@
 - Concurrent Chunk Management Engine
 - Connectivity
 - Cubes Without Borders
+- DoesPotatoTick?
 - Embeddium
 - Every Compat
 - Farmer's Delight Refabricated
@@ -29,7 +30,6 @@
 - Limited Chunkloading - Chunk cleanup
 - Mobs Attempt Parkour
 - Mobtimizations - Entity Performance Fixes
-- PlayerEx
 - Recipe Book Delight
 - Reese's Sodium Options
 - Shield Overhaul
@@ -71,7 +71,6 @@
 - **Faster Random**: Changed from `fasterrandom-3.0.3.jar` to `fasterrandom-4.1.0.jar`
 - **Formations Overworld**: Changed from `formationsoverworld-1.0.2.jar` to `formationsoverworld-1.0.3.jar`
 - **Hearths**: Changed from `hearths-v1.0.0-mc1.20u1.20.1.jar` to `hearths-v1.0.0.jar`
-- **Hephaestus Fabric**: Changed from `Hephaestus-1.20.1-3.6.4.271.jar` to `Hephaestus-1.20.1-3.6.4.273.jar`
 - **ImmediatelyFast**: Changed from `ImmediatelyFast-Fabric-1.2.11+1.20.4.jar` to `ImmediatelyFast-Fabric-1.2.14+1.20.4.jar`
 - **Iris Shaders**: Changed from `iris-mc1.20.1-1.6.17.jar` to `iris-1.7.0+mc1.20.1.jar`
 - **Jade Addons**: Changed from `JadeAddons-1.20.1-fabric-5.2.3.jar` to `JadeAddons-1.20.1-fabric-5.2.5.jar`

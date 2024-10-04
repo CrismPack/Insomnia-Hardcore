@@ -29,7 +29,9 @@
 ## Removed
 
 - Concurrent Chunk Management Engine
+- CIT Resewn
 - Dark Enchanting
+- Elytra Physics
 - fabric-permissions-api
 - Heartbond
 - Incendium
@@ -37,13 +39,11 @@
 - Roughly Enough Items Fabric/Forge
 - Roughly Enough Professions
 - Roughly Enough Resources
-- Roughly Enough Trades
 - Structure Essentials
 ## Modified
 
 - **Amendments**: Changed from `amendments-1.20-1.1.12-fabric.jar` to `amendments-1.20-1.1.14-fabric.jar`
 - **Archers**: Changed from `archers-1.0.7+1.20.1.jar` to `archers-1.1.0+1.20.1.jar`
-- **CIT Resewn**: Changed from `CITResewn-1.1.3+1.20.jar` to `citresewn-1.1.5+1.20.1.jar`
 - **Crafting Manipulator**: Changed from `crafting-manipulator-4.1.0+1.20.jar` to `crafting-manipulator-4.2.0+1.20.jar`
 - **Elytra Trims Extensions**: Changed from `elytratrims_extensions-fabric-2.0.0.jar` to `elytratrims_extensions-fabric-2.1.0.jar`
 - **Elytra Trims**: Changed from `elytratrims-fabric-2.0.4+1.20.1.jar` to `elytratrims-fabric-2.1.1+1.20.1.jar`

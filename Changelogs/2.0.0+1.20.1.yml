@@ -2,7 +2,7 @@ version: 2.0.0
 
 Disclaimer: It is highly recommended to do a clean install of the modpack when jumping to this version!
 
-Fabric version: Fabric-0.15.7
+Fabric version: 0.15.7
 Update overview: 
   - First proper release version for 1.20.1!
   - Players now spawn with a guidebook for 'Mine Cells' as well as a custom banner that can be equipped as a cape.
@@ -124,22 +124,22 @@ Mods updated: |
   > YUNG's Better Nether Fortresses
 
 Config Changes: |
-  = Changed default value for particles to 1 (decreased): [YOSBR], [Client]
-  = Changed encounter to be "rare": [From The Fog], [Both]
-  = Disabled major haunting: [From The Fog], [Both]
-  = Disabled "Ocean Sand Pyramid" structure from spawning: [From The Fog], [Both]
-  = Disabled "Stone Bee" structure from spawning: [Moog's Voyager Structures], [Both]
-  = Changed "Official Server" button to link to insomnia.crismpack.net: [FancyMenu], [Client]
-  = Changed built-in server to "insomnia.crismpack.net": [Builtin Servers], [Client]
-  = Removed main menu background panorama (Allows the panorama to be controlled though resource packs instead): [FancyMenu], [Client]
-  = Added background panorama override: [Insomnia Textures], [Client]
-  = Changed disableSleep to "false": [Dusk], [Both]
-  = Changed minSleepTime to "0": [Dusk], [Both]
-  = Executes "gamerule keepInventory true" on load: [Insomnia Config], [Both]
-  = Executes "gamerule allowSleeping false" on load: [Insomnia Config], [Both]
-  = Fixed formatting of modded built-in textures: [Resource Pack Overrides], [Client]
-  = Fixed new players not spawning inside the starter structure: [Insomnia Respawn], [Server]
-  = Filter "Too many items! Cleared 1001 tasks." console spam: [Log Begone], [Both]
-  = Commented out starter item lines to let it be handled by 'StarterKit': [Starter Items], [Server]
-  = Set up starter items to be handled by this mod: [StarterKit], [Server]
-  = Added MineCells guidebook & custom banner as starter items: [StarterKit], [Both]
+  - Changed default value for particles to 1 (decreased): [YOSBR], [Client]
+  - Changed encounter to be "rare": [From The Fog], [Both]
+  - Disabled major haunting: [From The Fog], [Both]
+  - Disabled "Ocean Sand Pyramid" structure from spawning: [From The Fog], [Both]
+  - Disabled "Stone Bee" structure from spawning: [Moog's Voyager Structures], [Both]
+  - Changed "Official Server" button to link to insomnia.crismpack.net: [FancyMenu], [Client]
+  - Changed built-in server to "insomnia.crismpack.net": [Builtin Servers], [Client]
+  - Removed main menu background panorama (Allows the panorama to be controlled though resource packs instead): [FancyMenu], [Client]
+  - Added background panorama override: [Insomnia Textures], [Client]
+  - Changed disableSleep to "false": [Dusk], [Both]
+  - Changed minSleepTime to "0": [Dusk], [Both]
+  - Executes "gamerule keepInventory true" on load: [Insomnia Config], [Both]
+  - Executes "gamerule allowSleeping false" on load: [Insomnia Config], [Both]
+  - Fixed formatting of modded built-in textures: [Resource Pack Overrides], [Client]
+  - Fixed new players not spawning inside the starter structure: [Insomnia Respawn], [Server]
+  - Filter "Too many items! Cleared 1001 tasks." console spam: [Log Begone], [Both]
+  - Commented out starter item lines to let it be handled by 'StarterKit': [Starter Items], [Server]
+  - Set up starter items to be handled by this mod: [StarterKit], [Server]
+  - Added MineCells guidebook & custom banner as starter items: [StarterKit], [Both]

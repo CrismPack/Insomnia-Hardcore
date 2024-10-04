@@ -1,6 +1,6 @@
 version: 2.1.4a
 
-Fabric version: Fabric-0.15.11
+Fabric version: 0.15.11
 Update overview: 
   - Client hotfix, fixing hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
 
@@ -11,10 +11,10 @@ Mods re-enabled: |
   + 
 
 Mod side changes: |
-  = [Both --> Client]
+  - [Both --> Client]
 
 Metadata changes: |
-  =  [Bundled --> CF]
+  -  [Bundled --> CF]
 
 
 Resource Packs added: |
@@ -49,4 +49,4 @@ Mods updated: |
 
 
 Config Changes: |
-  = : [mod], [Client]
+

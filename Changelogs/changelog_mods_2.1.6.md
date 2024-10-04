@@ -7,16 +7,14 @@
 - Ranged Weapon API
 - Structure Essentials
 - ThreadTweak
+- Villagers Respawn
 ## Removed
 
 - All The Trims
-- Armor Sound Tweak
 - BadOptimizations
-- Damage Tilt
 - Delightful Creators
 - Faster Random
 - Pufferfish's Attributes
-- Starlight
 - StutterFix
 - TieFix
 - Unsafe World Random Access Detector

@@ -5,15 +5,9 @@
 
 ### Changes/Improvements ⭐
 
-- Added 'Death Knights' mod, become a deathbringer using blood, unholy and frost magic.
-- Added 'Advanced Enderite' mod, giving Enderite armor & tools upgradable tiers.
-- Added 'Better Trims' mod, making trim materials give additional attributes.
-- Added 'Daily Rewards' mod, giving players daily rewards for simply logging in.
-- Added 'Dungeon Now Loading 1%' mod, which includes a new dungeon & boss to the Overworld.
-- Added 'Create Enchantment Industry' mod, which is all about handling XP and enchanting with Create.
-- Re-added 'Paradise Lost' mod, the return of the Aether dimension.
-- Re-added 'Sound Physics Remastered' mod, bringing back cave reverbs!
-- Re-added 'Hephaestus' mod, bringing back the classic smeltery & tool forging.
+- New dungeon & boss in the Overworld.
+- Return of the Aether dimension.
+- Armor trim materials now give additional attributes when worn.
 - Minor quality of life changes & performance gains.
 - Updated mods & resource packs.
 

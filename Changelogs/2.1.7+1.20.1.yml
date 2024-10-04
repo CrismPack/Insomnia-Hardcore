@@ -28,11 +28,11 @@ Mods re-enabled: |
 
 
 Mod side changes: |
-  =  [Client --> Both]
+  -  [Client --> Both]
 
 
 Metadata changes: |
-  =  [Bundled --> CF]
+  -  [Bundled --> CF]
 
 
 Resource Packs added: |
@@ -91,10 +91,10 @@ Script/Datapack changes: |
 
 
 Config Changes: |
-  = Changed update_checker to "false": [Mod Menu], [Client]
-  = Moved 'Fresh Animations Extensions' above the FA compat packs: [Resource Pack Overrides], [Client]
-  = Set days array for respawn_schedule script to "[1, 3, 5, 6, 7]": [KubeJS], [Server]
-  = Set targetHour for respawn_schedule script to "15": [KubeJS], [Server]
-  = Set targetMinute for respawn_schedule script to "0": [KubeJS], [Server]
-  = Removed "Warning" text from death screen: [FancyMenu], [Client]
-  = Changed enable-command-block to "true" by default: [Default Server Properties], [Server]
+  - Changed update_checker to "false": [Mod Menu], [Client]
+  - Moved 'Fresh Animations Extensions' above the FA compat packs: [Resource Pack Overrides], [Client]
+  - Set days array for respawn_schedule script to "[1, 3, 5, 6, 7]": [KubeJS], [Server]
+  - Set targetHour for respawn_schedule script to "15": [KubeJS], [Server]
+  - Set targetMinute for respawn_schedule script to "0": [KubeJS], [Server]
+  - Removed "Warning" text from death screen: [FancyMenu], [Client]
+  - Changed enable-command-block to "true" by default: [Default Server Properties], [Server]

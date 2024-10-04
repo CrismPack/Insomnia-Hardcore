@@ -1,6 +1,6 @@
 version: 2.1.4
 
-Fabric version: Fabric-0.15.11
+Fabric version: 0.15.11
 Update overview: 
   - Added some neat animation related resource packs and mods.
   - Changed potions to be stackable up to 16.
@@ -19,10 +19,10 @@ Mods re-enabled: |
   + 
 
 Mod side changes: |
-  = [Both --> Client]
+  - [Both --> Client]
 
 Metadata changes: |
-  =  [Bundled --> CF]
+  -  [Bundled --> CF]
 
 
 Resource Packs added: |
@@ -100,9 +100,9 @@ Mods updated: |
 
 
 Config Changes: |
-  = Changed preventFirstPersonHandAnimating to "true": [Entity Model Features], [Client]
-  = Changed skinTransparencyMode to "ALL": [Entity Texture Features], [Client]
-  = Moved arrow to the bottom right corner: [Combat Roll], [Client]
-  = Deleted ping placeholder: [Styled Player List], [Server]
-  = Fixed alignment of "Insomnia: Hardcore" text: [Styled Player List], [Server]
-  = Force enabled 'Fresh Moves' & 'FreshCompats': [Resource Pack Overrides], [Client]
+  - Changed preventFirstPersonHandAnimating to "true": [Entity Model Features], [Client]
+  - Changed skinTransparencyMode to "ALL": [Entity Texture Features], [Client]
+  - Moved arrow to the bottom right corner: [Combat Roll], [Client]
+  - Deleted ping placeholder: [Styled Player List], [Server]
+  - Fixed alignment of "Insomnia: Hardcore" text: [Styled Player List], [Server]
+  - Force enabled 'Fresh Moves' & 'FreshCompats': [Resource Pack Overrides], [Client]

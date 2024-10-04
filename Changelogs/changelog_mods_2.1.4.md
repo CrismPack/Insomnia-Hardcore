@@ -9,7 +9,6 @@
 ## Removed
 
 - AntiGhost
-- Elytra Physics
 - Redirector
 ## Modified
 

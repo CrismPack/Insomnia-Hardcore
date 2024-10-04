@@ -1056,11 +1056,6 @@ hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
-file = "mods/daily-rewards.pw.toml"
-hash = "61452d438ee37b8794f439fe347a8bb530482f6dec894b4233aaefec2847a7a4"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "417a83ae5e3130f95c3c3c4f7ae9b497e7649a093081b27e8341e4d448cf7896"
 metafile = true

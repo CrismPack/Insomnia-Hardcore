@@ -13,15 +13,9 @@
 
 ### Changes/Improvements ⭐
 
-- Added 'Death Knights' mod, become a deathbringer using blood, unholy and frost magic.
-- Added 'Advanced Enderite' mod, giving Enderite armor & tools upgradable tiers.
-- Added 'Better Trims' mod, making trim materials give additional attributes.
-- Added 'Daily Rewards' mod, giving players daily rewards for simply logging in.
-- Added 'Dungeon Now Loading 1%' mod, which includes a new dungeon & boss to the Overworld.
-- Added 'Create Enchantment Industry' mod, which is all about handling XP and enchanting with Create.
-- Re-added 'Paradise Lost' mod, the return of the Aether dimension.
-- Re-added 'Sound Physics Remastered' mod, bringing back cave reverbs!
-- Re-added 'Hephaestus' mod, bringing back the classic smeltery & tool forging.
+- New dungeon & boss in the Overworld.
+- Return of the Aether dimension.
+- Armor trim materials now give additional attributes when worn.
 - Minor quality of life changes & performance gains.
 - Updated mods & resource packs.
 
@@ -37,15 +31,16 @@
 - Cobweb
 - Configurable
 - Create Enchantment Industry Fabric
-- Daily Rewards
 - Death Knights 
 - Dungeon Now Loading 1%
 - Elytra Physics
 - Entity Culling Fabric/Forge
+- Hephaestus Fabric
 - iChunUtil
 - Paradise Lost
 - Phantom Config
 - Sawmill
+- Sound Physics Remastered
 - Starlight 
 - SuperMartijn642's Config Lib
 - True Darkness Refabricated
@@ -53,9 +48,22 @@
 ### Removed Mods ❌
 
 - Concurrent Chunk Management Engine 
-- Improved Stations Updated 
 - Phantom Config Fork 
 - True Darkness Fork
+
+### Config Changes 📝
+
+- Changed Nvidium's dependency of Sodium to allow any version: `[Fabric Loader]`, `[Client]`
+- Added lang override for 'Visual Traveler's Titles', changing "travelerstitles.the_aether.the_aether" to "travelerstitles.paradise_lost.paradise_lost": `[Insomnia Custom Lang]`, `[Client]`
+- Added override for Create's breakage with 'Sound Physics Remastered': `[Fabric Loader]`, `[Both]`
+- Changed shaderPack value to "Complementary r5.2.1 `[Insomnia Edit]`" by default: `[Iris]`, `[Client]`
+- Changed "requireMod" to "true": `[True Darkness Refabricated]`, `[Server]`
+- Deleted "mixin.experimental.chunk_tickets=false" line (effectively enabling it): `[Lithium]`, `[Client]`
+- Changed "mixin.experimental" to "true": `[Server]`, `[Server]`
+- Removed "minecells:minecells_guidebook" item from starterkit: `[StarterKit]`, `[Client]`
+- Changed boss health and damage scale from "1.0" to "2.0": `[Dungeon Now Loading 1%]`, `[Both]`
+- Changed dungeon mob health and attack scale from "1.0" to "1.5": `[Dungeon Now Loading 1%]`, `[Both]`
+- Changed disableRecipebook to "true": `[Recipe Essentials]`, `[Both]`
 
 ## v2.1.7
 
@@ -78,6 +86,7 @@
 
 - Armor & damage scaling
 - Individual Keep Inventory
+- Iris & Oculus Flywheel Compat
 - Just Player Heads
 - KubeJS
 - Pufferfish's Attributes 
@@ -88,6 +97,16 @@
 
 - AntiXray 
 - RandomTP
+
+### Config Changes 📝
+
+- Changed update_checker to "false": `[Mod Menu]`, `[Client]`
+- Moved 'Fresh Animations Extensions' above the FA compat packs: `[Resource Pack Overrides]`, `[Client]`
+- Set days array for respawn_schedule script to "`[1, 3, 5, 6, 7]`": `[KubeJS]`, `[Server]`
+- Set targetHour for respawn_schedule script to "15": `[KubeJS]`, `[Server]`
+- Set targetMinute for respawn_schedule script to "0": `[KubeJS]`, `[Server]`
+- Removed "Warning" text from death screen: `[FancyMenu]`, `[Client]`
+- Changed enable-command-block to "true" by default: `[Default Server Properties]`, `[Server]`
 
 ## v2.1.6
 
@@ -107,20 +126,38 @@
 - Ranged Weapon API
 - Structure Essentials
 - ThreadTweak
+- Villagers Respawn
 
 ### Removed Mods ❌
 
 - All The Trims
-- Armor Sound Tweak
 - BadOptimizations
-- Damage Tilt
 - Delightful Creators  
 - Faster Random
 - Pufferfish's Attributes 
-- Starlight 
 - StutterFix
 - TieFix
 - Unsafe World Random Access Detector
+
+### Config Changes 📝
+
+- Changed shader pack menu to allow for editing settings: `[FancyMenu]`, `[Client]`
+- Added disclaimer message to shader pack menu: `[FancyMenu]`, `[Client]`
+- Changed doWriteToResourceTextFile to "true": `[Branded Logs]`, `[Client]`
+- Changed only_affect_block_light to "false": `[True Darknes Fork]`, `[Client]`
+- Changed game priority to "8": `[ThreadTweak]`, `[Both]`
+- Added message to dh-menu to help with fixing fog issue: `[FancyMenu]`, `[Client]`
+- Changed gcFreeChunkSerializer to false: `[C2ME]`, `[Both]`
+- Changed threadedWorldGen enabled to "true": `[C2ME]`, `[Both]`
+- Changed clientSideConfig.modifyMaxVDConfig enabled to "false": `[C2ME]`, `[Both]`
+- Changed useSmallThreadingDetector to "true": `[FerriteCore]`, `[Both]`
+- Changed mixin.experimental to "true": `[Lithium]`, `[Both]`
+- Changed mixin.experimental.chunk_tickets to "false": `[Lithium]`, `[Both]`
+- Changed bugfix chunk_deadlock, packet_leak, paper_chunk_patches to "true": `[ModernFix]`, `[Both]`
+- Changed perf clear_fabric_mapping_tables, clear_mixin_classinfo, dynamic_entity_renderers, faster_item_rendering, nbt_memory_usage, dynamic_sounds, dynamic_resources & deduplicate_location to "true": `[ModernFix]`, `[Both]`
+- Changed thread_priorities to "false": `[ModernFix]`, `[Both]`
+- Changed exp_use_optimized_chunk_ticking_iteration to "true": `[Very Many Players]`, `[Both]`
+- Changed checkForNewUpdates to "false": `[Friend&Foes]`, `[Both]`
 
 ## v2.1.5
 
@@ -140,7 +177,6 @@
 
 ### Removed Mods ❌
 
-- Better Sodium Video Settings Button
 - Crafting Manipulator
 - DoesPotatoTick?
 - Faux Custom Entity Data
@@ -150,9 +186,17 @@
 - SuperMartijn642's Config Lib
 - TipTheScales
 
+### Config Changes 📝
+
+- Added structure IDs for BOMD boss structures: `[Respawning Structures]`, `[Both]`
+- Added structure ID "riendsandfoes:citadel": `[Respawning Structures]`, `[Both]`
+- Added entries for modded chest loot tables to allow for detecting and respawning modded dungeons: `[Respawning Structures]`, `[Both]`
+- Blacklisted "integrated_stronghold:stronghold": `[Respawning Structures]`, `[Both]`
+- Changed screenTypingVisible to "false": `[What are they up to?]`, `[Client]`
+
 ## v2.1.4a
 
-*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md)*
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md)*
 
 ### Update overview
 
@@ -160,7 +204,7 @@
 
 ## v2.1.4
 
-*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md)*
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md)*
 
 ### Update overview
 
@@ -181,12 +225,20 @@
 ### Removed Mods ❌
 
 - AntiGhost
-- Elytra Physics
 - Redirector
+
+### Config Changes 📝
+
+- Changed preventFirstPersonHandAnimating to "true": `[Entity Model Features]`, `[Client]`
+- Changed skinTransparencyMode to "ALL": `[Entity Texture Features]`, `[Client]`
+- Moved arrow to the bottom right corner: `[Combat Roll]`, `[Client]`
+- Deleted ping placeholder: `[Styled Player List]`, `[Server]`
+- Fixed alignment of "Insomnia: Hardcore" text: `[Styled Player List]`, `[Server]`
+- Force enabled 'Fresh Moves' & 'FreshCompats': `[Resource Pack Overrides]`, `[Client]`
 
 ## v2.1.3
 
-*Fabric Loader Fabric-0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md)*
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md)*
 
 ### Update overview
 
@@ -207,6 +259,7 @@
 - Concurrent Chunk Management Engine 
 - Connectivity
 - Cubes Without Borders
+- DoesPotatoTick?
 - Embeddium
 - Every Compat 
 - Farmer's Delight Refabricated
@@ -232,7 +285,6 @@
 - Limited Chunkloading - Chunk cleanup
 - Mobs Attempt Parkour
 - Mobtimizations - Entity Performance Fixes
-- PlayerEx
 - Recipe Book Delight
 - Reese's Sodium Options
 - Shield Overhaul 
@@ -240,9 +292,22 @@
 - TimeOutOut 
 - Xaero's Minimap
 
+### Config Changes 📝
+
+- Disabled parrying: `[Shield Overhaul]`, `[Both]`
+- Unbound conflicting "R" keybind from 'BRB' & 'Azurelib': `[YOSBR]`, `[Client]`
+- Added config entry for "deep_dark" biome and set its difficulty to 4: `[Dungeon Difficulty]`, `[Both]`
+- Added config entry for "overside" dimension and set its difficulty to 4: `[Dungeon Difficulty]`, `[Both]`
+- Fixed the faulty config entry for the "ancient_city" structure and set its difficulty to 4: `[Dungeon Difficulty]`, `[Both]`
+- Upped the difficulty of the "integrated_stronghold:stronghold" structure from 4 to 6: `[Dungeon Difficulty]`, `[Both]`
+- Added config entries for "aquamirae:captain_cornelia", "aquamirae:maze_mother" & "wither" to independently change their difficulty in the Overworld: `[Dungeon Difficulty]`, `[Both]`
+- Disabled "Dynamo" enchantment: `[MC Dungeons Weapons]`, `[Both]`
+- Moved arrow to the bottom left corner of the screen: `[Combat Roll]`, `[Client]`
+- Disabled "allowRadarOnServer": `[Xaero's Minimap]`, `[Both]`
+
 ## v2.1.2
 
-*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md)*
+*Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md)*
 
 ### Update overview
 
@@ -250,9 +315,22 @@
 - Made the difficulty scaling of dungeons and bosses even more aggressive.
 - Changed recipes for Metal Bundles to be more expensive.
 
+### Config Changes 📝
+
+- Replaced all recipes for Metal Bundles to use blocks: `[Insomnia - Config]`, `[Both]`
+- Added entry for "betternether:nether_city": `[Dungeon Difficulty]`, `[Both]`
+- Added attributes for health and armor for the dungeon difficulty type: `[Dungeon Difficulty]`, `[Both]`
+- Armor addition set to "1.0" for the dungeon difficulty type: `[Dungeon Difficulty]`, `[Both]`
+- Health multiplier set to "0.1" for the dungeon difficulty type: `[Dungeon Difficulty]`, `[Both]`
+- Increased the experience multiplier from "0.0" to "0.3" for the dungeon difficulty type: `[Dungeon Difficulty]`, `[Both]`
+- Increased the damage multiplier from "0.1" to "1.0" for the dungeon difficulty type: `[Dungeon Difficulty]`, `[Both]`
+- Increased the damage multiplier from "0.25" to "2.0" for the boss difficulty type: `[Dungeon Difficulty]`, `[Both]`
+- Increased the armor multiplier from "0.25" to "1.0" for the boss difficulty type: `[Dungeon Difficulty]`, `[Both]`
+- Increased the health multiplier from "0.5" to "1.0" for the boss difficulty type: `[Dungeon Difficulty]`, `[Both]`
+
 ## v2.1.1
 
-*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md)*
+*Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md)*
 
 ### Update overview
 
@@ -265,9 +343,22 @@
 
 - Icterine
 
+### Removed Mods ❌
+
+- Iris & Oculus Flywheel Compat
+- Sound Physics Remastered
+
+### Config Changes 📝
+
+- Unbound keybinds per default for "cycleLeft" & "cycleRight" from 'PuzzleApi': `[YOSBR]`, `[Client]`
+- Disabled "Chilling" enchantment: `[MC Dungeons Armor]`, `[Both]`
+- Disabled "ENIGMA_RESONATOR" enchantment: `[MC Dungeons Weapons]`, `[Both]`
+- Made 'Freshly Modded' actually be force-enabled: `[Resource Pack Overrides]`, `[Client]`
+- Changed "dayDelayConfig" to 10: `[From the Fog - Config]`, `[Both]`
+
 ## v2.1.0
 
-*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md)*
+*Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md)*
 
 ### Update overview
 
@@ -314,7 +405,9 @@
 ### Removed Mods ❌
 
 - Concurrent Chunk Management Engine 
+- CIT Resewn
 - Dark Enchanting
+- Elytra Physics
 - fabric-permissions-api
 - Heartbond
 - Incendium
@@ -322,12 +415,37 @@
 - Roughly Enough Items Fabric/Forge 
 - Roughly Enough Professions 
 - Roughly Enough Resources
-- Roughly Enough Trades
 - Structure Essentials
+
+### Config Changes 📝
+
+- Disabled "perPlayerDifficulty": `[Dungeon Difficulty]`, `[Both]`
+- Renamed config file to "phantomconfigfork.json5" so it actually can be read by the mod: `[PhantomConfigFork]`, `[Server]`
+- Enabled "sleepCheckOverworldOnly": `[Insomnia Config]`, `[Both]`
+- Enabled "forceUpdates" for chatSettings: `[Exordium]`, `[Client]`
+- Added config entries for 'Integrated Strongholds', 'Better Desert Temples', 'Better Jungle Temples', 'Better Ocean Monuments', 'Better Fortresses', 'Friends and Foes', 'Bosses of Mass Destruction', 'Minecells', 'Moogs Nether Structures', 'Philips Ruins' & 'Better Dungeons': `[Dungeon Difficulty]`, `[Both]`
+- Changed difficulty of Minecells dimensions. Prison=4, Promenade=5, Ramparts=5, Insufferable_Crypt=3, Black_Bridge=3: `[Dungeon Difficulty]`, `[Both]`
+- Changed difficulty of BOMD bosses. Lich=3, Void_Blossum=4, Gauntlet_Arena=6, Obsidilith_Arena=8: `[Dungeon Difficulty]`, `[Both]`
+- Changed all structures to be "normal" difficulty type to prevent spawner spam: `[Dungeon Difficulty]`, `[Both]`
+- Enabled scrolling for the MOTD message text box: `[FancyMenu]`, `[Client]`
+- Disabled buttons on multiplayer menu: `[No Chat Reports]`, `[Client]`
+- Disabled Void Strike and Void Shot enchantments: `[MC Dungeons Weapons]`, `[Both]`
+- Unbound keybinding by default for favoring items: `[EMI]`, `[Client]`
+- Changed minimap to be enabled by default: `[Xaero's Minimap]`, `[Client]`
+- Enabled DDR: `[Simply Skills]`, `[Both]`
+- Fixed Withered origin not being unselectable: `[TooManyOrigins - Disable Withered]`, `[Server]`
+- Enabled "forceBetterXPreset": `[BCLib]`, `[Both]`
+- Disabled "Blackstone Basin" nether biome: `[Regions Unexplored]`, `[Both]`
+- Changed horizontal offset of buttons to "26" for the backpacked menu: `[Inventory Profiles Next]`, `[Client]`
+- Enabled "show_icon_only_when_corrupted": `[Eldritch End]`, `[Both]`
+- Added "metalbundles:leather_bundle" as a starter item: `[StarterKit]`, `[Both]`
+- Disabled "allowLootablePlayer": `[Revive]`, `[Server]`
+- Disabled "heartContainers": `[Paragliders]`, `[Both]`
+- Disabled "enhanced_cauldron": `[Amendments]`, `[Both]`
 
 ## v2.0.0
 
-*Fabric Loader Fabric-0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md)*
+*Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md)*
 
 ### Update overview
 
@@ -343,3 +461,25 @@
 - Updated all mods to their latest version.
 - General cleanup and polish.
 - And more...
+
+### Config Changes 📝
+
+- Changed default value for particles to 1 (decreased): `[YOSBR]`, `[Client]`
+- Changed encounter to be "rare": `[From The Fog]`, `[Both]`
+- Disabled major haunting: `[From The Fog]`, `[Both]`
+- Disabled "Ocean Sand Pyramid" structure from spawning: `[From The Fog]`, `[Both]`
+- Disabled "Stone Bee" structure from spawning: `[Moog's Voyager Structures]`, `[Both]`
+- Changed "Official Server" button to link to insomnia.crismpack.net: `[FancyMenu]`, `[Client]`
+- Changed built-in server to "insomnia.crismpack.net": `[Builtin Servers]`, `[Client]`
+- Removed main menu background panorama (Allows the panorama to be controlled though resource packs instead): `[FancyMenu]`, `[Client]`
+- Added background panorama override: `[Insomnia Textures]`, `[Client]`
+- Changed disableSleep to "false": `[Dusk]`, `[Both]`
+- Changed minSleepTime to "0": `[Dusk]`, `[Both]`
+- Executes "gamerule keepInventory true" on load: `[Insomnia Config]`, `[Both]`
+- Executes "gamerule allowSleeping false" on load: `[Insomnia Config]`, `[Both]`
+- Fixed formatting of modded built-in textures: `[Resource Pack Overrides]`, `[Client]`
+- Fixed new players not spawning inside the starter structure: `[Insomnia Respawn]`, `[Server]`
+- Filter "Too many items! Cleared 1001 tasks." console spam: `[Log Begone]`, `[Both]`
+- Commented out starter item lines to let it be handled by 'StarterKit': `[Starter Items]`, `[Server]`
+- Set up starter items to be handled by this mod: `[StarterKit]`, `[Server]`
+- Added MineCells guidebook & custom banner as starter items: `[StarterKit]`, `[Both]`

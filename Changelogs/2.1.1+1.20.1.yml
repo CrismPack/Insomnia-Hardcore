@@ -1,6 +1,6 @@
 version: 2.1.1
 
-Fabric version: Fabric-0.15.7
+Fabric version: 0.15.7
 Update overview: 
   - Fixed crashing issue related to 'Create Fabric'. [https://github.com/Fabricators-of-Create/Create/issues/1428]
   - Fixed some keybind conflicts.
@@ -14,10 +14,10 @@ Mods re-enabled: |
   + 
 
 Mod side changes: |
-  = [Both --> Client]
+  - [Both --> Client]
 
 Metadata changes: |
-  = Towers of the Wild Modded: Fabric Waystones Compat [Bundled --> CF]
+  - Towers of the Wild Modded: Fabric Waystones Compat [Bundled --> CF]
 
 
 Resource Packs added: |
@@ -59,8 +59,8 @@ Mods updated: |
   > Towers of the Wild Modded
 
 Config Changes: |
-  = Unbound keybinds per default for "cycleLeft" & "cycleRight" from 'PuzzleApi': [YOSBR], [Client]
-  = Disabled "Chilling" enchantment: [MC Dungeons Armor], [Both]
-  = Disabled "ENIGMA_RESONATOR" enchantment: [MC Dungeons Weapons], [Both]
-  = Made 'Freshly Modded' actually be force-enabled: [Resource Pack Overrides], [Client]
-  = Changed "dayDelayConfig" to 10: [From the Fog - Config], [Both]
+  - Unbound keybinds per default for "cycleLeft" & "cycleRight" from 'PuzzleApi': [YOSBR], [Client]
+  - Disabled "Chilling" enchantment: [MC Dungeons Armor], [Both]
+  - Disabled "ENIGMA_RESONATOR" enchantment: [MC Dungeons Weapons], [Both]
+  - Made 'Freshly Modded' actually be force-enabled: [Resource Pack Overrides], [Client]
+  - Changed "dayDelayConfig" to 10: [From the Fog - Config], [Both]

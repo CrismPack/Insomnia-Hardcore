@@ -4,6 +4,7 @@
 
 - Armor & damage scaling
 - Individual Keep Inventory
+- Iris & Oculus Flywheel Compat
 - Just Player Heads
 - KubeJS
 - Pufferfish's Attributes
@@ -18,7 +19,6 @@
 - **Archers**: Changed from `archers-1.1.0+1.20.1.jar` to `archers-1.2.5+1.20.1.jar`
 - **Collective**: Changed from `collective-1.20.1-7.61.jar` to `collective-1.20.1-7.80.jar`
 - **Fabric API**: Changed from `fabric-api-0.92.1+1.20.1.jar` to `fabric-api-0.92.2+1.20.1.jar`
-- **Iris & Oculus Flywheel Compat**: Changed from `iris-flywheel-compat-1.20.1-0.2.4.jar` to `iris-flywheel-compat-fabric1.20.1+1.1.1.jar`
 - **MC Dungeons Weapons**: Changed from `mcdw-9.0.2.jar` to `mcdw-9.0.4.jar`
 - **Paladins & Priests**: Changed from `paladins-1.1.0+1.20.1.jar` to `paladins-1.3.1+1.20.1.jar`
 - **Pufferfish's Skills**: Changed from `puffish_skills-0.11.3-1.20-fabric.jar` to `puffish_skills-0.12.2-1.20-fabric.jar`

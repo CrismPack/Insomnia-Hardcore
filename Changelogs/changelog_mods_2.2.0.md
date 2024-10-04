@@ -7,22 +7,22 @@
 - Cobweb
 - Configurable
 - Create Enchantment Industry Fabric
-- Daily Rewards
 - Death Knights
 - Dungeon Now Loading 1%
 - Elytra Physics
 - Entity Culling Fabric/Forge
+- Hephaestus Fabric
 - iChunUtil
 - Paradise Lost
 - Phantom Config
 - Sawmill
+- Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
 - True Darkness Refabricated
 ## Removed
 
 - Concurrent Chunk Management Engine
-- Improved Stations Updated
 - Phantom Config Fork
 - True Darkness Fork
 ## Modified
@@ -83,7 +83,6 @@
 - **Geophilic – Vanilla Biome Overhauls**: Changed from `geophilic-v2.2.0-mc1.20u1.20.2.jar` to `Geophilic v3.1.3 f15-48.jar`
 - **Harvest with ease**: Changed from `harvestwithease-1.20.1-8.0.1.0-fabric.jar` to `harvest-with-ease-fabric-1.20.1-9.2.0.jar`
 - **Hearths**: Changed from `hearths-v1.0.0.jar` to `Hearths v1.0.1 f12-48.jar`
-- **Hephaestus Fabric**: Changed from `Hephaestus-1.20.1-3.6.4.273.jar` to `Hephaestus-1.20.1-3.6.4.279.jar`
 - **ImmediatelyFast**: Changed from `ImmediatelyFast-Fabric-1.2.13+1.20.4.jar` to `ImmediatelyFast-Fabric-1.2.21+1.20.4.jar`
 - **Iris & Oculus Flywheel Compat**: Changed from `iris-flywheel-compat-fabric1.20.1+1.1.1.jar` to `iris-flywheel-compat-fabric1.20.1+1.1.3a.jar`
 - **Iris Shaders**: Changed from `iris-1.7.0+mc1.20.1.jar` to `iris-1.7.2+mc1.20.1.jar`
@@ -138,7 +137,6 @@
 - **Small Ships**: Changed from `smallships-fabric-1.20.1-2.0.0-b1.2.jar` to `smallships-fabric-1.20.1-2.0.0-b1.4.jar`
 - **Sophisticated Backpacks**: Changed from `sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.76.jar` to `sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar`
 - **Sophisticated Core**: Changed from `sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.76.jar` to `sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.104.jar`
-- **Sound Physics Remastered**: Changed from `sound-physics-remastered-fabric-1.20.1-1.3.1.jar` to `sound-physics-remastered-fabric-1.20.1-1.4.5.jar`
 - **Spell Engine**: Changed from `spell_engine-0.15.8+1.20.1.jar` to `spell_engine-0.15.11+1.20.1.jar`
 - **Spell Power Attributes**: Changed from `spell_power-0.11.1+1.20.1.jar` to `spell_power-0.12.0+1.20.1.jar`
 - **StackDeobfuscator**: Changed from `StackDeobfuscatorFabric-1.4.2+bf1fc22.jar` to `StackDeobfuscatorFabric-1.4.3+08e71cc.jar`

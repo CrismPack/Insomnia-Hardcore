@@ -1,6 +1,6 @@
 version: 2.1.3
 
-Fabric version: Fabric-0.15.11
+Fabric version: 0.15.11
 Update overview: 
   - Added 'Sophisticated Backpacks', 'Small Ships' & 'Every Compat'.
   - Greatly nerfed the effectiveness of some overpowered mob farms.
@@ -33,10 +33,10 @@ Mods re-enabled: |
   + 
 
 Mod side changes: |
-  = [Both --> Client]
+  - [Both --> Client]
 
 Metadata changes: |
-  =  [Bundled --> CF]
+  -  [Bundled --> CF]
 
 
 Resource Packs added: |
@@ -167,13 +167,13 @@ Mods updated: |
 
 
 Config Changes: |
-  = Disabled parrying: [Shield Overhaul], [Both]
-  = Unbound conflicting "R" keybind from 'BRB' & 'Azurelib': [YOSBR], [Client]
-  = Added config entry for "deep_dark" biome and set its difficulty to 4: [Dungeon Difficulty], [Both]
-  = Added config entry for "overside" dimension and set its difficulty to 4: [Dungeon Difficulty], [Both]
-  = Fixed the faulty config entry for the "ancient_city" structure and set its difficulty to 4: [Dungeon Difficulty], [Both]
-  = Upped the difficulty of the "integrated_stronghold:stronghold" structure from 4 to 6: [Dungeon Difficulty], [Both]
-  = Added config entries for "aquamirae:captain_cornelia", "aquamirae:maze_mother" & "wither" to independently change their difficulty in the Overworld: [Dungeon Difficulty], [Both]
-  = Disabled "Dynamo" enchantment: [MC Dungeons Weapons], [Both]
-  = Moved arrow to the bottom left corner of the screen: [Combat Roll], [Client]
-  = Disabled "allowRadarOnServer": [Xaero's Minimap], [Both]
+  - Disabled parrying: [Shield Overhaul], [Both]
+  - Unbound conflicting "R" keybind from 'BRB' & 'Azurelib': [YOSBR], [Client]
+  - Added config entry for "deep_dark" biome and set its difficulty to 4: [Dungeon Difficulty], [Both]
+  - Added config entry for "overside" dimension and set its difficulty to 4: [Dungeon Difficulty], [Both]
+  - Fixed the faulty config entry for the "ancient_city" structure and set its difficulty to 4: [Dungeon Difficulty], [Both]
+  - Upped the difficulty of the "integrated_stronghold:stronghold" structure from 4 to 6: [Dungeon Difficulty], [Both]
+  - Added config entries for "aquamirae:captain_cornelia", "aquamirae:maze_mother" & "wither" to independently change their difficulty in the Overworld: [Dungeon Difficulty], [Both]
+  - Disabled "Dynamo" enchantment: [MC Dungeons Weapons], [Both]
+  - Moved arrow to the bottom left corner of the screen: [Combat Roll], [Client]
+  - Disabled "allowRadarOnServer": [Xaero's Minimap], [Both]

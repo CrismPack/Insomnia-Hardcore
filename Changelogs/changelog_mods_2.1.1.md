@@ -4,7 +4,9 @@
 
 - Icterine
 ## Removed
-- None
+
+- Iris & Oculus Flywheel Compat
+- Sound Physics Remastered
 ## Modified
 
 - **Combat Roll**: Changed from `combatroll-fabric-1.3.1+1.20.1.jar` to `combatroll-fabric-1.3.2+1.20.1.jar`
