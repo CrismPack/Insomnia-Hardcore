@@ -17,7 +17,7 @@ Config Changes: |
   - Changed Nvidium's dependency of Sodium to allow any version: [Fabric Loader], [Client]
   - Added lang override for 'Visual Traveler's Titles', changing "travelerstitles.the_aether.the_aether" to "travelerstitles.paradise_lost.paradise_lost": [Insomnia Custom Lang], [Client]
   - Added override for Create's breakage with 'Sound Physics Remastered': [Fabric Loader], [Both]
-  - Changed shaderPack value to "Complementary r5.2.1 [Insomnia Edit]" by default: [Iris], [Client]
+  - Changed shaderPack value to "Complementary r5.2.1 \[Insomnia Edit\]" by default: [Iris], [Client]
   - Changed "requireMod" to "true": [True Darkness Refabricated], [Server]
   - Deleted "mixin.experimental.chunk_tickets=false" line (effectively enabling it): [Lithium], [Client]
   - Changed "mixin.experimental" to "true": [Server], [Server]
