@@ -17,12 +17,15 @@
 - Return of the Aether dimension.
 - Armor trim materials now give additional attributes when worn.
 - Minor quality of life changes & performance gains.
+- Changed shader to use the Reimagined style by default.
+- Changed shader to use the medium preset by default.
 - Updated mods & resource packs.
 
 ### Bug Fixes 🪲
 
 - Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
 - Fixed shader pack unable to be activated with keybind from fresh install.
+- Fixed mobs glowing when holding a light source with shaders on.
 
 ### Added Mods ✅
 
@@ -64,6 +67,7 @@
 - Changed boss health and damage scale from "1.0" to "2.0": `Dungeon Now Loading 1%`, `Both`
 - Changed dungeon mob health and attack scale from "1.0" to "1.5": `Dungeon Now Loading 1%`, `Both`
 - Changed disableRecipebook to "true": `Recipe Essentials`, `Both`
+- Moved shaderpack settings to be handled by YOSBR: `Complementary Insomnia Edit`, `Client`
 
 ## v2.1.7
 
