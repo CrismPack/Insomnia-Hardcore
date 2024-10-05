@@ -4,7 +4,7 @@
 
 - Pufferfish's Attributes
 - StackablePotions
-- Styled Player List
+- Styled Player List `Server`
 - What Are They Up To
 ## Removed
 

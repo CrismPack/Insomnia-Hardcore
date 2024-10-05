@@ -4,9 +4,9 @@
 
 - Concurrent Chunk Management Engine
 - Connectivity
-- Cubes Without Borders
+- Cubes Without Borders `Client`
 - DoesPotatoTick?
-- Embeddium
+- Embeddium `Client`
 - Every Compat
 - Farmer's Delight Refabricated
 - Fzzy Config
@@ -16,7 +16,7 @@
 - Small Ships
 - Sophisticated Backpacks
 - Sophisticated Core
-- Very Many Players
+- Very Many Players `Server`
 - Xaero's Minimap
 ## Removed
 

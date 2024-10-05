@@ -3,7 +3,7 @@
 ## Added
 
 - Log Cleaner
-- Mmm Indicators
+- Mmm Indicators `Client`
 ## Removed
 
 - Crafting Manipulator

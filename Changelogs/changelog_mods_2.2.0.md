@@ -9,17 +9,17 @@
 - Create Enchantment Industry Fabric
 - Death Knights
 - Dungeon Now Loading 1%
-- Elytra Physics
-- Entity Culling Fabric/Forge
+- Elytra Physics `Client`
+- Entity Culling Fabric/Forge `Client`
 - Hephaestus Fabric
-- iChunUtil
+- iChunUtil `Client`
 - Paradise Lost
 - Phantom Config
 - Sawmill
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
-- True Darkness Refabricated
+- True Darkness Refabricated `Client`
 ## Removed
 
 - Concurrent Chunk Management Engine

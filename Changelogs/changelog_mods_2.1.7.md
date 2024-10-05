@@ -3,8 +3,8 @@
 ## Added
 
 - Armor & damage scaling
-- Individual Keep Inventory
-- Iris & Oculus Flywheel Compat
+- Individual Keep Inventory `Server`
+- Iris & Oculus Flywheel Compat `Client`
 - Just Player Heads
 - KubeJS
 - Pufferfish's Attributes

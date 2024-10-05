@@ -3,7 +3,7 @@
 ## Added
 
 - Mobtimizations - Entity Performance Fixes
-- Persistent Inventory Search
+- Persistent Inventory Search `Client`
 - Ranged Weapon API
 - Structure Essentials
 - ThreadTweak

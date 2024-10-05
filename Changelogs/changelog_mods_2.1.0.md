@@ -6,7 +6,7 @@
 - Async Locator
 - AzureLib
 - BetterNether
-- ClickThrough
+- ClickThrough `Client`
 - Eldritch End
 - EMI Loot
 - EMI Ores
@@ -16,7 +16,7 @@
 - Faster Random
 - Friends&Foes
 - Hearths
-- ItemFlexer
+- ItemFlexer `Server`
 - Just Enough Items
 - Metal Bundles
 - MNS - Moog's Nether Structures
