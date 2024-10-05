@@ -9,11 +9,11 @@
 - Crafting Manipulator
 - DoesPotatoTick?
 - Faux Custom Entity Data
-- LiLaC
+- LiLaC `Client`
 - Memory Leak Fix
 - Server Performance - Smooth Chunk Save
-- SuperMartijn642's Config Lib
-- TipTheScales
+- SuperMartijn642's Config Lib `Client`
+- TipTheScales `Client`
 ## Modified
 
 - **AzureLib**: Changed from `azurelib-fabric-1.20.1-2.0.222.jar` to `azurelib-fabric-1.20.1-2.0.24.jar`

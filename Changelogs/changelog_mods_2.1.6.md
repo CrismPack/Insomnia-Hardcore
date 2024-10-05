@@ -15,8 +15,8 @@
 - Delightful Creators
 - Faster Random
 - Pufferfish's Attributes
-- StutterFix
-- TieFix
+- StutterFix `Client`
+- TieFix `Client`
 - Unsafe World Random Access Detector
 ## Modified
 

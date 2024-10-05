@@ -20,20 +20,20 @@
 - Xaero's Minimap
 ## Removed
 
-- Advancements Enlarger
-- Borderless Mining
-- Better Recipe Books
+- Advancements Enlarger `Client`
+- Borderless Mining `Client`
+- Better Recipe Books  `Client`
 - Chunk Sending
-- Entity Culling Fabric/Forge
+- Entity Culling Fabric/Forge `Client`
 - Farmer's Delight
-- Indium
-- Limited Chunkloading - Chunk cleanup
+- Indium `Client`
+- Limited Chunkloading - Chunk cleanup `Server`
 - Mobs Attempt Parkour
 - Mobtimizations - Entity Performance Fixes
 - Recipe Book Delight
-- Reese's Sodium Options
+- Reese's Sodium Options `Client`
 - Shield Overhaul
-- Sodium
+- Sodium `Client`
 - TimeOutOut
 - Xaero's Minimap
 ## Modified

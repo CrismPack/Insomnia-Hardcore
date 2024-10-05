@@ -12,8 +12,8 @@
 - Rogues & Warriors
 ## Removed
 
-- AntiXray
-- RandomTP
+- AntiXray  `Server`
+- RandomTP `Server`
 ## Modified
 
 - **Archers**: Changed from `archers-1.1.0+1.20.1.jar` to `archers-1.2.5+1.20.1.jar`

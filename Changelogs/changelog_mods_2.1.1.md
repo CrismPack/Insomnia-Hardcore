@@ -5,7 +5,7 @@
 - Icterine
 ## Removed
 
-- Iris & Oculus Flywheel Compat
+- Iris & Oculus Flywheel Compat `Client`
 - Sound Physics Remastered
 ## Modified
 

@@ -49,7 +49,7 @@
 
 - Concurrent Chunk Management Engine
 - Phantom Config Fork
-- True Darkness Fork
+- True Darkness Fork  `Client`
 
 ### Config Changes 📝
 
@@ -95,8 +95,8 @@
 
 ### Removed Mods ❌
 
-- AntiXray
-- RandomTP
+- AntiXray  `Server`
+- RandomTP `Server`
 
 ### Config Changes 📝
 
@@ -135,8 +135,8 @@
 - Delightful Creators
 - Faster Random
 - Pufferfish's Attributes
-- StutterFix
-- TieFix
+- StutterFix `Client`
+- TieFix `Client`
 - Unsafe World Random Access Detector
 
 ### Config Changes 📝
@@ -180,11 +180,11 @@
 - Crafting Manipulator
 - DoesPotatoTick?
 - Faux Custom Entity Data
-- LiLaC
+- LiLaC `Client`
 - Memory Leak Fix
 - Server Performance - Smooth Chunk Save
-- SuperMartijn642's Config Lib
-- TipTheScales
+- SuperMartijn642's Config Lib `Client`
+- TipTheScales `Client`
 
 ### Config Changes 📝
 
@@ -224,7 +224,7 @@
 
 ### Removed Mods ❌
 
-- AntiGhost
+- AntiGhost `Client`
 - Redirector
 
 ### Config Changes 📝
@@ -275,20 +275,20 @@
 
 ### Removed Mods ❌
 
-- Advancements Enlarger
-- Borderless Mining
-- Better Recipe Books
+- Advancements Enlarger `Client`
+- Borderless Mining `Client`
+- Better Recipe Books  `Client`
 - Chunk Sending
-- Entity Culling Fabric/Forge
+- Entity Culling Fabric/Forge `Client`
 - Farmer's Delight
-- Indium
-- Limited Chunkloading - Chunk cleanup
+- Indium `Client`
+- Limited Chunkloading - Chunk cleanup `Server`
 - Mobs Attempt Parkour
 - Mobtimizations - Entity Performance Fixes
 - Recipe Book Delight
-- Reese's Sodium Options
+- Reese's Sodium Options `Client`
 - Shield Overhaul
-- Sodium
+- Sodium `Client`
 - TimeOutOut
 - Xaero's Minimap
 
@@ -345,7 +345,7 @@
 
 ### Removed Mods ❌
 
-- Iris & Oculus Flywheel Compat
+- Iris & Oculus Flywheel Compat `Client`
 - Sound Physics Remastered
 
 ### Config Changes 📝
@@ -407,11 +407,11 @@
 - Concurrent Chunk Management Engine
 - CIT Resewn
 - Dark Enchanting
-- Elytra Physics
+- Elytra Physics `Client`
 - fabric-permissions-api
 - Heartbond
 - Incendium
-- Login Protection
+- Login Protection `Server`
 - Roughly Enough Items Fabric/Forge
 - Roughly Enough Professions
 - Roughly Enough Resources

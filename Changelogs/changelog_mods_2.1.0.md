@@ -31,11 +31,11 @@
 - Concurrent Chunk Management Engine
 - CIT Resewn
 - Dark Enchanting
-- Elytra Physics
+- Elytra Physics `Client`
 - fabric-permissions-api
 - Heartbond
 - Incendium
-- Login Protection
+- Login Protection `Server`
 - Roughly Enough Items Fabric/Forge
 - Roughly Enough Professions
 - Roughly Enough Resources

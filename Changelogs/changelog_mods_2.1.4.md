@@ -8,7 +8,7 @@
 - What Are They Up To
 ## Removed
 
-- AntiGhost
+- AntiGhost `Client`
 - Redirector
 ## Modified
 

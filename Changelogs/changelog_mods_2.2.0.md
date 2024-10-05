@@ -24,7 +24,7 @@
 
 - Concurrent Chunk Management Engine
 - Phantom Config Fork
-- True Darkness Fork
+- True Darkness Fork  `Client`
 ## Modified
 
 - **Advanced Netherite**: Changed from `advancednetherite-fabric-2.1.0-1.20.1.jar` to `advancednetherite-fabric-2.1.3-1.20.1.jar`
