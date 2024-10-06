@@ -30,6 +30,7 @@
 - Zombie Awareness
 ## Removed
 
+- Animatica `Client`
 - Blockus
 - Concurrent Chunk Management Engine
 - Camp Chair
@@ -49,7 +50,6 @@
 - **Alternate Current**: Changed from `alternate-current-mc1.20-1.7.0.jar` to `alternate-current-mc1.20-1.9.0.jar`
 - **Alternate Origin GUI**: Changed from `altorigingui-1.20.1-1.0.1.jar` to `AltOriginGui-fabric-1.20.1-1.1.1.jar`
 - **Amendments**: Changed from `amendments-1.20-1.1.31-fabric.jar` to `amendments-1.20-1.2.11-fabric.jar`
-- **Animatica**: Changed from `animatica-0.6+1.20.jar` to `animatica-0.6.1+1.20.4.jar`
 - **Armor & damage scaling**: Changed from `armordamagescale-fabric-1.20.1-3.0.jar` to `armordamagescale-fabric-1.20.1-3.1.jar`
 - **AzureLib Armor**: Changed from `azurelibarmor-fabric-1.20.1-2.0.3.jar` to `azurelibarmor-fabric-1.20.1-2.0.10.jar`
 - **AzureLib**: Changed from `azurelib-fabric-1.20.1-2.0.24.jar` to `azurelib-fabric-1.20.1-2.0.37.jar`

@@ -13,18 +13,18 @@
 
 ### Changes/Improvements ⭐
 
-- New dungeons & bosses in the Overworld.
-- New Icarae Origin and craftable wings.
-- Re-added the Paradise dimension (Aether).
-- Armor trim materials now give additional attributes when worn.
-- Added Dark Souls like death screen.
-- Added a bit more lite-horror themed mods.
-- Changed shader to use the Reimagined style by default.
-- Changed shader to use the medium preset by default.
-- Changed starter kit to give lanterns instead of torches.
-- Changed starter kit to give Eccentric Tome containing starter guidebooks.
-- Minor quality of life changes & performance gains.
-- Updated mods & resource packs.
+- Introduced additional creepy, light-horror-themed mods.
+- Added new dungeons and bosses to the Overworld.
+- Added Icarae Origin and craftable wings.
+- Reintroduced the Paradise dimension (The Aether).
+- Armor trim materials now provide additional attributes when worn.
+- A Dark Souls-like death screen now appears upon dying.
+- Overworld mobs can now track you by blood scent, sound, and light source awareness.
+- The shader now defaults to the Reimagined style and medium graphics preset.
+- The starter kit now includes an 'Eccentric Tome' containing your guidebooks, and torches have been replaced with lanterns.
+- Made minor performance & stability improvements.
+- Updated mods and resource packs.
+- And more!
 
 ### Bug Fixes 🪲
 
@@ -63,6 +63,7 @@
 
 ### Removed Mods ❌
 
+- Animatica `Client`
 - Blockus
 - Concurrent Chunk Management Engine
 - Camp Chair
@@ -92,7 +93,7 @@
 - Moved shaderpack settings to be handled by YOSBR: `Complementary Insomnia Edit`, `Client`
 - Replaced torch item with lanterns: `StarterKit`, `Both`
 - Added "Eccentric Tome" item, containing TConstruct and SimplySwords guidebooks inside of it: `StarterKit`, `Both`
-- Changed "addExistingItemsAfterKitSet" to false: `StarterKit`, `Both`
+- Changed "addExistingItemsAfterKitSet" to "false": `StarterKit`, `Both`
 
 ## v2.1.7
 
