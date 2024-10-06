@@ -13,10 +13,12 @@
 
 ### Changes/Improvements ⭐
 
-- New dungeon & boss in the Overworld.
-- Return of the Aether dimension.
+- New dungeons & bosses in the Overworld.
 - New Icarae Origin and craftable wings.
+- Re-added the Paradise dimension (Aether).
 - Armor trim materials now give additional attributes when worn.
+- Added Dark Souls like death screen.
+- Added a bit more lite-horror themed mods.
 - Changed shader to use the Reimagined style by default.
 - Changed shader to use the medium preset by default.
 - Changed starter kit to give lanterns instead of torches.
@@ -32,14 +34,12 @@
 
 ### Added Mods ✅
 
-- Advanced Enderite
 - Better Trims
 - Cobweb
 - Common Network
 - Configurable
 - Create Enchantment Industry Fabric
 - Death Knights
-- Distant Friends
 - Dungeon Now Loading 1%
 - Eccentric Tome
 - Elytra Physics `Client`
@@ -55,13 +55,25 @@
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
+- The Graveyard
 - True Darkness Refabricated `Client`
+- Doctor Who:  Weeping Angels
+- You Died `Client`
 - Zombie Awareness
 
 ### Removed Mods ❌
 
+- Blockus
 - Concurrent Chunk Management Engine
+- Camp Chair
+- Couplings
+- Dyed
+- Enderite Mod
+- Farsighted Mobs
+- Furnace Recycle
 - Phantom Config Fork
+- Shulker+
+- The Lost Castle
 - True Darkness Fork  `Client`
 
 ### Config Changes 📝

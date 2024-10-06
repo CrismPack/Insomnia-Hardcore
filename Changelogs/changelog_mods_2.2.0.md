@@ -2,14 +2,12 @@
 
 ## Added
 
-- Advanced Enderite
 - Better Trims
 - Cobweb
 - Common Network
 - Configurable
 - Create Enchantment Industry Fabric
 - Death Knights
-- Distant Friends
 - Dungeon Now Loading 1%
 - Eccentric Tome
 - Elytra Physics `Client`
@@ -25,12 +23,24 @@
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
+- The Graveyard
 - True Darkness Refabricated `Client`
+- Doctor Who:  Weeping Angels
+- You Died `Client`
 - Zombie Awareness
 ## Removed
 
+- Blockus
 - Concurrent Chunk Management Engine
+- Camp Chair
+- Couplings
+- Dyed
+- Enderite Mod
+- Farsighted Mobs
+- Furnace Recycle
 - Phantom Config Fork
+- Shulker+
+- The Lost Castle
 - True Darkness Fork  `Client`
 ## Modified
 
@@ -46,7 +56,6 @@
 - **Balm**: Changed from `balm-fabric-1.20.1-7.2.2.jar` to `balm-fabric-1.20.1-7.3.9.jar`
 - **Better Archeology**: Changed from `betterarcheology-1.1.9-1.20.1.jar` to `betterarcheology-1.2.1-1.20.1.jar`
 - **Better Combat**: Changed from `bettercombat-fabric-1.8.5+1.20.1.jar` to `bettercombat-fabric-1.8.6+1.20.1.jar`
-- **Blockus**: Changed from `blockus-2.7.13+1.20.1.jar` to `blockus-2.7.19+1.20.1.jar`
 - **Bookshelf**: Changed from `Bookshelf-Fabric-1.20.1-20.1.10.jar` to `Bookshelf-Fabric-1.20.1-20.2.13.jar`
 - **Branded Logs**: Changed from `brandedlogs-2.0.1.jar` to `brandedlogs-fabric-2.0.3-mc1.20.1.jar`
 - **Chat Heads**: Changed from `chat_heads-0.12.2-fabric-1.20.jar` to `chat_heads-0.13.2-fabric-1.20.jar`
@@ -65,7 +74,6 @@
 - **Ding**: Changed from `Ding-1.20.1-Fabric-1.4.1.jar` to `Ding-1.20.1-Fabric-1.5.0.jar`
 - **API**: Changed from `letsdo-API-fabric-1.2.12-fabric.jar` to `letsdo-API-fabric-1.2.15-fabric.jar`
 - **Dungeon Difficulty**: Changed from `dungeon_difficulty-2.1.0+1.20.1.jar` to `dungeon_difficulty-2.2.1+1.20.1.jar`
-- **Dyed**: Changed from `dyed-fabric-23w18a-1.1.2.jar` to `dyed-fabric-1.20.4-1.2.0.jar`
 - **e4mc**: Changed from `e4mc-4.0.1+1.19.4-fabric.jar` to `e4mc_minecraft-fabric-5.2.1.jar`
 - **Eldritch End**: Changed from `Eldritch_End-FABRIC-MC1.20.1-0.2.31.jar` to `Eldritch_End-FABRIC-MC1.20.1-0.3.0.jar`
 - **Elytra Slot**: Changed from `elytraslot-fabric-6.3.0+1.20.1.jar` to `elytraslot-fabric-6.4.2+1.20.1.jar`
@@ -84,7 +92,6 @@
 - **Farmer's Delight Refabricated**: Changed from `FarmersDelight-1.20.1-2.1.1+refabricated.jar` to `FarmersDelight-1.20.1-2.1.6+refabricated.jar`
 - **Formations Overworld**: Changed from `formationsoverworld-1.0.3.jar` to `formationsoverworld-1.0.4.jar`
 - **Friends & Foes**: Changed from `friendsandfoes-fabric-mc1.20.1-2.0.10.jar` to `friendsandfoes-fabric-mc1.20.1-2.0.17.jar`
-- **Furnace Recycle**: Changed from `furnacerecycle-1.20.1-2.2.jar` to `furnacerecycle-1.20.1-2.5.jar`
 - **Fzzy Config**: Changed from `fzzy_config-0.3.3+1.20.1.jar` to `fzzy_config-0.4.3+1.20.1.jar`
 - **GeckoLib**: Changed from `geckolib-fabric-1.20.1-4.4.4.jar` to `geckolib-fabric-1.20.1-4.4.9.jar`
 - **Geophilic – Vanilla Biome Overhauls**: Changed from `geophilic-v2.2.0-mc1.20u1.20.2.jar` to `Geophilic v3.1.3 f15-48.jar`

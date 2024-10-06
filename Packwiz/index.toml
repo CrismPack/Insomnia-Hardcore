@@ -117,8 +117,8 @@ file = "config/dusk.json"
 hash = "68ed77369dae4f4dda844fd69e6045db4f25308e0ef9c2351bfbd20406dbaa06"
 
 [[files]]
-file = "config/eldritch_end/mechanics/corruption.json"
-hash = "c20554bd7d2a17f087c6ced5d41156730611cc13783c28242061d7ce0849b709"
+file = "config/eldritch_end/mechanics/corruption.json5"
+hash = "d223df9c940efee5a18a0c524b273f876b7b15b1db08d5079706843d973d1f6d"
 
 [[files]]
 file = "config/endgoblintraders.toml"
@@ -614,11 +614,6 @@ hash = "8aef0ca57651665e0523fbb2022299e46e720af2f1fd9da3c93360dc37eb08eb"
 metafile = true
 
 [[files]]
-file = "mods/advanced-enderite.pw.toml"
-hash = "9c74617dd3d5547318c1938ca9d9e9129833220c38e7f20e71ab6ea3e094f538"
-metafile = true
-
-[[files]]
 file = "mods/advanced-netherite-fabric.pw.toml"
 hash = "5684fd18919e9169a25ca72cf30ce7fb5538f318d0120ee8a3b62f3a4bef5ee0"
 metafile = true
@@ -814,11 +809,6 @@ hash = "50702761d44d49301519516d405872faed540099a70ffd6bb352a8a905f410b4"
 metafile = true
 
 [[files]]
-file = "mods/blockus.pw.toml"
-hash = "b4b4055638cb25991f2cfe171884a32e2eef5eaa990e3eaba9c72f686c30dd3b"
-metafile = true
-
-[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
 metafile = true
@@ -861,11 +851,6 @@ metafile = true
 [[files]]
 file = "mods/bygone-nether-fabric.pw.toml"
 hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
-metafile = true
-
-[[files]]
-file = "mods/camp-chair.pw.toml"
-hash = "3601930d7f1fffec0232aeff33c3c767449527f867514f8a8ef5bd711befed4a"
 metafile = true
 
 [[files]]
@@ -1024,11 +1009,6 @@ hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
 metafile = true
 
 [[files]]
-file = "mods/couplings.pw.toml"
-hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
-metafile = true
-
-[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "9c117165de58de5997c78505c7a98b74eb13ca547416785e9c3f2cd2b19ad39f"
 metafile = true
@@ -1109,11 +1089,6 @@ hash = "5a5183d45a2f21f73d9ae86fbc2169a49e0dbb35ec253362444bccf7f8595981"
 metafile = true
 
 [[files]]
-file = "mods/distant-friends.pw.toml"
-hash = "0ba91e06816df6a6baf1286e274b20e2291155ef0fb5ca4991f6a896d554d6e2"
-metafile = true
-
-[[files]]
 file = "mods/do-api.pw.toml"
 hash = "39b5a8375c756d2ff436829aa67ea45e5447f404e9cb4922095a90cfcffe04ef"
 metafile = true
@@ -1145,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/dyed.pw.toml"
-hash = "d3ec6921a44a377f1f6c58c5ae95ddfa0c86567c5fc51650404ec2b1b673aefc"
+hash = "a0cf094055a2bf99f6b1a65ec28417b456cb8ba8d8351f679572236b5e4f07eb"
 metafile = true
 
 [[files]]
@@ -1241,11 +1216,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b5789817c726c22a91b75af1a1dab90fa88bd52ce63aee72f85bede2dd8d3a46"
-metafile = true
-
-[[files]]
-file = "mods/enderite-mod-for-fabric.pw.toml"
-hash = "e06636acc672b1f67fe188b9ec0b1098555448c4376c41cce6cf623d3a2e26ce"
 metafile = true
 
 [[files]]
@@ -1359,11 +1329,6 @@ hash = "f625714c4c9f892f5a36b4434bb3e7b6fac42346a7c6d34e83c3ce56ec96741a"
 metafile = true
 
 [[files]]
-file = "mods/farsighted-mobs.pw.toml"
-hash = "9c7384b9e582cb13a4335aecc4f65a06822eab66c75afdb4e20ca1e76e52b082"
-metafile = true
-
-[[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
 hash = "9e525b31263cc8c7caa45efc23d180a085b51286e3bde80640d74dc1d982e8f7"
 metafile = true
@@ -1431,11 +1396,6 @@ metafile = true
 [[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "d5941a5506020f5cb815baf0d940ecef61f1ad9c7c1d2acc88a8e9e478b940b7"
-metafile = true
-
-[[files]]
-file = "mods/furnace-recycle.pw.toml"
-hash = "23873a961602853897f8a47ba47997408a4e358d46fd0096059ffe19b5804a93"
 metafile = true
 
 [[files]]
@@ -2144,11 +2104,6 @@ hash = "54b7eb2ede1efd77a7a7e5203ab6fc6a6aeefd6a5562dd830e817e7eb23542a0"
 metafile = true
 
 [[files]]
-file = "mods/shulker.pw.toml"
-hash = "0e9cf1de1bfb27a41b4fa796cae495aaa6908de9f86d18efef9df42ea60435ca"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "fd1bfe28bc13140630209fe161f046cb39dcf8e7d9c2a325b6a7336f739af184"
 metafile = true
@@ -2309,8 +2264,8 @@ hash = "4c3e112fd51bd798d94aee2d0b2b760273bea50480ba0f607f0277e3a7da068f"
 metafile = true
 
 [[files]]
-file = "mods/the-lost-castle-fabric.pw.toml"
-hash = "55697d8f856e615c3ceb5daf1462f96a62a0157dff6ec485c968af6d6ea44949"
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "322f5c79d943417a0870aa3ff7de4320929e28ce6dc9048af9dd7cecd3913ae5"
 metafile = true
 
 [[files]]
@@ -2404,6 +2359,11 @@ hash = "78b0107734aa30d04c896fb341c70fe93c807e93865034fbbba8983190790b77"
 metafile = true
 
 [[files]]
+file = "mods/weeping-angels-mod.pw.toml"
+hash = "60db56408422a1c14a59a65c7052af4ad2263ad4894b38034db3168eafdfd0a5"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "daae8d581d38e256aff2cf4f219ee4b092049f4ee6fdaa50a6eab01ec05f4f88"
 metafile = true
@@ -2441,6 +2401,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+metafile = true
+
+[[files]]
+file = "mods/you-died.pw.toml"
+hash = "2ae10bfca66fd6846f0fbcb4ddfd8e297591457e49d2c8e3a2f7cf25bd2cfafb"
 metafile = true
 
 [[files]]

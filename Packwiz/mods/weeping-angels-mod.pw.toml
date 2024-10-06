@@ -1,0 +1,13 @@
+name = "Doctor Who:  Weeping Angels"
+filename = "weeping_angels-46.0.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7dcee4107bbe205981fd04c2bea09a527310e5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5363875
+project-id = 291249
