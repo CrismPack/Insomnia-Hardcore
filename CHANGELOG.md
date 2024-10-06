@@ -15,10 +15,13 @@
 
 - New dungeon & boss in the Overworld.
 - Return of the Aether dimension.
+- New Icarae Origin and craftable wings.
 - Armor trim materials now give additional attributes when worn.
-- Minor quality of life changes & performance gains.
 - Changed shader to use the Reimagined style by default.
 - Changed shader to use the medium preset by default.
+- Changed starter kit to give lanterns instead of torches.
+- Changed starter kit to give Eccentric Tome containing starter guidebooks.
+- Minor quality of life changes & performance gains.
 - Updated mods & resource packs.
 
 ### Bug Fixes 🪲
@@ -32,21 +35,28 @@
 - Advanced Enderite
 - Better Trims
 - Cobweb
+- Common Network
 - Configurable
 - Create Enchantment Industry Fabric
 - Death Knights
+- Distant Friends
 - Dungeon Now Loading 1%
+- Eccentric Tome
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
 - Hephaestus Fabric
+- Icarae Origin
+- Icarus
 - iChunUtil `Client`
 - Paradise Lost
 - Phantom Config
+- Resourceful Config
 - Sawmill
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
 - True Darkness Refabricated `Client`
+- Zombie Awareness
 
 ### Removed Mods ❌
 
@@ -68,6 +78,9 @@
 - Changed dungeon mob health and attack scale from "1.0" to "1.5": `Dungeon Now Loading 1%`, `Both`
 - Changed disableRecipebook to "true": `Recipe Essentials`, `Both`
 - Moved shaderpack settings to be handled by YOSBR: `Complementary Insomnia Edit`, `Client`
+- Replaced torch item with lanterns: `StarterKit`, `Both`
+- Added "Eccentric Tome" item, containing TConstruct and SimplySwords guidebooks inside of it: `StarterKit`, `Both`
+- Changed "addExistingItemsAfterKitSet" to false: `StarterKit`, `Both`
 
 ## v2.1.7
 

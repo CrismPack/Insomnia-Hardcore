@@ -7,10 +7,13 @@
 
 - New dungeon & boss in the Overworld.
 - Return of the Aether dimension.
+- New Icarae Origin and craftable wings.
 - Armor trim materials now give additional attributes when worn.
-- Minor quality of life changes & performance gains.
 - Changed shader to use the Reimagined style by default.
 - Changed shader to use the medium preset by default.
+- Changed starter kit to give lanterns instead of torches.
+- Changed starter kit to give Eccentric Tome containing starter guidebooks.
+- Minor quality of life changes & performance gains.
 - Updated mods & resource packs.
 
 ### Bug Fixes 🪲

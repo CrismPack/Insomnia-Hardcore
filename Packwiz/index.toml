@@ -365,8 +365,12 @@ file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "dd9facd8de6619c1a676b8c04c6af2818a989f079db2b5d3166b420f1f1833a5"
 
 [[files]]
+file = "config/starterkit.json5"
+hash = "c8f33d5e3c2c24a831c8d069c95fdd416a1e6c95ad0ce4c2c0e93d889de255d9"
+
+[[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "095430790ec08d5dd3fe56f45d562386724af4062c965733736fc659ee141866"
+hash = "66a961d7705da16c220d336bd0fae83acd9d60e349f48607423cb63d9fb06368"
 
 [[files]]
 file = "config/starterstructure.json5"
@@ -975,6 +979,11 @@ hash = "8a3432ac57fefabac2f33b482d56cb3f28af0242f4f18aa19156bd4f453e8e0b"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "e1b1e7629e390f1c8b0fa6be0bd07fa54abc03522a1659259ca762b8e2f64faa"
+metafile = true
+
+[[files]]
 file = "mods/compact-help-command.pw.toml"
 hash = "78dd9a015824f8d86a801d791518d73ef707bfc58f38c23fbe30519740dc82b1"
 metafile = true
@@ -1100,6 +1109,11 @@ hash = "5a5183d45a2f21f73d9ae86fbc2169a49e0dbb35ec253362444bccf7f8595981"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "0ba91e06816df6a6baf1286e274b20e2291155ef0fb5ca4991f6a896d554d6e2"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "39b5a8375c756d2ff436829aa67ea45e5447f404e9cb4922095a90cfcffe04ef"
 metafile = true
@@ -1157,6 +1171,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
 hash = "655ba91465112e77e0bfc5deb6d7a5cdf5f54d88ea3c5daa34677784baf989cd"
+metafile = true
+
+[[files]]
+file = "mods/eccentric-tome-fabric.pw.toml"
+hash = "dde25c12063ad9d05cb3f0db21176fef6e93a5d739f255a694c67300f3ef3d1e"
 metafile = true
 
 [[files]]
@@ -1467,6 +1486,16 @@ metafile = true
 [[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "840255d4c3fb4e6c5645718a721bc52f1f6fbba91762597877bc4c89295e5581"
+metafile = true
+
+[[files]]
+file = "mods/icarae-origin.pw.toml"
+hash = "880f5b7fd1ff3f209e4f3324c6aa26f17232e8bdd8c2e9da577867f1e94ef595"
+metafile = true
+
+[[files]]
+file = "mods/icarus.pw.toml"
+hash = "725249341624dc3f3947ba971bfc136074eb7e0938e81c067f490e3818db3d6a"
 metafile = true
 
 [[files]]
@@ -2040,6 +2069,11 @@ hash = "b3b295454c61997fc8e123e0fee441b8c0def0933a3aa30ebc566821c1af6173"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
 metafile = true
@@ -2447,6 +2481,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts-fabric.pw.toml"
 hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "6531e4119b297a96824961b7bd701bfc771b1fa04da02077c873f7bbf7b8ed10"
 metafile = true
 
 [[files]]

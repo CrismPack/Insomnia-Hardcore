@@ -5,21 +5,28 @@
 - Advanced Enderite
 - Better Trims
 - Cobweb
+- Common Network
 - Configurable
 - Create Enchantment Industry Fabric
 - Death Knights
+- Distant Friends
 - Dungeon Now Loading 1%
+- Eccentric Tome
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
 - Hephaestus Fabric
+- Icarae Origin
+- Icarus
 - iChunUtil `Client`
 - Paradise Lost
 - Phantom Config
+- Resourceful Config
 - Sawmill
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
 - True Darkness Refabricated `Client`
+- Zombie Awareness
 ## Removed
 
 - Concurrent Chunk Management Engine
