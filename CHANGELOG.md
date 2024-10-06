@@ -64,7 +64,6 @@
 ### Removed Mods ❌
 
 - Animatica `Client`
-- Blockus
 - Concurrent Chunk Management Engine
 - Camp Chair
 - Couplings
