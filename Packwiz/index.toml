@@ -1327,6 +1327,11 @@ hash = "81afec1faa8078eec3f85ea36827fa95e63885ac1295d99a2d1fbfb0c8e50a7f"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "8be6726272f4e5e9d9097ff12b01dc42915bc2dc903e6dc7c7b8bef1a49f6b72"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e52dd1a8ddc694c62c45c2950ef24be55caf70b356a0e22071433e923409ca91"
 metafile = true
@@ -1588,7 +1593,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "250ac597bc8217567cc86ac03e3b10b0cee50661ea3a4113cd20ca134b67674a"
+hash = "2895ab3b454293884e288a125bba2fbf4135475573c345ef919d56f2ad91419c"
 metafile = true
 
 [[files]]
@@ -1704,6 +1709,11 @@ metafile = true
 [[files]]
 file = "mods/medieval-music.pw.toml"
 hash = "c5dd4f17d77c8bbd51acb16c4660a6f2f21a5dce3a41cac782fd0e77e58e5b46"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2af509457d13907cf0b48f2f0997750c07e0349f6522b87f8b4bcd1794aa2559"
 metafile = true
 
 [[files]]
