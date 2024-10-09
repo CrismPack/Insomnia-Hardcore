@@ -597,32 +597,76 @@ file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
 hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
 
 [[files]]
-file = "global_packs/required_resources/Insomnia Custom Lang/assets/minecraft/lang/en_us.json"
+file = "global_packs/required_resources/Insomnia Lang/assets/minecraft/lang/en_us.json"
 hash = "99b77bc5350d56f89751ed9543dce3fc1b75c0451f55a830f3ceab1dd7c25951"
 
 [[files]]
-file = "global_packs/required_resources/Insomnia Custom Lang/assets/travelerstitles/lang/en_us.json"
+file = "global_packs/required_resources/Insomnia Lang/pack.mcmeta"
+hash = "3e851073d567e458102962f402a4f8257ba7217b22f1722e6ebbddd56fde8349"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/models/block/birch_leaves.json"
+hash = "5744637b0e3a067eaf1e453a0200dad5716492b0e78fbac22312dbef31a65307"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/optifine/color.properties"
+hash = "ba036ff69c25f757efebfb448cb7de50f71dc6668e9de5068d7f7b481f6d38b4"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/block/birch_leaves.png"
+hash = "35eeff8cb64529c4bc2ee7b2dc2f40ebb8c06328408fd8cd42d9ff5052b0800b"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/colormap/grass.png"
+hash = "e0d8e34b7765f620d5fff26b93f476491b7aed3ce936922d2ea2c443a159f69b"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/villager/profession/weaponsmith.png"
+hash = "c6ec2ed2364f5904804cd53483692111b92eb919d3fd15353c471e250f534fe7"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/villager/type/desert.png"
+hash = "2e31d059b6ecc3ed9964247d724a2be7112b7e078dc1de4a5567a65910558b36"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/villager/type/plains.png"
+hash = "87e4ea0ccfa238ce93cf85a6aa722cbb1eff1d8596c8b4024fba702ec495a000"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/villager/villager.png"
+hash = "075a862433c88ea6c018ac5280c652a44eb67f2cf70d4cca8bf286ae85b4642b"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/profession/weaponsmith.png"
+hash = "946c4d7d1de80ce3f088023a789f45c4c1c59b16a30d06dba6fc296848475b70"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/type/desert.png"
+hash = "cf6193d9501f15e536ef1730419d1490ceabf9b7474075611a849fbde980e858"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/zombie_villager.png"
+hash = "672624ba490e5c27abfbe408a239285690fa148a5cfb57836ea684bcb532003b"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Patches/assets/travelerstitles/lang/en_us.json"
 hash = "14960a97340bb4bacd0cdac0cafdd902d2847d62751c7e82a43593150d380205"
 
 [[files]]
-file = "global_packs/required_resources/Insomnia Custom Lang/assets/travelerstitles/lang/uk_ua.json"
+file = "global_packs/required_resources/Insomnia Patches/assets/travelerstitles/lang/uk_ua.json"
 hash = "a03702f6fa5305f22b7528cd4b87380a793c432f8c9750dec56a15fed6047168"
 
 [[files]]
-file = "global_packs/required_resources/Insomnia Custom Lang/pack.mcmeta"
-hash = "de0ffb7f22f7bf11ea64f35c583d809c589f0e7f43eddcc350ea50f160db0913"
+file = "global_packs/required_resources/Insomnia Patches/pack.mcmeta"
+hash = "7458d3c95ce5c858ef2653daacf56cd4bb4fd47366793a15644744882613648d"
 
 [[files]]
-file = "global_packs/required_resources/Insomnia Textures.zip"
-hash = "0fddabedead546ccb55ab8a228e2f14727b0333c12f43e9b3db6f7166932867b"
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/options_background.png"
+hash = "3530d878540a036669bbab0e78abf6d6d245fc5fda102b872190e27c9dc0bd23"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/widgets.png"
-hash = "47bab99005249b2fd39c465d367bb93c0077cecd7a2864330815b7ceadd41b20"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "b49d432567a56addd0fe7b28ec3845fa23a113a109bccb12601febf6163e25e8"
+hash = "dd3b6e31cf9e60f5c807fc436fc685b9875d18a6fd998838a473492afabb9ba0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_sophisticated_backpacks.js"
