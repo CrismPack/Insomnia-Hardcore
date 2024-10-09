@@ -12,12 +12,14 @@
 - Eccentric Tome
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
+- FancyMenu
 - Hephaestus Fabric
 - Icarae Origin
 - Icarus
 - iChunUtil `Client`
 - InvMoveCompats `Client`
 - Loot Integrations
+- Melody
 - Paradise Lost
 - Phantom Config
 - Resourceful Config
@@ -39,6 +41,7 @@
 - Couplings
 - Dyed
 - Enderite Mod
+- FancyMenu   `Client`
 - Farsighted Mobs
 - Furnace Recycle
 - Phantom Config Fork
@@ -63,6 +66,7 @@
 - **Branded Logs**: Changed from `brandedlogs-2.0.1.jar` to `brandedlogs-fabric-2.0.3-mc1.20.1.jar`
 - **Chat Heads**: Changed from `chat_heads-0.12.2-fabric-1.20.jar` to `chat_heads-0.13.3-fabric-1.20.jar`
 - **Chat Patches**: Changed from `chatpatches-201.5.5.jar` to `chatpatches-201.5.6.jar`
+- **Cherished Worlds**: Changed from `cherishedworlds-fabric-6.1.5+1.20.1.jar` to `cherishedworlds-fabric-6.1.6+1.20.1.jar`
 - **Cloth Config API**: Changed from `cloth-config-11.1.118-fabric.jar` to `cloth-config-11.1.136-fabric.jar`
 - **Collective**: Changed from `collective-1.20.1-7.80.jar` to `collective-1.20.1-7.84.jar`
 - **Combat Roll**: Changed from `combatroll-fabric-1.3.2+1.20.1.jar` to `combatroll-fabric-1.3.3+1.20.1.jar`

@@ -145,6 +145,22 @@ file = "config/fabric_loader_dependencies.json"
 hash = "7d1160745755318bfdbd6d40d0bc2b3775c02d1d2fc2a30c2a071ed1a005d11b"
 
 [[files]]
+file = "config/fancymenu/assets/changelog6.png"
+hash = "183ede409ef889ed0cba6c319a55c27c71119633c8cb05f9c1dad2dee358b598"
+
+[[files]]
+file = "config/fancymenu/assets/discord10.png"
+hash = "f7576fd27fb7dc179a619803eb884720abe39e9d48aa4cd4e71c4c9b107319a9"
+
+[[files]]
+file = "config/fancymenu/assets/options4.png"
+hash = "0411b613ff7b9b13b5994e0258fe527ed82439b8451265ea1bcfedf6743641d1"
+
+[[files]]
+file = "config/fancymenu/assets/quit.png"
+hash = "104000bea33ccc66b58c36a5d36c4e2e553cca84b5d24f5c6856c8846b61b20e"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "a2d4dc30d05c042e4a943dd816c17e0b554dbfd61f27edb96eb6a7599c817570"
 
@@ -162,7 +178,7 @@ hash = "84c5dea92d6ca19e9fb0bc11037094e209108fcf748beb0d968d9c767731c78d"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "01d4475050a956d583c4be94051d3161764386deb4fda7d1c79a463e0dcd0953"
+hash = "5695e04e9a33f74457b4e7e0a44340a19fd7fbadc1691e3e20c3233d00376e9c"
 
 [[files]]
 file = "config/fancymenu/customization/distanthorizons_menu.txt"
@@ -610,7 +626,7 @@ hash = "0fddabedead546ccb55ab8a228e2f14727b0333c12f43e9b3db6f7166932867b"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/widgets.png"
-hash = "47bab99005249b2fd39c465d367bb93c0077cecd7a2864330815b7ceadd41b20"
+hash = "dd3b6e31cf9e60f5c807fc436fc685b9875d18a6fd998838a473492afabb9ba0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_sophisticated_backpacks.js"
@@ -883,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "9a024d71f458e33825f62cadf415ec56a289a8c02e939b9e8ccc9b3b06fee094"
+hash = "14f9a36ac233a5a78ecdd04147bf5ba1c1b492a1c62ad8332c6ed5bc636b02cb"
 metafile = true
 
 [[files]]
@@ -1319,11 +1335,6 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "aa4f7442c65ddef2cd7594e49e2cd26f28f25f4c8b11b95a611b16a7a242a07b"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu-fabric.pw.toml"
-hash = "81afec1faa8078eec3f85ea36827fa95e63885ac1295d99a2d1fbfb0c8e50a7f"
 metafile = true
 
 [[files]]

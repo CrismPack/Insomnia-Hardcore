@@ -48,12 +48,14 @@
 - Eccentric Tome
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
+- FancyMenu
 - Hephaestus Fabric
 - Icarae Origin
 - Icarus
 - iChunUtil `Client`
 - InvMoveCompats `Client`
 - Loot Integrations
+- Melody
 - Paradise Lost
 - Phantom Config
 - Resourceful Config
@@ -76,6 +78,7 @@
 - Couplings
 - Dyed
 - Enderite Mod
+- FancyMenu   `Client`
 - Farsighted Mobs
 - Furnace Recycle
 - Phantom Config Fork
