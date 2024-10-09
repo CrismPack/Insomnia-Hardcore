@@ -609,6 +609,10 @@ file = "global_packs/required_resources/Insomnia Textures.zip"
 hash = "0fddabedead546ccb55ab8a228e2f14727b0333c12f43e9b3db6f7166932867b"
 
 [[files]]
+file = "kubejs/server_scripts/recipes_sophisticated_backpacks.js"
+hash = "0d1faa3e1e673a20a42940d3bf0f8752d47c3d783528ecf3162ad32206d6283f"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "8aef0ca57651665e0523fbb2022299e46e720af2f1fd9da3c93360dc37eb08eb"
 metafile = true

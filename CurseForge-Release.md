@@ -13,7 +13,8 @@
 - A Dark Souls-like death screen now appears upon dying.
 - Overworld mobs can now track you by blood scent, sound, and light source awareness.
 - The shader now defaults to the Reimagined style and medium graphics preset.
-- The starter kit now includes an 'Eccentric Tome' containing your guidebooks, and torches have been replaced with lanterns.
+- Changed starter kit to include an 'Eccentric Tome' with starter guidebooks placed inside, as well as replacing torches with lanterns.
+- Changed backpack recipes to be more expensive.
 - Made minor performance & stability improvements.
 - Updated mods and resource packs.
 - And more!
@@ -24,6 +25,7 @@
 - Fixed shader pack unable to be activated with keybind from fresh install.
 - Fixed mobs glowing when holding a light source with shaders on.
 - Fixed movement & abilities activating when searching for recipes.
+- Fixed recipes for 'Metal Bundes' not showing in EMI.
 
 #### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomniahardcore/changelog/1.20.1#v2.2.0)**
 
