@@ -48,20 +48,20 @@
 ## Modified
 
 - **Advanced Netherite**: Changed from `advancednetherite-fabric-2.1.0-1.20.1.jar` to `advancednetherite-fabric-2.1.3-1.20.1.jar`
-- **Advancement Plaques**: Changed from `AdvancementPlaques-1.20.1-fabric-1.4.11.jar` to `AdvancementPlaques-1.20.1-fabric-1.6.6.jar`
+- **Advancement Plaques**: Changed from `AdvancementPlaques-1.20.1-fabric-1.4.11.jar` to `AdvancementPlaques-1.20.1-fabric-1.6.7.jar`
 - **Alternate Current**: Changed from `alternate-current-mc1.20-1.7.0.jar` to `alternate-current-mc1.20-1.9.0.jar`
 - **Alternate Origin GUI**: Changed from `altorigingui-1.20.1-1.0.1.jar` to `AltOriginGui-fabric-1.20.1-1.1.1.jar`
 - **Amendments**: Changed from `amendments-1.20-1.1.31-fabric.jar` to `amendments-1.20-1.2.11-fabric.jar`
 - **Armor & damage scaling**: Changed from `armordamagescale-fabric-1.20.1-3.0.jar` to `armordamagescale-fabric-1.20.1-3.1.jar`
-- **AzureLib Armor**: Changed from `azurelibarmor-fabric-1.20.1-2.0.3.jar` to `azurelibarmor-fabric-1.20.1-2.0.10.jar`
-- **AzureLib**: Changed from `azurelib-fabric-1.20.1-2.0.24.jar` to `azurelib-fabric-1.20.1-2.0.37.jar`
+- **AzureLib Armor**: Changed from `azurelibarmor-fabric-1.20.1-2.0.3.jar` to `azurelibarmor-fabric-1.20.1-2.0.12.jar`
+- **AzureLib**: Changed from `azurelib-fabric-1.20.1-2.0.24.jar` to `azurelib-fabric-1.20.1-2.0.39.jar`
 - **Balm**: Changed from `balm-fabric-1.20.1-7.2.2.jar` to `balm-fabric-1.20.1-7.3.9.jar`
 - **Better Archeology**: Changed from `betterarcheology-1.1.9-1.20.1.jar` to `betterarcheology-1.2.1-1.20.1.jar`
 - **Better Combat**: Changed from `bettercombat-fabric-1.8.5+1.20.1.jar` to `bettercombat-fabric-1.8.6+1.20.1.jar`
 - **Blockus**: Changed from `blockus-2.7.13+1.20.1.jar` to `blockus-2.7.19+1.20.1.jar`
 - **Bookshelf**: Changed from `Bookshelf-Fabric-1.20.1-20.1.10.jar` to `Bookshelf-Fabric-1.20.1-20.2.13.jar`
 - **Branded Logs**: Changed from `brandedlogs-2.0.1.jar` to `brandedlogs-fabric-2.0.3-mc1.20.1.jar`
-- **Chat Heads**: Changed from `chat_heads-0.12.2-fabric-1.20.jar` to `chat_heads-0.13.2-fabric-1.20.jar`
+- **Chat Heads**: Changed from `chat_heads-0.12.2-fabric-1.20.jar` to `chat_heads-0.13.3-fabric-1.20.jar`
 - **Chat Patches**: Changed from `chatpatches-201.5.5.jar` to `chatpatches-201.5.6.jar`
 - **Cloth Config API**: Changed from `cloth-config-11.1.118-fabric.jar` to `cloth-config-11.1.136-fabric.jar`
 - **Collective**: Changed from `collective-1.20.1-7.80.jar` to `collective-1.20.1-7.84.jar`
@@ -78,40 +78,40 @@
 - **API**: Changed from `letsdo-API-fabric-1.2.12-fabric.jar` to `letsdo-API-fabric-1.2.15-fabric.jar`
 - **Dungeon Difficulty**: Changed from `dungeon_difficulty-2.1.0+1.20.1.jar` to `dungeon_difficulty-2.2.1+1.20.1.jar`
 - **e4mc**: Changed from `e4mc-4.0.1+1.19.4-fabric.jar` to `e4mc_minecraft-fabric-5.2.1.jar`
-- **Eldritch End**: Changed from `Eldritch_End-FABRIC-MC1.20.1-0.2.31.jar` to `Eldritch_End-FABRIC-MC1.20.1-0.3.0.jar`
-- **Elytra Slot**: Changed from `elytraslot-fabric-6.3.0+1.20.1.jar` to `elytraslot-fabric-6.4.2+1.20.1.jar`
+- **Eldritch End**: Changed from `Eldritch_End-FABRIC-MC1.20.1-0.2.31.jar` to `Eldritch_End-FABRIC-MC1.20.1-0.3.1.jar`
+- **Elytra Slot**: Changed from `elytraslot-fabric-6.3.0+1.20.1.jar` to `elytraslot-fabric-6.4.4+1.20.1.jar`
 - **Elytra Trims Extensions**: Changed from `elytratrims_extensions-fabric-2.1.0.jar` to `elytratrims_extensions-fabric-2.2.1.jar`
-- **Elytra Trims**: Changed from `elytratrims-fabric-3.1.8+1.20.1.jar` to `elytratrims-fabric-3.5.1+1.20.1.jar`
+- **Elytra Trims**: Changed from `elytratrims-fabric-3.1.8+1.20.1.jar` to `elytratrims-fabric-3.5.4+1.20.1.jar`
 - **Embeddium**: Changed from `embeddium-fabric-0.3.19+mc1.20.1.jar` to `embeddium-fabric-0.3.25+mc1.20.1.jar`
-- **EMI Loot**: Changed from `emi_loot-0.6.6+1.20.1.jar` to `emi_loot-0.7.3+1.20.1+fabric.jar`
-- **EMI**: Changed from `emi-1.1.6+1.20.1+fabric.jar` to `emi-1.1.13+1.20.1+fabric.jar`
+- **EMI Loot**: Changed from `emi_loot-0.6.6+1.20.1.jar` to `emi_loot-0.7.4+1.20.1+fabric.jar`
+- **EMI**: Changed from `emi-1.1.6+1.20.1+fabric.jar` to `emi-1.1.16+1.20.1+fabric.jar`
 - **Enchantment Descriptions**: Changed from `EnchantmentDescriptions-Fabric-1.20.1-17.0.15.jar` to `EnchantmentDescriptions-Fabric-1.20.1-17.1.18.jar`
 - **End's Delight**: Changed from `ends_delight-refabricated-1.20.1-alpha-1.0.jar` to `ends_delight-fabric-1.20.1-2.1.jar`
 - **Entity Model Features**: Changed from `entity_model_features_fabric_1.20.1-2.0.2.jar` to `entity_model_features_fabric_1.20.1-2.2.6.jar`
 - **Entity Texture Features -**: Changed from `entity_texture_features_fabric_1.20.1-6.0.1.jar` to `entity_texture_features_fabric_1.20.1-6.2.5.jar`
-- **Every Compat**: Changed from `everycomp-1.20-2.6.55-fabric.jar` to `everycomp-1.20-2.6.76-fabric.jar`
+- **Every Compat**: Changed from `everycomp-1.20-2.6.55-fabric.jar` to `everycomp-1.20-2.6.82-fabric.jar`
 - **Expanded Delight**: Changed from `expandeddelight-0.3.1.jar` to `expandeddelight-0.3.2.jar`
 - **Fabric Language Kotlin**: Changed from `fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar` to `fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar`
 - **Farmer's Delight Refabricated**: Changed from `FarmersDelight-1.20.1-2.1.1+refabricated.jar` to `FarmersDelight-1.20.1-2.1.6+refabricated.jar`
 - **Formations Overworld**: Changed from `formationsoverworld-1.0.3.jar` to `formationsoverworld-1.0.4.jar`
-- **Friends & Foes**: Changed from `friendsandfoes-fabric-mc1.20.1-2.0.10.jar` to `friendsandfoes-fabric-mc1.20.1-2.0.17.jar`
-- **Fzzy Config**: Changed from `fzzy_config-0.3.3+1.20.1.jar` to `fzzy_config-0.4.3+1.20.1.jar`
+- **Friends & Foes**: Changed from `friendsandfoes-fabric-mc1.20.1-2.0.10.jar` to `friendsandfoes-fabric-mc1.20.1-3.0.3.jar`
+- **Fzzy Config**: Changed from `fzzy_config-0.3.3+1.20.1.jar` to `fzzy_config-0.5.2+1.20.1.jar`
 - **GeckoLib**: Changed from `geckolib-fabric-1.20.1-4.4.4.jar` to `geckolib-fabric-1.20.1-4.4.9.jar`
 - **Geophilic – Vanilla Biome Overhauls**: Changed from `geophilic-v2.2.0-mc1.20u1.20.2.jar` to `Geophilic v3.1.3 f15-48.jar`
 - **Harvest with ease**: Changed from `harvestwithease-1.20.1-8.0.1.0-fabric.jar` to `harvest-with-ease-fabric-1.20.1-9.2.0.jar`
 - **Hearths**: Changed from `hearths-v1.0.0.jar` to `Hearths v1.0.1 f12-48.jar`
 - **ImmediatelyFast**: Changed from `ImmediatelyFast-Fabric-1.2.13+1.20.4.jar` to `ImmediatelyFast-Fabric-1.2.21+1.20.4.jar`
-- **Iris & Oculus Flywheel Compat**: Changed from `iris-flywheel-compat-fabric1.20.1+1.1.1.jar` to `iris-flywheel-compat-fabric1.20.1+1.1.3a.jar`
-- **Iris Shaders**: Changed from `iris-1.7.0+mc1.20.1.jar` to `iris-1.7.2+mc1.20.1.jar`
+- **Iris & Oculus Flywheel Compat**: Changed from `iris-flywheel-compat-fabric1.20.1+1.1.1.jar` to `iris-flywheel-compat-fabric1.20.1+1.1.4.jar`
+- **Iris Shaders**: Changed from `iris-1.7.0+mc1.20.1.jar` to `iris-1.7.5+mc1.20.1.jar`
 - **Item Obliterator**: Changed from `Item_Obliterator-Fabric_Quilt-2.2.0.jar` to `Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar`
 - **Jade Addons**: Changed from `JadeAddons-1.20.1-fabric-5.2.5.jar` to `JadeAddons-1.20.1-Fabric-5.3.1.jar`
-- **Jade 🔍**: Changed from `Jade-1.20-fabric-11.9.2.jar` to `Jade-1.20-fabric-11.11.0.jar`
-- **Just Enough Items**: Changed from `jei-1.20.1-fabric-15.3.0.4.jar` to `jei-1.20.1-fabric-15.19.5.99.jar`
+- **Jade 🔍**: Changed from `Jade-1.20-fabric-11.9.2.jar` to `Jade-1.20-Fabric-11.12.0.jar`
+- **Just Enough Items**: Changed from `jei-1.20.1-fabric-15.3.0.4.jar` to `jei-1.20.1-fabric-15.20.0.104.jar`
 - **Let Me Despawn**: Changed from `letmedespawn-fabric-1.20.x-1.2.0.jar` to `letmedespawn-fabric-1.3.2c.jar`
 - **Legacy:  Brewery**: Changed from `letsdo-brewery-fabric-1.1.8.jar` to `letsdo-brewery-fabric-1.1.9.jar`
 - **NetherVinery**: Changed from `letsdo-nethervinery-fabric-1.2.12.jar` to `letsdo-nethervinery-fabric-1.2.14.jar`
 - **Lithostitched**: Changed from `lithostitched-fabric-1.20.1-1.1.5.jar` to `lithostitched-fabric-1.20.1-1.3.1a.jar`
-- **MCPitanLib**: Changed from `mcpitanlib-2.2.4-1.20.1-fabric.jar` to `mcpitanlib-2.4.5-fix.1-1.20.1-fabric.jar`
+- **MCPitanLib**: Changed from `mcpitanlib-2.2.4-1.20.1-fabric.jar` to `mcpitanlib-2.5.1-1.20.1-fabric.jar`
 - **Memory Settings**: Changed from `memorysettings-fabric-1.20.1-5.3.jar` to `memorysettings-fabric-1.20.1-5.5.jar`
 - **Mine Cells - Dead Cells Mod**: Changed from `minecells-1.7.4.jar` to `minecells-1.8.5.jar`
 - **MmmMmmMmmMmm**: Changed from `dummmmmmy-1.20-1.8.17b-fabric.jar` to `dummmmmmy-1.20-2.0.3-fabric.jar`
@@ -119,34 +119,36 @@
 - **MVS - Moog's Voyager Structures**: Changed from `mvs-4.1.2-1.20-fabric.jar` to `mvs-4.1.4-1.20-fabric.jar`
 - **More Armor Trims**: Changed from `morearmortrims-1.2.0.jar` to `morearmortrims-1.4.0-1.20.1.jar`
 - **Music Maker Mod**: Changed from `xercamusic-fabric-1.20.1-1.0.1.jar` to `xercamusic-fabric-1.20.1-1.0.2.jar`
+- **Necronomicon API**: Changed from `Necronomicon-Fabric-1.4.2.jar` to `Necronomicon-Fabric-1.6.0+1.20.1.jar`
 - **Neruina - Ticking Entity Fixer**: Changed from `neruina-fabric-2.0.0-beta.10+1.20.1.jar` to `Neruina-2.1.2-fabric+1.20.1.jar`
 - **Nether Portal Spread**: Changed from `netherportalspread-1.20.1-8.1.jar` to `netherportalspread-1.20.1-8.3.jar`
 - **No Mob Farms**: Changed from `nomobfarm-1.6.5.jar` to `nomobfarm-fabric-1.6.6.jar`
 - **Noisium**: Changed from `noisium-fabric-2.0.3+mc1.20-1.20.1.jar` to `noisium-fabric-2.3.0+mc1.20-1.20.1.jar`
 - **Not Enough Animations**: Changed from `notenoughanimations-fabric-1.7.3-mc1.20.1.jar` to `notenoughanimations-fabric-1.7.6-mc1.20.1.jar`
 - **Open Parties and Claims**: Changed from `open-parties-and-claims-fabric-1.20.1-0.22.0.jar` to `open-parties-and-claims-fabric-1.20.1-0.23.2.jar`
-- **OptiGUI**: Changed from `optigui-2.1.7.jar` to `optigui-2.3.0-beta.5+1.20.jar`
+- **OptiGUI**: Changed from `optigui-2.1.7.jar` to `optigui-2.3.0-beta.6+1.20.jar`
+- **Overflowing Bars**: Changed from `OverflowingBars-v8.0.0-1.20.1-Fabric.jar` to `OverflowingBars-v8.0.1-1.20.1-Fabric.jar`
 - **Packet Fixer**: Changed from `packetfixer-fabric-1.4.0-1.19-to-1.20.1.jar` to `packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar`
 - **Particle Core**: Changed from `particle_core-0.2.3+1.20.1.jar` to `particle_core-0.2.5+1.20.1.jar`
 - **Pehkui**: Changed from `Pehkui-3.8.0+1.14.4-1.20.4.jar` to `Pehkui-3.8.3+1.14.4-1.21.jar`
 - **Persistent Inventory Search**: Changed from `persistentinventorysearch-1.20.1-1.4.jar` to `persistentinventorysearch-1.20.1-1.5.jar`
 - **Polymorph**: Changed from `polymorph-fabric-0.49.5+1.20.1.jar` to `polymorph-fabric-0.49.7+1.20.1.jar`
 - **Pufferfish's Skills**: Changed from `puffish_skills-0.12.2-1.20-fabric.jar` to `puffish_skills-0.13.2-1.20-fabric.jar`
-- **Puzzles Lib**: Changed from `PuzzlesLib-v8.1.20-1.20.1-Fabric.jar` to `PuzzlesLib-v8.1.23-1.20.1-Fabric.jar`
+- **Puzzles Lib**: Changed from `PuzzlesLib-v8.1.20-1.20.1-Fabric.jar` to `PuzzlesLib-v8.1.24-1.20.1-Fabric.jar`
 - **Raised**: Changed from `raised-fabric-1.20.1-3.1.3.jar` to `raised-fabric-1.20.1-4.0.0.jar`
 - **Ranged Weapon API**: Changed from `ranged_weapon_api-1.1.2+1.20.1.jar` to `ranged_weapon_api-1.1.4+1.20.1.jar`
 - **Recipe Essentials**: Changed from `recipeessentials-fabric-1.20.1-3.4.jar` to `recipeessentials-fabric-1.20.1-3.6.jar`
 - **Regions Unexplored**: Changed from `RegionsUnexploredFabric-0.5.5+1.20.1.jar` to `RegionsUnexploredFabric-0.5.6+1.20.1.jar`
 - **Resourceful Lib**: Changed from `resourcefullib-fabric-1.20.1-2.1.25.jar` to `resourcefullib-fabric-1.20.1-2.1.29.jar`
 - **Rhino**: Changed from `rhino-fabric-2001.2.2-build.18.jar` to `rhino-fabric-2001.2.3-build.6.jar`
-- **Philip's Ruins**: Changed from `Philips-Ruins1.20.1-3.9.1[Fabric].jar` to `Philips-Ruins1.20.1-4.5[Fabric].jar`
+- **Philip's Ruins**: Changed from `Philips-Ruins1.20.1-3.9.1[Fabric].jar` to `Philips-Ruins1.20.1-4.6[Fabric].jar`
 - **Runes**: Changed from `runes-fabric-0.9.11+1.20.1.jar` to `runes-0.9.13+1.20.1.jar`
-- **Saplanting**: Changed from `saplanting-fabric-1.20.1-1.2.6.jar` to `saplanting-fabric-1.20.1-1.2.7.jar`
+- **Saplanting**: Changed from `saplanting-fabric-1.20.1-1.2.6.jar` to `saplanting-fabric-1.20.1-1.2.8.jar`
 - **Savage Ender Dragon**: Changed from `dragonfight-fabric-1.20.1-4.5.jar` to `dragonfight-fabric-1.20.1-4.6.jar`
-- **Moonlight Lib**: Changed from `moonlight-1.20-2.11.30-fabric.jar` to `moonlight-1.20-2.13.0-fabric.jar`
+- **Moonlight Lib**: Changed from `moonlight-1.20-2.11.30-fabric.jar` to `moonlight-1.20-2.13.7-fabric.jar`
 - **Separated Leaves**: Changed from `separatedleaves-2.4.0-fabric-1.20.4.jar` to `separatedleaves-2.5.0-fabric-1.20.4.jar`
 - **Simple Discord RPC**: Changed from `SimpleRPC-fabric-1.20-3.2.4.jar` to `SimpleRPC-Universal-3.3.3.jar`
-- **Simple Voice Chat**: Changed from `voicechat-fabric-1.20.1-2.5.15.jar` to `voicechat-fabric-1.20.1-2.5.22.jar`
+- **Simple Voice Chat**: Changed from `voicechat-fabric-1.20.1-2.5.15.jar` to `voicechat-fabric-1.20.1-2.5.24.jar`
 - **Simply Skills**: Changed from `simplyskills-1.5.0+1.20.1.jar` to `simplyskills-1.7.1+1.20.1.jar`
 - **Simply Swords**: Changed from `simplyswords-fabric-1.55.0-1.20.1.jar` to `simplyswords-1.56.0-1.20.1.jar`
 - **Skin Layers 3D**: Changed from `skinlayers3d-fabric-1.6.5-mc1.20.1.jar` to `skinlayers3d-fabric-1.6.7-mc1.20.1.jar`
@@ -164,10 +166,11 @@
 - **TooManyOrigins**: Changed from `TooManyOrigins-1.0.1+1.20.1-fabric.jar` to `TooManyOrigins-1.1.3+1.20.1-fabric.jar`
 - **Vein Mining**: Changed from `veinmining-fabric-1.4.1+1.20.1.jar` to `veinmining-fabric-1.5.0+1.20.1.jar`
 - **Vinery**: Changed from `letsdo-vinery-fabric-1.4.19.jar` to `letsdo-vinery-fabric-1.4.28.jar`
-- **Wavey Capes**: Changed from `waveycapes-fabric-1.4.7-mc1.20.1.jar` to `waveycapes-fabric-1.4.9-mc1.20.1.jar`
+- **Wavey Capes**: Changed from `waveycapes-fabric-1.4.7-mc1.20.1.jar` to `waveycapes-fabric-1.4.10-mc1.20.1.jar`
 - **What Are They Up To**: Changed from `watut-fabric-1.20.1-1.1.1.jar` to `watut-fabric-1.20.1-1.1.3.jar`
-- **Xaero's Minimap**: Changed from `Xaeros_Minimap_24.1.1_Fabric_1.20.jar` to `Xaeros_Minimap_24.4.0_Fabric_1.20.jar`
+- **Xaero's Minimap**: Changed from `Xaeros_Minimap_24.1.1_Fabric_1.20.jar` to `Xaeros_Minimap_24.5.0_Fabric_1.20.jar`
 - **Xaero's World Map**: Changed from `XaerosWorldMap_1.38.4_Fabric_1.20.jar` to `XaerosWorldMap_1.39.0_Fabric_1.20.jar`
 - **YetAnotherConfigLib**: Changed from `YetAnotherConfigLib-3.4.4+1.20.1-fabric.jar` to `YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar`
 - **YDM's Weapon Master**: Changed from `weaponmaster-multi-fabric-1.20.1-3.0.5.jar` to `weaponmaster_ydm-fabric-1.20.1-4.2.6.jar`
+- **YUNG's API**: Changed from `YungsApi-1.20-Fabric-4.0.5.jar` to `YungsApi-1.20-Fabric-4.0.6.jar`
 - **Zoomify**: Changed from `Zoomify-2.13.5+1.20.1.jar` to `Zoomify-2.14.0+1.20.1.jar`

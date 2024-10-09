@@ -1,13 +1,13 @@
 name = "Every Compat (Wood Good)"
-filename = "everycomp-1.20-2.6.76-fabric.jar"
+filename = "everycomp-1.20-2.6.82-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a1d12bfb41bd95514fa2290cfa8da24360cfaef"
+hash = "9a475fd05f0ad4217234cd57b2b5ccdda3e2d30a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5732530
+file-id = 5792498
 project-id = 628539

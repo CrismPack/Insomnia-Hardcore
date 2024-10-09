@@ -1,13 +1,13 @@
-name = "Friends & Foes (Fabric/Quilt) (Copper Golem,Glare,Moobloom,Iceologer,Rascal,Tuff Golem,Wildfire,Barnacle,Illusioner)"
-filename = "friendsandfoes-fabric-mc1.20.1-2.0.17.jar"
+name = "Friends & Foes (Fabric/Quilt) (Copper Golem,Glare,Crab,Moobloom,Iceologer,Rascal,Tuff Golem,Wildfire,Illusioner)"
+filename = "friendsandfoes-fabric-mc1.20.1-3.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bd72d0988eebe3cb380e41eba4fb890518bb5218"
+hash = "828b2cdef5776798d30ee8601836603747cb0446"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5694407
+file-id = 5767543
 project-id = 551364
