@@ -13,17 +13,18 @@
 
 ### Changes/Improvements ⭐
 
-- Introduced additional creepy, light-horror-themed mods.
+- Added some mods with a creepy light-horror theme.
 - Added new dungeons and bosses to the Overworld.
-- Added Icarae Origin and craftable wings.
+- Added Icarae Origin and its associated craftable wings.
 - Reintroduced the Paradise dimension (The Aether).
 - Armor trim materials now provide additional attributes when worn.
 - A Dark Souls-like death screen now appears upon dying.
 - Overworld mobs can now track you by blood scent, sound, and light source awareness.
-- The shader now defaults to the Reimagined style and medium graphics preset.
+- Changed the shaderpack to use the Reimagined style and medium graphics preset by default.
 - Changed starter kit to include an 'Eccentric Tome' with starter guidebooks placed inside, as well as replacing torches with lanterns.
 - Changed backpack recipes to be more expensive.
-- Made minor performance & stability improvements.
+- Changed menu buttons across the modpack to match the theme of the main menu.
+- Made minor improvements to performance & stability.
 - Updated mods and resource packs.
 - And more!
 
