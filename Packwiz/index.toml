@@ -326,7 +326,7 @@ hash = "5e1434816f721066dceb44e4adcda6e442ea99a7fc757b36af5cfd52ae71ee41"
 
 [[files]]
 file = "config/respawningstructures.json"
-hash = "a41dbc6e93c9836081671f7c7e469b149af3b7cd4f1e2f8fabad0e2cb1b45533"
+hash = "d856a8c783cfaa14b5032555930c541397c23529d4334a0b43724caa6df5ec7b"
 
 [[files]]
 file = "config/revive.json5"
@@ -1524,6 +1524,11 @@ hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
 metafile = true
 
 [[files]]
+file = "mods/invmovecompats.pw.toml"
+hash = "71b75597d5404b45c4d4862a0a981b798d2f9ba75f1837b9f8b98003af00b72c"
+metafile = true
+
+[[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "75634f81fd6f6b3b5f54eea7adcfa73d7c54a77344d8219a7f6e848ce21a2b77"
 metafile = true
@@ -1656,6 +1661,11 @@ metafile = true
 [[files]]
 file = "mods/log-cleaner.pw.toml"
 hash = "0612494ff45a866a77bc1fe26a05c34560c9d6472a772a4f90b0d730e65cd8f0"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "af39aa7bda9244f22f8e841a9071d78934574807768e8068102a32055bca1858"
 metafile = true
 
 [[files]]
@@ -2406,6 +2416,11 @@ metafile = true
 [[files]]
 file = "mods/you-died.pw.toml"
 hash = "2ae10bfca66fd6846f0fbcb4ddfd8e297591457e49d2c8e3a2f7cf25bd2cfafb"
+metafile = true
+
+[[files]]
+file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "cf85738fc12a017bbac7ba33f54364984aa302c895a6bfd536fb8f236d2b6c0b"
 metafile = true
 
 [[files]]

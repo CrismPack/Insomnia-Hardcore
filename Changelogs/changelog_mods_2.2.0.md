@@ -16,6 +16,8 @@
 - Icarae Origin
 - Icarus
 - iChunUtil `Client`
+- InvMoveCompats `Client`
+- Loot Integrations
 - Paradise Lost
 - Phantom Config
 - Resourceful Config
@@ -27,6 +29,7 @@
 - True Darkness Refabricated `Client`
 - Doctor Who:  Weeping Angels
 - You Died `Client`
+- Yung Structures Addon for Loot Integrations
 - Zombie Awareness
 ## Removed
 

@@ -1,0 +1,13 @@
+name = "InvMoveCompats"
+filename = "InvMoveCompats-1.20-0.3.2-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6IpcGP7T/versions/ezkd2wAz/InvMoveCompats-1.20-0.3.2-Fabric.jar"
+hash-format = "sha1"
+hash = "f089f5dfc3e7c143b94c18a909221f53adc3d5a9"
+
+[update]
+[update.modrinth]
+mod-id = "6IpcGP7T"
+version = "ezkd2wAz"

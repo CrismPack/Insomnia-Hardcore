@@ -31,6 +31,7 @@
 - Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
 - Fixed shader pack unable to be activated with keybind from fresh install.
 - Fixed mobs glowing when holding a light source with shaders on.
+- Fixed movement & abilities activating when searching for recipes.
 
 ### Added Mods ✅
 
@@ -48,6 +49,8 @@
 - Icarae Origin
 - Icarus
 - iChunUtil `Client`
+- InvMoveCompats `Client`
+- Loot Integrations
 - Paradise Lost
 - Phantom Config
 - Resourceful Config
@@ -59,6 +62,7 @@
 - True Darkness Refabricated `Client`
 - Doctor Who:  Weeping Angels
 - You Died `Client`
+- Yung Structures Addon for Loot Integrations
 - Zombie Awareness
 
 ### Removed Mods ❌
@@ -93,6 +97,7 @@
 - Replaced torch item with lanterns: `StarterKit`, `Both`
 - Added "Eccentric Tome" item, containing TConstruct and SimplySwords guidebooks inside of it: `StarterKit`, `Both`
 - Changed "addExistingItemsAfterKitSet" to "false": `StarterKit`, `Both`
+- Added 'Graveyard', 'Weeping Angels' & 'Paradise Lost' chest loot entries to "dungeonChestLoottables" list: `Respawning Structures`, `Both`
 
 ## v2.1.7
 
