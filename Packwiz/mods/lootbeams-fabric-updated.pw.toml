@@ -1,0 +1,13 @@
+name = "LootBeams Fabric Updated"
+filename = "lootbeams-1.0.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4798756a0e63ec1527ce66679e84ee626315c260"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5205319
+project-id = 991318

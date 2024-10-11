@@ -16,6 +16,7 @@
 - Changed starter kit to include an 'Eccentric Tome' with starter guidebooks placed inside, as well as replacing torches with lanterns.
 - Changed backpack recipes to be more expensive.
 - Changed menu buttons across the modpack to match the theme of the main menu.
+- Changed keybinds to be handled by 'DefaultOptions'.
 - Made minor improvements to performance & stability.
 - Updated mods and resource packs.
 - And more!

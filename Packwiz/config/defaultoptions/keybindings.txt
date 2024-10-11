@@ -1,0 +1,26 @@
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
+key_key.azurelib.reload:key.keyboard.unknown
+key_keybinds.combatroll.roll:key.keyboard.c
+key_key.crawl:key.keyboard.x
+key_supplementaries.keybind.quiver:key.keyboard.h
+key_key.puffish_skills.open:key.keyboard.j
+key_key.raised.options:key.keyboard.keypad.unknown
+key_key.push_to_talk:key.keyboard.caps.lock
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.comma
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.weaponmaster_ydm.opengui:key.keyboard.n
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_gui.xaero_open_settings:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.z
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown

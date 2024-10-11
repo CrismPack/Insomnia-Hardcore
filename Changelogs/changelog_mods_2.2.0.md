@@ -2,30 +2,39 @@
 
 ## Added
 
+- Almost Unified
 - Better Trims
 - Cobweb
 - Common Network
 - Configurable
 - Create Enchantment Industry Fabric
 - Death Knights
+- Default Options `Client`
 - Dungeon Now Loading 1%
 - Eccentric Tome
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
+- Faster Random
+- Frostiful
 - Hephaestus Fabric
 - Icarae Origin
 - Icarus
 - iChunUtil `Client`
 - InvMoveCompats `Client`
 - Loot Integrations
+- LootBeams Fabric Updated `Client`
 - Paradise Lost
 - Phantom Config
+- Redirector
 - Resourceful Config
 - Sawmill
+- Shield Overhaul
+- Server Performance - Smooth Chunk Save
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
 - The Graveyard
+- Thermoo
 - True Darkness Refabricated `Client`
 - Doctor Who:  Weeping Angels
 - You Died `Client`
@@ -34,6 +43,7 @@
 ## Removed
 
 - Animatica `Client`
+- Blockus
 - Concurrent Chunk Management Engine
 - Camp Chair
 - Couplings
@@ -58,7 +68,6 @@
 - **Balm**: Changed from `balm-fabric-1.20.1-7.2.2.jar` to `balm-fabric-1.20.1-7.3.9.jar`
 - **Better Archeology**: Changed from `betterarcheology-1.1.9-1.20.1.jar` to `betterarcheology-1.2.1-1.20.1.jar`
 - **Better Combat**: Changed from `bettercombat-fabric-1.8.5+1.20.1.jar` to `bettercombat-fabric-1.8.6+1.20.1.jar`
-- **Blockus**: Changed from `blockus-2.7.13+1.20.1.jar` to `blockus-2.7.19+1.20.1.jar`
 - **Bookshelf**: Changed from `Bookshelf-Fabric-1.20.1-20.1.10.jar` to `Bookshelf-Fabric-1.20.1-20.2.13.jar`
 - **Branded Logs**: Changed from `brandedlogs-2.0.1.jar` to `brandedlogs-fabric-2.0.3-mc1.20.1.jar`
 - **Chat Heads**: Changed from `chat_heads-0.12.2-fabric-1.20.jar` to `chat_heads-0.13.3-fabric-1.20.jar`

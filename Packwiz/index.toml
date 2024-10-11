@@ -97,6 +97,10 @@ file = "config/debugify.json"
 hash = "1eb1b91cb48f8f0a9aef911448d5b69f47f72c31a2d95a46802b4525d11b9cfe"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "17a2106fbcce4b30e16c86388ccbf68ec8defa5fdecbf3e9fb6d5cbde6bc3b3b"
+
+[[files]]
 file = "config/desiredservers/desiredservers.json"
 hash = "a287ef1b945d92867d796b909e3bb97363e97de9fe6ab306f22422f69e14c617"
 
@@ -267,6 +271,10 @@ hash = "a5f2fc03be39a6d6ef8620e58ba601783757640d91f18c4678b84230f657db04"
 [[files]]
 file = "config/logprot.json"
 hash = "ffc115e469b3dddab530c23f8b996142171220ed3ea80fb21a3f4a4db27d52dd"
+
+[[files]]
+file = "config/lootbeams-client.toml"
+hash = "ee3813eec8eb302ef6bc65cdc1f0f014d3a794cb5aa44b3be6c66dc5bff99c0a"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -470,7 +478,7 @@ hash = "754addb444684a000539de3b356bc7b9efd15d1d3af8955e80d5f1733a4021a7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "73196cb430bc65d336dea0fbc0f8199aa6af08d1e0102b1a7e7f9a318b003c21"
+hash = "a3a27ff8dd8489ff9813ad855789cdcb97de6633677516472a35aa7248b9498c"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Complementary r5.2.1 [Insomnia Edit].txt"
@@ -613,6 +621,10 @@ file = "kubejs/assets/minecraft/textures/gui/widgets.png"
 hash = "47bab99005249b2fd39c465d367bb93c0077cecd7a2864330815b7ceadd41b20"
 
 [[files]]
+file = "kubejs/config/common.properties"
+hash = "0978525029b5e48bcfcec9717611db2af2cd7428f319de0f16620fe4104010dd"
+
+[[files]]
 file = "kubejs/server_scripts/recipes_sophisticated_backpacks.js"
 hash = "0d1faa3e1e673a20a42940d3bf0f8752d47c3d783528ecf3162ad32206d6283f"
 
@@ -629,6 +641,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "64969c6b83464206d057521eb58ef0a28c9a1336de11aa8ba944dff25bf96ed4"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "f00be18ade67ea33c5b1e8eb27a151b6a4507e5d01455f33eff5329420db2d98"
 metafile = true
 
 [[files]]
@@ -812,11 +829,6 @@ hash = "50702761d44d49301519516d405872faed540099a70ffd6bb352a8a905f410b4"
 metafile = true
 
 [[files]]
-file = "mods/blockus.pw.toml"
-hash = "b4b4055638cb25991f2cfe171884a32e2eef5eaa990e3eaba9c72f686c30dd3b"
-metafile = true
-
-[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
 metafile = true
@@ -904,11 +916,6 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "8f3e01ad47042d186087576cd17e91f78576295e7ca16fb885550910cb97caa4"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6404e7f1ef2152128767b76de73668e4cdb862f1860266d8f83d61998a7741d6"
 metafile = true
 
 [[files]]
@@ -1079,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "38c0af3a8580fdd64c9ca8a7f13a77d35964cd70c35da257cfb375fe6fafd65f"
+metafile = true
+
+[[files]]
+file = "mods/default-options-fabric.pw.toml"
+hash = "39311a61b865e57f76e13a751d23f15b56c07401d2cacac149393c3ce7ad3f11"
 metafile = true
 
 [[files]]
@@ -1347,6 +1359,11 @@ hash = "c5124e484278b66d796c657e3a48c2bda634f7a73aacce05911e677bcbdb07f1"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "52dcc986ee0c1a17ed22f69bf0ac5908069bc33e42cace5dae58dc8c551cd626"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "3c42a829336457bcc9ad7e103c49c985e54867f16d1c9d7b659e0bfc11afa6f9"
 metafile = true
@@ -1399,6 +1416,11 @@ metafile = true
 [[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
+metafile = true
+
+[[files]]
+file = "mods/frostiful.pw.toml"
+hash = "2c48e924f792dd7a1a926c73dea6630e3fc43efe94bbaed34cceb8d1f106befc"
 metafile = true
 
 [[files]]
@@ -1674,6 +1696,11 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "af39aa7bda9244f22f8e841a9071d78934574807768e8068102a32055bca1858"
+metafile = true
+
+[[files]]
+file = "mods/lootbeams-fabric-updated.pw.toml"
+hash = "3e7814c7ea1b1112c4d5e6f8a8d18cfdbe751b1510441c141e77b8dce86f15cf"
 metafile = true
 
 [[files]]
@@ -2037,6 +2064,11 @@ hash = "a201a90062857204411b75444d2baa707d87c30aadaed780bf0845b9559be6e9"
 metafile = true
 
 [[files]]
+file = "mods/redirector.pw.toml"
+hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "f6a672f1ce665498458f5fa2a66e0d6d95f7b6b970a6405a964b8b29855b03cc"
 metafile = true
@@ -2122,6 +2154,11 @@ hash = "54b7eb2ede1efd77a7a7e5203ab6fc6a6aeefd6a5562dd830e817e7eb23542a0"
 metafile = true
 
 [[files]]
+file = "mods/shield-overhaul.pw.toml"
+hash = "9f051cd05c04011f5cdb371d5d7cbcdc333c0856df5002966a6b6431ee4b5730"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "fd1bfe28bc13140630209fe161f046cb39dcf8e7d9c2a325b6a7336f739af184"
 metafile = true
@@ -2159,6 +2196,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "4480e76155118ce6166af2169990b8e7db30f7925ce51d7cac1c397403e037fe"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
 metafile = true
 
 [[files]]
@@ -2292,6 +2334,11 @@ hash = "baada438417d19eb46b7f98223d46a75ad6ad366e405049cba81a3df46024532"
 metafile = true
 
 [[files]]
+file = "mods/thermoo.pw.toml"
+hash = "87b87509a992009d78670cb45398165ad5ae549c7eb997be8376919336892d44"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
@@ -2418,7 +2465,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+hash = "176efb9fac6f18c92393ab8f3e554bb1db205bc8f26818b5f826d406bee8307f"
 metafile = true
 
 [[files]]

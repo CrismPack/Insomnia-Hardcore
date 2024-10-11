@@ -24,6 +24,7 @@
 - Changed starter kit to include an 'Eccentric Tome' with starter guidebooks placed inside, as well as replacing torches with lanterns.
 - Changed backpack recipes to be more expensive.
 - Changed menu buttons across the modpack to match the theme of the main menu.
+- Changed keybinds to be handled by 'DefaultOptions'.
 - Made minor improvements to performance & stability.
 - Updated mods and resource packs.
 - And more!
@@ -38,30 +39,39 @@
 
 ### Added Mods ✅
 
+- Almost Unified
 - Better Trims
 - Cobweb
 - Common Network
 - Configurable
 - Create Enchantment Industry Fabric
 - Death Knights
+- Default Options `Client`
 - Dungeon Now Loading 1%
 - Eccentric Tome
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
+- Faster Random
+- Frostiful
 - Hephaestus Fabric
 - Icarae Origin
 - Icarus
 - iChunUtil `Client`
 - InvMoveCompats `Client`
 - Loot Integrations
+- LootBeams Fabric Updated `Client`
 - Paradise Lost
 - Phantom Config
+- Redirector
 - Resourceful Config
 - Sawmill
+- Shield Overhaul
+- Server Performance - Smooth Chunk Save
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
 - The Graveyard
+- Thermoo
 - True Darkness Refabricated `Client`
 - Doctor Who:  Weeping Angels
 - You Died `Client`
@@ -71,6 +81,7 @@
 ### Removed Mods ❌
 
 - Animatica `Client`
+- Blockus
 - Concurrent Chunk Management Engine
 - Camp Chair
 - Couplings
@@ -101,6 +112,7 @@
 - Added "Eccentric Tome" item, containing TConstruct and SimplySwords guidebooks inside of it: `StarterKit`, `Both`
 - Changed "addExistingItemsAfterKitSet" to "false": `StarterKit`, `Both`
 - Added 'Graveyard', 'Weeping Angels' & 'Paradise Lost' chest loot entries to "dungeonChestLoottables" list: `Respawning Structures`, `Both`
+- Changed "render_nametags" to "false": `LootBeams`, `Client`
 
 ## v2.1.7
 
