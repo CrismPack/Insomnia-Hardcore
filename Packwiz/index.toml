@@ -222,7 +222,7 @@ hash = "02b739c3747fbb8a50467ff3e93f6aaca17300b001ae2c13b44aa7263afb54b5"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+hash = "78917bb9e5fffcbcb97d850f077c2f4502d0a114760a85faaa9856d8989481c9"
 
 [[files]]
 file = "config/friendsandfoes.json"
@@ -622,7 +622,7 @@ hash = "47bab99005249b2fd39c465d367bb93c0077cecd7a2864330815b7ceadd41b20"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "0978525029b5e48bcfcec9717611db2af2cd7428f319de0f16620fe4104010dd"
+hash = "b49d432567a56addd0fe7b28ec3845fa23a113a109bccb12601febf6163e25e8"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_sophisticated_backpacks.js"
@@ -641,6 +641,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "64969c6b83464206d057521eb58ef0a28c9a1336de11aa8ba944dff25bf96ed4"
+metafile = true
+
+[[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "320e80999788a7c3b40ea0a8d0b14251b04f29baf71d217b2dcb432c1964d6dd"
 metafile = true
 
 [[files]]
@@ -874,6 +879,11 @@ hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "8bfff7c1f4f56cb59a1fc0eb2db42ef475b27612e8d2e533ae2dd7711e4029e6"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
@@ -1000,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "18a7f8d0ef2373586d7a871c7cb7bd4c67633b8bb08e99afdd083a060e07fbba"
+hash = "6e10ccfe3593ee2d38332aac10efa7c770a9c3b3d082ebed6bbec25deb631ffa"
 metafile = true
 
 [[files]]
@@ -1025,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "9c117165de58de5997c78505c7a98b74eb13ca547416785e9c3f2cd2b19ad39f"
+hash = "a3aacb916b5e68cf983928b5445403928f62926341aad860a3633947a2486975"
 metafile = true
 
 [[files]]
@@ -1075,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/death-knights.pw.toml"
-hash = "a2c9307315f2bb7da1489621ae672166738b738febb6edc515c979c821ae9d1b"
+hash = "0358fae208fd1140b79c12edcc418ab81fafa6faf95cc3bd85e06f7be8e1e0f2"
 metafile = true
 
 [[files]]
@@ -1180,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/eldritch-end.pw.toml"
-hash = "863a7604e80ec6618ccb0aae4386c7521af64657a46e7c6007985e31c542c74b"
+hash = "721e4d54a9d10fefe00c52ba58c7615cd4675b938ef285069e0599f11e0cc150"
 metafile = true
 
 [[files]]
@@ -1215,7 +1225,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "b6c519c77dacae8431b342b7428044d068e44b49ffff5977d03aaea30f0c255b"
+hash = "4e8e28f5f1ee5689a7d0aea220af434e1ca6dd0ad1c441b57101dd1b63e50dc6"
 metafile = true
 
 [[files]]
@@ -1275,7 +1285,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "81a5a97fd54935b2cbd3d12eb52281285513248aa6613cff631e9497f99a9097"
+hash = "485be00b1f5f502343e0e657d4e6195fffc0e497277a16b6cd4fc79d83c4f3d1"
 metafile = true
 
 [[files]]
@@ -1320,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "261283f7a28a695ecc876ee7d3fe82e3f3598b8ec075624f8588f7800a31bf84"
+hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
 metafile = true
 
 [[files]]
@@ -1379,11 +1389,6 @@ hash = "eac38e997f47d45ceae876a7cff183967e9ff9e5fdd8a3bed42847f2afad52de"
 metafile = true
 
 [[files]]
-file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "04e1eb96d78277b16e38c773f43b7ce27937b4cc0edf4294ac34fa8ab3009d0c"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
@@ -1410,7 +1415,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "8963f8dcd7d795dce312ef08cfb1e26e86510b26356b695c9be5c126cdc16c67"
+hash = "a1ea45f0237542dc850c0440975088285aad80b638b8464b489c9b562fb85654"
 metafile = true
 
 [[files]]
@@ -1430,7 +1435,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "a6576dffe2835733c460845eed866665d6e582920e7610a6120bcaeacd188fdf"
+hash = "1d37a11f2d651d03c4127753d82d6cf52436f8e66693c395ae91de8552e3298a"
 metafile = true
 
 [[files]]
@@ -1545,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "804c0a4d962afa7ed6a207bed0ae6dcb9d6ed0215c1b3c01a936421c55618634"
+hash = "e7111fe096a1792a6434b1ec2ee6c01670f64efa8cdad799ca5b525d0c3c2cab"
 metafile = true
 
 [[files]]
@@ -1645,7 +1650,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "70b8381a4771d4f871f9550fd1d8245e6d7b1dac5edbb76a530eb60cec38633e"
+hash = "e2b74b68d50ac36c0053dbc013859f426e0ad863100e0d34581934ad89409d94"
 metafile = true
 
 [[files]]
@@ -1725,7 +1730,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "37823e91338e8491d03473eff407a8ac3bbcac9c02bda616659463baff835cfa"
+hash = "a369fa84c484d662040f7edc2a95f4f6d8050446d9540e04b1a5672a778942c5"
 metafile = true
 
 [[files]]
@@ -2035,7 +2040,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-attributes.pw.toml"
-hash = "f27e5c31a8c6ac306817c44a86059e794244526dbd55e0ec43435d0c931e6e5e"
+hash = "ddd4d73c64622ca0c36372f0a3fa34df83bfddf12ea0f4094c991d82cf5c3285"
 metafile = true
 
 [[files]]
@@ -2140,7 +2145,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e86bfe27ba41389d9c24db0b0836fac406842ca9fa4ff35932ac0c5f3f2899ca"
+hash = "29135f05a6426de929ee081aa22ffc30e1b37900538bab0f79d33437243b9219"
 metafile = true
 
 [[files]]
@@ -2210,12 +2215,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
-hash = "b43e78b819dd6d3588ef2016b07ea92937d530be9837cc2defe2267cea02662d"
+hash = "939c8991d70e5fc3afd661a45d20cfad37200a101f65a5acd9ff81c809b80969"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
-hash = "007ec9f4b71cbd3c61664abdacf3c1183b9ecae63e0129d7d30664edd8f6d52b"
+hash = "dc3bad00e20f3a17ba54614a3960888e0c18ad33e0c8c5b6e2a03a4785b8eca9"
 metafile = true
 
 [[files]]

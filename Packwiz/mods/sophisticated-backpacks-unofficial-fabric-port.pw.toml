@@ -1,13 +1,13 @@
 name = "Sophisticated Backpacks (Unofficial Fabric port)"
-filename = "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar"
+filename = "sophisticatedbackpacks-1.20.1-3.20.11.26.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac80455db96f2b55a3e7342b26638b17ba8dec4e"
+hash = "998bea2803d21680d1659cf3c7316a151d613478"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5450748
+file-id = 5803928
 project-id = 979322

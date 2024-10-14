@@ -82,12 +82,12 @@
 
 - Animatica `Client`
 - Blockus
-- Concurrent Chunk Management Engine
 - Camp Chair
 - Couplings
 - Dyed
 - Enderite Mod
 - Farsighted Mobs
+- fix GPU memory leak `Client`
 - Furnace Recycle
 - Phantom Config Fork
 - Shulker+
