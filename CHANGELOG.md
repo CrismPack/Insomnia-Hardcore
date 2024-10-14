@@ -39,7 +39,7 @@
 
 ### Added Mods ✅
 
-- Almost Unified
+- Almanac Lib
 - Better Trims
 - Cobweb
 - Common Network
@@ -113,6 +113,7 @@
 - Changed "addExistingItemsAfterKitSet" to "false": `StarterKit`, `Both`
 - Added 'Graveyard', 'Weeping Angels' & 'Paradise Lost' chest loot entries to "dungeonChestLoottables" list: `Respawning Structures`, `Both`
 - Changed "render_nametags" to "false": `LootBeams`, `Client`
+- Changed "compactFastMap" to "true": `FerriteCore`, `Client`
 
 ## v2.1.7
 

@@ -2,7 +2,7 @@
 
 ## Added
 
-- Almost Unified
+- Almanac Lib
 - Better Trims
 - Cobweb
 - Common Network

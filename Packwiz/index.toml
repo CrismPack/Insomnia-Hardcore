@@ -101,6 +101,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "17a2106fbcce4b30e16c86388ccbf68ec8defa5fdecbf3e9fb6d5cbde6bc3b3b"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "a3a27ff8dd8489ff9813ad855789cdcb97de6633677516472a35aa7248b9498c"
+
+[[files]]
 file = "config/desiredservers/desiredservers.json"
 hash = "a287ef1b945d92867d796b909e3bb97363e97de9fe6ab306f22422f69e14c617"
 
@@ -477,10 +481,6 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "754addb444684a000539de3b356bc7b9efd15d1d3af8955e80d5f1733a4021a7"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "a3a27ff8dd8489ff9813ad855789cdcb97de6633677516472a35aa7248b9498c"
-
-[[files]]
 file = "config/yosbr/shaderpacks/Complementary r5.2.1 [Insomnia Edit].txt"
 hash = "3629480f27050398533ee212d649e306ccfad9abf4caaafae1c3c21e62a0a9a5"
 
@@ -665,8 +665,52 @@ file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textu
 hash = "3530d878540a036669bbab0e78abf6d6d245fc5fda102b872190e27c9dc0bd23"
 
 [[files]]
-file = "kubejs/assets/minecraft/textures/gui/widgets.png"
-hash = "dd3b6e31cf9e60f5c807fc436fc685b9875d18a6fd998838a473492afabb9ba0"
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "b732cdeae56ff0f3d04468c5f4e87b5184e650d11998bf3dcd89c831be6d7b30"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "11898413342b6163e4b70a9fb8a7c3fc6ceb50634e3b9a55075f567d185ef5b9"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "dbe45718c5f35d0838ad37cfa45c6cc06d56d56d54f2b53e7b9f03c340a05f38"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "a5900d94d3a995b179bd82c5bcd0c48b259960204e15ad3cc6687ec4529027b2"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "69dcb605c750da0c36894c29c0d1b685dc2b98700f40411dd6a7905f3cb1605a"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "fbf7fd6814b9e1ae3c5722ab3d2ae8943791996c76933a2252da5cf6bbc83a4f"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/edition.png"
+hash = "45fdd2be5a983af2ad250923ca159c55231e2dfd314eab83ffec834cc2cecd50"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "255131a8f0bedb65836257c054c974dfbaecb38ed392661968e493ef93365660"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/widgets.png"
+hash = "47bab99005249b2fd39c465d367bb93c0077cecd7a2864330815b7ceadd41b20"
+
+[[files]]
+file = "global_packs/required_resources/Insomnia Textures/pack.mcmeta"
+hash = "0bc12472f31f702646b0912f7cb93029fb9db23e772674f8a8db43f8f6b7da2d"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "b49d432567a56addd0fe7b28ec3845fa23a113a109bccb12601febf6163e25e8"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_sophisticated_backpacks.js"
@@ -690,11 +734,6 @@ metafile = true
 [[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "320e80999788a7c3b40ea0a8d0b14251b04f29baf71d217b2dcb432c1964d6dd"
-metafile = true
-
-[[files]]
-file = "mods/almost-unified.pw.toml"
-hash = "f00be18ade67ea33c5b1e8eb27a151b6a4507e5d01455f33eff5329420db2d98"
 metafile = true
 
 [[files]]
