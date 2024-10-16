@@ -917,6 +917,11 @@ hash = "50702761d44d49301519516d405872faed540099a70ffd6bb352a8a905f410b4"
 metafile = true
 
 [[files]]
+file = "mods/blockus.pw.toml"
+hash = "b4b4055638cb25991f2cfe171884a32e2eef5eaa990e3eaba9c72f686c30dd3b"
+metafile = true
+
+[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
 metafile = true

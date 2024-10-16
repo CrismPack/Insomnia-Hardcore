@@ -1,6 +1,6 @@
 name = "ThreadTweak"
 filename = "threadtweak-fabric-1.20.2-0.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vSEH1ERy/versions/gBP1GqtK/threadtweak-fabric-1.20.2-0.1.1.jar"
