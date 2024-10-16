@@ -17,7 +17,11 @@
 - Changed backpack recipes to be more expensive.
 - Changed menu buttons across the modpack to match the theme of the main menu.
 - Changed keybinds to be handled by 'DefaultOptions'.
+- Created new optimized server starter scripts for both regular JVM's and GraalVM.
+- Changed server starter scripts to download the server jar instead of bundling it in the zip.
+- Overhauled server README.
 - Made minor improvements to performance & stability.
+- Greatly optimized memory footprint, making the modpack playable with just 6GB of RAM allocated.
 - Updated mods and resource packs.
 - And more!
 

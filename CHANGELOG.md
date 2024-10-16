@@ -25,7 +25,11 @@
 - Changed backpack recipes to be more expensive.
 - Changed menu buttons across the modpack to match the theme of the main menu.
 - Changed keybinds to be handled by 'DefaultOptions'.
+- Created new optimized server starter scripts for both regular JVM's and GraalVM.
+- Changed server starter scripts to download the server jar instead of bundling it in the zip.
+- Overhauled server README.
 - Made minor improvements to performance & stability.
+- Greatly optimized memory footprint, making the modpack playable with just 6GB of RAM allocated.
 - Updated mods and resource packs.
 - And more!
 
@@ -64,8 +68,6 @@
 - Phantom Config
 - Resourceful Config
 - Sawmill
-- Shield Overhaul
-- Server Performance - Smooth Chunk Save
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
@@ -83,6 +85,7 @@
 - Blockus
 - Concurrent Chunk Management Engine
 - Camp Chair
+- Chipped
 - Couplings
 - Dyed
 - Enderite Mod
@@ -90,6 +93,7 @@
 - fix GPU memory leak `Client`
 - Furnace Recycle
 - Phantom Config Fork
+- Projectile Damage Attribute
 - Shulker+
 - The Lost Castle
 - True Darkness Fork  `Client`

@@ -341,7 +341,7 @@ customization {
   restartbackgroundanimations = true
   buttonaction = opengui;com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHOrderScreen%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
-  label = Need a server?
+  label = Create Server
   loopbackgroundanimations = true
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 102

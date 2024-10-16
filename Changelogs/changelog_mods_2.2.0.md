@@ -27,8 +27,6 @@
 - Phantom Config
 - Resourceful Config
 - Sawmill
-- Shield Overhaul
-- Server Performance - Smooth Chunk Save
 - Sound Physics Remastered
 - Starlight
 - SuperMartijn642's Config Lib
@@ -45,6 +43,7 @@
 - Blockus
 - Concurrent Chunk Management Engine
 - Camp Chair
+- Chipped
 - Couplings
 - Dyed
 - Enderite Mod
@@ -52,6 +51,7 @@
 - fix GPU memory leak `Client`
 - Furnace Recycle
 - Phantom Config Fork
+- Projectile Damage Attribute
 - Shulker+
 - The Lost Castle
 - True Darkness Fork  `Client`

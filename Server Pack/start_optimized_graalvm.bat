@@ -21,9 +21,9 @@ if not exist "%GRAALVM_PATH%\bin\java.exe" (
 )
 
 :: Run the jar with the specified Java options
-"%GRAALVM_PATH%\bin\java.exe" -Xmx6G -jar ^
+"%GRAALVM_PATH%\bin\java.exe" -Xmx6G ^
 -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -Dgraal.TuneInlinerExploration=1 ^
 -XX:+UseZGC -XX:AllocatePrefetchStyle=1 -XX:-ZProactive ^
-fabric-server-mc.1.20.1-loader.0.16.7-launcher.1.0.1.jar nogui
+-jar fabric-server-mc.1.20.1-loader.0.16.7-launcher.1.0.1.jar nogui
 
 @pause

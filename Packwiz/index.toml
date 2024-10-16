@@ -166,7 +166,7 @@ hash = "84c5dea92d6ca19e9fb0bc11037094e209108fcf748beb0d968d9c767731c78d"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "01d4475050a956d583c4be94051d3161764386deb4fda7d1c79a463e0dcd0953"
+hash = "619de96a49d09515344b64d937a760e8be06d84aa818b6b12cdc4ecd70063e21"
 
 [[files]]
 file = "config/fancymenu/customization/distanthorizons_menu.txt"
@@ -987,11 +987,6 @@ hash = "9a024d71f458e33825f62cadf415ec56a289a8c02e939b9e8ccc9b3b06fee094"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "411ffcb97018d6ed1cf6d3d696454c74a7ae1f0c879b1070448e8dc510a1df0c"
-metafile = true
-
-[[files]]
 file = "mods/chunky-border.pw.toml"
 hash = "478088eb9de758c7095e07f9be80eb2708552b2d2262a604a4d87f7873a0a77d"
 metafile = true
@@ -1513,7 +1508,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1d37a11f2d651d03c4127753d82d6cf52436f8e66693c395ae91de8552e3298a"
+hash = "d6c7ed8c225e386254551ac86a6333bb1b67f66ebea5e7e62d696a30839642cb"
 metafile = true
 
 [[files]]
@@ -2112,11 +2107,6 @@ hash = "21d124728114bf2162251aee0fd303565a5f0671bf1126cf3deef911865496b5"
 metafile = true
 
 [[files]]
-file = "mods/projectile-damage-attribute.pw.toml"
-hash = "5d6fc87d397cd2da57d3779e5728cc28d7fc3a455ead4e4f82e21f6e636278c2"
-metafile = true
-
-[[files]]
 file = "mods/puffish-attributes.pw.toml"
 hash = "ddd4d73c64622ca0c36372f0a3fa34df83bfddf12ea0f4094c991d82cf5c3285"
 metafile = true
@@ -2232,11 +2222,6 @@ hash = "54b7eb2ede1efd77a7a7e5203ab6fc6a6aeefd6a5562dd830e817e7eb23542a0"
 metafile = true
 
 [[files]]
-file = "mods/shield-overhaul.pw.toml"
-hash = "9f051cd05c04011f5cdb371d5d7cbcdc333c0856df5002966a6b6431ee4b5730"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "fd1bfe28bc13140630209fe161f046cb39dcf8e7d9c2a325b6a7336f739af184"
 metafile = true
@@ -2274,11 +2259,6 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "4480e76155118ce6166af2169990b8e7db30f7925ce51d7cac1c397403e037fe"
-metafile = true
-
-[[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
 metafile = true
 
 [[files]]
@@ -2747,7 +2727,7 @@ hash = "53a93771e96d5a40645e39b4d9172fbd5b69cb1e1263296f8959e36aa8ae087f"
 
 [[files]]
 file = "resources/mainmenu/splashes.txt"
-hash = "b3d00b6351ddcf132a9a55554c09503df20a3a60fe5884de09e28e21aa648fbd"
+hash = "3d9fcb9be005bd85e9d9aff2b9f3c347eb68191752707caa71d903ee8c0c90a0"
 
 [[files]]
 file = "shaderpacks/Complementary r5.2.1 [Insomnia Edit]/HOW TO INSTALL.txt"
