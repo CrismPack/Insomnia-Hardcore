@@ -17,6 +17,7 @@ ServerEvents.recipes(recipe => {
     )
   }
   
+  backpack_ingot_to_block('copper', 'sophisticatedbackpacks:backpack')
   backpack_ingot_to_block('iron', 'sophisticatedbackpacks:backpack')
   backpack_ingot_to_block('gold', 'sophisticatedbackpacks:backpack')
   backpack_ingot_to_block('diamond', 'sophisticatedbackpacks:backpack')

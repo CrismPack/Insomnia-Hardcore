@@ -101,10 +101,6 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "17a2106fbcce4b30e16c86388ccbf68ec8defa5fdecbf3e9fb6d5cbde6bc3b3b"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "a3a27ff8dd8489ff9813ad855789cdcb97de6633677516472a35aa7248b9498c"
-
-[[files]]
 file = "config/desiredservers/desiredservers.json"
 hash = "a287ef1b945d92867d796b909e3bb97363e97de9fe6ab306f22422f69e14c617"
 
@@ -481,6 +477,10 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "754addb444684a000539de3b356bc7b9efd15d1d3af8955e80d5f1733a4021a7"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "a3a27ff8dd8489ff9813ad855789cdcb97de6633677516472a35aa7248b9498c"
+
+[[files]]
 file = "config/yosbr/shaderpacks/Complementary r5.2.1 [Insomnia Edit].txt"
 hash = "3629480f27050398533ee212d649e306ccfad9abf4caaafae1c3c21e62a0a9a5"
 
@@ -713,8 +713,8 @@ file = "kubejs/config/common.properties"
 hash = "b49d432567a56addd0fe7b28ec3845fa23a113a109bccb12601febf6163e25e8"
 
 [[files]]
-file = "kubejs/server_scripts/recipes_sophisticated_backpacks.js"
-hash = "0d1faa3e1e673a20a42940d3bf0f8752d47c3d783528ecf3162ad32206d6283f"
+file = "kubejs/server_scripts/recipe_scripts/sophisticated_backpacks.js"
+hash = "f7e933cb29333fcebd9d2e1243b2bec3475fad59743d382d500e7bfed45d7637"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
@@ -959,11 +959,6 @@ metafile = true
 [[files]]
 file = "mods/bygone-nether-fabric.pw.toml"
 hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "8bfff7c1f4f56cb59a1fc0eb2db42ef475b27612e8d2e533ae2dd7711e4029e6"
 metafile = true
 
 [[files]]
@@ -2152,11 +2147,6 @@ hash = "a201a90062857204411b75444d2baa707d87c30aadaed780bf0845b9559be6e9"
 metafile = true
 
 [[files]]
-file = "mods/redirector.pw.toml"
-hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
-metafile = true
-
-[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "f6a672f1ce665498458f5fa2a66e0d6d95f7b6b970a6405a964b8b29855b03cc"
 metafile = true
@@ -2553,7 +2543,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "176efb9fac6f18c92393ab8f3e554bb1db205bc8f26818b5f826d406bee8307f"
+hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true
 
 [[files]]

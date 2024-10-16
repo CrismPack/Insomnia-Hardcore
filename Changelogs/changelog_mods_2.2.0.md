@@ -25,7 +25,6 @@
 - LootBeams Fabric Updated `Client`
 - Paradise Lost
 - Phantom Config
-- Redirector
 - Resourceful Config
 - Sawmill
 - Shield Overhaul
@@ -44,6 +43,7 @@
 
 - Animatica `Client`
 - Blockus
+- Concurrent Chunk Management Engine
 - Camp Chair
 - Couplings
 - Dyed
@@ -70,7 +70,6 @@
 - **Better Combat**: Changed from `bettercombat-fabric-1.8.5+1.20.1.jar` to `bettercombat-fabric-1.8.6+1.20.1.jar`
 - **Bookshelf**: Changed from `Bookshelf-Fabric-1.20.1-20.1.10.jar` to `Bookshelf-Fabric-1.20.1-20.2.13.jar`
 - **Branded Logs**: Changed from `brandedlogs-2.0.1.jar` to `brandedlogs-fabric-2.0.3-mc1.20.1.jar`
-- **Concurrent Chunk Management Engine**: Changed from `c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar` to `c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar`
 - **Chat Heads**: Changed from `chat_heads-0.12.2-fabric-1.20.jar` to `chat_heads-0.13.3-fabric-1.20.jar`
 - **Chat Patches**: Changed from `chatpatches-201.5.5.jar` to `chatpatches-201.5.6.jar`
 - **Cloth Config API**: Changed from `cloth-config-11.1.118-fabric.jar` to `cloth-config-11.1.136-fabric.jar`

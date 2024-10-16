@@ -62,7 +62,6 @@
 - LootBeams Fabric Updated `Client`
 - Paradise Lost
 - Phantom Config
-- Redirector
 - Resourceful Config
 - Sawmill
 - Shield Overhaul
@@ -82,6 +81,7 @@
 
 - Animatica `Client`
 - Blockus
+- Concurrent Chunk Management Engine
 - Camp Chair
 - Couplings
 - Dyed
