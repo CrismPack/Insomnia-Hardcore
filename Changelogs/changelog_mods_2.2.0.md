@@ -32,7 +32,9 @@
 - SuperMartijn642's Config Lib
 - The Graveyard
 - Thermoo
+- Tierify
 - True Darkness Refabricated `Client`
+- Twigs
 - Doctor Who:  Weeping Angels
 - You Died `Client`
 - Yung Structures Addon for Loot Integrations
@@ -40,7 +42,7 @@
 ## Removed
 
 - Animatica `Client`
-- Blockus
+- Athena
 - Concurrent Chunk Management Engine
 - Camp Chair
 - Chipped
@@ -50,10 +52,12 @@
 - Farsighted Mobs
 - fix GPU memory leak `Client`
 - Furnace Recycle
+- Just Enough Items
 - Phantom Config Fork
 - Projectile Damage Attribute
 - Shulker+
 - The Lost Castle
+- TieredZ
 - True Darkness Fork  `Client`
 ## Modified
 
@@ -68,6 +72,7 @@
 - **Balm**: Changed from `balm-fabric-1.20.1-7.2.2.jar` to `balm-fabric-1.20.1-7.3.9.jar`
 - **Better Archeology**: Changed from `betterarcheology-1.1.9-1.20.1.jar` to `betterarcheology-1.2.1-1.20.1.jar`
 - **Better Combat**: Changed from `bettercombat-fabric-1.8.5+1.20.1.jar` to `bettercombat-fabric-1.8.6+1.20.1.jar`
+- **Blockus**: Changed from `blockus-2.7.13+1.20.1.jar` to `blockus-2.7.19+1.20.1.jar`
 - **Bookshelf**: Changed from `Bookshelf-Fabric-1.20.1-20.1.10.jar` to `Bookshelf-Fabric-1.20.1-20.2.13.jar`
 - **Branded Logs**: Changed from `brandedlogs-2.0.1.jar` to `brandedlogs-fabric-2.0.3-mc1.20.1.jar`
 - **Chat Heads**: Changed from `chat_heads-0.12.2-fabric-1.20.jar` to `chat_heads-0.13.3-fabric-1.20.jar`
@@ -117,7 +122,6 @@
 - **Item Obliterator**: Changed from `Item_Obliterator-Fabric_Quilt-2.2.0.jar` to `Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar`
 - **Jade Addons**: Changed from `JadeAddons-1.20.1-fabric-5.2.5.jar` to `JadeAddons-1.20.1-Fabric-5.3.1.jar`
 - **Jade 🔍**: Changed from `Jade-1.20-fabric-11.9.2.jar` to `Jade-1.20-Fabric-11.12.0.jar`
-- **Just Enough Items**: Changed from `jei-1.20.1-fabric-15.3.0.4.jar` to `jei-1.20.1-fabric-15.20.0.104.jar`
 - **Let Me Despawn**: Changed from `letmedespawn-fabric-1.20.x-1.2.0.jar` to `letmedespawn-1.20.x-fabric-1.4.4.jar`
 - **Legacy:  Brewery**: Changed from `letsdo-brewery-fabric-1.1.8.jar` to `letsdo-brewery-fabric-1.1.9.jar`
 - **NetherVinery**: Changed from `letsdo-nethervinery-fabric-1.2.12.jar` to `letsdo-nethervinery-fabric-1.2.14.jar`

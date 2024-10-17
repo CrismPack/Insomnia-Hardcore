@@ -286,7 +286,7 @@ hash = "132fe1cac9ebcaf731b7fac9f2bf5bba5c087a6f247d65ff8689d0143d844254"
 
 [[files]]
 file = "config/memorysettings.json"
-hash = "a5f4d246ddf21a3f53240cb8ba5b276f5543c142516fd3ce9e64b7bb2ff8d6c5"
+hash = "6ece9b54d2cbdf24554b3c2b44d52dfb647cc1963be35155196125d9f864fc04"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -339,6 +339,14 @@ hash = "d856a8c783cfaa14b5032555930c541397c23529d4334a0b43724caa6df5ec7b"
 [[files]]
 file = "config/revive.json5"
 hash = "1a49bd16b4b8eb4bb633851b1cfc08ff8a651145f45b52c4c1ab3d94e8ee44ab"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "da26e2aeeaafc728d950a1ed88e954da62ee888bfe9a1e6932e5fdd33a6bb7f5"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "786fac4c52a64309559d5bbcf2fdb56ea4b7decc8e9222a30a87a977c53f5f13"
 
 [[files]]
 file = "config/shield_overhaul.json"
@@ -419,6 +427,10 @@ hash = "b3f21d9768241285af7743a731e7da5526296970f9fc25731c1b9f4fe8e24c60"
 [[files]]
 file = "config/waystones/config.json"
 hash = "4074559c52ecfd21a0e392138678a8c11fa6fe2ae4c295ce99ad6d2ec5022776"
+
+[[files]]
+file = "config/weeping_angels-common.toml"
+hash = "caf4069ecbac714cf265053620e0c387750adf6e656ded260e5576b5cad9f12a"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -789,11 +801,6 @@ metafile = true
 [[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
-metafile = true
-
-[[files]]
-file = "mods/athena.pw.toml"
-hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
 metafile = true
 
 [[files]]
@@ -1677,11 +1684,6 @@ hash = "734ba304c0220010427b5f9ed4446d438843b4fdacd4e0dd168e4bfb99987a6e"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "897f72ae5afea3fccbe77995fc878c32a8339ca4e1c6d38eedd9027ea4945d4d"
-metafile = true
-
-[[files]]
 file = "mods/just-player-heads.pw.toml"
 hash = "c00e89c7f02bce1687c59ca09c2986cd4aebeb4ac73b62fc4dad302baae62f34"
 metafile = true
@@ -2223,7 +2225,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "54b7eb2ede1efd77a7a7e5203ab6fc6a6aeefd6a5562dd830e817e7eb23542a0"
+hash = "b72f475de698e990b861aff8ad759913b6f063550e6d94cebf0cdd0bf4e0bdbb"
 metafile = true
 
 [[files]]
@@ -2403,7 +2405,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+hash = "80722ff86d11adef2c56652c31eb311b1cc7523e3f8d3492a85cac06b613e11f"
 metafile = true
 
 [[files]]
@@ -2412,8 +2414,8 @@ hash = "af53068fbb687b52c77e5d7f0793e61e23554b0defb64bc0bd6441b5a72480e4"
 metafile = true
 
 [[files]]
-file = "mods/tieredz.pw.toml"
-hash = "50b0983cb9db38b50c0e470731587a7c394898d62cc20cdbf309992acc09ca62"
+file = "mods/tierify.pw.toml"
+hash = "286f969810afb6591faa38413ab127f34282d0edf4a54356973535a0cf0a1393"
 metafile = true
 
 [[files]]
@@ -2449,6 +2451,11 @@ metafile = true
 [[files]]
 file = "mods/true-darkness-refabricated.pw.toml"
 hash = "40e4d0544db5c7b2665bf7dbecb79de489c4b847f3e7980e967ed9a1f66c1b06"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
 metafile = true
 
 [[files]]

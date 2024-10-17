@@ -22,6 +22,7 @@
 - Overhauled server README.
 - Made minor improvements to performance & stability.
 - Greatly optimized memory footprint, making the modpack playable with just 6GB of RAM allocated.
+- Changed memory allocation recommendations to better reflect the modpacks RAM usage.
 - Updated mods and resource packs.
 - And more!
 

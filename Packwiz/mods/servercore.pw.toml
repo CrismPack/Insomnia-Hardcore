@@ -1,6 +1,6 @@
 name = "ServerCore"
 filename = "servercore-fabric-1.5.1+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

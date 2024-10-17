@@ -30,6 +30,7 @@
 - Overhauled server README.
 - Made minor improvements to performance & stability.
 - Greatly optimized memory footprint, making the modpack playable with just 6GB of RAM allocated.
+- Changed memory allocation recommendations to better reflect the modpacks RAM usage.
 - Updated mods and resource packs.
 - And more!
 
@@ -73,7 +74,9 @@
 - SuperMartijn642's Config Lib
 - The Graveyard
 - Thermoo
+- Tierify
 - True Darkness Refabricated `Client`
+- Twigs
 - Doctor Who:  Weeping Angels
 - You Died `Client`
 - Yung Structures Addon for Loot Integrations
@@ -82,7 +85,7 @@
 ### Removed Mods ❌
 
 - Animatica `Client`
-- Blockus
+- Athena
 - Concurrent Chunk Management Engine
 - Camp Chair
 - Chipped
@@ -92,10 +95,12 @@
 - Farsighted Mobs
 - fix GPU memory leak `Client`
 - Furnace Recycle
+- Just Enough Items
 - Phantom Config Fork
 - Projectile Damage Attribute
 - Shulker+
 - The Lost Castle
+- TieredZ
 - True Darkness Fork  `Client`
 
 ### Config Changes 📝
@@ -118,6 +123,7 @@
 - Added 'Graveyard', 'Weeping Angels' & 'Paradise Lost' chest loot entries to "dungeonChestLoottables" list: `Respawning Structures`, `Both`
 - Changed "render_nametags" to "false": `LootBeams`, `Client`
 - Changed "compactFastMap" to "true": `FerriteCore`, `Client`
+- Changed "interdimensional_teleporting" to "false": `Weeping Angles`, `Both`
 
 ## v2.1.7
 
