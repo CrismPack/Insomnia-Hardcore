@@ -9,6 +9,7 @@ env:
   RELEASE_TYPE: release
   CURSEFORGE_TOKEN: ${{secrets.CURSEFORGE_TOKEN}}
 
+  PRE_RELEASE: false
 permissions:
   contents: write
 
@@ -30,6 +31,7 @@ jobs:
         latest: true
         tarBall: false
         zipBall: false
+        preRelease: ${{env.PRE_RELEASE}}
 
     - name: Publish to CurseForge
       uses: HaXrBOT/upload-curseforge-modpack-action@master
