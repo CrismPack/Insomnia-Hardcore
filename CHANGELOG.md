@@ -101,7 +101,7 @@
 - Shulker+
 - The Lost Castle
 - TieredZ
-- True Darkness Fork  `Client`
+- True Darkness Fork `Client`
 
 ### Config Changes 📝
 
@@ -129,7 +129,7 @@
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.7.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Added 'Rogues & Warriors' mod.
 - Updated the 'RPG Series' suite of mods, fixing deserialization crash on servers. [[Issue]](https://github.com/ZsoltMolnarrr/SpellEngine/issues/62)
@@ -155,7 +155,7 @@
 
 ### Removed Mods ❌
 
-- AntiXray  `Server`
+- AntiXray `Server`
 - RandomTP `Server`
 
 ### Config Changes 📝
@@ -172,7 +172,7 @@
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.6.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Moonphases now impact the light levels in the Overworld.
 - Changed to use a single shader pack that includes both the Unbound and Reimagined visual styles.
@@ -223,7 +223,7 @@
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.5.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Fixed modded dungeon and boss structures not being allowed to respawn.
 - Fixed "Saving entity NBT" crashing issue. Thank you Crash Master Razor for helping narrowing down the cause!
@@ -258,7 +258,7 @@
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Client hotfix, fixing hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
 
@@ -266,7 +266,7 @@
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Added some neat animation related resource packs and mods.
 - Changed potions to be stackable up to 16.
@@ -300,7 +300,7 @@
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Added 'Sophisticated Backpacks', 'Small Ships' & 'Every Compat'.
 - Greatly nerfed the effectiveness of some overpowered mob farms.
@@ -331,13 +331,12 @@
 - Sophisticated Backpacks
 - Sophisticated Core
 - Very Many Players `Server`
-- Xaero's Minimap
 
 ### Removed Mods ❌
 
 - Advancements Enlarger `Client`
 - Borderless Mining `Client`
-- Better Recipe Books  `Client`
+- Better Recipe Books `Client`
 - Chunk Sending
 - Entity Culling Fabric/Forge `Client`
 - Farmer's Delight
@@ -350,7 +349,6 @@
 - Shield Overhaul
 - Sodium `Client`
 - TimeOutOut
-- Xaero's Minimap
 
 ### Config Changes 📝
 
@@ -369,7 +367,7 @@
 
 *Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Reverted 'OPAC' and 'OPAC Create Support' update to fix issues with pipes from 'Create'. [https://github.com/thexaero/open-parties-and-claims/issues/446]
 - Made the difficulty scaling of dungeons and bosses even more aggressive.
@@ -392,7 +390,7 @@
 
 *Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Fixed crashing issue related to 'Create Fabric'. [https://github.com/Fabricators-of-Create/Create/issues/1428]
 - Fixed some keybind conflicts.
@@ -420,7 +418,7 @@
 
 *Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - Revamped Nether terrain generation.
 - Added additional content to Nether and End dimensions.
@@ -507,7 +505,7 @@
 
 *Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md)*
 
-### Update overview
+### Update Overview ⭐
 
 - First proper release version for 1.20.1!
 - Players now spawn with a guidebook for 'Mine Cells' as well as a custom banner that can be equipped as a cape.

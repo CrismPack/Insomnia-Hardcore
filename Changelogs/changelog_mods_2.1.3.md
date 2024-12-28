@@ -17,12 +17,11 @@
 - Sophisticated Backpacks
 - Sophisticated Core
 - Very Many Players `Server`
-- Xaero's Minimap
 ## Removed
 
 - Advancements Enlarger `Client`
 - Borderless Mining `Client`
-- Better Recipe Books  `Client`
+- Better Recipe Books `Client`
 - Chunk Sending
 - Entity Culling Fabric/Forge `Client`
 - Farmer's Delight
@@ -35,7 +34,6 @@
 - Shield Overhaul
 - Sodium `Client`
 - TimeOutOut
-- Xaero's Minimap
 ## Modified
 
 - **Advanced Netherite**: Changed from `advancednetherite-fabric-2.0.3-1.20.1.jar` to `advancednetherite-fabric-2.1.0-1.20.1.jar`

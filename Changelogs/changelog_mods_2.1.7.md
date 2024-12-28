@@ -12,7 +12,7 @@
 - Rogues & Warriors
 ## Removed
 
-- AntiXray  `Server`
+- AntiXray `Server`
 - RandomTP `Server`
 ## Modified
 
