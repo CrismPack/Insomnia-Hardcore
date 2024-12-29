@@ -39,13 +39,13 @@
 
 <p style="text-align: center;">
 	<iframe allowfullscreen="allowfullscreen" 
-	src="https://www.youtube.com/embed/i_DNgeFoW-o?si=Mh7EaGIuRgcYx35D&start=41" 
+	src="https://www.youtube.com/embed/i_DNgeFoW-o?si=Mh7EaGIuRgcYx35D&start=41" frameborder="0" 
 	height="405" width="720">
 </iframe></p>
 
 <p style="text-align: center;">
 	<iframe allowfullscreen="allowfullscreen" 
-	src="https://www.youtube.com/embed/8tHj9W1Pyl4?si=1lxSSEMMWflMKsVK&start=30" 
+	src="https://www.youtube.com/embed/8tHj9W1Pyl4?si=1lxSSEMMWflMKsVK&start=30" frameborder="0" 
 	height="405" width="720">
 </iframe></p>
 
