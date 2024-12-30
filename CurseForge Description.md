@@ -3,6 +3,10 @@
 	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/insomnia/insomnia.png" width="1000"/>
 </p>
 
+<p style="text-align: center;" alt="Server Status">
+	<img src="https://api.mcstatus.io/v2/widget/java/insomnia.crismpack.net" width="500"/>
+</p>
+
 <!--Link Buttons-->
 
 <p style="text-align: center;">
@@ -20,12 +24,14 @@
 		/></a>
 </p>
 
+
 <br>
 
 <!--Features-->
 <p style="text-align: center;" alt= "Features: Challenge Accepted, Exploration Elevated, Craft Your Character, more More MORE.">
 	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/insomnia/features.png"/>
 </p>
+
 
 <br>
 
