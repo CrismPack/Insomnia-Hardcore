@@ -330,7 +330,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5e1434816f721066dceb44e4adcda6e442ea99a7fc757b36af5cfd52ae71ee41"
+hash = "93a885533f99fb534432f69cb6ba8a01e2fbd5cd73ec0c88f0ea2dce1e538660"
 
 [[files]]
 file = "config/respawningstructures.json"
@@ -1095,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
-hash = "6e10ccfe3593ee2d38332aac10efa7c770a9c3b3d082ebed6bbec25deb631ffa"
+hash = "591de5571dc9237dbbbdd3100b1fce1b94c380282122069e92d0216d0e88a7c8"
 metafile = true
 
 [[files]]

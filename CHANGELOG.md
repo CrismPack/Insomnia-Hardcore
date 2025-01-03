@@ -9,7 +9,7 @@
 
 ## v2.2.0 <Badge type='warning' text='Work in progress'/>
 
-*Fabric Loader 0.16.5* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md)*
+*Fabric Loader 0.16.9* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md)*
 
 ### Changes/Improvements ⭐
 

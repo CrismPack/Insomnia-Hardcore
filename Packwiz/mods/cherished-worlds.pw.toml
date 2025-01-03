@@ -1,7 +1,7 @@
 name = "Cherished Worlds (Fabric/Forge/NeoForge/Quilt)"
 filename = "cherishedworlds-fabric-6.1.5+1.20.1.jar"
 side = "client"
-pin = true
+pin = true  # Pinned due to newer versions of the mod not being compatible with legacy FancyMenu.
 
 [download]
 hash-format = "sha1"
