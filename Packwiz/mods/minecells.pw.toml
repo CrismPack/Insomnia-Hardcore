@@ -1,13 +1,13 @@
 name = "Mine Cells - Dead Cells Mod"
-filename = "minecells-1.8.5.jar"
+filename = "minecells-1.9.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "81d37a7b8621945795b315442924d91fb081d4eb"
+hash = "e0a2fe0d0e03e898f9e9abcef5c401e7014c4d45"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5719190
+file-id = 5909435
 project-id = 618790

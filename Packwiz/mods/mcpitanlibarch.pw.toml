@@ -1,13 +1,13 @@
 name = "MCPitanLib"
-filename = "mcpitanlib-2.5.2-1.20.1-fabric.jar"
+filename = "mcpitanlib-3.1.3-1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "082d34de77c8a565078ffd2433604d052dd3cc3f"
+hash = "74857bf5e6ed2f4ac2d28b988b8f83e102012456"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5805052
+file-id = 5971377
 project-id = 682213

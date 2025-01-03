@@ -1,13 +1,13 @@
 name = "Hephaestus Fabric"
-filename = "Hephaestus-1.20.1-3.6.4.279.jar"
+filename = "Hephaestus-1.20.1-3.6.4.287.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "539424fcbdc2f776e202c283d13e772a49962739"
+hash = "1f52705b327f7059a046665c05752d348b75e810"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5536226
+file-id = 5966718
 project-id = 667894

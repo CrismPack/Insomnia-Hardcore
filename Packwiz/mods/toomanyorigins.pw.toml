@@ -1,13 +1,13 @@
 name = "TooManyOrigins"
-filename = "TooManyOrigins-1.1.3+1.20.1-fabric.jar"
+filename = "TooManyOrigins-1.1.4+1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "caa95393d7140a68ef719906d510c4ed6cb4cb37"
+hash = "1ce10062500faf3c38306e147f1227bd13007ed8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5669795
+file-id = 5887811
 project-id = 469658

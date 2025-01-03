@@ -1,13 +1,13 @@
 name = "True Darkness Refabricated"
-filename = "darkness-fabric-1.1.3+mc1.20.1.jar"
+filename = "darkness-fabric-1.2.0+mc1.20.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "4276cf401af77e4800e246a35905fe2e4284fd63"
+hash = "a66cd997563f49fea9a517ec614bf7f5e7c1ee0d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5716367
+file-id = 5897150
 project-id = 906926
