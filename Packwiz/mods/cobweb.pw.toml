@@ -1,13 +1,13 @@
 name = "Cobweb"
-filename = "cobweb-fabric-1.20.1-1.0.0.jar"
+filename = "cobweb-fabric-1.21-1.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "580c8e386d25456c51d3f792aab8937112cc8087"
+hash = "dbe86656d5e794f3d8a738ad1a69972a075da371"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5441210
+file-id = 5991589
 project-id = 968456

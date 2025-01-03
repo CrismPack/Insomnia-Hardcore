@@ -1,13 +1,13 @@
 name = "Medieval Music[Forge/Fabric]"
-filename = "zmedievalmusic-fabric-1.20.1-2.1.jar"
+filename = "zmedievalmusic-fabric-1.21-2.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "4adae6a3a43e34d3367ec5ac8f56104e364836d2"
+hash = "38426682ff03cd14386060d75acf8e808574e8e1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4612765
+file-id = 5543219
 project-id = 521932

@@ -1,13 +1,13 @@
 name = "Zombie Awareness"
-filename = "zombieawareness-fabric-1.20.1-1.13.1.jar"
+filename = "zombieawareness-fabric-1.21.0-1.13.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bc54bcda3c061aac69910c0f200bedf449be89d7"
+hash = "040a6cb20164c33db3a629e1a65af7134d612988"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5622165
+file-id = 5731741
 project-id = 237754

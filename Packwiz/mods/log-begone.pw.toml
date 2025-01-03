@@ -1,13 +1,13 @@
 name = "Log Begone"
-filename = "Log-Begone-Fabric-1.20.1-1.0.8.jar"
+filename = "logbegone-fabric-1.21.1-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f1c697ffcf7ec79e458b3af3d32392d75bf2caff"
+hash = "c50c365a1d1da7ab38064a09687ad3a482e5e651"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4582965
+file-id = 5609008
 project-id = 623560

@@ -1,13 +1,13 @@
 name = "Too Fast"
-filename = "toofast-fabric-1.20-1.2.0.jar"
+filename = "toofast-fabric-1.21-1.3.0.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "f28b24f929ffbf960e096fa0327d0d318cb851b3"
+hash = "fbb6c8fba513e043f76f7fed2f59d68080ae7d1b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4628061
+file-id = 5634093
 project-id = 550678

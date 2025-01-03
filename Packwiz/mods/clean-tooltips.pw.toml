@@ -1,13 +1,13 @@
 name = "Clean Tooltips"
-filename = "clean_tooltips-1.0-fabric-1.20.1.jar"
+filename = "clean_tooltips-1.1-fabric-1.21.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "4658cdf42077ef8627199f66f2c59e70c85531e1"
+hash = "893010d73142d9c997bf537f8ee8dfa53524d858"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4703393
+file-id = 5870927
 project-id = 855017

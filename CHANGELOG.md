@@ -5,7 +5,7 @@
 
 ##### InsomniaHardcore
 
-# Changelog - 1.20.1
+# Changelog - 1.21.1
 
 ## v2.2.0 <Badge type='warning' text='Work in progress'/>
 
@@ -49,59 +49,143 @@
 - Cobweb
 - Common Network
 - Configurable
-- Create Enchantment Industry Fabric
-- Death Knights
 - Default Options `Client`
-- Dungeon Now Loading 1%
-- Eccentric Tome
-- Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
-- Faster Random
 - Frostiful
-- Hephaestus Fabric
-- Icarae Origin
 - Icarus
-- iChunUtil `Client`
-- InvMoveCompats `Client`
 - Loot Integrations
-- LootBeams Fabric Updated `Client`
 - Paradise Lost
-- Phantom Config
 - Resourceful Config
 - Sawmill
 - Sound Physics Remastered
-- Starlight
 - SuperMartijn642's Config Lib
-- The Graveyard
 - Thermoo
-- Tierify
 - True Darkness Refabricated `Client`
-- Twigs
-- Doctor Who:  Weeping Angels
 - You Died `Client`
-- Yung Structures Addon for Loot Integrations
 - Zombie Awareness
 
 ### Removed Mods ❌
 
+- Adaptive Tooltips `Client`
+- Alternate Origin GUI `Client`
 - Animatica `Client`
+- Aquamirae
+- Async Locator
 - Athena
+- AutoTag
+- Awesome Dungeon Nether edition - Fabric
+- Awesome Dungeon The End edition - Fabric
+- Balanced Recall
+- Create: Bells & Whistles
+- Beneath the Wetlands
+- Better Trim Tooltips `Client`
+- BisectHosting Server Integration Menu `Client`
+- Bobby `Client`
+- Builtin Servers `Client`
+- Bygone Nether
 - Concurrent Chunk Management Engine
 - Camp Chair
+- Cherished Worlds `Client`
 - Chipped
+- Chunky Extension `Server`
+- Clear Despawn `Client`
+- ClickThrough `Client`
+- Companion 🐕
+- CompleteConfig
 - Couplings
+- Create Fabric
+- Create: Steam 'n' Rails
+- Dark Loading Screen `Client`
+- Default Server Properties `Server`
+- Ding `Client`
+- Drip Sounds `Client`
 - Dyed
+- Dynamic Trim
+- Eldritch End
+- Elytra Trims Extensions
+- Embeddium `Client`
+- EMI Trades
 - Enderite Mod
+- End Remastered
+- Exordium `Client`
+- Expanded Delight
+- EMI Extra Integrations
+- Extra Origins
+- Fabric Language Kotlin
+- FancyMenu `Client`
+- Farmer's Knives
 - Farsighted Mobs
+- Fix Experience Bug
 - fix GPU memory leak `Client`
+- Framework
+- From The Fog
+- FullStack Watchdog `Server`
 - Furnace Recycle
+- Geophilic – Vanilla Biome Overhauls
+- Goblin Traders
+- Guard Villagers
+- Hearths
+- Icterine
+- Immersive Armors
+- Individual Keep Inventory `Server`
+- Integrated API
+- Integrated Stronghold
+- Interactic
+- Iris & Oculus Flywheel Compat `Client`
+- Iron Chests: Restocked
+- ItemFlexer `Server`
 - Just Enough Items
+- Knaves' Needs
+- KubeJS
+- LazyDFU
+- Brewery
+- NetherVinery
+- Library Ferret - Fabric
+- Log Cleaner
+- More Axolotl Variants API
+- MC Dungeons Armors
+- MC Dungeons Weapons
+- Mine Cells - Dead Cells Mod
+- MixinTrace
+- Mmm Indicators `Client`
+- Mobtimizations - Entity Performance Fixes
+- More Banner Features
+- Obscure API
+- Create Support for Open Parties and Claims
+- Orb of Origin Rework
+- Origins: Classes
+- Panorama Screens `Client`
+- Paragliders
+- Pehkui
 - Phantom Config Fork
+- Phantoms See Phantoms
+- Productive Villagers
 - Projectile Damage Attribute
+- Regions Unexplored
 - Shulker+
+- Simple Discord RPC `Client`
+- Simple Fog Control `Client`
+- Simply Skills
+- Simply Swords
+- Create Slice & Dice
+- StackablePotions
+- StackDeobfuscator
+- Starter Items, Messages, and Commands `Server`
+- Suggestion Tweaker
+- SuperBetterGrass `Client`
 - The Lost Castle
+- Sleep Config
 - TieredZ
+- TooManyOrigins
+- Towers of the Wild Modded
 - True Darkness Fork `Client`
+- Variant Shields
+- Vein Mining
+- Village Nullifier
+- Villagers Respawn
+- Vinery
+- What Are They Up To
+- Your Options Shall Be Respected
 
 ### Config Changes 📝
 

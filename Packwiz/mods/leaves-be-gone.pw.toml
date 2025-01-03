@@ -1,13 +1,13 @@
 name = "Leaves Be Gone [Forge & Fabric]"
-filename = "LeavesBeGone-v8.0.0-1.20.1-Fabric.jar"
+filename = "LeavesBeGone-v21.1.0-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ba9bef859e585a25818c46113d3f33a42f0048a8"
+hash = "ede5be8c5fc3bba13409959864514c78d11cc42c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4613294
+file-id = 5731932
 project-id = 686435

@@ -1,13 +1,13 @@
 name = "Overflowing Bars [Forge & Fabric]"
-filename = "OverflowingBars-v8.0.1-1.20.1-Fabric.jar"
+filename = "OverflowingBars-v21.1.1-1.21.1-Fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "1c713ab088c71082cfab392df602f45cdd6efbc0"
+hash = "6f4aff111d341797afe11a97f4b82c02078867e0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5763975
+file-id = 5770622
 project-id = 852662

@@ -1,13 +1,13 @@
 name = "Incantationem"
-filename = "incantationem-1.2.1+1.20.jar"
+filename = "Incantationem-2.0.3+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cb2f07dc057ffabdc854cb38f2b670ce8406a643"
+hash = "03a5766102d2db3c1a7283529108a32d4edd7f5f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4574594
+file-id = 5509386
 project-id = 483166

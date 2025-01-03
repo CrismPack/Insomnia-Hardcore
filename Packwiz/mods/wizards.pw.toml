@@ -1,13 +1,13 @@
 name = "Wizards (RPG Series)"
-filename = "wizards-1.3.0+1.20.1.jar"
+filename = "wizards-2.2.1+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d72cf4692d6e1164497e2238484309a1f9496a83"
+hash = "c3ddd21e1d9bb87ea54fb13c6e5def01e7078415"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5562700
+file-id = 6044139
 project-id = 734325

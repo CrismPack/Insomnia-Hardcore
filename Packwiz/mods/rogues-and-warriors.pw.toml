@@ -1,13 +1,13 @@
 name = "Rogues & Warriors (RPG Series)"
-filename = "rogues-1.1.0+1.20.1.jar"
+filename = "rogues-2.2.1+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "927fb01c05fa96adad72e9d88f3c945dcf638585"
+hash = "b8206d72734c951e58a26ec76d63144dd856f5c9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5562692
+file-id = 6044143
 project-id = 1048409

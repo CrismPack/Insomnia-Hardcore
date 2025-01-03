@@ -34,7 +34,7 @@
 - Fixed movement & abilities activating when searching for recipes.
 - Fixed recipes for 'Metal Bundes' not showing in EMI.
 
-#### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomniahardcore/changelog/1.20.1#v2.2.0)**
+#### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/insomniahardcore/changelog/1.21.1#v2.2.0)**
 
 <br>
 

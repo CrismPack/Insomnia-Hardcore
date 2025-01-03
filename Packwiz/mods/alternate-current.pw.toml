@@ -1,13 +1,13 @@
 name = "Alternate Current"
-filename = "alternate-current-mc1.20-1.9.0.jar"
+filename = "alternate-current-mc1.21-1.9.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f09b6c60556ca329b82d4bdb965dd4f574c0e1e3"
+hash = "b3dbc4fc4acfd98f3f6b62bbb4e641ed4df915e8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5665349
+file-id = 5665352
 project-id = 548115

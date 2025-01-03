@@ -1,13 +1,13 @@
 name = "You Died"
-filename = "YouDied-1.20-3.0.0.17-fabric.jar"
+filename = "YouDied-fabric-1.21-4.0.0.19.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "c000ed89b5ed7ab18662d6af220b0f04b1d3680d"
+hash = "a3ac2e7ab9fe30e22237dbfeb6e01b4904f060f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4574924
+file-id = 5616373
 project-id = 582464

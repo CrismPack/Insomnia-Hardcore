@@ -1,13 +1,13 @@
 name = "Zoomify"
-filename = "Zoomify-2.14.2+1.20.1.jar"
+filename = "Zoomify-2.14.2+1.21.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "7e1b7b1fcf2e0e7dd55f4131b2d49b8df1fc0a2f"
+hash = "2a4c2770b97ec8888eaa4fb9f304e3505b7b42bc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5838122
+file-id = 5838118
 project-id = 574741

@@ -1,13 +1,13 @@
 name = "Emojiful"
-filename = "Emojiful-Fabric-1.20.1-4.2.0.jar"
+filename = "Emojiful-Fabric-1.21-5.1.5.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "647c971125e49234847fe97bf874e43d19c6c713"
+hash = "4504eccb7b076ec42f315d4fe650f9c44142da98"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4672307
+file-id = 5614605
 project-id = 284324

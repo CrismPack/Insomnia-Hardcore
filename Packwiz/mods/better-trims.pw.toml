@@ -1,13 +1,13 @@
 name = "Better Trims"
-filename = "BetterTrims-3.2.8-fabric+1.20.1.jar"
+filename = "BetterTrims-3.2.8-fabric+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "df84de85825b8654631e0dfc1bee9aa637dcfe98"
+hash = "9b995ed84eff859f0fed5637b3eb4d9986311483"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5826058
+file-id = 5826056
 project-id = 821752

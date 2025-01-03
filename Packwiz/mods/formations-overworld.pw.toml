@@ -1,13 +1,13 @@
 name = "Formations Overworld"
-filename = "formationsoverworld-1.0.4.jar"
+filename = "formationsoverworld-1.0.4-mc1.21+.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e01c71c0b709772c20aea991e1267a251b674ca6"
+hash = "64df5f3f38a93403e09bc0657f99ac43586994e6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5550414
+file-id = 5627758
 project-id = 915324
