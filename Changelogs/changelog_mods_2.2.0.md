@@ -12,9 +12,12 @@
 - Frostiful
 - Icarus
 - Loot Integrations
+- Melody
 - Paradise Lost
+- Prickle
 - Resourceful Config
 - Sawmill
+- Sodium
 - Sound Physics Remastered
 - SuperMartijn642's Config Lib
 - Thermoo
@@ -33,6 +36,7 @@
 - Awesome Dungeon Nether edition - Fabric
 - Awesome Dungeon The End edition - Fabric
 - Balanced Recall
+- BCLib
 - Create: Bells & Whistles
 - Beneath the Wetlands
 - Better Trim Tooltips `Client`
@@ -68,8 +72,6 @@
 - Expanded Delight
 - EMI Extra Integrations
 - Extra Origins
-- Fabric Language Kotlin
-- FancyMenu `Client`
 - Farmer's Knives
 - Farsighted Mobs
 - Fix Experience Bug
@@ -100,6 +102,7 @@
 - Library Ferret - Fabric
 - Log Cleaner
 - More Axolotl Variants API
+- More Axolotl Variants Mod
 - MC Dungeons Armors
 - MC Dungeons Weapons
 - Mine Cells - Dead Cells Mod
@@ -160,7 +163,6 @@
 - **AzureLib**: Changed from `azurelib-fabric-1.20.1-2.0.24.jar` to `azurelib-fabric-1.21.1-2.3.29-alpha.jar`
 - **Bad Wither No Cookie - Reloaded**: Changed from `bwncr-fabric-1.20.1-3.17.0.jar` to `bwncr-fabric-1.21.1-3.20.2.jar`
 - **Balm**: Changed from `balm-fabric-1.20.1-7.2.2.jar` to `balm-fabric-1.21.1-21.0.22.jar`
-- **BCLib**: Changed from `bclib-3.0.14.jar` to `bclib-21.0.13.jar`
 - **Better Archeology**: Changed from `betterarcheology-1.1.9-1.20.1.jar` to `betterarcheology-fabric-1.2.1-1.21.jar`
 - **Better Combat**: Changed from `bettercombat-fabric-1.8.5+1.20.1.jar` to `bettercombat-fabric-2.0.4+1.21.1.jar`
 - **Better Compatibility Checker**: Changed from `BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar` to `BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar`
@@ -231,6 +233,7 @@
 - **Explosive Enhancement**: Changed from `explosive-enhancement-1.2.2-1.20.x.jar` to `explosive-enhancement-1.3.2-1.21-1.21.1.jar`
 - **Fabric API**: Changed from `fabric-api-0.92.2+1.20.1.jar` to `fabric-api-0.114.0+1.21.1.jar`
 - **Disable Custom Worlds Advice**: Changed from `DisableCustomWorldsAdvice-4.1.jar` to `DisableCustomWorldsAdvice-6.0.jar`
+- **Fabric Language Kotlin**: Changed from `fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar` to `fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar`
 - **Wraith Waystones**: Changed from `wraith-waystones-3.3.2+mc1.20.1.jar` to `wraith-waystones-3.3.4+mc1.21.1.jar`
 - **Falling Leaves**: Changed from `fallingleaves-1.15.6+1.20.1.jar` to `fallingleaves-1.16.4+1.21.1.jar`
 - **Farmer's Delight Refabricated**: Changed from `FarmersDelight-1.20.1-2.1.1+refabricated.jar` to `FarmersDelight-1.21.1-2.2.8+refabricated.jar`
@@ -269,7 +272,6 @@
 - **Lithium**: Changed from `lithium-fabric-mc1.20.1-0.11.2.jar` to `lithium-fabric-0.14.3-snapshot+mc1.21.1-build.92.jar`
 - **Lithostitched**: Changed from `lithostitched-fabric-1.20.1-1.1.5.jar` to `lithostitched-fabric-1.21.1-1.3.10.jar`
 - **Log Begone**: Changed from `Log-Begone-Fabric-1.20.1-1.0.8.jar` to `logbegone-fabric-1.21.1-1.0.3.jar`
-- **More Axolotl Variants Mod**: Changed from `mavm-1.2.6-mc1.20.1.jar` to `mavm-fabric-1.3.0-mc1.21.jar`
 - **MCPitanLib**: Changed from `mcpitanlib-2.2.4-1.20.1-fabric.jar` to `mcpitanlib-3.1.3-1.21.1-fabric.jar`
 - **Medieval Music**: Changed from `zmedievalmusic-fabric-1.20.1-2.1.jar` to `zmedievalmusic-fabric-1.21-2.1.jar`
 - **Memory Settings**: Changed from `memorysettings-fabric-1.20.1-5.3.jar` to `memorysettings-fabric-1.21-5.5.jar`

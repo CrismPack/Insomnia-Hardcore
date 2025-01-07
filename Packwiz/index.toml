@@ -809,11 +809,6 @@ hash = "153d1ed90850ec61d43487ecee574ed86278a6a725c720bcfd827eb539240384"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "2c9f2b96a3dadeb188fbeb0a3f1abe3d76e71529b8677eabb5d6cd3fa674a861"
-metafile = true
-
-[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "41687ff40fe6f9fd3558b25a5d6cad18c80eefcc9569ef9d608b4879b59d41e6"
 metafile = true
@@ -1199,6 +1194,11 @@ hash = "f09084f87289ddb78a43a789927029bcda1b3a1559af97e34410a7c0c2b1dcc3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "070f3b65efd84e7d28e84d819e94f1d886ebb9df0d2c8e2e5acc168966a34f67"
+metafile = true
+
+[[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "da8aea4fd517b0e1f34da0960bd8a0111859d14bf60a4acb8b949ac41cb5dc82"
 metafile = true
@@ -1206,6 +1206,11 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "e39370845c6b0ccba8abbcee53aa38b9f34111496ab5910c074649bd4b9372ed"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "6b3c09155ba55f3c70cf4dd7245708215e4bda1fdd3cd8eaa9a9adf9255a038e"
 metafile = true
 
 [[files]]
@@ -1350,7 +1355,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "932023e5122a3ce6839726ea8d602d85cba42d5a385593c878214ecb1f4d1ec8"
+hash = "8121f1621355bb4ff8031ebc91f3824a2ae387a3b30d3feb25c84d0b480206f5"
 metafile = true
 
 [[files]]
@@ -1409,11 +1414,6 @@ hash = "22ff6c827420f71b67fb95eefd812ed5858f60b0f5d09d46b126e9904f1d7877"
 metafile = true
 
 [[files]]
-file = "mods/mavm.pw.toml"
-hash = "f5f478188758d4d0eba4738c8a99575f2551cba602d8472bafce1a9877dca5d4"
-metafile = true
-
-[[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "45b2e8ac9c4800c31a25dbdc472b4a7b2ff0605b6a6d91acf2f32e100e1320ff"
 metafile = true
@@ -1421,6 +1421,11 @@ metafile = true
 [[files]]
 file = "mods/medieval-music.pw.toml"
 hash = "4bbbba07be6df47e07a95bc5db8bca31587b10f3125cf3ae89b010e20042029c"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "9cc852c7d5024d24f0403b7f86200d2283a89ffc66896123406102e57318844b"
 metafile = true
 
 [[files]]
@@ -1639,6 +1644,11 @@ hash = "f38fc45bf77b7d40a6cfae0eafee2369dbeaf7c0c7c9460446c9b9283de42688"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "4ce4ea4dc03135e38a87b50ee964b6148348fef35d4708c2ac18c33eb32cce2b"
+metafile = true
+
+[[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "36562803b2991c91d03d04ddd8aff80a206118aea361257f0c072fb91018ab22"
 metafile = true
@@ -1771,6 +1781,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "34f502a233413c6ffc3d50942eca7651dbef3b1f77a02634736214abcac1190d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "c35d95d747f35a7684218186ff8aa4510a1ddd58de18e50aa608cf36442e7cf9"
 metafile = true
 
 [[files]]

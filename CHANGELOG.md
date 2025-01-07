@@ -54,9 +54,12 @@
 - Frostiful
 - Icarus
 - Loot Integrations
+- Melody
 - Paradise Lost
+- Prickle
 - Resourceful Config
 - Sawmill
+- Sodium
 - Sound Physics Remastered
 - SuperMartijn642's Config Lib
 - Thermoo
@@ -76,6 +79,7 @@
 - Awesome Dungeon Nether edition - Fabric
 - Awesome Dungeon The End edition - Fabric
 - Balanced Recall
+- BCLib
 - Create: Bells & Whistles
 - Beneath the Wetlands
 - Better Trim Tooltips `Client`
@@ -111,8 +115,6 @@
 - Expanded Delight
 - EMI Extra Integrations
 - Extra Origins
-- Fabric Language Kotlin
-- FancyMenu `Client`
 - Farmer's Knives
 - Farsighted Mobs
 - Fix Experience Bug
@@ -143,6 +145,7 @@
 - Library Ferret - Fabric
 - Log Cleaner
 - More Axolotl Variants API
+- More Axolotl Variants Mod
 - MC Dungeons Armors
 - MC Dungeons Weapons
 - Mine Cells - Dead Cells Mod
