@@ -7,7 +7,7 @@
 
 # Changelog - 1.20.1
 
-## v2.2.0 <Badge type='warning' text='Work in progress'/>
+## v2.2.0 <Badge type='warning' text='Work in progress'/> <a href='#v2.2.0' id='v2.2.0'></a>
 
 *Fabric Loader 0.16.9* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md)*
 
@@ -125,7 +125,7 @@
 - Changed "compactFastMap" to "true": `FerriteCore`, `Client`
 - Changed "interdimensional_teleporting" to "false": `Weeping Angles`, `Both`
 
-## v2.1.7
+## v2.1.7 <a href='#v2.1.7' id='v2.1.7'></a>
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.7.md)*
 
@@ -168,7 +168,7 @@
 - Removed "Warning" text from death screen: `FancyMenu`, `Client`
 - Changed enable-command-block to "true" by default: `Default Server Properties`, `Server`
 
-## v2.1.6
+## v2.1.6 <a href='#v2.1.6' id='v2.1.6'></a>
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.6.md)*
 
@@ -219,7 +219,7 @@
 - Changed exp_use_optimized_chunk_ticking_iteration to "true": `Very Many Players`, `Both`
 - Changed checkForNewUpdates to "false": `Friend&Foes`, `Both`
 
-## v2.1.5
+## v2.1.5 <a href='#v2.1.5' id='v2.1.5'></a>
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.5.md)*
 
@@ -254,7 +254,7 @@
 - Blacklisted "integrated_stronghold:stronghold": `Respawning Structures`, `Both`
 - Changed screenTypingVisible to "false": `What are they up to?`, `Client`
 
-## v2.1.4a
+## v2.1.4a <a href='#v2.1.4a' id='v2.1.4a'></a>
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md)*
 
@@ -262,7 +262,7 @@
 
 - Client hotfix, fixing hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
 
-## v2.1.4
+## v2.1.4 <a href='#v2.1.4' id='v2.1.4'></a>
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md)*
 
@@ -296,7 +296,7 @@
 - Fixed alignment of "Insomnia: Hardcore" text: `Styled Player List`, `Server`
 - Force enabled 'Fresh Moves' & 'FreshCompats': `Resource Pack Overrides`, `Client`
 
-## v2.1.3
+## v2.1.3 <a href='#v2.1.3' id='v2.1.3'></a>
 
 *Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md)*
 
@@ -363,7 +363,7 @@
 - Moved arrow to the bottom left corner of the screen: `Combat Roll`, `Client`
 - Disabled "allowRadarOnServer": `Xaero's Minimap`, `Both`
 
-## v2.1.2
+## v2.1.2 <a href='#v2.1.2' id='v2.1.2'></a>
 
 *Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md)*
 
@@ -386,7 +386,7 @@
 - Increased the armor multiplier from "0.25" to "1.0" for the boss difficulty type: `Dungeon Difficulty`, `Both`
 - Increased the health multiplier from "0.5" to "1.0" for the boss difficulty type: `Dungeon Difficulty`, `Both`
 
-## v2.1.1
+## v2.1.1 <a href='#v2.1.1' id='v2.1.1'></a>
 
 *Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md)*
 
@@ -414,7 +414,7 @@
 - Made 'Freshly Modded' actually be force-enabled: `Resource Pack Overrides`, `Client`
 - Changed "dayDelayConfig" to 10: `From the Fog - Config`, `Both`
 
-## v2.1.0
+## v2.1.0 <a href='#v2.1.0' id='v2.1.0'></a>
 
 *Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md)*
 
@@ -501,7 +501,7 @@
 - Disabled "heartContainers": `Paragliders`, `Both`
 - Disabled "enhanced_cauldron": `Amendments`, `Both`
 
-## v2.0.0
+## v2.0.0 <a href='#v2.0.0' id='v2.0.0'></a>
 
 *Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md)*
 
