@@ -9,7 +9,7 @@
 
 ## v2.2.0 <Badge type='warning' text='Work in progress'/> <a href='#v2.2.0' id='v2.2.0'></a>
 
-*Fabric Loader 0.16.9* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.9'/>
 
 ### Changes/Improvements ⭐
 
@@ -103,6 +103,162 @@
 - TieredZ
 - True Darkness Fork `Client`
 
+### Updated Mods 🔄
+
+- Advanced Netherite
+- Advancement Plaques
+- Alternate Current
+- Alternate Origin GUI
+- Amendments
+- Armor & damage scaling
+- AzureLib Armor
+- AzureLib
+- Bad Wither No Cookie - Reloaded
+- Balm
+- Better Archeology
+- Better Combat
+- Blockus
+- Bookshelf
+- Branded Logs
+- Chat Heads
+- Chat Patches
+- Cloth Config API
+- Collective
+- Combat Roll
+- Compact Help Command
+- Companion 🐕
+- CompleteConfig
+- Connectivity
+- Continuity
+- CraterLib
+- Create Fabric
+- Create: Steam 'n' Rails
+- Cubes Without Borders
+- Cupboard
+- Deeper and Darker
+- Ding
+- API
+- Dungeon Difficulty
+- e4mc
+- Eldritch End
+- Elytra Slot
+- Elytra Trims Extensions
+- Elytra Trims
+- Embeddium
+- EMI Loot
+- EMI Ores
+- EMI
+- Enchantment Descriptions
+- End's Delight
+- Entity Model Features
+- Entity Texture Features -
+- Every Compat
+- Expanded Delight
+- Explosive Enhancement
+- Fabric API
+- Fabric Language Kotlin
+- Farmer's Delight Refabricated
+- Fast Async World Save
+- Forge Config API Port
+- Formations Overworld
+- Formations
+- Friends&Foes
+- Fzzy Config
+- GeckoLib
+- Geophilic – Vanilla Biome Overhauls
+- Harvest with ease
+- Hearths
+- Iceberg
+- ImmediatelyFast
+- Inventory Profiles Next
+- Iris & Oculus Flywheel Compat
+- Iris Shaders
+- Item Obliterator
+- Jade Addons
+- Jade 🔍
+- KubeJS
+- Let Me Despawn
+- Legacy:  Brewery
+- NetherVinery
+- Lithostitched
+- MCPitanLib
+- Memory Settings
+- Mine Cells - Dead Cells Mod
+- MmmMmmMmmMmm
+- MNS - Moog's Nether Structures
+- ModernFix
+- MES - Moog's End Structures
+- MVS - Moog's Voyager Structures
+- More Armor Trims
+- Music Maker Mod
+- Necronomicon API
+- Neruina - Ticking Entity Fixer
+- Nether Portal Spread
+- No Mob Farms
+- Noisium
+- Not Enough Animations
+- Open Parties and Claims
+- OptiGUI
+- Overflowing Bars
+- Packet Fixer
+- Particle Core
+- Pehkui
+- Persistent Inventory Search
+- Polymorph
+- Pufferfish's Attributes
+- Pufferfish's Skills
+- Puzzles Lib
+- Raised
+- Ranged Weapon API
+- Recipe Essentials
+- Regions Unexplored
+- Resourceful Lib
+- Respawning Structures
+- Rhino
+- Philip's Ruins
+- Runes
+- Saplanting
+- Savage Ender Dragon
+- Moonlight Lib
+- Separated Leaves
+- ServerCore
+- Simple Discord RPC
+- Simple Voice Chat
+- Simply Skills
+- Simply Swords
+- Skin Layers 3D
+- Create Slice & Dice
+- Small Ships
+- Sophisticated Backpacks
+- Sophisticated Core
+- Spell Engine
+- Spell Power Attributes
+- StackDeobfuscator
+- Starter Structure
+- Supplementaries
+- Tectonic
+- Tidal Towns
+- TooManyOrigins
+- Vein Mining
+- Vinery
+- Wavey Capes
+- What Are They Up To
+- Xaero's Minimap
+- Xaero's World Map
+- YetAnotherConfigLib
+- YDM's Weapon Master
+- YUNG's API
+- Zoomify
+
+### Updated Resource Packs 🔃
+
+- Enhanced Boss Bars
+- Fresh Animations Extensions
+- Fresh Animations
+- Fresh Compats
+- F.M.R.P
+- xali's Enchanted Books
+
 ### Config Changes 📝
 
 - Changed Nvidium's dependency of Sodium to allow any version: `Fabric Loader`, `Client`
@@ -127,7 +283,7 @@
 
 ## v2.1.7 <a href='#v2.1.7' id='v2.1.7'></a>
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.7.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.7.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -158,6 +314,21 @@
 - AntiXray `Server`
 - RandomTP `Server`
 
+### Updated Mods 🔄
+
+- Archers
+- Collective
+- Fabric API
+- MC Dungeons Weapons
+- Paladins & Priests
+- Pufferfish's Skills
+- Ranged Weapon API
+- Simply Skills
+- Spell Engine
+- Spell Power Attributes
+- Starter Kit
+- Wizards
+
 ### Config Changes 📝
 
 - Changed update_checker to "false": `Mod Menu`, `Client`
@@ -170,7 +341,7 @@
 
 ## v2.1.6 <a href='#v2.1.6' id='v2.1.6'></a>
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.6.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.6.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -199,6 +370,19 @@
 - TieFix `Client`
 - Unsafe World Random Access Detector
 
+### Updated Mods 🔄
+
+- Archers
+- Branded Logs
+- MC Dungeons Weapons
+- ModernFix
+- Paladins & Priests
+- Pufferfish's Skills
+- Simply Skills
+- Spell Engine
+- Spell Power Attributes
+- Wizards
+
 ### Config Changes 📝
 
 - Changed shader pack menu to allow for editing settings: `FancyMenu`, `Client`
@@ -221,7 +405,7 @@
 
 ## v2.1.5 <a href='#v2.1.5' id='v2.1.5'></a>
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.5.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.5.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -246,6 +430,10 @@
 - SuperMartijn642's Config Lib `Client`
 - TipTheScales `Client`
 
+### Updated Mods 🔄
+
+- AzureLib
+
 ### Config Changes 📝
 
 - Added structure IDs for BOMD boss structures: `Respawning Structures`, `Both`
@@ -256,15 +444,19 @@
 
 ## v2.1.4a <a href='#v2.1.4a' id='v2.1.4a'></a>
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
 
 ### Update Overview ⭐
 
 - Client hotfix, fixing hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]
 
+### Updated Mods 🔄
+
+- ImmediatelyFast
+
 ## v2.1.4 <a href='#v2.1.4' id='v2.1.4'></a>
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -282,10 +474,64 @@
 - Styled Player List `Server`
 - What Are They Up To
 
+### Added Resource Packs 📦
+
+- Pufferfish's Attributes
+- StackablePotions
+- Styled Player List `Server`
+- What Are They Up To
+
 ### Removed Mods ❌
 
 - AntiGhost `Client`
 - Redirector
+
+### Updated Mods 🔄
+
+- Amendments
+- Amplified Nether
+- AzureLib
+- Better Archeology
+- Chat Heads
+- Collective
+- Continuity
+- Create: Steam 'n' Rails
+- API
+- Elytra Trims
+- Embeddium
+- Enchantment Descriptions
+- EMI Extra Integrations
+- Fabric Language Kotlin
+- Fzzy Config
+- ImmediatelyFast
+- Item Obliterator
+- Jade 🔍
+- Neruina - Ticking Entity Fixer
+- Packet Fixer
+- Polymorph
+- Pufferfish's Skills
+- Puzzles Lib
+- Resourceful Lib
+- Philip's Ruins
+- Savage Ender Dragon
+- Moonlight Lib
+- Simple Voice Chat
+- Simply Skills
+- Skin Layers 3D
+- Sophisticated Backpacks
+- Sophisticated Core
+- Suggestion Tweaker
+- Supplementaries
+- TerraBlender
+- Wavey Capes
+- YetAnotherConfigLib
+- YUNG's API
+- YUNG's Better Jungle Temples
+- Zoomify
+
+### Updated Resource Packs 🔃
+
+- F.M.R.P
 
 ### Config Changes 📝
 
@@ -298,7 +544,7 @@
 
 ## v2.1.3 <a href='#v2.1.3' id='v2.1.3'></a>
 
-*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -350,6 +596,95 @@
 - Sodium `Client`
 - TimeOutOut
 
+### Updated Mods 🔄
+
+- Advanced Netherite
+- Amendments
+- Archers
+- AzureLib
+- BadOptimizations
+- Better Archeology
+- Better Combat
+- Blockus
+- Bookshelf
+- Branded Logs
+- Chipped
+- Chunky
+- Clickable advancements
+- Clumps
+- Collective
+- Create: Steam 'n' Rails
+- API
+- Dungeon Difficulty
+- Elytra Trims
+- EMI Loot
+- EMI
+- End's Delight
+- Entity Model Features
+- Entity Texture Features -
+- Expanded Delight
+- EMI Extra Integrations
+- Fabric API
+- Fabric Language Kotlin
+- Farmer's Knives
+- Fast Paintings
+- Faster Random
+- Formations Overworld
+- Hearths
+- ImmediatelyFast
+- Iris Shaders
+- Jade Addons
+- Jade 🔍
+- Brewery
+- NetherVinery
+- MC Dungeons Armors
+- MC Dungeons Weapons
+- Mine Cells - Dead Cells Mod
+- MmmMmmMmmMmm
+- MNS - Moog's Nether Structures
+- ModernFix
+- MES - Moog's End Structures
+- MVS - Moog's Voyager Structures
+- More Culling
+- Noisium
+- Not Enough Animations
+- Ocean's Delight
+- Create Support for Open Parties and Claims
+- Open Parties and Claims
+- Packet Fixer
+- Paladins & Priests
+- Particle Core
+- Projectile Damage Attribute
+- Pufferfish's Skills
+- Recipe Essentials
+- Philip's Ruins
+- Searchables
+- Moonlight Lib
+- ServerCore
+- Simple Voice Chat
+- Simply Skills
+- Simply Swords
+- Skin Layers 3D
+- Create Slice & Dice
+- Spell Engine
+- Spell Power Attributes
+- Starter Kit
+- Starter Structure
+- Supplementaries
+- TerraBlender
+- Vein Mining
+- Vinery
+- Wavey Capes
+- Wizards
+- Xaero's World Map
+- YetAnotherConfigLib
+- YUNG's Better Dungeons
+- Zoomify
+
+### Updated Resource Packs 🔃
+
+- Slightly Improved Font
+
 ### Config Changes 📝
 
 - Disabled parrying: `Shield Overhaul`, `Both`
@@ -365,13 +700,18 @@
 
 ## v2.1.2 <a href='#v2.1.2' id='v2.1.2'></a>
 
-*Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.7'/>
 
 ### Update Overview ⭐
 
 - Reverted 'OPAC' and 'OPAC Create Support' update to fix issues with pipes from 'Create'. [https://github.com/thexaero/open-parties-and-claims/issues/446]
 - Made the difficulty scaling of dungeons and bosses even more aggressive.
 - Changed recipes for Metal Bundles to be more expensive.
+
+### Updated Mods 🔄
+
+- Create Support for Open Parties and Claims
+- Open Parties and Claims
 
 ### Config Changes 📝
 
@@ -388,7 +728,7 @@
 
 ## v2.1.1 <a href='#v2.1.1' id='v2.1.1'></a>
 
-*Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.7'/>
 
 ### Update Overview ⭐
 
@@ -401,10 +741,30 @@
 
 - Icterine
 
+### Added Resource Packs 📦
+
+- Icterine
+
 ### Removed Mods ❌
 
 - Iris & Oculus Flywheel Compat `Client`
 - Sound Physics Remastered
+
+### Updated Mods 🔄
+
+- Combat Roll
+- Create Fabric
+- Falling Leaves
+- Integrated API
+- More Axolotl Variants API
+- More Axolotl Variants Mod
+- MCPitanLib
+- Noisium
+- Create Support for Open Parties and Claims
+- Open Parties and Claims
+- Simple Voice Chat
+- Tectonic
+- Towers of the Wild Modded
 
 ### Config Changes 📝
 
@@ -416,7 +776,7 @@
 
 ## v2.1.0 <a href='#v2.1.0' id='v2.1.0'></a>
 
-*Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.7'/>
 
 ### Update Overview ⭐
 
@@ -460,6 +820,33 @@
 - StackDeobfuscator
 - Suggestion Tweaker
 
+### Added Resource Packs 📦
+
+- Amplified Nether
+- Async Locator
+- AzureLib
+- BetterNether
+- ClickThrough `Client`
+- Eldritch End
+- EMI Loot
+- EMI Ores
+- EMI Trades
+- EMI
+- EMI Extra Integrations
+- Faster Random
+- Friends&Foes
+- Hearths
+- ItemFlexer `Server`
+- Just Enough Items
+- Metal Bundles
+- MNS - Moog's Nether Structures
+- More Armor Trims
+- No Chat Reports
+- Paragliders
+- Savage Ender Dragon
+- StackDeobfuscator
+- Suggestion Tweaker
+
 ### Removed Mods ❌
 
 - Concurrent Chunk Management Engine
@@ -474,6 +861,44 @@
 - Roughly Enough Professions
 - Roughly Enough Resources
 - Structure Essentials
+
+### Removed Resource Packs ❌
+
+- Concurrent Chunk Management Engine
+- CIT Resewn
+- Dark Enchanting
+- Elytra Physics `Client`
+- fabric-permissions-api
+- Heartbond
+- Incendium
+- Login Protection `Server`
+- Roughly Enough Items Fabric/Forge
+- Roughly Enough Professions
+- Roughly Enough Resources
+- Structure Essentials
+
+### Updated Mods 🔄
+
+- Amendments
+- Archers
+- Crafting Manipulator
+- Elytra Trims Extensions
+- Elytra Trims
+- Extra Origins
+- Integrated API
+- NetherVinery
+- Mouse Tweaks
+- Paladins & Priests
+- Polymorph
+- Philip's Ruins
+- ServerCore
+- Simple Voice Chat
+- Simply Skills
+- Spell Engine
+- Tectonic
+- TieredZ
+- Vinery
+- Wizards
 
 ### Config Changes 📝
 
@@ -503,7 +928,7 @@
 
 ## v2.0.0 <a href='#v2.0.0' id='v2.0.0'></a>
 
-*Fabric Loader 0.15.7* | *[Mod Updates](https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md)*
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.7'/>
 
 ### Update Overview ⭐
 
