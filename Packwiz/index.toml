@@ -89,6 +89,14 @@ file = "config/combatroll/hud_config.json"
 hash = "90cca9f822e8d32e110347792a55d86e494097d9d6754c280fcd40a8e9d6590c"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "eb3ac4b0fbe0e4da7636c866a85611de87657d9226189e35d6d1fc6f7d1bbfb8"
+
+[[files]]
 file = "config/darkness.json5"
 hash = "48f41ddba2590fc573f10de71d52f31da74931ce00e663883cd07ba3b10d26b4"
 
@@ -294,7 +302,7 @@ hash = "01efa88c78eacbeb89c8fe068e237fe2509e57d0b622b854593018d3c6503715"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "9e3d66bd0161e1d2e78828f07b148eade787ece01431f79d0da7051fcecb8643"
+hash = "98b90bb39883b0414b59bebdbca40a8445d6230eb8a02808fb41f8143172bfd0"
 
 [[files]]
 file = "config/mostructures-config-v5.json5"
@@ -1116,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "e13e1e0e43f924e34e9848438b1bf41c52797c3d6fcd80950648b1c6f1677b51"
 metafile = true
 
 [[files]]

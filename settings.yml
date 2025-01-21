@@ -11,6 +11,8 @@ update_publish_workflow: True
 download_compare_files: True
 generate_primary_changelog: True
 generate_mods_changelog: True
+update_crash_assistant_modlist: True
+github_auth: False
 
 bh_banner: "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc/insomnia/bhbanner.png"
 

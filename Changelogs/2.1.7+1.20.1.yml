@@ -85,10 +85,10 @@ Mods updated: |
   > Starter Kit
 
 
-Script/Datapack changes: |
-  + Wrote 'respawn_schedule' script for the server pack. Days of the week and time of the day can be configured in the "kubejs/config/respawn.json" file.
-  + Wrote 'keepinv' script for the server pack, which interacts with the 'Individual Keep Inventory' mod to make the player drop their inventory if they deplete all of their lives.
-  + Changed resurrection function of 'Insomnia Respawn Datapack' to give players a starter kit when respawning from a respawn wave.
+Script/Datapack changes:
+  - Wrote 'respawn_schedule' script for the server pack. Days of the week and time of the day can be configured in the "kubejs/config/respawn.json" file.
+  - Wrote 'keepinv' script for the server pack, which interacts with the 'Individual Keep Inventory' mod to make the player drop their inventory if they deplete all of their lives.
+  - Changed resurrection function of 'Insomnia Respawn Datapack' to give players a starter kit when respawning from a respawn wave.
 
 
 Config Changes: |

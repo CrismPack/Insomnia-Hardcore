@@ -11,26 +11,16 @@
 
 <a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.9'/>
 
-### Changes/Improvements ⭐
+### Update Overview ⭐
 
-- Added some mods with a creepy light-horror theme.
-- Added new dungeons and bosses to the Overworld.
-- Added Icarae Origin and its associated craftable wings.
-- Reintroduced the Paradise dimension (The Aether).
-- Armor trim materials now provide additional attributes when worn.
-- A Dark Souls-like death screen now appears upon dying.
-- Overworld mobs can now track you by blood scent, sound, and light source awareness.
-- Changed the shaderpack to use the Reimagined style and medium graphics preset by default.
-- Changed starter kit to include an 'Eccentric Tome' with starter guidebooks placed inside, as well as replacing torches with lanterns.
-- Changed backpack recipes to be more expensive.
-- Changed menu buttons across the modpack to match the theme of the main menu.
-- Changed keybinds to be handled by 'DefaultOptions'.
-- Created new optimized server starter scripts for both regular JVM's and GraalVM.
-- Changed server starter scripts to download the server jar instead of bundling it in the zip.
-- Overhauled server README.
-- Made minor improvements to performance & stability.
-- Greatly optimized memory footprint, making the modpack playable with just 6GB of RAM allocated.
-- Changed memory allocation recommendations to better reflect the modpacks RAM usage.
+- Added some mods with a creepy light-horror theme as well as new dungeons and bosses to the Overworld.
+- New Icarae Origin with associated craftable wings.
+- Reintroduced the Paradise dimension (The Aether) and Hephaestus (Tinkers Construct).
+- Created new optimized server starter scripts for both regular JVM's and GraalVM and made them download the server jar instead of bundling it in the zip.
+- Made general improvements to performance & stability.
+- Greatly minimized memory footprint, making the modpack playable with just 6GB of RAM allocated in singleplayer.
+- A bunch of quality of life changes.
+- Multiple bug fixes.
 - Updated mods and resource packs.
 - And more!
 
@@ -49,6 +39,7 @@
 - Cobweb
 - Common Network
 - Configurable
+- Crash Assistant
 - Create Enchantment Industry Fabric
 - Death Knights
 - Default Options `Client`
@@ -259,6 +250,10 @@
 - F.M.R.P
 - xali's Enchanted Books
 
+### Script/Datapack Changes 📝
+
+- Changed backpack recipes to be more expensive.
+
 ### Config Changes 📝
 
 - Changed Nvidium's dependency of Sodium to allow any version: `Fabric Loader`, `Client`
@@ -280,6 +275,8 @@
 - Changed "render_nametags" to "false": `LootBeams`, `Client`
 - Changed "compactFastMap" to "true": `FerriteCore`, `Client`
 - Changed "interdimensional_teleporting" to "false": `Weeping Angles`, `Both`
+- Configured mod to use our Discord server and BCC config values: `Crash Assistant`, `Client`
+- Changed count_libraries, count_children and update_checker to "false": `Mod Menu`, `Client`
 
 ## v2.1.7 <a href='#v2.1.7' id='v2.1.7'></a>
 
@@ -328,6 +325,12 @@
 - Spell Power Attributes
 - Starter Kit
 - Wizards
+
+### Script/Datapack Changes 📝
+
+- Wrote 'respawn_schedule' script for the server pack. Days of the week and time of the day can be configured in the "kubejs/config/respawn.json" file.
+- Wrote 'keepinv' script for the server pack, which interacts with the 'Individual Keep Inventory' mod to make the player drop their inventory if they deplete all of their lives.
+- Changed resurrection function of 'Insomnia Respawn Datapack' to give players a starter kit when respawning from a respawn wave.
 
 ### Config Changes 📝
 

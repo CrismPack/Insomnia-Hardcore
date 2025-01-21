@@ -7,6 +7,7 @@
 - Cobweb
 - Common Network
 - Configurable
+- Crash Assistant
 - Create Enchantment Industry Fabric
 - Death Knights
 - Default Options `Client`
