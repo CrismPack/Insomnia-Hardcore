@@ -62,6 +62,7 @@
 - Sawmill
 - Sound Physics Remastered
 - Starlight
+- Structure Layout Optimizer
 - SuperMartijn642's Config Lib
 - The Graveyard
 - Thermoo
@@ -87,6 +88,7 @@
 - fix GPU memory leak `Client`
 - Furnace Recycle
 - Just Enough Items
+- NetherVinery
 - Phantom Config Fork
 - Projectile Damage Attribute
 - Shulker+
@@ -170,7 +172,6 @@
 - KubeJS
 - Let Me Despawn
 - Legacy:  Brewery
-- NetherVinery
 - Lithostitched
 - MCPitanLib
 - Memory Settings

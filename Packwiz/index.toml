@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "eb3ac4b0fbe0e4da7636c866a85611de87657d9226189e35d6d1fc6f7d1bbfb8"
+hash = "8b3f344710d3b76835534bb5b4e006c5fb7809b666b81bcbd878c21cc416796e"
 
 [[files]]
 file = "config/darkness.json5"
@@ -1752,11 +1752,6 @@ hash = "29ad7d0003dbb20003850ad8a7ec4da1bcd0c8a6d6ec36363f644dc9ba45a886"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-nethervinery.pw.toml"
-hash = "c398fe1012e7cf2c6dfab2fa383d69f053cbd890d2a3ea6345832c9e7abcfdf2"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "83c16cd202133d63146227b1635a1f767243c8189427ded90e1d913edc4c44c1"
 metafile = true
@@ -2354,6 +2349,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "0309bd432501d5a274e0e8117e7d0a19a12bf4f2cb41dddf2992ecd6da2dcff2"
 metafile = true
 
 [[files]]

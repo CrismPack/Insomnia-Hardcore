@@ -30,6 +30,7 @@
 - Sawmill
 - Sound Physics Remastered
 - Starlight
+- Structure Layout Optimizer
 - SuperMartijn642's Config Lib
 - The Graveyard
 - Thermoo
@@ -54,6 +55,7 @@
 - fix GPU memory leak `Client`
 - Furnace Recycle
 - Just Enough Items
+- NetherVinery
 - Phantom Config Fork
 - Projectile Damage Attribute
 - Shulker+
@@ -136,7 +138,6 @@
 - **KubeJS**: Changed from `kubejs-fabric-2001.6.5-build.14.jar` to `kubejs-fabric-2001.6.5-build.16.jar`
 - **Let Me Despawn**: Changed from `letmedespawn-fabric-1.20.x-1.2.0.jar` to `letmedespawn-1.20.x-fabric-1.4.4.jar`
 - **Legacy:  Brewery**: Changed from `letsdo-brewery-fabric-1.1.8.jar` to `letsdo-brewery-fabric-1.1.9.jar`
-- **NetherVinery**: Changed from `letsdo-nethervinery-fabric-1.2.12.jar` to `letsdo-nethervinery-fabric-1.2.16.jar`
 - **Lithostitched**: Changed from `lithostitched-fabric-1.20.1-1.1.5.jar` to `lithostitched-fabric-1.20.1-1.3.10.jar`
 - **MCPitanLib**: Changed from `mcpitanlib-2.2.4-1.20.1-fabric.jar` to `mcpitanlib-3.1.3-1.20.1-fabric.jar`
 - **Memory Settings**: Changed from `memorysettings-fabric-1.20.1-5.3.jar` to `memorysettings-fabric-1.20.1-5.5.jar`
