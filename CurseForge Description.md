@@ -30,8 +30,8 @@
 <!--Features-->
 <p style="text-align: center;" alt= "Features: Challenge Accepted, Exploration Elevated, Craft Your Character, more More MORE.">
 	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/insomnia/features.png"/>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/insomnia/eyes.png"/>
 </p>
-
 
 <br>
 
