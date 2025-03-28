@@ -1,13 +1,13 @@
 name = "AzureLib Armor"
-filename = "azurelibarmor-fabric-1.21.1-2.3.15.jar"
+filename = "azurelibarmor-fabric-1.21.1-3.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e7fc94a7970dfb807c596d1edb6933b4869ff9b8"
+hash = "743966547ce8b7ecb041882028be296d9c1172e6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6004942
+file-id = 6154112
 project-id = 912767

@@ -1,13 +1,13 @@
 name = "Paladins & Priests (RPG Series)"
-filename = "paladins-2.2.1+1.21.1.jar"
+filename = "paladins-2.4.5+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f224aa4906a56b1578333ca6ae773f70ab4434fd"
+hash = "68ef46ef15da57bc775d8b94c2265e7036b1adeb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6044161
+file-id = 6359127
 project-id = 856548

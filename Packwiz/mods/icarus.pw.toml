@@ -1,13 +1,13 @@
 name = "Icarus"
-filename = "Icarus-Fabric-4.2.0.jar"
+filename = "Icarus-Fabric-4.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "faa24dbb11e07db2580d6a6a0d3fcdcef6e5f9ce"
+hash = "3f16036683b8094697fc1ac54acfa3b467ad7a17"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5852961
+file-id = 6218877
 project-id = 428151

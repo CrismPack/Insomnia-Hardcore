@@ -1,13 +1,13 @@
 name = "Blockus"
-filename = "blockus-2.9.6+1.21.1.jar"
+filename = "blockus-2.9.9+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b5b186b096695eb78c1976ede21ce1cb976eeb75"
+hash = "bad19397fac82dce4d0b688a2a0df8f2de422341"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5896317
+file-id = 6341634
 project-id = 312289

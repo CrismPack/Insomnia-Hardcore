@@ -1,13 +1,13 @@
 name = "Thermoo"
-filename = "thermoo-4.2.5.jar"
+filename = "thermoo-4.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "121289fd133e03af5814beee4aca1fb6c79ff83d"
+hash = "b4ced4b822cac901399446a9a3e43bd4d080f108"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6045324
+file-id = 6358583
 project-id = 846544
