@@ -90,7 +90,7 @@ hash = "90cca9f822e8d32e110347792a55d86e494097d9d6754c280fcd40a8e9d6590c"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "6934d80ff3a8dea5100cd23a0fa66be6027639f0c45945366e7b5a80e074b516"
+hash = "c4cd800cb4f27728a050112fbeb39ac0d56602beb13fd6d03d72ab64ae586386"
 
 [[files]]
 file = "config/darkness.json5"
@@ -770,11 +770,6 @@ metafile = true
 [[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "868406ef6c37e7827a6b09cb1229c6908a8d1be98a819d3b9a2f41931542a700"
-metafile = true
-
-[[files]]
-file = "mods/bclib.pw.toml"
-hash = "2c9f2b96a3dadeb188fbeb0a3f1abe3d76e71529b8677eabb5d6cd3fa674a861"
 metafile = true
 
 [[files]]
@@ -1790,6 +1785,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f5031d53eb32a7b25e0c2347f599805679a49073b86ed4450ca60ec9b72086d1"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "cc7fdfe9a5eeb79c88eb6b11847502dd9cc7758beb995d85194b9b97b366f978"
 metafile = true
 
 [[files]]
