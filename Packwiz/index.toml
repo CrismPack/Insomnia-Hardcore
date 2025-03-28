@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "987a5bf7b9f0adff5b6d88453b92bc29ca8a0b71479fdaf66eef595d3dfdf7b5"
+
+[[files]]
 file = "config/FabricTPA.properties"
 hash = "9a65dce4b8f9f00dfd5565680c31c9d8cb8fff9e29bbdb248fff2a14bd1db0f5"
 
@@ -34,11 +38,11 @@ hash = "e255572e35800dbbee24ef6fd1e62dc1e1b85c70486f994baab047aac64028e8"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "bb227fe7619727badfc0a3d7553d9df8d9c145792c0aa05cc76da20fe1c4dc7f"
+hash = "138f9a745854bfcb99e1c569a45f1299b08a1262ba459f979ea3f8f5ac50f7bb"
 
 [[files]]
 file = "config/bclib/main.json"
-hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+hash = "945943a4aadb9b20dd3ed6e61927238675aa14ef1f901a8544f1612101beb1db"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -90,7 +94,7 @@ hash = "90cca9f822e8d32e110347792a55d86e494097d9d6754c280fcd40a8e9d6590c"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "c4cd800cb4f27728a050112fbeb39ac0d56602beb13fd6d03d72ab64ae586386"
+hash = "4b2514931b11787d78e3f5bb75175c5433ac2f4cd9e800ad06f55a614d7dd95e"
 
 [[files]]
 file = "config/darkness.json5"
@@ -171,10 +175,6 @@ hash = "84c5dea92d6ca19e9fb0bc11037094e209108fcf748beb0d968d9c767731c78d"
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
 hash = "619de96a49d09515344b64d937a760e8be06d84aa818b6b12cdc4ecd70063e21"
-
-[[files]]
-file = "config/fancymenu/customization/distanthorizons_menu.txt"
-hash = "153cf3d38e91ecf70cdd269879184e10fe58d56abe7cef3422d4fd134d97106d"
 
 [[files]]
 file = "config/fancymenu/customization/lanmenu.txt"
@@ -773,6 +773,11 @@ hash = "868406ef6c37e7827a6b09cb1229c6908a8d1be98a819d3b9a2f41931542a700"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2c9f2b96a3dadeb188fbeb0a3f1abe3d76e71529b8677eabb5d6cd3fa674a861"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "41687ff40fe6f9fd3558b25a5d6cad18c80eefcc9569ef9d608b4879b59d41e6"
 metafile = true
@@ -855,6 +860,11 @@ metafile = true
 [[files]]
 file = "mods/branded-logs.pw.toml"
 hash = "7bce24437da397b12c1264c1069b914625d57483613204f07f5c3289c1dd7259"
+metafile = true
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "dd72492911d79b78ab9424dc172c96ece2dbdc4d73fb6c9b531b5b460487c460"
 metafile = true
 
 [[files]]
@@ -1018,8 +1028,18 @@ hash = "12f729d118572c878718cd5e50ece37b30730355b6b340280cb93a5f099deb7e"
 metafile = true
 
 [[files]]
+file = "mods/default-skill-trees.pw.toml"
+hash = "06fdfba9d2c2f30c10ee362a315f68c1f600fedb11310d833d5493e8cdec999c"
+metafile = true
+
+[[files]]
 file = "mods/deuf-refabricated.pw.toml"
 hash = "883a944be26f4cac7e20864f0e6b47cd80a50913fe3dcf48db5850bfe73c1068"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "af4180e064d0e78fe579ff7aa258ca6708f0a7fc70a45638161d1b9e4ce318b2"
 metafile = true
 
 [[files]]
@@ -1264,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "6a4dd676977b17fc1c0e282e7c9956bda2068c3598694114549611933f358153"
+hash = "796e7e50872f11e0c52377f848ba9155acaf6869407291acc9b8114b0aaf44a1"
 metafile = true
 
 [[files]]
@@ -1653,6 +1673,11 @@ hash = "b4e781ba1c0a7d7ad571981b487c946f39f59e28b115de54150ede0a31bf12ac"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2494505990ebe04a740fbae936efdf4d24a52071c04d3b73d215b9539e59817b"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "520371a447ddcecaf1132fde27f23d22f203ded75fb1599db91f3fef09473b0b"
 metafile = true
@@ -1739,7 +1764,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "9f93e661ddc0c99973f7b92963383c3fa44735e734f6785f565d93a672dfe18e"
+hash = "7191a87790d1e5c08b6b00a53e9adb798b83eb8870047d371cc1f81ddd3db019"
 metafile = true
 
 [[files]]
@@ -1785,11 +1810,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f5031d53eb32a7b25e0c2347f599805679a49073b86ed4450ca60ec9b72086d1"
-metafile = true
-
-[[files]]
-file = "mods/sparkweave.pw.toml"
-hash = "cc7fdfe9a5eeb79c88eb6b11847502dd9cc7758beb995d85194b9b97b366f978"
 metafile = true
 
 [[files]]
@@ -1915,6 +1935,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver.pw.toml"
+hash = "8b9e924a0d186c7f06b1b482f52a8505ff4beef3b3433c07170744cb0ac5e6df"
 metafile = true
 
 [[files]]

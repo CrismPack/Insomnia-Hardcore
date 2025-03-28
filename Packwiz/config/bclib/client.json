@@ -8,7 +8,8 @@
     "useModrinthForUpdates [default: false]": false,
     "forceBetterXPreset [default: true]": true,
     "suppressExperimentalDialogOnLoad [default: false]": true,
-    "notTheDonorType [default: true]": true
+    "notTheDonorType [default: true]": true,
+    "survives_on_hint": true
   },
   "auto_sync": {
     "enabled [default: true]": true,
@@ -21,9 +22,13 @@
   "rendering": {
     "customFogRendering [default: true]": false,
     "netherThickFog [default: true]": true,
-    "FogDensity [default: 1.0]": 1.0
+    "FogDensity [default: 1.0]": 1.0,
+    "custom_fog_rendering": false,
+    "nether_thick_fog": true,
+    "fog_density": 1.0
   },
   "infos": {
     "survives_on_hint [default: true]": true
-  }
+  },
+  "modify_version": "21.0.13"
 }

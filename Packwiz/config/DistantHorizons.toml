@@ -1,0 +1,24 @@
+_version = 3
+
+[server]
+
+	[common.multiThreading]
+		# 
+		# A value between 1.0 and 0.0 that represents the percentage 
+		# of time each thread can run before going idle. 
+		# 
+		# This can be used to reduce CPU usage if the thread count 
+		# is already set to 1 for the given option, or more finely 
+		# tune CPU performance.
+		threadRunTimeRatio = "0.7"
+
+[client]
+	#
+	# Should Distant Horizon's config button appear in Minecraft's options screen next to the fov slider?
+	showDhOptionsButtonInMinecraftUi = true
+
+		[client.advanced.graphics]
+			[client.advanced.graphics.quality]
+				#
+				# The radius of the mod's render distance. (measured in chunks)
+				lodChunkRenderDistanceRadius = 100
