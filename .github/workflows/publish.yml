@@ -6,10 +6,10 @@ on:
 
 env:
   MC_VERSION: 1.21.1
-  RELEASE_TYPE: release
+  RELEASE_TYPE: alpha
   CURSEFORGE_TOKEN: ${{secrets.CURSEFORGE_TOKEN}}
 
-  PRE_RELEASE: false
+  PRE_RELEASE: true
 permissions:
   contents: write
 

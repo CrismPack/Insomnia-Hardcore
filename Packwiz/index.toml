@@ -30,7 +30,7 @@ hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8f96b2177c0faed773be2905d1ef923ff2c9a7e5125cd0523d2641f748287f99"
+hash = "e255572e35800dbbee24ef6fd1e62dc1e1b85c70486f994baab047aac64028e8"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -87,6 +87,10 @@ hash = "f61cb7c41385d61c6ac2ba01bd9f54934457a6ba1a7845354ee801ef24d56251"
 [[files]]
 file = "config/combatroll/hud_config.json"
 hash = "90cca9f822e8d32e110347792a55d86e494097d9d6754c280fcd40a8e9d6590c"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "6934d80ff3a8dea5100cd23a0fa66be6027639f0c45945366e7b5a80e074b516"
 
 [[files]]
 file = "config/darkness.json5"
@@ -501,46 +505,6 @@ file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/functions/config/autoconfig/disable.mcfunction"
-hash = "134f4b8225b5411d40534e3d9f02a6510d6609abdea858896e0733271f678cc1"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/leafless_grove.json"
-hash = "42c8ae8a5f2b19fa8c35f0997179f85db5657346999b103e8749fd08ad465f5c"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/logless_tree.json"
-hash = "1eb266e7d064cd5251f02ca85a474a47edb4b91fb247c2da027bed31d52fd56a"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/mossy_pyramid.json"
-hash = "83433dca1575bb084fed4756e65702a6590490be755e5c5c1d1f4fc17698a888"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/ocean_sand_pyramid.json"
-hash = "6e90bfcb0e9dc14f585977669e9363fb94c91048ad64e165f800e7fb4e5c926c"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/redstone_torch_trail.json"
-hash = "eb40577e2b6311ad6e2bcb4c3c7ec9076b7ff72560fa4586a6ecab9be91d3be4"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/sand_pyramid.json"
-hash = "f4cdf5b2278037083816d56352edbe309a39965fdf6103ca78f45e6be8c886a3"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/torch_cave.json"
-hash = "0edaa5471b0f68724e89ff8263cc8a48fe86dc29ca9db8e51aa5052372ad2155"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/torch_tunnel.json"
-hash = "2f448b361ca4fd9eafdbdfb87d72a7672328dff43c412385557c161cc61066cc"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/pack.mcmeta"
-hash = "00adf7aee1635840f4fdb75fe307b0798b6999afbaada3962f669e16eeb7fd17"
-
-[[files]]
 file = "global_packs/required_data/Insomnia - Config/data/insomniaconfig/functions/load.mcfunction"
 hash = "fb3849055b6c4afa3253abe0ff582de07fa2b2fe31a6d1ad7f8d8023a579a769"
 
@@ -809,6 +773,11 @@ hash = "153d1ed90850ec61d43487ecee574ed86278a6a725c720bcfd827eb539240384"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2c9f2b96a3dadeb188fbeb0a3f1abe3d76e71529b8677eabb5d6cd3fa674a861"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "41687ff40fe6f9fd3558b25a5d6cad18c80eefcc9569ef9d608b4879b59d41e6"
 metafile = true
@@ -1001,6 +970,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "f78f2c9aecf470689650b8c7d341af95d0e8b0c0fd83a3830134345ecf2a6c5b"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "b49d6a9742f4bfb329732cbbf8d9e0c6bc17db00b23d441cbf2b6b17d224cdee"
 metafile = true
 
 [[files]]
@@ -1684,6 +1658,11 @@ hash = "96cf100e91e29024010581dda3a3b5f5a2f4a81741cd9118f545433b2d01de8d"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "520371a447ddcecaf1132fde27f23d22f203ded75fb1599db91f3fef09473b0b"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "9ed8bca3efabe7b1268a8372348703251948ff5faad6b5337a1ae8f96b888218"
 metafile = true
@@ -1761,6 +1740,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "1f2e787c5fb602eb55e8e62237395a2e1003c9a071c94dd341984b41d3d8bf2b"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "fd1bfe28bc13140630209fe161f046cb39dcf8e7d9c2a325b6a7336f739af184"
 metafile = true
 
 [[files]]
