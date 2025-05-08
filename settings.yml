@@ -8,11 +8,12 @@ create_release_notes: True
 server_mods_remove_list: ["From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"]
 print_path_debug: True
 update_publish_workflow: True
-download_compare_files: True
+download_comparison_files: True
 generate_primary_changelog: True
 generate_mods_changelog: True
 update_crash_assistant_modlist: True
 github_auth: False
+changelog_side_tag: True
 
 bh_banner: "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc/insomnia/bhbanner.png"
 
