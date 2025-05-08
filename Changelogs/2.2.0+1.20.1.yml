@@ -1,7 +1,7 @@
 version: 2.2.0
 mc_version: 1.20.1
 
-Fabric version: 0.16.9
+Fabric version: 0.16.14
 Update overview:
   - Added some mods with a creepy light-horror theme as well as new dungeons and bosses to the Overworld.
   - New Icarae Origin with associated craftable wings.
@@ -33,7 +33,6 @@ Config Changes: |
   - Added override for Create's breakage with 'Sound Physics Remastered': [Fabric Loader], [Both]
   - Changed shaderPack value to "Complementary r5.2.1 \[Insomnia Edit\]" by default: [Iris], [Client]
   - Changed "requireMod" to "true": [True Darkness Refabricated], [Server]
-  - Deleted "mixin.experimental.chunk_tickets=false" line (effectively enabling it): [Lithium], [Client]
   - Changed "mixin.experimental" to "true": [Server], [Server]
   - Removed "minecells:minecells_guidebook" item from starterkit: [StarterKit], [Client]
   - Changed boss health and damage scale from "1.0" to "2.0": [Dungeon Now Loading 1%], [Both]

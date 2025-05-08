@@ -1,0 +1,13 @@
+name = "Freshly Twilighted [Fresh Animations x The Twilight Forest]"
+filename = "FreshlyTwilighted_v1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad45414c74c52831974fd4888eedc50440d284b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6161388
+project-id = 1194229

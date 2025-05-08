@@ -1,0 +1,13 @@
+name = "Fresh Aether"
+filename = "Fresh Aether 1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "592ea910e0b03600a46df1cbba149b49589413e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6187801
+project-id = 1198813

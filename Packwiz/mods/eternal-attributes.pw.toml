@@ -1,0 +1,13 @@
+name = "Eternal Attributes"
+filename = "eternal_attributes-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b256a1e8c45eba5e576b0b8165b0e9cf90024f0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6100715
+project-id = 1181731

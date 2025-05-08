@@ -9,7 +9,7 @@
 
 ## v2.2.0 <Badge type='warning' text='Work in progress'/> <a href='#v2.2.0' id='v2.2.0'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.9'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.14'/>
 
 ### Update Overview ⭐
 
@@ -34,45 +34,66 @@
 
 ### Added Mods ✅
 
+- Trinkets Compat Layer for Accessories
+- Accessories
+- The Aether
 - Almanac Lib
 - Better Trims
 - Cobweb
 - Common Network
 - Configurable
 - Crash Assistant
+- CrashExploitFixer
 - Create Enchantment Industry Fabric
 - Death Knights
 - Default Options `Client`
+- Distraction Free Recipes `Client`
 - Dungeon Now Loading 1%
 - Eccentric Tome
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
+- Eternal Attributes
+- FancyMenu `Client`
 - Faster Random
 - Frostiful
 - Hephaestus Fabric
 - Icarae Origin
 - Icarus
 - iChunUtil `Client`
+- Immersive Optimization
+- Indium `Client`
 - InvMoveCompats `Client`
 - Loot Integrations
 - LootBeams Fabric Updated `Client`
-- Paradise Lost
+- Melody `Client`
 - Phantom Config
+- Redirected
+- Reese's Sodium Options `Client`
 - Resourceful Config
 - Sawmill
+- Simple Snowy Fix
+- Sodium `Client`
 - Sound Physics Remastered
 - Starlight
 - Structure Layout Optimizer
 - SuperMartijn642's Config Lib
 - The Graveyard
+- The Twilight Forest Unofficial
 - Thermoo
 - Tierify
 - True Darkness Refabricated `Client`
-- Twigs
+- TT20 `Server`
+- TxniLib `Client`
+- way2wayfabric
 - Doctor Who:  Weeping Angels
 - You Died `Client`
 - Yung Structures Addon for Loot Integrations
 - Zombie Awareness
+
+### Added Resource Packs 📦
+
+- Fresh Aether
+- Freshly Twilighted
 
 ### Removed Mods ❌
 
@@ -83,12 +104,14 @@
 - Chipped
 - Couplings
 - Dyed
+- Embeddium `Client`
 - Enderite Mod
 - Farsighted Mobs
 - fix GPU memory leak `Client`
 - Furnace Recycle
 - Just Enough Items
 - NetherVinery
+- Nvidium `Client`
 - Phantom Config Fork
 - Projectile Damage Attribute
 - Shulker+
@@ -103,6 +126,7 @@
 - Alternate Current
 - Alternate Origin GUI
 - Amendments
+- Archers
 - Armor & damage scaling
 - AzureLib Armor
 - AzureLib
@@ -113,6 +137,7 @@
 - Blockus
 - Bookshelf
 - Branded Logs
+- Cardinal Components API
 - Chat Heads
 - Chat Patches
 - Cloth Config API
@@ -132,12 +157,12 @@
 - Ding
 - API
 - Dungeon Difficulty
+- Dusk
 - e4mc
 - Eldritch End
 - Elytra Slot
 - Elytra Trims Extensions
 - Elytra Trims
-- Embeddium
 - EMI Loot
 - EMI Ores
 - EMI
@@ -146,10 +171,13 @@
 - Entity Model Features
 - Entity Texture Features -
 - Every Compat
+- Exordium
 - Expanded Delight
 - Explosive Enhancement
+- EMI Extra Integrations
 - Fabric API
 - Fabric Language Kotlin
+- Wraith Waystones
 - Farmer's Delight Refabricated
 - Fast Async World Save
 - Forge Config API Port
@@ -163,15 +191,21 @@
 - Hearths
 - Iceberg
 - ImmediatelyFast
+- Immersive Armors
+- Integrated API
 - Inventory Profiles Next
+- InvMove
 - Iris & Oculus Flywheel Compat
 - Iris Shaders
 - Item Obliterator
 - Jade Addons
 - Jade 🔍
+- Just Player Heads
 - KubeJS
+- LambDynamicLights
 - Let Me Despawn
 - Legacy:  Brewery
+- Lithium
 - Lithostitched
 - MCPitanLib
 - Memory Settings
@@ -189,11 +223,14 @@
 - No Mob Farms
 - Noisium
 - Not Enough Animations
+- Create Support for Open Parties and Claims
 - Open Parties and Claims
 - OptiGUI
 - Overflowing Bars
 - Packet Fixer
+- Paladins & Priests
 - Particle Core
+- Patchouli
 - Pehkui
 - Persistent Inventory Search
 - Polymorph
@@ -207,6 +244,7 @@
 - Resourceful Lib
 - Respawning Structures
 - Rhino
+- Rogues & Warriors
 - Philip's Ruins
 - Runes
 - Saplanting
@@ -221,20 +259,27 @@
 - Skin Layers 3D
 - Create Slice & Dice
 - Small Ships
+- Sodium Extra
 - Sophisticated Backpacks
 - Sophisticated Core
 - Spell Engine
 - Spell Power Attributes
 - StackDeobfuscator
+- Starter Kit
 - Starter Structure
+- Structure Essentials
+- Styled Chat
 - Supplementaries
 - Tectonic
+- TerraBlender
 - Tidal Towns
 - TooManyOrigins
+- Towers of the Wild Modded
 - Vein Mining
 - Vinery
 - Wavey Capes
 - What Are They Up To
+- Wizards
 - Xaero's Minimap
 - Xaero's World Map
 - YetAnotherConfigLib
@@ -249,6 +294,7 @@
 - Fresh Animations
 - Fresh Compats
 - F.M.R.P
+- Slightly Improved Font
 - xali's Enchanted Books
 
 ### Script/Datapack Changes 📝
@@ -262,7 +308,6 @@
 - Added override for Create's breakage with 'Sound Physics Remastered': `Fabric Loader`, `Both`
 - Changed shaderPack value to "Complementary r5.2.1 \[Insomnia Edit\]" by default: `Iris`, `Client`
 - Changed "requireMod" to "true": `True Darkness Refabricated`, `Server`
-- Deleted "mixin.experimental.chunk_tickets=false" line (effectively enabling it): `Lithium`, `Client`
 - Changed "mixin.experimental" to "true": `Server`, `Server`
 - Removed "minecells:minecells_guidebook" item from starterkit: `StarterKit`, `Client`
 - Changed boss health and damage scale from "1.0" to "2.0": `Dungeon Now Loading 1%`, `Both`
@@ -480,10 +525,8 @@
 
 ### Added Resource Packs 📦
 
-- Pufferfish's Attributes
-- StackablePotions
-- Styled Player List `Server`
-- What Are They Up To
+- Fresh Compats
+- Just Expressions
 
 ### Removed Mods ❌
 
@@ -747,7 +790,7 @@
 
 ### Added Resource Packs 📦
 
-- Icterine
+- Towers of the Wild Modded: Fabric Waystones Compat
 
 ### Removed Mods ❌
 
@@ -826,30 +869,7 @@
 
 ### Added Resource Packs 📦
 
-- Amplified Nether
-- Async Locator
-- AzureLib
-- BetterNether
-- ClickThrough `Client`
-- Eldritch End
-- EMI Loot
-- EMI Ores
-- EMI Trades
-- EMI
-- EMI Extra Integrations
-- Faster Random
-- Friends&Foes
-- Hearths
-- ItemFlexer `Server`
-- Just Enough Items
-- Metal Bundles
-- MNS - Moog's Nether Structures
-- More Armor Trims
-- No Chat Reports
-- Paragliders
-- Savage Ender Dragon
-- StackDeobfuscator
-- Suggestion Tweaker
+- F.M.R.P
 
 ### Removed Mods ❌
 
@@ -868,18 +888,10 @@
 
 ### Removed Resource Packs ❌
 
-- Concurrent Chunk Management Engine
-- CIT Resewn
-- Dark Enchanting
-- Elytra Physics `Client`
-- fabric-permissions-api
-- Heartbond
-- Incendium
-- Login Protection `Server`
-- Roughly Enough Items Fabric/Forge
-- Roughly Enough Professions
-- Roughly Enough Resources
-- Structure Essentials
+- Disable Incendium Toxic Heap Biome
+- Disable TieredZ Max Health
+- GUI Reimagined Edit `Client`
+- Sparkles: Stardust Labs Resourcepack `Client`
 
 ### Updated Mods 🔄
 
