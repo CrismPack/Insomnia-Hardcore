@@ -1,0 +1,13 @@
+name = "way2wayfabric"
+filename = "way2wayfabric-0.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d06cabd01cf46fbb16ac586da3ce681ea400344"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5000666
+project-id = 843954

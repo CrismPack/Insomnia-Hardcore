@@ -1,13 +1,13 @@
 name = "Icarae Origin"
-filename = "Icarae-Origin-Fabric-1.1.0-alpha.2.jar"
+filename = "Icarae-Origin-Fabric-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "49f1c078c7cee77caf7fa2e8b300151395238de4"
+hash = "824a6820f404f89aa41527dae985289d249082ec"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5322286
+file-id = 6209488
 project-id = 1001139

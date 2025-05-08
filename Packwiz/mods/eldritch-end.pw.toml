@@ -1,13 +1,13 @@
 name = "Eldritch End"
-filename = "Eldritch_End-FABRIC-MC1.20.1-0.3.2.jar"
+filename = "Eldritch_End-FABRIC-MC1.20.1-0.3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac084e85f79997eb0c581774051dd1769c77f776"
+hash = "7d3395aba3984454c1a564e72c39cbbdaf972a0e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5809309
+file-id = 6122658
 project-id = 877553

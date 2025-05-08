@@ -1,13 +1,13 @@
 name = "Amplified Nether"
-filename = "Amplified_Nether_1.20.x_v1.2.5.jar"
+filename = "Amplified_Nether_1.21.x_v1.2.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fdbaa791f7fdc089e558979f9f68a4811584d5f7"
+hash = "ffb74dba7c94b8e23b92468e47e9ee5956907d24"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5351602
+file-id = 6402766
 project-id = 552176
