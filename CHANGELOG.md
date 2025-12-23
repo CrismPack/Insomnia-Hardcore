@@ -119,16 +119,6 @@
 - TieredZ
 - True Darkness Fork `Client`
 
-### Updated Resource Packs 🔃
-
-- Enhanced Boss Bars
-- Fresh Animations Extensions
-- Fresh Animations
-- Fresh Compats
-- F.M.R.P
-- Slightly Improved Font
-- xali's Enchanted Books
-
 ### Script/Datapack Changes 📝
 
 - Changed backpack recipes to be more expensive by replacing ingots with blocks.
@@ -329,10 +319,6 @@
 - AntiGhost `Client`
 - Redirector
 
-### Updated Resource Packs 🔃
-
-- F.M.R.P
-
 ### Config Changes 📝
 
 - Changed preventFirstPersonHandAnimating to "true": `Entity Model Features`, `Client`
@@ -395,10 +381,6 @@
 - Shield Overhaul
 - Sodium `Client`
 - TimeOutOut
-
-### Updated Resource Packs 🔃
-
-- Slightly Improved Font
 
 ### Config Changes 📝
 
