@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "0cb82818702535ec1e887da2529cd9e0f092c307ef5d554ffbe0702117d1ad5c"
+hash = "b07b39f56703897a6f907dd6a453cd903a6f8220ffda80dce9c1668d690f17b9"
 
 [[files]]
 file = "config/darkness.json5"
@@ -2100,11 +2100,6 @@ hash = "12e33d80da157765d9f0bbf2cd5c3c1a2c3911332a79ee74d1dd00f33577c31f"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "9e26bfad609bded0b1ed972a4cb6ed0bd66fdecd352970ffee6b50dd6a81b4fb"
-metafile = true
-
-[[files]]
 file = "mods/persistent-inventory-search.pw.toml"
 hash = "266ced404dd23adbc76392e1b403e8e9320a4d204538502de8dbdbd0a68b24c1"
 metafile = true
@@ -2125,6 +2120,11 @@ hash = "16bfbcdb819dc90b663d045013201c743a4995bd47558460da7ecd77af266d3b"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "e41a4aadc9a87f5c34cbf7c40e9651fc36f2121f3290e5c29e7fadb8a495c777"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "76ec12e8d28b9f40e1cecbe8b71c1b940004499b5c6ee227171828e9a4cf1987"
 metafile = true
@@ -2132,6 +2132,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "e04cef1b3a5425a441bdd5b3d94b25437777615282b7bc40d179f1eba5a5daf0"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "a447e58aa1c850587f53a78bd62bf200e23036309ca1687c07c8e3f6f4dd5f65"
 metafile = true
 
 [[files]]
