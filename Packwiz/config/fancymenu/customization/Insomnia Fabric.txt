@@ -14,6 +14,19 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 0
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
   action = hidebutton
 }
@@ -31,66 +44,19 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = -20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\longbutton_hover.png
-  backgroundnormal = resources\mainmenu\longbutton_normal.png
-}
-
-customization {
-  identifier = %id=376322%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
-  x = 0
-  action = movebutton
-  y = 48
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 98
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\shortbutton_hover.png
-  backgroundnormal = resources\mainmenu\shortbutton_normal.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 0
   action = movebutton
   y = 72
@@ -140,16 +106,69 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=976161%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 0
+  y = 28
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/shortbutton_hover.png
+  backgroundnormal = resources/mainmenu/shortbutton_normal.png
+}
+
+customization {
+  identifier = %id=97616%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=9761611%
+  action = hidebutton
 }
 
 customization {
@@ -298,7 +317,7 @@ customization {
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Mods
   loopbackgroundanimations = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 102
   width = 98
   action = addbutton
@@ -343,7 +362,7 @@ customization {
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Create Server
   loopbackgroundanimations = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 102
   width = 98
   action = addbutton
@@ -361,7 +380,7 @@ customization {
   label = 
   loopbackgroundanimations = true
   hoverlabel = Wiki
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 90
   width = 20
   action = addbutton
@@ -379,7 +398,7 @@ customization {
   label = 
   loopbackgroundanimations = true
   hoverlabel = Changelogs
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 66
   width = 20
   action = addbutton
@@ -397,7 +416,7 @@ customization {
   label = Official Server | %serverstatus:insomnia.crismpack.net%
   loopbackgroundanimations = true
   hoverlabel = %serverstatus:insomnia.crismpack.net% | %serverping:insomnia.crismpack.net%ms | %serverplayercount:insomnia.crismpack.net%
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 0
   width = 200
   action = addbutton
@@ -415,7 +434,7 @@ customization {
   label = 
   loopbackgroundanimations = true
   hoverlabel = Join our Discord!
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = 114
   width = 20
   action = addbutton

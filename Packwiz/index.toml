@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "1fabde0e054b9568e19239cf89085fb1a1ccab8de940e446d8fd216da3896b4b"
+hash = "1668830b6af59bb650d6067c7afc7848416d8be807d05c618313bfafed1b940e"
 
 [[files]]
 file = "config/darkness.json5"
@@ -1925,6 +1925,11 @@ hash = "d820d18dbd59898ae1432e75d802c2a203d5d4630752ed63e56070b678316919"
 metafile = true
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "55c98502401dc3ed8ebd886489f7b115f840866884f97b8c1abc8388d78ef20a"
+metafile = true
+
+[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "d9cae9fafa098ad8dd5f48289918f45686e6967a6fda95efd7084bd6d70d17c9"
 metafile = true
@@ -2012,11 +2017,6 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
-metafile = true
-
-[[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "d7aea2334b37f7e174d4c713f30bc54b6884682748c518c72a32404112faf2bf"
 metafile = true
 
 [[files]]

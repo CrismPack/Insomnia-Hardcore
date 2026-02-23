@@ -63,6 +63,7 @@
 - Loot Integrations
 - LootBeams Fabric Updated `Client`
 - Melody `Client`
+- Moog's Structure Lib
 - Phantom Config
 - Redirected
 - Reese's Sodium Options `Client`
@@ -112,6 +113,7 @@
 - Krypton
 - NetherVinery
 - Nvidium `Client`
+- Create Support for Open Parties and Claims
 - Phantom Config Fork
 - Projectile Damage Attribute
 - Shulker+

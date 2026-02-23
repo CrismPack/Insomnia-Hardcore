@@ -31,6 +31,7 @@
 - Loot Integrations
 - LootBeams Fabric Updated `Client`
 - Melody `Client`
+- Moog's Structure Lib
 - Phantom Config
 - Redirected
 - Reese's Sodium Options `Client`
@@ -74,6 +75,7 @@
 - Krypton
 - NetherVinery
 - Nvidium `Client`
+- Create Support for Open Parties and Claims
 - Phantom Config Fork
 - Projectile Damage Attribute
 - Shulker+
@@ -194,7 +196,6 @@
 - **No Mob Farms**: Changed from `nomobfarm-1.6.5.jar` to `nomobfarm-fabric-1.6.6.jar`
 - **Noisium**: Changed from `noisium-fabric-2.0.3+mc1.20-1.20.1.jar` to `noisium-fabric-2.3.0+mc1.20-1.20.1.jar`
 - **Not Enough Animations**: Changed from `notenoughanimations-fabric-1.7.3-mc1.20.1.jar` to `notenoughanimations-fabric-1.11.3-mc1.20.1.jar`
-- **Create Support for Open Parties and Claims**: Changed from `opac-fabric-create-support-mc1.20-1.6.0.jar` to `opac-fabric-create-support-mc1.20-1.7.0.jar`
 - **Open Parties and Claims**: Changed from `open-parties-and-claims-fabric-1.20.1-0.22.0.jar` to `open-parties-and-claims-fabric-1.20.1-0.25.10.jar`
 - **OptiGUI**: Changed from `optigui-2.1.7.jar` to `optigui-2.3.0-beta.9+1.20.jar`
 - **Overflowing Bars**: Changed from `OverflowingBars-v8.0.0-1.20.1-Fabric.jar` to `OverflowingBars-v8.0.1-1.20.1-Fabric.jar`
