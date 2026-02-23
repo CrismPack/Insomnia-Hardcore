@@ -1,0 +1,13 @@
+name = "Sword Blocking Mechanics"
+filename = "SwordBlockingMechanics-v21.11.0-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12fbcdf798913dea6f4b20d69844387f8a536551"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7349299
+project-id = 969424

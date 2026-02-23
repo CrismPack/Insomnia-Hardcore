@@ -157,6 +157,7 @@
 - Status Effect Bars [Client]
 - Structure Layout Optimizer [Both]
 - SuperMartijn642's Config Lib [Both]
+- Sword Blocking Mechanics [Both]
 - Tectonic [Both]
 - TerraBlender [Both]
 - Thermoo [Both]

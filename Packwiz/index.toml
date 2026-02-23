@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "b07b39f56703897a6f907dd6a453cd903a6f8220ffda80dce9c1668d690f17b9"
+hash = "b3bb1c0aaf791e447589863abc7e800db3ccc732cd4cf584304fac87fd046f91"
 
 [[files]]
 file = "config/darkness.json5"
@@ -2160,6 +2160,11 @@ hash = "322ce09665515322e01d299f7008250f7b56bbf19a7ba672bbed9756a39a535d"
 metafile = true
 
 [[files]]
+file = "mods/punchy.pw.toml"
+hash = "3ea11a5c6b8bf26f8d8860b3b0b198af06df1b86eb4cded88f4c9624eea9beca"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "d4d76631dceb0115601d442444384f8a13cb2cefd158258caf73cedec628951d"
 metafile = true
@@ -2440,6 +2445,11 @@ hash = "17c2f40b8374ddf4d255f55361e090ad48f6a0dccb6bd47c56a4f7d0d0c5d70c"
 metafile = true
 
 [[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+hash = "748ef4c160ad6ebfca968ae8ab6784c6b82674f73c2049aa46f78442b63739f1"
+metafile = true
+
+[[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "873642d6a2f2deacaf44ec17930909575d10747d7c3fa973af3b31f424b959b2"
 metafile = true
@@ -2700,6 +2710,11 @@ hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 [[files]]
 file = "resourcepacks/better-aquamirae-combat.pw.toml"
 hash = "3f1e8edcb36e70273c5725898993667dff929047fb69d1ebd5f77a5748f38b03"
+metafile = true
+
+[[files]]
+file = "resourcepacks/drigo-3d-lantern-s-x-punchy.pw.toml"
+hash = "235e6a85bfe7450ea8cbf64a1a3bc60e38ccbe9968e70512557d103154047ba8"
 metafile = true
 
 [[files]]

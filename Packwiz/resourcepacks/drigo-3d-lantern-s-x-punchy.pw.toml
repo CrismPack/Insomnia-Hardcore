@@ -1,0 +1,13 @@
+name = "Drigo 3D Lantern`s x Punchy"
+filename = "Drigo 3D Lantern's x Punchy.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bbd2298659e1edebac16ee9cec6d6b9c28955cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7639363
+project-id = 1458402
