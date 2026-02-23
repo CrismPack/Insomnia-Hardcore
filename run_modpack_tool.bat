@@ -1,61 +1,95 @@
 @echo off
-:: Check if Git is installed
-echo Checking for Git...
-git --version >nul 2>&1
-if %errorlevel% neq 0 (
-    echo Git is not installed. Installing Git...
+setlocal
 
-    :: Check if winget is available to install Git
-    winget --version >nul 2>&1
-    if %errorlevel% neq 0 (
-        echo winget is not available. Please install Git manually from https://git-scm.com/download/win
-        exit /b 1
-    ) else (
-        echo Installing Git using winget...
-        winget install --id Git.Git -e --source winget
-    )
+set "SCRIPT_DIR=%~dp0"
+set "REPO_DIR="
 
-    :: Verify Git installation
-    git --version >nul 2>&1
-    if %errorlevel% neq 0 (
-        echo Git installation failed. Exiting...
-        exit /b 1
-    )
-)
+if exist "%SCRIPT_DIR%Modpack-Export.py" set "REPO_DIR=%SCRIPT_DIR%"
+if not defined REPO_DIR if exist "%SCRIPT_DIR%Modpack-CLI-Tool\Modpack-Export.py" set "REPO_DIR=%SCRIPT_DIR%Modpack-CLI-Tool"
+if not defined REPO_DIR if exist "%SCRIPT_DIR%..\Modpack-Export.py" set "REPO_DIR=%SCRIPT_DIR%.."
+if not defined REPO_DIR if exist "%SCRIPT_DIR%..\Modpack-CLI-Tool\Modpack-Export.py" set "REPO_DIR=%SCRIPT_DIR%..\Modpack-CLI-Tool"
 
-:: Define variables for repository URL and directory names
-set REPO_URL=https://github.com/HaXrDEV/Modpack-CLI-Tool
-set REPO_DIR=Modpack-CLI-Tool
-
-:: Check if the repository directory already exists
-if exist %REPO_DIR% (
-    echo Directory %REPO_DIR% already exists. Deleting it...
-    rmdir /s /q %REPO_DIR%
-)
-
-:: Clone the repository
-echo Cloning repository...
-git clone %REPO_URL%
-
-:: Check if cloning was successful
-if not exist %REPO_DIR% (
-    echo Repository clone failed. Exiting...
+if not defined REPO_DIR (
+    echo Could not locate Modpack-CLI-Tool directory.
+    echo Expected to find Modpack-Export.py near:
+    echo   %SCRIPT_DIR%
+    pause
     exit /b 1
 )
 
-:: Change to the repository directory
-cd %REPO_DIR%
+pushd "%REPO_DIR%" >nul
 
-:: Run the Python script
+set "VENV_PY=%CD%\venv\Scripts\python.exe"
+if not exist "%VENV_PY%" (
+    echo Virtual environment not found. Creating one...
+    set "PYTHON_CMD="
+
+    where py >nul 2>&1
+    if %errorlevel%==0 (
+        for /f "delims=" %%P in ('py -3.11 -c "import sys; print(sys.executable)" 2^>nul') do set "PYTHON_CMD=%%P"
+        if not defined PYTHON_CMD (
+            for /f "delims=" %%P in ('py -3 -c "import sys; print(sys.executable)" 2^>nul') do set "PYTHON_CMD=%%P"
+        )
+    )
+
+    if not defined PYTHON_CMD (
+        for /f "delims=" %%P in ('python -c "import sys; print(sys.executable)" 2^>nul') do set "PYTHON_CMD=%%P"
+    )
+
+    if not defined PYTHON_CMD (
+        echo No usable Python interpreter found to create venv.
+        popd >nul
+        pause
+        exit /b 1
+    )
+
+    "%PYTHON_CMD%" -m venv "%CD%\venv"
+    if %errorlevel% neq 0 (
+        echo Failed to create virtual environment.
+        popd >nul
+        pause
+        exit /b 1
+    )
+)
+
+if not exist "%VENV_PY%" (
+    echo Virtual environment Python not found at:
+    echo   %VENV_PY%
+    popd >nul
+    pause
+    exit /b 1
+)
+
+if exist "requirements.txt" (
+    echo Installing dependencies from requirements.txt...
+    "%VENV_PY%" -m pip install --upgrade pip
+    if %errorlevel% neq 0 (
+        echo Failed to upgrade pip.
+        popd >nul
+        pause
+        exit /b 1
+    )
+
+    "%VENV_PY%" -m pip install -r requirements.txt
+    if %errorlevel% neq 0 (
+        echo Dependency installation failed.
+        popd >nul
+        pause
+        exit /b 1
+    )
+) else (
+    echo requirements.txt not found. Skipping dependency installation.
+)
+
 echo Running Modpack-Export.py...
-python Modpack-Export.py
-
-:: Check if Python executed successfully
+"%VENV_PY%" "%CD%\Modpack-Export.py"
 if %errorlevel% neq 0 (
-    echo Python script failed. Exiting...
+    echo Python script failed.
+    popd >nul
+    pause
     exit /b 1
 )
 
-:: Exit the script
-echo Script execution completed successfully.
+popd >nul
+pause
 exit /b 0

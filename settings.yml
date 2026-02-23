@@ -14,6 +14,10 @@ generate_mods_changelog: True
 update_crash_assistant_modlist: True
 github_auth: False
 changelog_side_tag: True
+auto_generate_update_overview: False
+auto_summary_overwrite_existing: False
+auto_generate_config_changes: False
+auto_config_overwrite_existing: False
 
 bh_banner: "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc/insomnia/bhbanner.png"
 

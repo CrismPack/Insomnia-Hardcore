@@ -1273,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/dyed.pw.toml"
-hash = "a0cf094055a2bf99f6b1a65ec28417b456cb8ba8d8351f679572236b5e4f07eb"
+hash = "8c706f45616c04bc330732b1e796c252aa2fd63a6c5c49ad4794806f0e884914"
 metafile = true
 
 [[files]]

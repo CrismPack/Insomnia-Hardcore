@@ -20,29 +20,32 @@ jobs:
     environment: github-actions
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-    - name: Download pack files
-      uses: robinraju/release-downloader@v1.10
-      id: download-files
-      with:
-        fileName: '*.zip'
-        latest: true
-        tarBall: false
-        zipBall: false
-        preRelease: ${{env.PRE_RELEASE}}
+      - name: Download pack files
+        uses: robinraju/release-downloader@v1.10
+        id: download-files
+        with:
+          fileName: '*.zip'
+          latest: true
+          tarBall: false
+          zipBall: false
+          preRelease: ${{env.PRE_RELEASE}}
 
-    - name: Publish to CurseForge
-      uses: HaXrBOT/upload-curseforge-modpack-action@master
-      with:
-        api-token: ${{env.CURSEFORGE_TOKEN}}
-        project-id: '560596'
-        modpack-path: ./InsomniaHardcore-${{steps.download-files.outputs.tag_name}}.zip
-        modpack-server-path: ./InsomniaHardcore-Server-${{steps.download-files.outputs.tag_name}}.zip
-        changelog-path: CurseForge-Release.md
-        changelog-format: markdown
-        game-version: ${{env.MC_VERSION}}
-        display-name: Insomnia v${{steps.download-files.outputs.tag_name}}
-        server-display-name: Server Pack v${{steps.download-files.outputs.tag_name}}
-        release-type: ${{env.RELEASE_TYPE}}
+      - name: Publish to CurseForge
+        uses: HaXrBOT/upload-curseforge-modpack-action@master
+        with:
+          api-token: ${{env.CURSEFORGE_TOKEN}}
+          project-id: '560596'
+          modpack-path: 
+            ./InsomniaHardcore-${{steps.download-files.outputs.tag_name}}.zip
+          modpack-server-path: 
+            ./InsomniaHardcore-Server-${{steps.download-files.outputs.tag_name}}.zip
+          changelog-path: CurseForge-Release.md
+          changelog-format: markdown
+          game-version: ${{env.MC_VERSION}}
+          display-name: Insomnia v${{steps.download-files.outputs.tag_name}}
+          server-display-name: Server Pack 
+            v${{steps.download-files.outputs.tag_name}}
+          release-type: ${{env.RELEASE_TYPE}}

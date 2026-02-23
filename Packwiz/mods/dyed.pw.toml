@@ -1,6 +1,6 @@
 name = "Dyed"
 filename = "dyed-fabric-1.20.4-1.2.0.jar"
-side = "dyed"
+side = "dyed(disabled)"
 
 [download]
 hash-format = "sha1"
