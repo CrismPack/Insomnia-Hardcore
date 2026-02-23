@@ -38,8 +38,11 @@
 - Accessories
 - The Aether
 - Almanac Lib
+- Animation Overhaul
 - Better Trims
 - Cobweb
+- Colorwheel Patcher
+- Colorwheel
 - Common Network
 - Configurable
 - Crash Assistant
@@ -52,6 +55,7 @@
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
 - Eternal Attributes
+- Framework
 - Frostiful
 - Hephaestus Fabric
 - Icarae Origin
@@ -69,6 +73,7 @@
 - Reese's Sodium Options `Client`
 - Resourceful Config
 - Sawmill
+- Shoulder Surfing Reloaded
 - Simple Snowy Fix
 - Sodium `Client`
 - Sound Physics Remastered
@@ -95,9 +100,9 @@
 
 ### Removed Mods ❌
 
-- Amendments
 - Animatica `Client`
 - Athena
+- Better Third Person `Client`
 - Concurrent Chunk Management Engine
 - Camp Chair
 - Chipped
@@ -109,6 +114,7 @@
 - Farsighted Mobs
 - fix GPU memory leak `Client`
 - Furnace Recycle
+- Iris & Oculus Flywheel Compat `Client`
 - Just Enough Items
 - Krypton
 - NetherVinery

@@ -1,0 +1,13 @@
+name = "Animation Overhaul"
+filename = "Animation_Overhaul-fabric-1.20.x-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04c95790d4ab2f0a29709f446b4bac0577866f3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5422339
+project-id = 1028436

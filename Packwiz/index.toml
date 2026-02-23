@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "1668830b6af59bb650d6067c7afc7848416d8be807d05c618313bfafed1b940e"
+hash = "495390d0c763c66191496af4d294b4ded0f6aa8c520a90c287af5513961c4207"
 
 [[files]]
 file = "config/darkness.json5"
@@ -174,7 +174,7 @@ hash = "84c5dea92d6ca19e9fb0bc11037094e209108fcf748beb0d968d9c767731c78d"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "619de96a49d09515344b64d937a760e8be06d84aa818b6b12cdc4ecd70063e21"
+hash = "08a0472ce6a7d59677dcfb873981311f9f334945040e47a3233f8ff31b930a6d"
 
 [[files]]
 file = "config/fancymenu/customization/distanthorizons_menu.txt"
@@ -338,7 +338,7 @@ hash = "0fe566a3ba62bce3b6f8eb9ad8339ac0a1631c0d4b6c8cbc28cd020cea5fe1d0"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5f50f8d1bd044c93e2ed2d3d5ac39bf409c17d9f2b29e41fec4dfa092d5a0bf5"
+hash = "4a2b484a11c2631cae63517073233fd99f801e00c44aca6c0a40c5bc9b8739f3"
 
 [[files]]
 file = "config/respawningstructures.json"
@@ -776,12 +776,17 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "87e899ebb8f2a43dfb9371f1c0c2360afa55b64c0855979d1c0d4bfce5609375"
+hash = "77a570493fda3dfff7c7c19ca5c5f724f2de6dd9596219d39c10ed93885fcf0b"
 metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "1b5a6d361aada87c0c6b37d2aa2d9301239b4ca8d32189a80546749ef61f8717"
+metafile = true
+
+[[files]]
+file = "mods/animationoverhaul.pw.toml"
+hash = "1c93c4bd582520caa7414ebca5232ab1667f10a174cb57e985f41f47532f2bd2"
 metafile = true
 
 [[files]]
@@ -902,11 +907,6 @@ metafile = true
 [[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "3ec39275606ec3fa45f7681ebac003c5cab962e77de1cf60d8a241639c736df2"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "9e051999d8094ebc6430a472ca5383064b60b3b158f0c1daf9377f6bc08621af"
 metafile = true
 
 [[files]]
@@ -1077,6 +1077,16 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "1b3feaea10985c4840836c8c341bda015d6653bf3f78cd838021b9ac44a7d080"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "99069b0b521c016571c4179ae41cb77913bd4ac286b0c29c34c8aa9a199f0130"
 metafile = true
 
 [[files]]
@@ -1495,7 +1505,7 @@ hash = "eac38e997f47d45ceae876a7cff183967e9ff9e5fdd8a3bed42847f2afad52de"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
+file = "mods/forge-config-api-port.pw.toml"
 hash = "8fe2cb6a509cd81553bd5b20f19585decf8ca2beb3ae6098ce8b65517873e6b7"
 metafile = true
 
@@ -1517,6 +1527,11 @@ metafile = true
 [[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "3596b8f358215c756a84c01a0ee87f99354f0a0f7143691f36ab0dd9076539fb"
 metafile = true
 
 [[files]]
@@ -1555,8 +1570,8 @@ hash = "093711628f921153cd954c278f237665b2c7cb3e91f304b8c0483c5ba8be5347"
 metafile = true
 
 [[files]]
-file = "mods/goblintraders-fabric.pw.toml"
-hash = "32ee7a7170ed798a1e4d8b4bd98d3659566615f8c189f70ea58419a39dce1c42"
+file = "mods/goblin-traders.pw.toml"
+hash = "a63282895a491dcb452f71726bf31ce9a4aa9111d7771837c5f8e94dc766c2a2"
 metafile = true
 
 [[files]]
@@ -1677,11 +1692,6 @@ metafile = true
 [[files]]
 file = "mods/invmovecompats.pw.toml"
 hash = "8a8dd75f4e258a1cfb83c49e7d2b2530f93c7aaa9deb28fd38bb511eeeca0d9f"
-metafile = true
-
-[[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "58ad60c7e1bd11536c7c4fb3d308ec4b6171ebd2f40b7a8db23fa4d35e099c08"
 metafile = true
 
 [[files]]
@@ -2257,6 +2267,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "62d685e001957b2f677675df77e3d96be4ba9ce28cd19b286dc7b386a5b472b0"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "fc4f887c36c74acb3f55917ad5575cd74e336b2c5ac8749044f457a276681750"
 metafile = true
 
 [[files]]

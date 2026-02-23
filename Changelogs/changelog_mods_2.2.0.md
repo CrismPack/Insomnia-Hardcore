@@ -6,8 +6,11 @@
 - Accessories
 - The Aether
 - Almanac Lib
+- Animation Overhaul
 - Better Trims
 - Cobweb
+- Colorwheel Patcher
+- Colorwheel
 - Common Network
 - Configurable
 - Crash Assistant
@@ -20,6 +23,7 @@
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
 - Eternal Attributes
+- Framework
 - Frostiful
 - Hephaestus Fabric
 - Icarae Origin
@@ -37,6 +41,7 @@
 - Reese's Sodium Options `Client`
 - Resourceful Config
 - Sawmill
+- Shoulder Surfing Reloaded
 - Simple Snowy Fix
 - Sodium `Client`
 - Sound Physics Remastered
@@ -57,9 +62,9 @@
 - Zombie Awareness
 ## Removed
 
-- Amendments
 - Animatica `Client`
 - Athena
+- Better Third Person `Client`
 - Concurrent Chunk Management Engine
 - Camp Chair
 - Chipped
@@ -71,6 +76,7 @@
 - Farsighted Mobs
 - fix GPU memory leak `Client`
 - Furnace Recycle
+- Iris & Oculus Flywheel Compat `Client`
 - Just Enough Items
 - Krypton
 - NetherVinery
@@ -89,6 +95,7 @@
 - **Advancement Plaques**: Changed from `AdvancementPlaques-1.20.1-fabric-1.4.11.jar` to `AdvancementPlaques-1.20.1-fabric-1.6.7.jar`
 - **Alternate Current**: Changed from `alternate-current-mc1.20-1.7.0.jar` to `alternate-current-mc1.20-1.9.0.jar`
 - **Alternate Origin GUI**: Changed from `altorigingui-1.20.1-1.0.1.jar` to `AltOriginGui-fabric-1.20.1-1.1.1.jar`
+- **Amendments**: Changed from `amendments-1.20-1.1.31-fabric.jar` to `amendments-1.20-2.2.5-fabric.jar`
 - **AppleSkin**: Changed from `appleskin-fabric-mc1.20.1-2.5.1.jar` to `appleskin-fabric-mc1.20.1-2.5.2.jar`
 - **Archers**: Changed from `archers-1.2.5+1.20.1.jar` to `archers-1.3.0+1.20.1.jar`
 - **Armor & damage scaling**: Changed from `armordamagescale-fabric-1.20.1-3.0.jar` to `armordamagescale-fabric-1.20.1-3.1.jar`
@@ -151,7 +158,6 @@
 - **Wraith Waystones**: Changed from `wraith-waystones-3.3.2+mc1.20.1.jar` to `wraith-waystones-3.3.3+mc1.20.1.jar`
 - **Farmer's Delight Refabricated**: Changed from `FarmersDelight-1.20.1-2.1.1+refabricated.jar` to `FarmersDelight-1.20.1-2.4.1+refabricated.jar`
 - **Fast Async World Save**: Changed from `fastasyncworldsave-fabric-1.20.1-1.9.jar` to `fastasyncworldsave-fabric-1.20.1-2.6.jar`
-- **Forge Config API Port**: Changed from `ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar` to `ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar`
 - **Formations Overworld**: Changed from `formationsoverworld-1.0.3.jar` to `formationsoverworld-1.0.5-mc1.20.jar`
 - **Formations**: Changed from `formations-1.0.2-fabric-mc1.20.jar` to `formations-1.0.4-fabric-mc1.20.2.jar`
 - **Friends&Foes**: Changed from `friendsandfoes-fabric-mc1.20.1-2.0.10.jar` to `friendsandfoes-fabric-mc1.20.1-3.0.9.jar`
@@ -166,7 +172,6 @@
 - **Integrated API**: Changed from `integrated_api-1.5.1+1.20.1-fabric.jar` to `integrated_api-1.5.3+1.20.1-fabric.jar`
 - **Inventory Profiles Next**: Changed from `InventoryProfilesNext-fabric-1.20-1.10.10.jar` to `InventoryProfilesNext-fabric-1.20-1.10.20.jar`
 - **InvMove**: Changed from `InvMove-1.20-0.8.4-Fabric.jar` to `InvMove-0.9.3+1.20.1-Fabric.jar`
-- **Iris & Oculus Flywheel Compat**: Changed from `iris-flywheel-compat-fabric1.20.1+1.1.1.jar` to `iris-flywheel-compat-fabric1.20.1+1.1.4.jar`
 - **Iris Shaders**: Changed from `iris-1.7.0+mc1.20.1.jar` to `iris-1.7.6+mc1.20.1.jar`
 - **Item Obliterator**: Changed from `Item_Obliterator-Fabric_Quilt-2.2.0.jar` to `Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar`
 - **Jade Addons**: Changed from `JadeAddons-1.20.1-fabric-5.2.5.jar` to `JadeAddons-1.20.1-Fabric-5.5.1.jar`
