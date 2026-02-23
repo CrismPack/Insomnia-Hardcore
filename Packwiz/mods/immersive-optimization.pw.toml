@@ -1,13 +1,13 @@
 name = "Immersive Optimization"
-filename = "immersive_optimization-fabric-1.20.1-0.0.4.jar"
+filename = "immersive_optimization-fabric-1.20.1-0.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3d2ccfd2df6629bda7ac0f741353aaab4b416e36"
+hash = "d68b632f6128f23537aecdf6386115cd9f15420b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6490665
+file-id = 6969712
 project-id = 1163206

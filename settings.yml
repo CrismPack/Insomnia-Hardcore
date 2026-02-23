@@ -12,7 +12,7 @@ download_comparison_files: True
 generate_primary_changelog: True
 generate_mods_changelog: True
 update_crash_assistant_modlist: True
-github_auth: False
+github_auth: True
 changelog_side_tag: True
 auto_generate_update_overview: False
 auto_summary_overwrite_existing: False

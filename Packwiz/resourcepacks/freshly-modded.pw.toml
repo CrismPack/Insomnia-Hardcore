@@ -1,13 +1,13 @@
 name = "F.M.R.P"
-filename = "freshly-modded-1-5-10.zip"
+filename = "Freshly Modded 2.0.3.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "119b9d79626e5ad23013b3c06d53d26875869335"
+hash = "12d70e3a386bceb5e365883b2a640ca3e64c0a70"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5870242
+file-id = 7146641
 project-id = 961754

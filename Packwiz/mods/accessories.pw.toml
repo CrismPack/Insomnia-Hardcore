@@ -1,13 +1,13 @@
 name = "Accessories"
-filename = "accessories-fabric-1.0.0-beta.47+1.20.1.jar"
+filename = "accessories-fabric-1.0.0-beta.48+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b2290b215a8f7e9a2676b87ac1192271eae7467d"
+hash = "38e3d368d97914966bdda5c6719f77c7f1f9a58d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6304691
+file-id = 7164886
 project-id = 938917

@@ -44,17 +44,14 @@
 - Configurable
 - Crash Assistant
 - CrashExploitFixer
-- Create Enchantment Industry Fabric
 - Death Knights
 - Default Options `Client`
 - Distraction Free Recipes `Client`
-- Dungeon Now Loading 1%
+- Dungeon Now Loading 2%
 - Eccentric Tome
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
 - Eternal Attributes
-- FancyMenu `Client`
-- Faster Random
 - Frostiful
 - Hephaestus Fabric
 - Icarae Origin
@@ -97,6 +94,7 @@
 
 ### Removed Mods ❌
 
+- Amendments
 - Animatica `Client`
 - Athena
 - Concurrent Chunk Management Engine
@@ -104,17 +102,20 @@
 - Chipped
 - Couplings
 - Dyed
+- Dynamic Trim
 - Embeddium `Client`
 - Enderite Mod
 - Farsighted Mobs
 - fix GPU memory leak `Client`
 - Furnace Recycle
 - Just Enough Items
+- Krypton
 - NetherVinery
 - Nvidium `Client`
 - Phantom Config Fork
 - Projectile Damage Attribute
 - Shulker+
+- Create Slice & Dice
 - The Lost Castle
 - TieredZ
 - True Darkness Fork `Client`
