@@ -1,6 +1,6 @@
 name = "Create Enchantment Industry Fabric"
 filename = "create_enchantment_industry-1.2.16.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

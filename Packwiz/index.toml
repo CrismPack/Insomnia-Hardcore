@@ -585,18 +585,6 @@ file = "global_packs/required_data/Insomnia - Config/pack.mcmeta"
 hash = "678d7163390309648315346cbe87c8bced185bbbaa83472fca90e0b82e41e8be"
 
 [[files]]
-file = "global_packs/required_data/MVS - Config/data/mvs/worldgen/structure_set/other_decoration/stone_bee.json"
-hash = "e1374290cc8ae5cccc8557c9b680d7fd385ac5ebdd016dc04a49314fc34a9343"
-
-[[files]]
-file = "global_packs/required_data/MVS - Config/icon.png"
-hash = "369369ccd07c12234a549a91f8259fb6b3ae13d693fe0593a06532a2b1b5b2d4"
-
-[[files]]
-file = "global_packs/required_data/MVS - Config/pack.mcmeta"
-hash = "bc04d86dc8acc1a5bb93c7921f6a7202344eaae9fbc74d3ee305367f1aaccfc0"
-
-[[files]]
 file = "global_packs/required_data/Origins Classes - Disable Blacksmith/data/origins-classes/origins/blacksmith.json"
 hash = "f6a49f5d28a725bf64bbcf0ab2ce15007ec4b7a2a480188ef24c50de1d469bb6"
 
@@ -788,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "c28bc5675b160941907e6ac2aea981f2fe46a0eaab895bb77186be8472787562"
+hash = "3ec3bb1bad44b877f6433a7a1f9938f1fa8126dfd4f1633a343bd2d254e6cac5"
 metafile = true
 
 [[files]]
@@ -853,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "a81054022290ba2d5614eb534884b3b2842ce776342fb6d30ed9abfec1a76978"
+hash = "b272480c7f3f98bf1de36e7ad3ec74bb7c7f3dc317638e1fd8b7968ffb56b461"
 metafile = true
 
 [[files]]
@@ -1163,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "7d8c0c0bb4d93eb33b62bc5e69509051de5902b6d40c10807ed0f8e96507139a"
+hash = "1026935d45693d4ee4f58c551e5c8192b3e56b73ab55851730734b1d38c187da"
 metafile = true
 
 [[files]]
@@ -1278,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trim.pw.toml"
-hash = "d7d713bb51ab473f8a980e70afb5b0c106e39b33e6d9fd6c8d3bfa20de4f7733"
+hash = "66766c8e8c094c3e964ad7c7af2faf312b273e28c0b1f3f055b35f1d8bf6949b"
 metafile = true
 
 [[files]]
@@ -1469,11 +1457,6 @@ metafile = true
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
 hash = "81afec1faa8078eec3f85ea36827fa95e63885ac1295d99a2d1fbfb0c8e50a7f"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "bc85c305b215df131ae8ea54e589cd13589bb51828efede71ec37b0a2bf05b3c"
 metafile = true
 
 [[files]]
@@ -1753,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
+hash = "7bc6c89b3f122c12545a50ad1e105ede7971ebf1e258f349f2d60971d9631bfe"
 metafile = true
 
 [[files]]
@@ -2063,7 +2046,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "c4c328f1f55efec94860cc2a5927ef1077f995748e6199a44f161681d567b141"
+hash = "1b92c2551bc76f19e73162c8feec3b0546967836fed9b0ff14523d19786876ec"
 metafile = true
 
 [[files]]
@@ -2318,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "194bcdfc276baead9bff868c35e1cfc070de74d2edccbe1b0a68711a170f3387"
+hash = "d8a1f7be4c8f618e79d03cc7f8218a12c818f5711cbbe57fd7430c1c2d8c700c"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Dynamic Trim"
 filename = "dynamictrim-1.4.1-fabric+1.20.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

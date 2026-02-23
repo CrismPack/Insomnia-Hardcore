@@ -1,6 +1,7 @@
 name = "Origins (Fabric)"
 filename = "Origins-1.20.1-1.10.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
