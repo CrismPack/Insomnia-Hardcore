@@ -109,6 +109,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "17a2106fbcce4b30e16c86388ccbf68ec8defa5fdecbf3e9fb6d5cbde6bc3b3b"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "5e8d3561cd59519f6b474c6c2141bde3f9f7648e1a516f33024ccf940f6f8dbe"
+
+[[files]]
 file = "config/desiredservers/desiredservers.json"
 hash = "a287ef1b945d92867d796b909e3bb97363e97de9fe6ab306f22422f69e14c617"
 
@@ -173,8 +177,8 @@ file = "config/fancymenu/customization/Hardcore Death Screen.txt"
 hash = "84c5dea92d6ca19e9fb0bc11037094e209108fcf748beb0d968d9c767731c78d"
 
 [[files]]
-file = "config/fancymenu/customization/Insomnia Fabric.txt"
-hash = "08a0472ce6a7d59677dcfb873981311f9f334945040e47a3233f8ff31b930a6d"
+file = "config/fancymenu/customization/Insomnia Main Menu.txt"
+hash = "ef537b1ee44f1d6274c263b9961b19edcfa4b8e794c70262acefd273afdf2b0c"
 
 [[files]]
 file = "config/fancymenu/customization/distanthorizons_menu.txt"
@@ -302,7 +306,7 @@ hash = "01efa88c78eacbeb89c8fe068e237fe2509e57d0b622b854593018d3c6503715"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "98b90bb39883b0414b59bebdbca40a8445d6230eb8a02808fb41f8143172bfd0"
+hash = "7874f464a1fd2348fa4b284184c0be39e910b476950289b1cc3ad6a9782771bc"
 
 [[files]]
 file = "config/mostructures-config-v5.json5"
@@ -495,10 +499,6 @@ hash = "92a8cb0db4ac8763c757c6551696c47c6506b8365aa99cec2d17a97872a728ce"
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "754addb444684a000539de3b356bc7b9efd15d1d3af8955e80d5f1733a4021a7"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "a3a27ff8dd8489ff9813ad855789cdcb97de6633677516472a35aa7248b9498c"
 
 [[files]]
 file = "config/yosbr/shaderpacks/Complementary r5.2.1 [Insomnia Edit].txt"
@@ -1197,6 +1197,11 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "96a120672fa94aa0235ebbc7520583af225f9f994c2eebd87a22b83459a6877e"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "539df193744359182e929d5648aeb96c58a1bdaa5edb0d0370d42a2d68e18eec"
 metafile = true
 
 [[files]]
@@ -2010,11 +2015,6 @@ hash = "46f676b0eb76dd1fe30edd8c45e81220250754fa4f55b15d13c0a20923f3e1d5"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "32d2baa91ff41c06dec471883eb0485971d642245ca5de4b27dd3f38ea408295"
 metafile = true
@@ -2540,6 +2540,11 @@ hash = "26abe43f2212a3fd943798d445db6bf9f8ecba76c4e8f7fe45ed703ff8d77645"
 metafile = true
 
 [[files]]
+file = "mods/via-romana.pw.toml"
+hash = "5f0c6153df16c758d5a053c4f600c9355ccb5b600c28e8d6e05035a9c9c89a05"
+metafile = true
+
+[[files]]
 file = "mods/village-nullifier-mod.pw.toml"
 hash = "624275b0f64a7a137599a29dd41d9834a8d726d5fec9a17878977cdff613fa5a"
 metafile = true
@@ -2662,6 +2667,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts-fabric.pw.toml"
 hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "2c51f4c68970dceae5d63dd664cdfc9fe7a7fd48316fe89884134183c36e3ca4"
 metafile = true
 
 [[files]]

@@ -1,14 +1,19 @@
 version: 2.2.0
 mc_version: 1.20.1
 
-Fabric version: 0.16.14
+Fabric version: 0.18.4
 Update overview:
-  - Added some mods with a creepy light-horror theme as well as new dungeons and bosses to the Overworld.
+  - Added some mods with a creepy light-horror theme as well as new dungeons and
+    bosses to the Overworld.
   - New Icarae Origin with associated craftable wings.
-  - Reintroduced the Paradise dimension (The Aether) and Hephaestus (Tinkers Construct).
-  - Created new optimized server starter scripts for both regular JVM's and GraalVM as well as making them download the server jar instead of bundling it in the zip.
+  - Reintroduced the Paradise dimension (The Aether) and Hephaestus (Tinkers 
+    Construct).
+  - Created new optimized server starter scripts for both regular JVM's and 
+    GraalVM as well as making them download the server jar instead of bundling 
+    it in the zip.
   - Made general improvements to performance & stability.
-  - Greatly minimized memory footprint, making the modpack playable with just 6GB of RAM allocated in singleplayer.
+  - Greatly minimized memory footprint, making the modpack playable with just 
+    6GB of RAM allocated in singleplayer.
   - A bunch of quality of life changes.
   - Multiple bug fixes.
   - Updated mods and resource packs.
@@ -16,7 +21,8 @@ Update overview:
 
 
 Bug Fixes:
-  - Fixed issue with mobs becoming invincible when hit with certain spells. [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
+  - Fixed issue with mobs becoming invincible when hit with certain spells. 
+    [[Issue]](https://github.com/Sweenus/SimplySkills/issues/105)
   - Fixed shader pack unable to be activated with keybind from fresh install.
   - Fixed mobs glowing when holding a light source with shaders on.
   - Fixed movement & abilities activating when searching for recipes.
@@ -24,10 +30,11 @@ Bug Fixes:
 
 
 Script/Datapack changes:
-  - Changed backpack recipes to be more expensive by replacing ingots with blocks.
+  - Changed backpack recipes to be more expensive by replacing ingots with 
+    blocks.
 
 
-Config Changes: |
+Config Changes: |-
   - Changed Nvidium's dependency of Sodium to allow any version: [Fabric Loader], [Client]
   - Added lang override for 'Visual Traveler's Titles', changing "travelerstitles.the_aether.the_aether" to "travelerstitles.paradise_lost.paradise_lost": [Insomnia Custom Lang], [Client]
   - Added override for Create's breakage with 'Sound Physics Remastered': [Fabric Loader], [Both]
