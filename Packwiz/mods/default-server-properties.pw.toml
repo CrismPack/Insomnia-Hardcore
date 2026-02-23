@@ -1,13 +1,13 @@
 name = "Default Server Properties"
-filename = "default-server-properties-fabric-81.1.0.jar"
+filename = "default-server-properties-fabric-21.0.0.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "db6981f30685c296a4da2a0c16a60b8c99e43bd2"
+hash = "5f4bb1d71801451dae5055abcd1ab5ff0e3aef31"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4599571
+file-id = 5433008
 project-id = 676811

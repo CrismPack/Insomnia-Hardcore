@@ -1,13 +1,12 @@
 name = "Eccentric Tome (Fabric)"
 filename = "eccentrictome-1.10.3+0+1.20.1+fabric.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "9854243d23f0d36d694b852bee4246e506e9f7bd"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 7616896
 project-id = 969439

@@ -1,13 +1,12 @@
 name = "Fast Paintings"
 filename = "fastpaintings-1.20-1.2.7-fabric.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "cc967836211a3e3b511486670bba712aab43df91"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 5324823
 project-id = 883287

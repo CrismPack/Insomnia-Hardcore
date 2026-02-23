@@ -1,13 +1,12 @@
 name = "Eating Animation [Fabric]"
 filename = "eating-animation-1.20+1.9.61.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "d5a8909b0b864eb1a7a2d62368932d264eb60317"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 5212742
 project-id = 527023

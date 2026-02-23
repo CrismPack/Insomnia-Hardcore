@@ -1,13 +1,12 @@
 name = "What Are They Up To (Watut)"
 filename = "watut-fabric-1.20.1-1.2.3.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "e3b5da7d097e95d5b8c244f8f6c7947e1f5fdf92"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 6315235
 project-id = 945479

@@ -1,13 +1,13 @@
 name = "StackablePotions [Fabric]"
-filename = "Stackable Potions-fabric-1.20.1-1.0.0.jar"
+filename = "stackablepotions-1.0.0+1.21.11-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "232d12ff320038ddd3a0aa8885519aead6b733b3"
+hash = "e43d24493a15ab6619d7cb01fddf91452c0566c6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4627632
+file-id = 7645494
 project-id = 396596

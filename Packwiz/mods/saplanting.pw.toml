@@ -1,13 +1,13 @@
 name = "Saplanting"
-filename = "saplanting-1.20.1-fabric-1.3.1.jar"
+filename = "saplanting-1.21.11-fabric-1.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c0cb82392ee1fb0bdc64acea8c65456dba450ae2"
+hash = "218322d4e653846cdd7399aee0cb823d23fa0dd0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5886320
+file-id = 7356468
 project-id = 576864

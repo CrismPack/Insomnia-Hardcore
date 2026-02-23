@@ -1,13 +1,13 @@
 name = "Economical Villager Trading"
-filename = "economical-villager-trading-1.2.10+MC1.20-1.20.1.jar"
+filename = "economical-villager-trading-1.7.0+MC1.21.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2e9080ff9111ed88abfa0c86e4d7ed8596b3984a"
+hash = "d6b2c3f4bfa47f6133de73ba068e3ac18e1c7506"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4597841
+file-id = 7368070
 project-id = 395573

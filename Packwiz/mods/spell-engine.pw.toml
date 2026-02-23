@@ -1,13 +1,12 @@
 name = "Spell Engine"
 filename = "spell_engine-0.15.12+1.20.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "beb07c4466257c32821c8461d52e121931e85de2"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 6009091
 project-id = 807653

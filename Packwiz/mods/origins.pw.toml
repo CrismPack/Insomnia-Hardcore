@@ -1,6 +1,6 @@
 name = "Origins (Fabric)"
 filename = "Origins-1.20.1-1.10.0.jar"
-side = "both"
+side = "both(disabled)"
 pin = true
 
 [download]
@@ -8,7 +8,6 @@ hash-format = "sha1"
 hash = "e85bbe9554283840ca1d05b09181be29f3a623c0"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 4609386
 project-id = 391943

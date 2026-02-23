@@ -1,13 +1,13 @@
 name = "Chat Patches"
-filename = "chatpatches-8.0-alpha.7+1.20.1-fabric.jar"
+filename = "chatpatches-8.0-alpha.7+1.21.11-fabric.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "103dac46704fc575c2099e726d9d1031c8ba2662"
+hash = "f064802e8c182a468eb0cc15a958b90349c532a0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7367609
+file-id = 7367621
 project-id = 560042

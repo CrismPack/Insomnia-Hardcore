@@ -1,13 +1,13 @@
 name = "Common Network"
-filename = "common-networking-fabric-1.0.5-1.20.1.jar"
+filename = "common-networking-fabric-1.0.22-1.21.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fac58a3f0ca411689474413338933b55e877610d"
+hash = "017b61c7ca40215dca264df847c62fb68182d57e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5486135
+file-id = 7313227
 project-id = 806044

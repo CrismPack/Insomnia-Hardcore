@@ -1,13 +1,13 @@
 name = "Formations (Structure Library)"
-filename = "formations-1.0.4-fabric-mc1.20.2.jar"
+filename = "formations-1.0.4-fabric-mc1.21.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d4d86bc587293cfc2b525173b2a9c9202825110c"
+hash = "80635532f49aeb99acef4efffaff04cb15c9f829"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6789355
+file-id = 7359600
 project-id = 915115

@@ -1,13 +1,12 @@
 name = "Music Maker Mod"
 filename = "xercamusic-fabric-1.20.1-1.0.2.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "02672283b5d6daeaa038e4ecfff84fee292a0688"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 5592164
 project-id = 341448

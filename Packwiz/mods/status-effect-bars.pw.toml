@@ -1,13 +1,13 @@
 name = "Status Effect Bars"
-filename = "status-effect-bars-1.0.3.jar"
+filename = "status-effect-bars-1.0.10.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "ef6d7078a0e7afd0fabd8bc32394c5a84b2c2bc2"
+hash = "0cd06e44bff08c9a05f7d96249b267fc77c56cc8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4585394
+file-id = 7355244
 project-id = 615459

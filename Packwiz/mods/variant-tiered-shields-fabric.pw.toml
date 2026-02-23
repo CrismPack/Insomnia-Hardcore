@@ -1,13 +1,12 @@
 name = "Variant Shields [Fabric/Quilt]"
 filename = "variantshields-2.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "0ce498913f4e3d7163c15eb27f3314ee659ebd70"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 4941161
 project-id = 682987

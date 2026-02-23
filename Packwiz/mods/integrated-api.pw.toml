@@ -1,13 +1,12 @@
 name = "Integrated API"
 filename = "integrated_api-1.5.3+1.20.1-fabric.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "dfeb9897582e7a5f06702fdf4a59f8cd2bd98a29"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 6369319
 project-id = 817709

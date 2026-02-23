@@ -1,13 +1,12 @@
 name = "Alternate Origin GUI"
 filename = "AltOriginGui-fabric-1.20.1-1.1.1.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "ebc8f0215bcc999c8af2afe15cdc5e1ef31e30b6"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 5633582
 project-id = 873788

@@ -5,7 +5,7 @@ on:
     types: [published]
 
 env:
-  MC_VERSION: 1.20.1
+  MC_VERSION: 1.21.11
   RELEASE_TYPE: release
   CURSEFORGE_TOKEN: ${{secrets.CURSEFORGE_TOKEN}}
 

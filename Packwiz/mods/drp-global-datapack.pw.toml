@@ -1,13 +1,12 @@
 name = "Global Packs"
 filename = "globalpacks-fabric-1.20.1-19.3.7.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "03f80a57550271938bc4e8af98faae35a4412d1d"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 7240329
 project-id = 317134

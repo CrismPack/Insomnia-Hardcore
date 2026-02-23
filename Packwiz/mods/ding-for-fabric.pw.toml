@@ -1,13 +1,12 @@
 name = "Ding (Fabric)"
 filename = "Ding-1.20.1-Fabric-1.5.0.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "ba7ab93af224ab89c26eaa754d5635d69e37b074"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 5477585
 project-id = 822694

@@ -1,13 +1,12 @@
 name = "Exordium"
 filename = "exordium-fabric-1.4.2-mc1.20.1.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "7c7928a5da501cd860ed8017e0595c77bbc54a12"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 6927926
 project-id = 681953

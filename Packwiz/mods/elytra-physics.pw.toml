@@ -1,13 +1,13 @@
 name = "Elytra Physics"
-filename = "elytra_physics-fabric-2.3_mc1.19.3-1.21.1.jar"
+filename = "elytra_physics-fabric-2.5_mc1.21.11.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e4223a3e2ed52e660c1f44a34d7ff9ca4942131c"
+hash = "0b76f7a80c2c8e58717622b0f68a50de457f28ab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6673413
+file-id = 7362748
 project-id = 650221

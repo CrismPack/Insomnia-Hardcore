@@ -1,13 +1,12 @@
 name = "Death Knights (RPG Series)"
 filename = "death_knights-fabric-1.0.0-1.20.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
 hash = "61511112de79a2e712b9a7520e9b7807ad19c190"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 6109209
 project-id = 968119
