@@ -1,0 +1,13 @@
+name = "World Play Time"
+filename = "worldplaytime-1.2.4-1.21.10-FABRIC.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d400cfaab6b5649f3f317ee565abc373ac797b70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7140847
+project-id = 968891

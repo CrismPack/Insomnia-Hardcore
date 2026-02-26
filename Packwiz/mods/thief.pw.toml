@@ -1,0 +1,13 @@
+name = "Thief"
+filename = "thief-fabric-1.21.11-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cc09c9f8e5597da66c5e7b5e71ba006270ad12f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7667292
+project-id = 839159

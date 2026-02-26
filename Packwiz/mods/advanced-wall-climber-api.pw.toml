@@ -1,0 +1,13 @@
+name = "Advanced Wall Climber API"
+filename = "awcapi-fabric-1.21.11-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c9711b356d9bd548f26069377e2d49de5222c67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7447350
+project-id = 1425144

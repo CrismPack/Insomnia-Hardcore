@@ -1,0 +1,13 @@
+name = "Chat Impressive Animation"
+filename = "ChatImpressiveAnimation-fabric-1.5.0+mc1.21.11.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6f72d7edffb9f35330486e5d69556f897c536a4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7666921
+project-id = 972468

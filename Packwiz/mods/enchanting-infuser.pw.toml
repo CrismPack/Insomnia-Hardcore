@@ -1,0 +1,13 @@
+name = "Enchanting Infuser"
+filename = "EnchantingInfuser-v21.11.1-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7beae1d56f01c91541cbe45bb84f5694472aa855"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7354841
+project-id = 551151

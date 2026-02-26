@@ -1,6 +1,6 @@
 name = "[EMF] Entity Model Features [Fabric & Forge]"
 filename = "entity_model_features_1.21.11-fabric-3.0.11.jar"
-side = "both"
+side = "client"
 pin = true
 
 [download]

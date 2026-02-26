@@ -1,0 +1,13 @@
+name = "Hardcore Revival"
+filename = "hardcorerevival-fabric-1.21.11-21.11.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a40fd0cf06e4b0909ef853a4c687d56749cc078"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7658928
+project-id = 274036

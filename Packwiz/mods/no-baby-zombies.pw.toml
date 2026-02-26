@@ -1,0 +1,13 @@
+name = "No Baby Zombies"
+filename = "nobz-fabric-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e46aa06fdaf24dde8b15b929b6e3780fc6dc09d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7263307
+project-id = 959336

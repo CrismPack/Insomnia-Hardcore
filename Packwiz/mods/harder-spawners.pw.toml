@@ -1,0 +1,13 @@
+name = "Harder Spawners"
+filename = "fabric-21.11-harderspawners-CC-0.31.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46052dc44f1f220c029a453fa76bbb3f88b2a779"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7559497
+project-id = 399413

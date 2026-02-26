@@ -1,0 +1,13 @@
+name = "Restricted Portals"
+filename = "restrictedportals-fabric-1.21.11-1.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "401aca602e972377f830c08029934feb3bfd0baf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7479670
+project-id = 228266

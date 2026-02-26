@@ -1,0 +1,13 @@
+name = "Underlay"
+filename = "underlay-1.0.0-hotfix.1-fabric-mc1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "433a4f0816b120a5d92cb48408d86008d0e830c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7655914
+project-id = 1263531

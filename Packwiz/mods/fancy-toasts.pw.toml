@@ -1,0 +1,13 @@
+name = "Fancy Toasts | Better Advancements"
+filename = "fancytoasts-fabric-1.21.11-1.4.6.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6697ebd5fd2c67c999c285fc5e396c54776fa6dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7581810
+project-id = 1326436

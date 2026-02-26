@@ -1,0 +1,13 @@
+name = "Eternal Nether"
+filename = "EternalNether-v21.11.0-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "976c0136e8684100e3381979315a2ac68361ac58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7355322
+project-id = 1252482
