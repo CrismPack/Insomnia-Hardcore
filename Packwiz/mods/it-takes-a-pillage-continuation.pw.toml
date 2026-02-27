@@ -1,0 +1,13 @@
+name = "It Takes a Pillage Continuation"
+filename = "takesapillage-fabric-1.0.10+mc1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64a5c6777b2d2ec92b6cd1d0e90fb7dd475b2c1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7417037
+project-id = 1111063

@@ -90,7 +90,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "8a724d4e882067e7ead363244924cd64101c00a0eee41f3d76f302b2c6e8af5d"
+hash = "013e77324645b62171e4d87e27a713519a4b024079ef00ace792da04725b57d3"
 
 [[files]]
 file = "config/darkness.json5"
@@ -157,8 +157,24 @@ file = "config/fabric_loader_dependencies.json"
 hash = "7d1160745755318bfdbd6d40d0bc2b3775c02d1d2fc2a30c2a071ed1a005d11b"
 
 [[files]]
+file = "config/fancymenu/assets/minecraftwindow/icons/icon16x16.png"
+hash = "9d4247c8086e4d93a046bf831d69f3bfcf7474e35f59c6c6965ee0f9c27d91d9"
+
+[[files]]
+file = "config/fancymenu/assets/minecraftwindow/icons/icon32x32.png"
+hash = "02b739c3747fbb8a50467ff3e93f6aaca17300b001ae2c13b44aa7263afb54b5"
+
+[[files]]
+file = "config/fancymenu/assets/minecraftwindow/icons/mac_icon32x32.icns"
+hash = "8c3e3996217917b668acb0a47c94600afa3b38ede595d2dc9672f3c9b68fa7c8"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "a2d4dc30d05c042e4a943dd816c17e0b554dbfd61f27edb96eb6a7599c817570"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -166,35 +182,43 @@ hash = "170c4ed51e6731fd9f828fce16bb332d48cf7680ade44bfde20640a74f189b2a"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen Singleplayer.txt"
-hash = "2cfb9cb42f6d58c51edca99e170a9948b289b1875252b148e7cd07c787c64927"
+hash = "483d0db46a62417b7f33550d8ebe3e4abaf3caf5c96b3d90316a7c9cec902aae"
 
 [[files]]
 file = "config/fancymenu/customization/Hardcore Death Screen.txt"
-hash = "84c5dea92d6ca19e9fb0bc11037094e209108fcf748beb0d968d9c767731c78d"
+hash = "e541dfd056e72a51c76528630d9f25f16b908ed29fe0f7b99f5033ac5091b9d5"
 
 [[files]]
 file = "config/fancymenu/customization/Insomnia Main Menu.txt"
-hash = "ef537b1ee44f1d6274c263b9961b19edcfa4b8e794c70262acefd273afdf2b0c"
+hash = "508e8f88602ad181f4fab4f124f6aa97ee55611d705153d3cadfc416ee0414f3"
 
 [[files]]
 file = "config/fancymenu/customization/distanthorizons_menu.txt"
-hash = "153cf3d38e91ecf70cdd269879184e10fe58d56abe7cef3422d4fd134d97106d"
+hash = "f0836b6f97f50e6c3c4bc20dbe02caf7bf1c9ce8282e1b74797e3ead1af425d0"
 
 [[files]]
 file = "config/fancymenu/customization/lanmenu.txt"
-hash = "278c4e32a7873c478872afc7fd1714eecc95be53f9a59dbb173a4b60f30e3054"
+hash = "b3a8e86997356103ba93d2c5e58808066048f89e7c97520b0929a3716d9a97c4"
 
 [[files]]
 file = "config/fancymenu/customization/optionsmenu.txt"
-hash = "65ba6886ecf23ec324a59c1f3e86460cf970a32790b916fc853ad85b578db2fc"
+hash = "363334ffa29423cf9559f8c7d4ffab3b59f1aa376afea42e0f4b289f54b0eb4a"
 
 [[files]]
 file = "config/fancymenu/customization/resourcepacks.txt"
-hash = "686c919a46c3ea4e26e8c5514928fb430528c6ac98688dd6aae9f883428778b8"
+hash = "a49fa3f49e29892eb6181a3a3e36bbddd71f35601c387d8c1db9da26bb52443a"
 
 [[files]]
 file = "config/fancymenu/customization/shaderpack_menu.txt"
-hash = "afd24a41a226659d2c95f196ac434707f17a8ab5e8a0c43104910482341c0e27"
+hash = "eb68971fa82e7620ab1ea3aac6bf927f0c503a2768de43dc38ed14373fdb16c2"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "caee67e29a18cf3c5e34d2db1fd081688a1f7dfc9d34005ec20c7049e44e71ec"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -221,12 +245,20 @@ file = "config/fancymenu/menu_identifiers.db"
 hash = "71950879ffee984e3913f7087bfa2745b052a14b531b1222beea29b0a724476b"
 
 [[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "9d4247c8086e4d93a046bf831d69f3bfcf7474e35f59c6c6965ee0f9c27d91d9"
+file = "config/fancymenu/options.txt"
+hash = "c42326279099406df6f5935e10e263c0b2a77828d9b86d518ff0b205a252c757"
 
 [[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "02b739c3747fbb8a50467ff3e93f6aaca17300b001ae2c13b44aa7263afb54b5"
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -509,218 +541,6 @@ file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
-file = "datapacks/village-nullifier-1.18.2-1.0.0.zip"
-hash = "00e66d4ef3b2a875d174ed644506ca47dc021fe37b54ed6dfa2c8c0024a4836e"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/functions/config/autoconfig/disable.mcfunction"
-hash = "134f4b8225b5411d40534e3d9f02a6510d6609abdea858896e0733271f678cc1"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/leafless_grove.json"
-hash = "42c8ae8a5f2b19fa8c35f0997179f85db5657346999b103e8749fd08ad465f5c"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/logless_tree.json"
-hash = "1eb266e7d064cd5251f02ca85a474a47edb4b91fb247c2da027bed31d52fd56a"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/mossy_pyramid.json"
-hash = "83433dca1575bb084fed4756e65702a6590490be755e5c5c1d1f4fc17698a888"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/ocean_sand_pyramid.json"
-hash = "6e90bfcb0e9dc14f585977669e9363fb94c91048ad64e165f800e7fb4e5c926c"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/redstone_torch_trail.json"
-hash = "eb40577e2b6311ad6e2bcb4c3c7ec9076b7ff72560fa4586a6ecab9be91d3be4"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/sand_pyramid.json"
-hash = "f4cdf5b2278037083816d56352edbe309a39965fdf6103ca78f45e6be8c886a3"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/torch_cave.json"
-hash = "0edaa5471b0f68724e89ff8263cc8a48fe86dc29ca9db8e51aa5052372ad2155"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/data/watching/worldgen/structure_set/torch_tunnel.json"
-hash = "2f448b361ca4fd9eafdbdfb87d72a7672328dff43c412385557c161cc61066cc"
-
-[[files]]
-file = "global_packs/required_data/From The Fog - Config/pack.mcmeta"
-hash = "00adf7aee1635840f4fdb75fe307b0798b6999afbaada3962f669e16eeb7fd17"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/data/insomniaconfig/functions/load.mcfunction"
-hash = "fb3849055b6c4afa3253abe0ff582de07fa2b2fe31a6d1ad7f8d8023a579a769"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/copper_bundle_smithing_transform.json"
-hash = "788a5bbd1b1da78026c62b3a274a95b1e79bbfe465c745d36d7698c8435d6e1f"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/diamond_bundle_smithing_transform.json"
-hash = "5cf29dcc07476fc98e1fc658cb0a6982c81004194cb2c165cba6d941bcb27736"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/golden_bundle_smithing_transform.json"
-hash = "6c73fcf7d366ce51ea1e95894aca49f856e6513d6c6e201f63c6ba95e657c1b5"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/iron_bundle_smithing_transform.json"
-hash = "34046b26050a19e7f7127c6e4fedc20eef6e1b79980173627083f48c930635b0"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/leather_bundle.json"
-hash = "bc375e8ad95aa2273b77e53bb3981b19b56cb137dc80db62db69e4dd57effb09"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/data/metalbundles/recipes/netherite_bundle_smithing_transform.json"
-hash = "6ff29a5a7cc96869ccfd25e3ced952ce879386c0bd2692f613e6260c27410100"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/data/minecraft/tags/functions/load.json"
-hash = "3f25de60645b8db69bc88b268296c6b168323e9b17c7c0dce525c89070a40cba"
-
-[[files]]
-file = "global_packs/required_data/Insomnia - Config/pack.mcmeta"
-hash = "678d7163390309648315346cbe87c8bced185bbbaa83472fca90e0b82e41e8be"
-
-[[files]]
-file = "global_packs/required_data/Origins Classes - Disable Blacksmith/data/origins-classes/origins/blacksmith.json"
-hash = "f6a49f5d28a725bf64bbcf0ab2ce15007ec4b7a2a480188ef24c50de1d469bb6"
-
-[[files]]
-file = "global_packs/required_data/Origins Classes - Disable Blacksmith/pack.mcmeta"
-hash = "150ea07dad914d0382358314e625e14cf0e9666fa21409161af1dfb493a0f270"
-
-[[files]]
-file = "global_packs/required_data/Origins Classes - Disable Merchant/data/origins-classes/origins/merchant.json"
-hash = "ab661622ea6e78566c19fc91e7ebfed2a9205e2eaa6b0a36a500154d644725ec"
-
-[[files]]
-file = "global_packs/required_data/Origins Classes - Disable Merchant/pack.mcmeta"
-hash = "150ea07dad914d0382358314e625e14cf0e9666fa21409161af1dfb493a0f270"
-
-[[files]]
-file = "global_packs/required_data/Remove_Terralith_Intro_Message.zip"
-hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Lang/assets/minecraft/lang/en_us.json"
-hash = "99b77bc5350d56f89751ed9543dce3fc1b75c0451f55a830f3ceab1dd7c25951"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Lang/pack.mcmeta"
-hash = "3e851073d567e458102962f402a4f8257ba7217b22f1722e6ebbddd56fde8349"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/models/block/birch_leaves.json"
-hash = "5744637b0e3a067eaf1e453a0200dad5716492b0e78fbac22312dbef31a65307"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/optifine/color.properties"
-hash = "ba036ff69c25f757efebfb448cb7de50f71dc6668e9de5068d7f7b481f6d38b4"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/block/birch_leaves.png"
-hash = "35eeff8cb64529c4bc2ee7b2dc2f40ebb8c06328408fd8cd42d9ff5052b0800b"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/colormap/grass.png"
-hash = "e0d8e34b7765f620d5fff26b93f476491b7aed3ce936922d2ea2c443a159f69b"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/villager/profession/weaponsmith.png"
-hash = "c6ec2ed2364f5904804cd53483692111b92eb919d3fd15353c471e250f534fe7"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/villager/type/desert.png"
-hash = "2e31d059b6ecc3ed9964247d724a2be7112b7e078dc1de4a5567a65910558b36"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/villager/type/plains.png"
-hash = "87e4ea0ccfa238ce93cf85a6aa722cbb1eff1d8596c8b4024fba702ec495a000"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/villager/villager.png"
-hash = "075a862433c88ea6c018ac5280c652a44eb67f2cf70d4cca8bf286ae85b4642b"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/profession/weaponsmith.png"
-hash = "946c4d7d1de80ce3f088023a789f45c4c1c59b16a30d06dba6fc296848475b70"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/type/desert.png"
-hash = "cf6193d9501f15e536ef1730419d1490ceabf9b7474075611a849fbde980e858"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/zombie_villager.png"
-hash = "672624ba490e5c27abfbe408a239285690fa148a5cfb57836ea684bcb532003b"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/travelerstitles/lang/en_us.json"
-hash = "14960a97340bb4bacd0cdac0cafdd902d2847d62751c7e82a43593150d380205"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/assets/travelerstitles/lang/uk_ua.json"
-hash = "a03702f6fa5305f22b7528cd4b87380a793c432f8c9750dec56a15fed6047168"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Patches/pack.mcmeta"
-hash = "7458d3c95ce5c858ef2653daacf56cd4bb4fd47366793a15644744882613648d"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/options_background.png"
-hash = "3530d878540a036669bbab0e78abf6d6d245fc5fda102b872190e27c9dc0bd23"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "b732cdeae56ff0f3d04468c5f4e87b5184e650d11998bf3dcd89c831be6d7b30"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "11898413342b6163e4b70a9fb8a7c3fc6ceb50634e3b9a55075f567d185ef5b9"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "dbe45718c5f35d0838ad37cfa45c6cc06d56d56d54f2b53e7b9f03c340a05f38"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "a5900d94d3a995b179bd82c5bcd0c48b259960204e15ad3cc6687ec4529027b2"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "69dcb605c750da0c36894c29c0d1b685dc2b98700f40411dd6a7905f3cb1605a"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "fbf7fd6814b9e1ae3c5722ab3d2ae8943791996c76933a2252da5cf6bbc83a4f"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/edition.png"
-hash = "45fdd2be5a983af2ad250923ca159c55231e2dfd314eab83ffec834cc2cecd50"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "255131a8f0bedb65836257c054c974dfbaecb38ed392661968e493ef93365660"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/title/mojangstudios.png"
-hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/assets/minecraft/textures/gui/widgets.png"
-hash = "47bab99005249b2fd39c465d367bb93c0077cecd7a2864330815b7ceadd41b20"
-
-[[files]]
-file = "global_packs/required_resources/Insomnia Textures/pack.mcmeta"
-hash = "0bc12472f31f702646b0912f7cb93029fb9db23e772674f8a8db43f8f6b7da2d"
-
-[[files]]
 file = "kubejs/config/common.properties"
 hash = "b49d432567a56addd0fe7b28ec3845fa23a113a109bccb12601febf6163e25e8"
 
@@ -891,11 +711,6 @@ metafile = true
 [[files]]
 file = "mods/beneath-the-wetlands.pw.toml"
 hash = "75094caee8facecc4faf5925b078a942a62dd74793252fbccca2b2d402b2bbe1"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "b38c2ff2774cfb12cff32e8c7601cf88f73f49b0b36a512f13b04ff397fa5502"
 metafile = true
 
 [[files]]
@@ -1480,7 +1295,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "1d65c5b871fd41d0d8a5d893c8a8f188f308a3c9f98d774d45cf23b821ff49c3"
+hash = "b9addca4a01a43fb9abcaebe1f6a1bd9e25fab5d6d83f363941631ab50462248"
 metafile = true
 
 [[files]]
@@ -1809,6 +1624,11 @@ hash = "76ff7b094c0435f07e000daa30872f1ae2ca4fbac85e0791f91fc8d6bb6615f3"
 metafile = true
 
 [[files]]
+file = "mods/it-takes-a-pillage-continuation.pw.toml"
+hash = "00e40a7695465b7d15d45b103a2f6296aef15f18a61cc02251cb9f5455d685e9"
+metafile = true
+
+[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "2da819ba0af314369fd3a34118e45e7c8a22e071b95c42479d92c564f327b2b2"
 metafile = true
@@ -1924,6 +1744,36 @@ hash = "0612494ff45a866a77bc1fe26a05c34560c9d6472a772a4f90b0d730e65cd8f0"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-bygone-nether-it-takes-a-pillage.pw.toml"
+hash = "15af8ee91d7ef975c56b31426a3a874c522180c8000d0d4dd1051fe92e12f34a"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-formations-overworld-nether.pw.toml"
+hash = "8533b8afdb5115b420862c709527c9b9109908e16cb5679c8834a3861477c742"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-medieval-buildings-end.pw.toml"
+hash = "4faec0ceab917b19d5bc9a85cc0d64ec737d4248b2f3749b39f01ee6b474ff3e"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
+hash = "454c9be1c3fe7bccec4bbdc6cdb660218bc32da8bf64f67c3c7e47c649d8a837"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-philips-ruins.pw.toml"
+hash = "aad2485b7897747d413bfad963f1287aa3bb271df5845824e3343e1315183b3a"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-towns-and-towers.pw.toml"
+hash = "4c07e892ff2fa254acab3a5a125322eb9b9a48aec76905a9335621255444eebf"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "e0db4cf89b16317e3aa078289f6625c36c35fa106330ccf826cf25959d475134"
 metafile = true
@@ -1951,6 +1801,16 @@ metafile = true
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "65c23a1f1f0727b0f45e38b5d8fee5cb0b75fb7ed2c529b6dcb3b2434a245239"
+metafile = true
+
+[[files]]
+file = "mods/medieval-buildings-nether-edition.pw.toml"
+hash = "4bcce8d5208fdeefff1b864637314395b31c63c652fb4f3eebf1c06a9448c1f8"
+metafile = true
+
+[[files]]
+file = "mods/medieval-buildings.pw.toml"
+hash = "d252e6ac6b1530718fa68a37577d8fea508e17d5c98f96be0ff18f61555fb503"
 metafile = true
 
 [[files]]
@@ -2044,11 +1904,6 @@ hash = "5d69ace428bf2ff13b8eee9fc9ffcde5fd39e8cf6b3710817863c17c9aaa94e3"
 metafile = true
 
 [[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "546c0f69729f25c09e7296d8e6c580734a9d29f7ec02020b1849cca1545d8f49"
-metafile = true
-
-[[files]]
 file = "mods/more-armor-trims.pw.toml"
 hash = "04405b865b77d659c2a7e18c4e310e08aeee81640533f3ba6c0b2608090eea2a"
 metafile = true
@@ -2066,6 +1921,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2c4076d6ee230ef1708502f77c662de3810a3c8f349a14e85cce2e93b580cdcf"
+metafile = true
+
+[[files]]
+file = "mods/mtr-moogs-temples-reimagined.pw.toml"
+hash = "1f69e2a623139b2d074b7531996113368c227ac2d726de6877edbe1b6268653d"
 metafile = true
 
 [[files]]
@@ -2629,6 +2489,11 @@ hash = "10a66f8103a3d85519f2a0be5b6b5e2901ad7550712cdf82168aad030892ad28"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "39630087d96447c741de61c930102fbb24ab848d1241af0d2b5e97a7d6e67642"
+metafile = true
+
+[[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "086600e50da88bc9ac27fcf57e666d5d9419fdb9c451b0e6eb197e9474433dff"
 metafile = true
@@ -2734,6 +2599,11 @@ hash = "8250987b03a03c7fed0665f87c5cd0e1fc7537327106dc02a03cfb356d1f9c53"
 metafile = true
 
 [[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "85f4ad3040b987672714c965b6d66c3814e7106189853b4076785495cf71f3dc"
+metafile = true
+
+[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "163cb48c372bc8df3d2c9f803bb742887933405e793d9ef761f04452383d2abd"
 metafile = true
@@ -2801,6 +2671,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9a05069c0b18dcba72c79215afc647f539f30616011cb21660496bb2e1253d05"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "1441fe40186242a6e34c5385fe8f702f65be33a26679d49eb889d7840700b6fe"
 metafile = true
 
 [[files]]
@@ -2952,6 +2827,11 @@ hash = "3742efd536b417560395d9aab9643e2a97c105a60fd7f37c9a825024c7479359"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations-patch-variants-and-ventures.pw.toml"
+hash = "477ace9e07699f3fff52169c2d1b965f207a484aacbd018b50c3f13a77818c5f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6a361be792283eb0dc65c8c4bb39c1c41cc9d959f167e7306bdf559a171c967d"
 metafile = true
@@ -2963,7 +2843,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/freshly-modded.pw.toml"
-hash = "2d9b5152758a93c0661214902adb45e0387c213acc979675c66742fad41b483b"
+hash = "f367b626ae9ac26e951a1a5230c1deb31f33c7fac317771f010bda870995c461"
 metafile = true
 
 [[files]]
@@ -2987,11 +2867,6 @@ hash = "b2e81df889468eb25eded7a676bd2c1ed2bfe4bee088360211d641598d5818dc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
-hash = "d6659cf4b15cb7d52b46cdfc3a7884ca0799f522940498b83284ce10cf77686c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
 hash = "0851ca47f3104048f705e0cc42a2ca54bbd3acb01ae9a12d0a945918aa1f05f3"
 metafile = true
@@ -3000,6 +2875,50 @@ metafile = true
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "c0fec30bd6df36bdec97e7192fcfb5da2789d6982a28eceae2234ce3a4b03ee5"
 metafile = true
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/data/insomniaconfig/functions/load.mcfunction"
+hash = "fb3849055b6c4afa3253abe0ff582de07fa2b2fe31a6d1ad7f8d8023a579a769"
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/data/metalbundles/recipes/copper_bundle_smithing_transform.json"
+hash = "788a5bbd1b1da78026c62b3a274a95b1e79bbfe465c745d36d7698c8435d6e1f"
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/data/metalbundles/recipes/diamond_bundle_smithing_transform.json"
+hash = "5cf29dcc07476fc98e1fc658cb0a6982c81004194cb2c165cba6d941bcb27736"
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/data/metalbundles/recipes/golden_bundle_smithing_transform.json"
+hash = "6c73fcf7d366ce51ea1e95894aca49f856e6513d6c6e201f63c6ba95e657c1b5"
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/data/metalbundles/recipes/iron_bundle_smithing_transform.json"
+hash = "34046b26050a19e7f7127c6e4fedc20eef6e1b79980173627083f48c930635b0"
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/data/metalbundles/recipes/leather_bundle.json"
+hash = "bc375e8ad95aa2273b77e53bb3981b19b56cb137dc80db62db69e4dd57effb09"
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/data/metalbundles/recipes/netherite_bundle_smithing_transform.json"
+hash = "6ff29a5a7cc96869ccfd25e3ced952ce879386c0bd2692f613e6260c27410100"
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/data/minecraft/tags/functions/load.json"
+hash = "3f25de60645b8db69bc88b268296c6b168323e9b17c7c0dce525c89070a40cba"
+
+[[files]]
+file = "resources/datapack/required/Insomnia - Config/pack.mcmeta"
+hash = "678d7163390309648315346cbe87c8bced185bbbaa83472fca90e0b82e41e8be"
+
+[[files]]
+file = "resources/datapack/required/Remove_Terralith_Intro_Message.zip"
+hash = "30e40c933089850c447038abae259c9afb5e4283bd250a3ca83b00d3f34348b7"
+
+[[files]]
+file = "resources/datapack/required/village-nullifier-1.18.2-1.0.0.zip"
+hash = "00e66d4ef3b2a875d174ed644506ca47dc021fe37b54ed6dfa2c8c0024a4836e"
 
 [[files]]
 file = "resources/mainmenu/changelog_hover.png"
@@ -3060,6 +2979,102 @@ hash = "53a93771e96d5a40645e39b4d9172fbd5b69cb1e1263296f8959e36aa8ae087f"
 [[files]]
 file = "resources/mainmenu/splashes.txt"
 hash = "3d9fcb9be005bd85e9d9aff2b9f3c347eb68191752707caa71d903ee8c0c90a0"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Lang/assets/minecraft/lang/en_us.json"
+hash = "99b77bc5350d56f89751ed9543dce3fc1b75c0451f55a830f3ceab1dd7c25951"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Lang/pack.mcmeta"
+hash = "3e851073d567e458102962f402a4f8257ba7217b22f1722e6ebbddd56fde8349"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/models/block/birch_leaves.json"
+hash = "5744637b0e3a067eaf1e453a0200dad5716492b0e78fbac22312dbef31a65307"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/optifine/color.properties"
+hash = "ba036ff69c25f757efebfb448cb7de50f71dc6668e9de5068d7f7b481f6d38b4"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/block/birch_leaves.png"
+hash = "35eeff8cb64529c4bc2ee7b2dc2f40ebb8c06328408fd8cd42d9ff5052b0800b"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/colormap/grass.png"
+hash = "e0d8e34b7765f620d5fff26b93f476491b7aed3ce936922d2ea2c443a159f69b"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/profession/weaponsmith.png"
+hash = "946c4d7d1de80ce3f088023a789f45c4c1c59b16a30d06dba6fc296848475b70"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/type/desert.png"
+hash = "cf6193d9501f15e536ef1730419d1490ceabf9b7474075611a849fbde980e858"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/minecraft/textures/entity/zombie_villager/zombie_villager.png"
+hash = "672624ba490e5c27abfbe408a239285690fa148a5cfb57836ea684bcb532003b"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/travelerstitles/lang/en_us.json"
+hash = "14960a97340bb4bacd0cdac0cafdd902d2847d62751c7e82a43593150d380205"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/assets/travelerstitles/lang/uk_ua.json"
+hash = "a03702f6fa5305f22b7528cd4b87380a793c432f8c9750dec56a15fed6047168"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Patches/pack.mcmeta"
+hash = "7458d3c95ce5c858ef2653daacf56cd4bb4fd47366793a15644744882613648d"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/options_background.png"
+hash = "3530d878540a036669bbab0e78abf6d6d245fc5fda102b872190e27c9dc0bd23"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "b732cdeae56ff0f3d04468c5f4e87b5184e650d11998bf3dcd89c831be6d7b30"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "11898413342b6163e4b70a9fb8a7c3fc6ceb50634e3b9a55075f567d185ef5b9"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "dbe45718c5f35d0838ad37cfa45c6cc06d56d56d54f2b53e7b9f03c340a05f38"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "a5900d94d3a995b179bd82c5bcd0c48b259960204e15ad3cc6687ec4529027b2"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "69dcb605c750da0c36894c29c0d1b685dc2b98700f40411dd6a7905f3cb1605a"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "fbf7fd6814b9e1ae3c5722ab3d2ae8943791996c76933a2252da5cf6bbc83a4f"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/edition.png"
+hash = "45fdd2be5a983af2ad250923ca159c55231e2dfd314eab83ffec834cc2cecd50"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "255131a8f0bedb65836257c054c974dfbaecb38ed392661968e493ef93365660"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/assets/minecraft/textures/gui/widgets.png"
+hash = "47bab99005249b2fd39c465d367bb93c0077cecd7a2864330815b7ceadd41b20"
+
+[[files]]
+file = "resources/resourcepack/required/Insomnia Textures/pack.mcmeta"
+hash = "0bc12472f31f702646b0912f7cb93029fb9db23e772674f8a8db43f8f6b7da2d"
 
 [[files]]
 file = "shaderpacks/Complementary r5.2.1 [Insomnia Edit]/HOW TO INSTALL.txt"

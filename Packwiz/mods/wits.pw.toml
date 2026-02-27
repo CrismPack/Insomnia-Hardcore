@@ -1,0 +1,13 @@
+name = "WITS (What Is This Structure?)"
+filename = "wits-1.4.1+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2dc95072bbe61286ba7161e1f63ce9e954c6162"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7314356
+project-id = 909375

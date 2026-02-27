@@ -1,123 +1,292 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_418
-  randomgroup = 1
-  renderorder = foreground
-  [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if][req_id:6f7503b2-d477-430b-9fe5-9d3eff7350931695052809887] = 
+layout-meta {
+  identifier = death_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1772145471927
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:809ac288-5cea-44c4-8afa-046bb1c58530-1772145471927] = [groups:][instances:6f7503b2-d477-430b-9fe5-9d3eff7350931695052809887;]
+  [loading_requirement:fancymenu_loading_requirement_is_multiplayer][requirement_mode:if][req_id:6f7503b2-d477-430b-9fe5-9d3eff7350931695052809887] = 
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  identifier = %id=4003701%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = b93b52ed-8158-4e28-a345-fd224a39ae62-1772145471927
+  [executable_block:b93b52ed-8158-4e28-a345-fd224a39ae62-1772145471927][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = ba14fcd0-4dfb-4241-ab25-d7c1ff3252f0-1772145471927
+  [loading_requirement_container_meta:ba14fcd0-4dfb-4241-ab25-d7c1ff3252f0-1772145471927] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = 4003701
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = mc_deathscreen_respawn_button
   x = 0
-  action = movebutton
   y = 24
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 4d150b2e-9fa1-4624-abd1-16a66e4b645d-1772145471927
+  [loading_requirement_container_meta:4d150b2e-9fa1-4624-abd1-16a66e4b645d-1772145471927] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  identifier = %id=400370%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=400370%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 0
-  action = movebutton
-  y = 35
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
+vanilla_button {
+  button_element_executable_block_identifier = 04aebee0-7e56-4e78-867c-360eabcfc447-1772145471927
+  [executable_block:04aebee0-7e56-4e78-867c-360eabcfc447-1772145471927][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1bf2fd60-4217-408d-b953-b90a69629a98-1772145471927
+  [loading_requirement_container_meta:1bf2fd60-4217-408d-b953-b90a69629a98-1772145471927] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = mc_deathscreen_titlemenu_button
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = mc_deathscreen_respawn_button
   x = 58
-  action = movebutton
   y = 117
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_deathscreen_titlemenu_button%
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = b3a6c540-9290-4343-8b19-aabaef07e1bf-1772145471928
+  [loading_requirement_container_meta:b3a6c540-9290-4343-8b19-aabaef07e1bf-1772145471928] = [groups:][instances:96ef2980-ea78-479f-b289-25a593c8244f1682371772753;]
   [loading_requirement:fancymenu_loading_requirement_is_singpleplayer][requirement_mode:if][req_id:96ef2980-ea78-479f-b289-25a593c8244f1682371772753] = 
-  action = vanilla_button_visibility_requirements
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+  is_hidden = true
+  automated_button_clicks = 0
 }
 
-customization {
-  orientation = element
-  shadow = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 98
-  actionid = 3ae026c8-8cbc-4257-a93c-9711e31d140d1656858845212
-  action = addtext
-  y = -38
-  scale = 0.85
-  alignment = centered
-  value = §f§lClicking "Accept your fate" will take away one of your lives!
+vanilla_button {
+  button_element_executable_block_identifier = 95b2a8db-a6a3-4832-b34c-2e6c43c9bdd4-1772145471928
+  [executable_block:95b2a8db-a6a3-4832-b34c-2e6c43c9bdd4-1772145471928][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = §eTake away a life
+  label = Accept your fate
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 0d39f4ca-a35f-4b6d-b3bc-d41de269b213-1772145471928
+  [loading_requirement_container_meta:0d39f4ca-a35f-4b6d-b3bc-d41de269b213-1772145471928] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = mc_deathscreen_respawn_button
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 8dbc95fd-e9e8-4ec4-b250-807d4285473d-1772145471928
+  [loading_requirement_container_meta:8dbc95fd-e9e8-4ec4-b250-807d4285473d-1772145471928] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
-customization {
-  orientation = element
-  shadow = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 97
-  actionid = 25cd8bf8-3e2f-43c0-b9f4-a293f7cf988d1656858977384
-  action = addtext
-  y = 55
-  scale = 0.85
-  alignment = centered
-  value = §a§lIf a respawn event has occured after your death, clicking "Accept your fate" will simply respawn you.
-}
-
-customization {
-  orientation = element
-  shadow = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 98
-  actionid = 261b2e34-68d0-4517-9d77-dfe58ea96b8b1679534878937
-  action = addtext
-  y = -28
-  scale = 0.85
-  alignment = centered
-  value = §f§lIf your lives reaches "0" you will not respawn and will instead enter a permadeath state.
-}
-
-customization {
-  orientation = element
-  shadow = true
-  orientation_element = vanillabtn:button_compatibility_id:mc_deathscreen_respawn_button
-  x = 98
-  actionid = 479cdefa-4cee-4313-ad32-39cf3ea524ac1679535259642
-  action = addtext
-  y = -18
-  scale = 0.85
-  alignment = centered
-  value = §f§lEither get a friend to come and rescue you, or simply accept your fate and await a respawn wave!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_deathscreen_respawn_button%
-  action = setbuttonlabel
-  value = Accept your fate
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_deathscreen_respawn_button%
-  action = sethoverlabel
-  label = §eTake away a life
+vanilla_button {
+  button_element_executable_block_identifier = 4f62bfe1-57c1-4b49-8019-d36f3277a507-1772145471927
+  [executable_block:4f62bfe1-57c1-4b49-8019-d36f3277a507-1772145471927][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 9a1f12b0-f9e6-43a8-9993-b40d06e452e4-1772145471927
+  [loading_requirement_container_meta:9a1f12b0-f9e6-43a8-9993-b40d06e452e4-1772145471927] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = 400370
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = mc_deathscreen_respawn_button
+  x = 0
+  y = 35
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 1b00dce7-3904-4719-b4a8-3dc241e59a45-1772145471927
+  [loading_requirement_container_meta:1b00dce7-3904-4719-b4a8-3dc241e59a45-1772145471927] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+  is_hidden = true
+  automated_button_clicks = 0
 }
 

@@ -1,0 +1,13 @@
+name = "Loot Integrations: Philip's Ruins"
+filename = "lootintegrations_phillipsruins-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a68dfc67bd7ec8c8ffdec450d9f7ce565275b388"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6510208
+project-id = 1152718

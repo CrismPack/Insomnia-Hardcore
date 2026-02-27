@@ -1,0 +1,13 @@
+name = "Loot Integrations: Medieval Buildings & End & Nether"
+filename = "lootintegrations_medievalbuildings-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "473abdfa91e33f40e4fafd36bd8c26556495d70b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6776749
+project-id = 1149287

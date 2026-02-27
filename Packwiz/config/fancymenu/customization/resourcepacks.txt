@@ -1,35 +1,33 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = net.minecraft.class_5375
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = pack_selection_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1772145471951
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:e9c409f4-f088-441e-ae3c-a06922960df1-1772145471951] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
-  orientation = mid-left
-  enable_scrolling = true
-  shadow = true
-  scale = 1.0
-  source = It is not recommended to adjust the %n%order of these resource packs. For %n%the best experience please leave %n%them as is. %n%%n%If you encounter buggy textures %n%after messing with the order, you can %n%reset them to default by deleting the %n%"options.txt" file inside the modpack%n%instance folder.
-  text_border = 0
-  case_mode = normal
-  source_mode = direct
-  line_spacing = 1
-  x = 6
-  width = 208
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = c7884fd3-af62-48fd-a879-1f1395c1e7f41705849495385
-  y = -51
-  alignment = left
-  base_color = #AA0000
-  height = 103
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
 }
 
