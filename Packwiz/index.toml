@@ -2444,6 +2444,11 @@ hash = "4aa454d5a97c33eb83bf3a78dc83cb459eed6d3953402e665c852a2ab5acc656"
 metafile = true
 
 [[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "09b5ab3c23a28f9e6cf1170e229bedd760a8e9a48fbd7b35d62bf239b6ecf61d"
+metafile = true
+
+[[files]]
 file = "mods/simple-snowy-fix-forge-fabric.pw.toml"
 hash = "df5de08b5f6dce609197877fd50de129251e5fbd6641092038aa0e447f6265af"
 metafile = true
