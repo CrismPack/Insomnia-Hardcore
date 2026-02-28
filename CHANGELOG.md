@@ -85,7 +85,7 @@
 - The Twilight Forest Unofficial
 - Thermoo
 - Tierify
-- True Darkness Refabricated `Client`
+- True Darkness Refabricated
 - TT20 `Server`
 - TxniLib `Client`
 - Via Romana: Infrastructure-Driven Fast Travel

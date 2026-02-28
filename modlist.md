@@ -353,7 +353,7 @@
 - Towns and Towers [Both]
 - Traveler's Titles [Client]
 - Trinkets [Both]
-- True Darkness Refabricated [Client]
+- True Darkness Refabricated [Both]
 - TT20 [Server]
 - TxniLib [Client]
 - Variant Shields [Both]

@@ -1,6 +1,6 @@
 name = "True Darkness Refabricated"
 filename = "darkness-fabric-1.2.0+mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
