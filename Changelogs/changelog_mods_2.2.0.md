@@ -15,6 +15,7 @@
 - Configurable
 - Crash Assistant
 - CrashExploitFixer
+- Data Anchor
 - Death Knights
 - Default Options `Client`
 - Distraction Free Recipes `Client`
@@ -55,10 +56,12 @@
 - True Darkness Refabricated `Client`
 - TT20 `Server`
 - TxniLib `Client`
+- Via Romana: Infrastructure-Driven Fast Travel
 - way2wayfabric
 - Doctor Who:  Weeping Angels
 - You Died `Client`
 - Yung Structures Addon for Loot Integrations
+- Fast Noise
 - Zombie Awareness
 ## Removed
 
@@ -80,6 +83,7 @@
 - Just Enough Items
 - Krypton
 - NetherVinery
+- Noisium
 - Nvidium `Client`
 - Create Support for Open Parties and Claims
 - Phantom Config Fork
@@ -199,7 +203,6 @@
 - **Neruina - Ticking Entity Fixer**: Changed from `neruina-fabric-2.0.0-beta.10+1.20.1.jar` to `neruina-3.2.1+1.20.1-fabric.jar`
 - **Nether Portal Spread**: Changed from `netherportalspread-1.20.1-8.1.jar` to `netherportalspread-1.20.1-8.4.jar`
 - **No Mob Farms**: Changed from `nomobfarm-1.6.5.jar` to `nomobfarm-fabric-1.6.6.jar`
-- **Noisium**: Changed from `noisium-fabric-2.0.3+mc1.20-1.20.1.jar` to `noisium-fabric-2.3.0+mc1.20-1.20.1.jar`
 - **Not Enough Animations**: Changed from `notenoughanimations-fabric-1.7.3-mc1.20.1.jar` to `notenoughanimations-fabric-1.11.3-mc1.20.1.jar`
 - **Open Parties and Claims**: Changed from `open-parties-and-claims-fabric-1.20.1-0.22.0.jar` to `open-parties-and-claims-fabric-1.20.1-0.25.10.jar`
 - **OptiGUI**: Changed from `optigui-2.1.7.jar` to `optigui-2.3.0-beta.9+1.20.jar`

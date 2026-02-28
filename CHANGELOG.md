@@ -9,7 +9,7 @@
 
 ## v2.2.0 <Badge type='warning' text='Work in progress'/> <a href='#v2.2.0' id='v2.2.0'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.14'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.2.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.18.4'/>
 
 ### Update Overview ⭐
 
@@ -47,6 +47,7 @@
 - Configurable
 - Crash Assistant
 - CrashExploitFixer
+- Data Anchor
 - Death Knights
 - Default Options `Client`
 - Distraction Free Recipes `Client`
@@ -87,10 +88,12 @@
 - True Darkness Refabricated `Client`
 - TT20 `Server`
 - TxniLib `Client`
+- Via Romana: Infrastructure-Driven Fast Travel
 - way2wayfabric
 - Doctor Who:  Weeping Angels
 - You Died `Client`
 - Yung Structures Addon for Loot Integrations
+- Fast Noise
 - Zombie Awareness
 
 ### Added Resource Packs 📦
@@ -118,6 +121,7 @@
 - Just Enough Items
 - Krypton
 - NetherVinery
+- Noisium
 - Nvidium `Client`
 - Create Support for Open Parties and Claims
 - Phantom Config Fork
@@ -157,7 +161,7 @@
 
 ## v2.1.7 <a href='#v2.1.7' id='v2.1.7'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.7.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.7.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -206,7 +210,7 @@
 
 ## v2.1.6 <a href='#v2.1.6' id='v2.1.6'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.6.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.6.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -257,7 +261,7 @@
 
 ## v2.1.5 <a href='#v2.1.5' id='v2.1.5'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.5.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.5.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -292,7 +296,7 @@
 
 ## v2.1.4a <a href='#v2.1.4a' id='v2.1.4a'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4a.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -300,7 +304,7 @@
 
 ## v2.1.4 <a href='#v2.1.4' id='v2.1.4'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.4.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -339,7 +343,7 @@
 
 ## v2.1.3 <a href='#v2.1.3' id='v2.1.3'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.11'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.3.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.11'/>
 
 ### Update Overview ⭐
 
@@ -406,7 +410,7 @@
 
 ## v2.1.2 <a href='#v2.1.2' id='v2.1.2'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.7'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.7'/>
 
 ### Update Overview ⭐
 
@@ -429,7 +433,7 @@
 
 ## v2.1.1 <a href='#v2.1.1' id='v2.1.1'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.7'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.7'/>
 
 ### Update Overview ⭐
 
@@ -461,7 +465,7 @@
 
 ## v2.1.0 <a href='#v2.1.0' id='v2.1.0'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.7'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.1.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.7'/>
 
 ### Update Overview ⭐
 
@@ -559,7 +563,7 @@
 
 ## v2.0.0 <a href='#v2.0.0' id='v2.0.0'></a>
 
-<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.15.7'/>
+<a href='https://github.com/CrismPack/Insomnia-Hardcore/blob/1.20.1/Changelogs/changelog_mods_2.0.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.15.7'/>
 
 ### Update Overview ⭐
 
