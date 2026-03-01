@@ -1,0 +1,13 @@
+name = "ClickThrough Plus"
+filename = "clickthrough-plus-3.6.1+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "209cbd18f57fa2f0abfd9c945b99468648228798"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7367698
+project-id = 1122678

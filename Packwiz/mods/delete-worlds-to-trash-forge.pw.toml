@@ -1,0 +1,13 @@
+name = "Delete Worlds To Trash"
+filename = "DeleteWorldsToTrash-v21.11.0-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc7ffd29df86f5d367788f0b354c4c1d759c1ac4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7349643
+project-id = 571076

@@ -1,13 +1,13 @@
 name = "InvMoveCompats"
 filename = "InvMoveCompats-0.5.0+1.21.10-Fabric.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6IpcGP7T/versions/aNlTPSAe/InvMoveCompats-0.5.0%2B1.21.10-Fabric.jar"
-hash-format = "sha512"
-hash = "380efc09aa10469c8434f85f551f6e8c6187ddb3aef21e0e61da26baa01e8a6afe629a067cac77e4e654f7a4b965b6e9e10e1b480755bcc6350b42cfedc30c70"
+hash-format = "sha1"
+hash = "013860160325d2b6e4d54cb86e13d5fd722b4393"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "6IpcGP7T"
-version = "aNlTPSAe"
+[update.curseforge]
+file-id = 7219809
+project-id = 581875

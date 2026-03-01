@@ -1,0 +1,13 @@
+name = "Achievements Optimizer"
+filename = "AchievementOptimizer-fabric-1.21.11-2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a8c127282cb24b61cb7f5a52ce76d255872f632"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7442978
+project-id = 912788

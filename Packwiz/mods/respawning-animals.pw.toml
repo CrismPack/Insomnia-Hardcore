@@ -1,0 +1,13 @@
+name = "Respawning Animals"
+filename = "RespawningAnimals-v21.11.0-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e6f9e5f44f280a639ae797450a602b58d798546"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7357964
+project-id = 322765

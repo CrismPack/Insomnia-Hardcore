@@ -1,0 +1,13 @@
+name = "DnT Nether Fortress Overhaul"
+filename = "DnT-nether-fortress-overhaul-v3.1 [Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b6bb22714dc19665ed4a85360a06b346e02fa00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7053566
+project-id = 1053229

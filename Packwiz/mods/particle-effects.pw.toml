@@ -1,0 +1,13 @@
+name = "Particle Effects"
+filename = "ParticleEffects-1.2.0+1.21.11+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7827f75b99bbd91fe23f515e09ab88aab2c45f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7382483
+project-id = 1120746

@@ -1,13 +1,13 @@
-name = "Cherished Worlds (Fabric/Forge/NeoForge/Quilt)"
-filename = "cherishedworlds-fabric-6.1.5+1.20.1.jar"
-side = "client(disabled)"
-pin = true
+name = "Cherished Worlds"
+filename = "cherishedworlds-fabric-15.1.0+1.21.11.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1ff9d54e1ed094fc7015ff43c2296273a9a30eb1"
+hash = "e5fc2948f80cbe5caf19690dfcdde2e64f4fab37"
 mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 4962495
+file-id = 7582183
 project-id = 308240

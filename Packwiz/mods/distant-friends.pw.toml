@@ -1,0 +1,13 @@
+name = "Distant Friends"
+filename = "DistantFriends-fabric-1.21.11-0.14.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fa9ed75025d514e54c8409bcbd70f95036ef821"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7538457
+project-id = 839197

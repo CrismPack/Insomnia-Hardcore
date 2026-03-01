@@ -1,0 +1,13 @@
+name = "DnT Pillager Outpost Overhaul"
+filename = "DnT-pillager-outpost-overhaul-v3.3 [Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c42574c289aa443493e3b7da77c33b5cc495071"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7053537
+project-id = 920423

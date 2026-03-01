@@ -1,0 +1,13 @@
+name = "Obscure Tooltips"
+filename = "obscure_tooltips-fabric-1.21.11-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92bad542cd6616df1242693198ccdb9e399d8a47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7639421
+project-id = 715660

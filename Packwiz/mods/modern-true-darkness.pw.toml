@@ -1,0 +1,13 @@
+name = "Modern True Darkness"
+filename = "modern-true-darkness-fabric-1.0.0+mc1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "704ce8918121c10d4cf0423d9fd1f1a6964e36e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7651676
+project-id = 1453748

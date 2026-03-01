@@ -1,0 +1,13 @@
+name = "Boss Checklist"
+filename = "boss_checklist-3.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdbeeb36f72df692057be68133584c3de2b90ef3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7523037
+project-id = 1355708

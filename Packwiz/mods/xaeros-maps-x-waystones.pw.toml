@@ -1,0 +1,13 @@
+name = "Xaero's Maps x Waystones"
+filename = "xmxw-2.6.1+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a9339c626d63e2052a623b974b953f98705e7da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7662240
+project-id = 1340197
