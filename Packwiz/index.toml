@@ -25,6 +25,10 @@ file = "config/additional-additions-config.json"
 hash = "42b847194a76663f6d704c001f33f65f35e406d2cb149016ebd667511d8b751c"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "64bb4034948b598412c4cf80453f7f1c0259cbb82b86b91b7c25cf762124ec0f"
+
+[[files]]
 file = "config/amendments-common.json"
 hash = "0021ca5a59f667a2f73b2131c184b6f882e6ab76661700b6acd23702882d2e4c"
 
@@ -69,10 +73,6 @@ file = "config/builtinservers.json"
 hash = "03520518d577a4d7e4f5fb4d088b541e8b2b831dca7f56613682b89c9838f377"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "f57b0e8a30fb360a2348d7efff913422c7cfa7981927d125d656351af76be7c1"
-
-[[files]]
 file = "config/cem.conf"
 hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 
@@ -94,7 +94,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e3c9fcf6e0000ff8a57c4ce3ff092766563b612a0438330f2f3afdfff1db1b40"
+hash = "d09120623aafc051acd49f3794003ecd224bd0725a0b3274a1bf3fa8e15cb630"
 
 [[files]]
 file = "config/darkness.json5"
@@ -107,10 +107,6 @@ hash = "1eb1b91cb48f8f0a9aef911448d5b69f47f72c31a2d95a46802b4525d11b9cfe"
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "17a2106fbcce4b30e16c86388ccbf68ec8defa5fdecbf3e9fb6d5cbde6bc3b3b"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "5e8d3561cd59519f6b474c6c2141bde3f9f7648e1a516f33024ccf940f6f8dbe"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
@@ -501,6 +497,10 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "754addb444684a000539de3b356bc7b9efd15d1d3af8955e80d5f1733a4021a7"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "5e8d3561cd59519f6b474c6c2141bde3f9f7648e1a516f33024ccf940f6f8dbe"
+
+[[files]]
 file = "config/yosbr/shaderpacks/Complementary r5.2.1 [Insomnia Edit].txt"
 hash = "3629480f27050398533ee212d649e306ccfad9abf4caaafae1c3c21e62a0a9a5"
 
@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
 
 [[files]]
@@ -957,6 +957,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "6ea88bc4fee5cd750982121bcd2193281192e8a23bfe0c4582545c9bdb7fdde3"
+metafile = true
+
+[[files]]
+file = "mods/boss-checklist.pw.toml"
+hash = "155eb738b3eb2a0cf643d7c777a867f20f105f42353530793425dfbd698822dd"
 metafile = true
 
 [[files]]
@@ -1200,6 +1205,11 @@ hash = "96a120672fa94aa0235ebbc7520583af225f9f994c2eebd87a22b83459a6877e"
 metafile = true
 
 [[files]]
+file = "mods/dark-window-bar.pw.toml"
+hash = "c00e46b575dd5b928fa3b93aec96d2e1560241125068b72e8d5659e9d847bc76"
+metafile = true
+
+[[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "539df193744359182e929d5648aeb96c58a1bdaa5edb0d0370d42a2d68e18eec"
 metafile = true
@@ -1220,8 +1230,8 @@ hash = "60fabbff3445e6107521a0b963a125081f64aa078ce65c9988a4211b50ca0123"
 metafile = true
 
 [[files]]
-file = "mods/default-options-fabric.pw.toml"
-hash = "39311a61b865e57f76e13a751d23f15b56c07401d2cacac149393c3ce7ad3f11"
+file = "mods/default-options.pw.toml"
+hash = "7f39f76e6422a7af3f560336e2bfbfe4fa8d526bc7740b857bd2b54fb9aa1531"
 metafile = true
 
 [[files]]
@@ -1460,11 +1470,6 @@ hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
 metafile = true
 
 [[files]]
-file = "mods/fabric-waystones.pw.toml"
-hash = "a898a207b694daf9953bc3858d96ac760d783e601b02d92f3b25edd49d23de60"
-metafile = true
-
-[[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "aa4f7442c65ddef2cd7594e49e2cd26f28f25f4c8b11b95a611b16a7a242a07b"
 metafile = true
@@ -1495,6 +1500,11 @@ hash = "c5124e484278b66d796c657e3a48c2bda634f7a73aacce05911e677bcbdb07f1"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "99b30274301843e8c1c2f8144dd63e95d19f05d576065bbddff851f02def2da4"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "3c42a829336457bcc9ad7e103c49c985e54867f16d1c9d7b659e0bfc11afa6f9"
 metafile = true
@@ -1507,6 +1517,11 @@ metafile = true
 [[files]]
 file = "mods/fix-experience-bug.pw.toml"
 hash = "eac38e997f47d45ceae876a7cff183967e9ff9e5fdd8a3bed42847f2afad52de"
+metafile = true
+
+[[files]]
+file = "mods/foolproof.pw.toml"
+hash = "6676545e5d1a149ddfd3d8585c9405119d9ddf9ffbfdb6f589be161fde4d066a"
 metafile = true
 
 [[files]]
@@ -1527,11 +1542,6 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "6586ad47feb3a385741cbd4a817f3dd3fdc15e9caf08cd4e05c91a630b6a9d5b"
-metafile = true
-
-[[files]]
-file = "mods/framework-fabric.pw.toml"
-hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
@@ -1675,6 +1685,11 @@ hash = "b448567c24853dc5c38fb625f27714d7508956122a41e697f8447d97d3483534"
 metafile = true
 
 [[files]]
+file = "mods/integrated-villages.pw.toml"
+hash = "3e3733a5a2629f23767066b56d6ab8fbdf0b5a2e85f182ff0cfffdaf2b05d522"
+metafile = true
+
+[[files]]
 file = "mods/interactic.pw.toml"
 hash = "2db5bef8c8ed132d11e6219f8ee5a4e406e4def40a9f2f75b02e116fd2a8e19c"
 metafile = true
@@ -1691,12 +1706,12 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "e9a8feb043bb0071198f4170d6484f30a6465ed73b2f2083549642e2ce7c4707"
+hash = "283a238db81c7372a30f30dbbfb7df835156556f5296dc0286dc0087c9ba26a0"
 metafile = true
 
 [[files]]
 file = "mods/invmovecompats.pw.toml"
-hash = "8a8dd75f4e258a1cfb83c49e7d2b2530f93c7aaa9deb28fd38bb511eeeca0d9f"
+hash = "fd1a4ef14dc9f01ea5f06f8a9dc1a4b2ab1bf1198aed331dc95e568e4cdc1666"
 metafile = true
 
 [[files]]
@@ -1755,6 +1770,11 @@ hash = "8e3536092375aecb58eff2d81714fab7a3272375c9e6e19481ea500e6fbd9726"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "4def513597e9972c648122201db3a2080b68470bfde6bdde02906132e7c80bdd"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "f5bec9614d8ccdbfb71070ce71811085f3cb9fad72c3ae73dac2ede50cb06e39"
 metafile = true
@@ -1762,6 +1782,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
+metafile = true
+
+[[files]]
+file = "mods/leaky.pw.toml"
+hash = "6f01dde143c1718c0c863256b50569dcf1acebc917562531cd374dc0f6196302"
 metafile = true
 
 [[files]]
@@ -1902,16 +1927,6 @@ metafile = true
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "d2001cb8dca23194385df3e034f4b610ac12a99bcffa2a669d07e6792d846a11"
-metafile = true
-
-[[files]]
-file = "mods/mo-glass.pw.toml"
-hash = "5383f39c26454484a6a76265fa79aead51b39ef75b36585232b077102c778d67"
-metafile = true
-
-[[files]]
-file = "mods/mobtimizations.pw.toml"
-hash = "a06d3c4d3e5963e97183c930124b25c82c5a04de93086f3a60c12d36a38b39a1"
 metafile = true
 
 [[files]]
@@ -2420,11 +2435,6 @@ hash = "e86f91de17de6f9770edbe2e175567de56dad6ec66b021d2d180a515e9e1e66e"
 metafile = true
 
 [[files]]
-file = "mods/super-better-grass.pw.toml"
-hash = "b69d9ef19b394e1750d9b2e51e9907385b543866c992df5970e03263b3518c74"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
 metafile = true
@@ -2560,11 +2570,6 @@ hash = "31ae5bb52c6da9d04765ccca16a510e781bfff3df79ca116a24fa423fdfb5740"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "4208b682ff7512da07a0d9b0d786efd8fc4753fab3100d54bf4ceb1feeb956da"
-metafile = true
-
-[[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "a2b88e198be3939655791f450937d36b3eb9824bc04461abc219b21740ab2601"
 metafile = true
@@ -2572,6 +2577,11 @@ metafile = true
 [[files]]
 file = "mods/way2wayfabric.pw.toml"
 hash = "65b3ff569e1e0e39bc55c3227ba174a91186fdda6db697b05207a8578737a461"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "853cff9dbfc40410ca264fbe1fb87d101af8166b5f6656cf422e8ea6c9823ca2"
 metafile = true
 
 [[files]]
@@ -2592,6 +2602,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-maps-x-waystones.pw.toml"
+hash = "46ed6e9a0c63eacfd80ba4edef845dccf8bee7b9e35f9c8fbd35124c0d08068b"
 metafile = true
 
 [[files]]
@@ -2760,11 +2775,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-19.pw.toml"
 hash = "d6659cf4b15cb7d52b46cdfc3a7884ca0799f522940498b83284ce10cf77686c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/towers-of-the-wild-modded-fabric-waystones-compat.pw.toml"
-hash = "9d5727c67b54ad96b4cddb42771c4d489f57f680f634928f4f9a348f1555c9f6"
 metafile = true
 
 [[files]]

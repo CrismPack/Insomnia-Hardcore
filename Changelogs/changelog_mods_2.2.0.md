@@ -8,6 +8,7 @@
 - Almanac Lib
 - Animation Overhaul
 - Better Trims
+- Boss Checklist
 - Cobweb
 - Colorwheel Patcher
 - Colorwheel
@@ -15,6 +16,7 @@
 - Configurable
 - Crash Assistant
 - CrashExploitFixer
+- Dark Window Bar `Client`
 - Data Anchor
 - Death Knights
 - Default Options `Client`
@@ -24,7 +26,8 @@
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
 - Eternal Attributes
-- Framework
+- Faster Random
+- Foolproof
 - Frostiful
 - Hephaestus Fabric
 - Icarae Origin
@@ -32,7 +35,10 @@
 - iChunUtil `Client`
 - Immersive Optimization
 - Indium `Client`
+- Integrated Villages
 - InvMoveCompats `Client`
+- LambdaBetterGrass
+- Leaky - Item Lag Fix
 - Loot Integrations
 - LootBeams Fabric Updated `Client`
 - Melody `Client`
@@ -58,7 +64,9 @@
 - TxniLib `Client`
 - Via Romana: Infrastructure-Driven Fast Travel
 - way2wayfabric
+- Waystones
 - Doctor Who:  Weeping Angels
+- Xaero's Maps x Waystones
 - You Died `Client`
 - Yung Structures Addon for Loot Integrations
 - Fast Noise
@@ -76,6 +84,7 @@
 - Dynamic Trim
 - Embeddium `Client`
 - Enderite Mod
+- Fabric Waystones
 - Farsighted Mobs
 - fix GPU memory leak `Client`
 - Furnace Recycle
@@ -83,6 +92,8 @@
 - Just Enough Items
 - Krypton
 - NetherVinery
+- Mo Glass
+- Mobtimizations - Entity Performance Fixes
 - Noisium
 - Nvidium `Client`
 - Create Support for Open Parties and Claims
@@ -90,9 +101,11 @@
 - Projectile Damage Attribute
 - Shulker+
 - Create Slice & Dice
+- SuperBetterGrass `Client`
 - The Lost Castle
 - TieredZ
 - True Darkness Fork `Client`
+- Very Many Players
 ## Modified
 
 - **Advanced Netherite**: Changed from `advancednetherite-fabric-2.1.0-1.20.1.jar` to `advancednetherite-fabric-2.1.3-1.20.1.jar`
@@ -159,7 +172,6 @@
 - **EMI Extra Integrations**: Changed from `extra-mod-integrations-0.4.6+1.20.1.jar` to `extra-mod-integrations-0.4.7+1.20.1.jar`
 - **Fabric API**: Changed from `fabric-api-0.92.2+1.20.1.jar` to `fabric-api-0.92.7+1.20.1.jar`
 - **Fabric Language Kotlin**: Changed from `fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar` to `fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar`
-- **Wraith Waystones**: Changed from `wraith-waystones-3.3.2+mc1.20.1.jar` to `wraith-waystones-3.3.3+mc1.20.1.jar`
 - **Farmer's Delight Refabricated**: Changed from `FarmersDelight-1.20.1-2.1.1+refabricated.jar` to `FarmersDelight-1.20.1-2.4.1+refabricated.jar`
 - **Fast Async World Save**: Changed from `fastasyncworldsave-fabric-1.20.1-1.9.jar` to `fastasyncworldsave-fabric-1.20.1-2.6.jar`
 - **Formations Overworld**: Changed from `formationsoverworld-1.0.3.jar` to `formationsoverworld-1.0.5-mc1.20.jar`

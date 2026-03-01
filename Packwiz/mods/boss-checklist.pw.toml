@@ -1,0 +1,13 @@
+name = "Boss Checklist"
+filename = "boss_checklist-fabric-3.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cc5835edf311041e4d9e7824b468f921bc71c5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7529819
+project-id = 1355708

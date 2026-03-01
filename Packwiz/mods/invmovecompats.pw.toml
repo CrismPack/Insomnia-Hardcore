@@ -3,11 +3,11 @@ filename = "InvMoveCompats-0.5.0+1.20.4-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6IpcGP7T/versions/eRudauVi/InvMoveCompats-0.5.0%2B1.20.4-Fabric.jar"
-hash-format = "sha512"
-hash = "f2f24eb733c2852aac59a4406b09b1e5ac29d4088f215fb3f4a130b4394eca140afb8b5a752ca5e3e374153b25c8f059a431a8207a0ba7b065ae6fdff32d04a1"
+hash-format = "sha1"
+hash = "fa0aee52fcfe8604e4b74aceac4b58573558bd32"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "6IpcGP7T"
-version = "eRudauVi"
+[update.curseforge]
+file-id = 7219811
+project-id = 581875

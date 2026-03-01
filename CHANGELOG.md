@@ -40,6 +40,7 @@
 - Almanac Lib
 - Animation Overhaul
 - Better Trims
+- Boss Checklist
 - Cobweb
 - Colorwheel Patcher
 - Colorwheel
@@ -47,6 +48,7 @@
 - Configurable
 - Crash Assistant
 - CrashExploitFixer
+- Dark Window Bar `Client`
 - Data Anchor
 - Death Knights
 - Default Options `Client`
@@ -56,7 +58,8 @@
 - Elytra Physics `Client`
 - Entity Culling Fabric/Forge `Client`
 - Eternal Attributes
-- Framework
+- Faster Random
+- Foolproof
 - Frostiful
 - Hephaestus Fabric
 - Icarae Origin
@@ -64,7 +67,10 @@
 - iChunUtil `Client`
 - Immersive Optimization
 - Indium `Client`
+- Integrated Villages
 - InvMoveCompats `Client`
+- LambdaBetterGrass
+- Leaky - Item Lag Fix
 - Loot Integrations
 - LootBeams Fabric Updated `Client`
 - Melody `Client`
@@ -90,7 +96,9 @@
 - TxniLib `Client`
 - Via Romana: Infrastructure-Driven Fast Travel
 - way2wayfabric
+- Waystones
 - Doctor Who:  Weeping Angels
+- Xaero's Maps x Waystones
 - You Died `Client`
 - Yung Structures Addon for Loot Integrations
 - Fast Noise
@@ -114,6 +122,7 @@
 - Dynamic Trim
 - Embeddium `Client`
 - Enderite Mod
+- Fabric Waystones
 - Farsighted Mobs
 - fix GPU memory leak `Client`
 - Furnace Recycle
@@ -121,6 +130,8 @@
 - Just Enough Items
 - Krypton
 - NetherVinery
+- Mo Glass
+- Mobtimizations - Entity Performance Fixes
 - Noisium
 - Nvidium `Client`
 - Create Support for Open Parties and Claims
@@ -128,9 +139,15 @@
 - Projectile Damage Attribute
 - Shulker+
 - Create Slice & Dice
+- SuperBetterGrass `Client`
 - The Lost Castle
 - TieredZ
 - True Darkness Fork `Client`
+- Very Many Players
+
+### Removed Resource Packs ❌
+
+- Towers of the Wild Modded: Fabric Waystones Compat
 
 ### Script/Datapack Changes 📝
 
@@ -158,6 +175,7 @@
 - Changed "interdimensional_teleporting" to "false": `Weeping Angles`, `Both`
 - Configured mod to use our Discord server and BCC config values: `Crash Assistant`, `Client`
 - Changed count_libraries, count_children and update_checker to "false": `Mod Menu`, `Client`
+- Changed "Enables random trivia" to "false": `The Aether`, `Client`
 
 ## v2.1.7 <a href='#v2.1.7' id='v2.1.7'></a>
 
