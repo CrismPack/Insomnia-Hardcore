@@ -1,0 +1,13 @@
+name = "Better Clouds"
+filename = "better-clouds-1.11.3-alpha+1.21.11-fabric.rev.0daa830.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e14c71a7b1057a6748e84517d6ea94ad349df15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7530000
+project-id = 1285973

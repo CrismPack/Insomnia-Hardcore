@@ -1,0 +1,13 @@
+name = "Farmer's Cutting Collection"
+filename = "farmers-cutting-collection-1.21.11-5.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c64ddfd42554f059d242111bed0baff482f593c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7462056
+project-id = 1299724

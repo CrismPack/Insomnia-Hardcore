@@ -4,5 +4,5 @@
   "generationRadius": 128,
   "update_interval": 20,
   "maxQueueSize": 20000,
-  "maxActiveTasks": 1
+  "maxActiveTasks": 5
 }

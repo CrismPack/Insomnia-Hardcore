@@ -1,0 +1,13 @@
+name = "All The Wood We've Got"
+filename = "All-The-Wood-Weve-Got-Fabric-4.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1641de433565a5281f6044816bf5bb623fd32555"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7432229
+project-id = 1138171
