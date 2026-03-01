@@ -1984,6 +1984,11 @@ hash = "4ce7b3dd59beef758569607f9650574dc4bb50845626fb1437ed550a1fa5525e"
 metafile = true
 
 [[files]]
+file = "mods/mob-ai-tweaks.pw.toml"
+hash = "223127c9312ae20f04c729c1aac3cb95c01a9d6aabee3e4258a9a60a354532fc"
+metafile = true
+
+[[files]]
 file = "mods/mobtimizations.pw.toml"
 hash = "f7bd0ac85fa2a4c0e38f8006eddcd38199677aa783c8768c17b7007a974b6dd8"
 metafile = true
@@ -2031,11 +2036,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2c4076d6ee230ef1708502f77c662de3810a3c8f349a14e85cce2e93b580cdcf"
-metafile = true
-
-[[files]]
-file = "mods/mtr-moogs-temples-reimagined.pw.toml"
-hash = "1f69e2a623139b2d074b7531996113368c227ac2d726de6877edbe1b6268653d"
 metafile = true
 
 [[files]]
