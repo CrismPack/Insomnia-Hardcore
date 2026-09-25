@@ -1,3 +1,5 @@
 CrismPack/Wiki:
-  - source: CHANGELOG.md
-    dest: docs/insomnia/changelogs/1.20.md
+  # Publish the presentation-free release data; the wiki renders the pages.
+  # Directory sync is MC-version agnostic, so migrations never touch this.
+  - source: Changelogs/data/
+    dest: docs/insomnia/data/
