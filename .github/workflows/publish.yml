@@ -5,11 +5,10 @@ on:
     types: [published]
 
 env:
-  MC_VERSION: 1.20.1
-  RELEASE_TYPE: release
   CURSEFORGE_TOKEN: ${{secrets.CURSEFORGE_TOKEN}}
-
-  PRE_RELEASE: false
+  # Everything else comes from the release itself, so nothing in this file
+  # needs editing before a release.
+  TAG: ${{github.event.release.tag_name}}
 permissions:
   contents: write
 
@@ -21,31 +20,35 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Read the Minecraft version and release type
+        run: |
+          echo "MC_VERSION=$(grep -m1 '^minecraft = ' Packwiz/pack.toml | cut -d'"' -f2)" >> "$GITHUB_ENV"
+          case "$TAG" in
+            *alpha*) echo "RELEASE_TYPE=alpha" >> "$GITHUB_ENV" ;;
+            *beta*|*rc*|*pre*) echo "RELEASE_TYPE=beta" >> "$GITHUB_ENV" ;;
+            *) echo "RELEASE_TYPE=release" >> "$GITHUB_ENV" ;;
+          esac
 
       - name: Download pack files
-        uses: robinraju/release-downloader@v1.10
-        id: download-files
+        uses: robinraju/release-downloader@v1.11
         with:
+          tag: ${{env.TAG}}
           fileName: '*.zip'
-          latest: true
           tarBall: false
           zipBall: false
-          preRelease: ${{env.PRE_RELEASE}}
 
       - name: Publish to CurseForge
         uses: HaXrBOT/upload-curseforge-modpack-action@master
         with:
           api-token: ${{env.CURSEFORGE_TOKEN}}
           project-id: '560596'
-          modpack-path: 
-            ./InsomniaHardcore-${{steps.download-files.outputs.tag_name}}.zip
-          modpack-server-path: 
-            ./InsomniaHardcore-Server-${{steps.download-files.outputs.tag_name}}.zip
+          modpack-path: ./InsomniaHardcore-${{env.TAG}}.zip
+          modpack-server-path: ./InsomniaHardcore-Server-${{env.TAG}}.zip
           changelog-path: CurseForge-Release.md
           changelog-format: markdown
           game-version: ${{env.MC_VERSION}}
-          display-name: Insomnia v${{steps.download-files.outputs.tag_name}}
-          server-display-name: Server Pack 
-            v${{steps.download-files.outputs.tag_name}}
+          display-name: Insomnia v${{env.TAG}}
+          server-display-name: Server Pack v${{env.TAG}}
           release-type: ${{env.RELEASE_TYPE}}
