@@ -1,0 +1,104 @@
+{
+  "pack": "InsomniaHardcore",
+  "version": "2.0.0.pre2",
+  "minecraft": "1.20.1",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.14.22"
+  },
+  "released": "2023-08-31",
+  "prerelease": true,
+  "comparedTo": {
+    "version": "2.0.0.pre1",
+    "minecraft": "1.20.1"
+  },
+  "overview": [
+    "Reverted to Fabric modloader due to issues with uploading to CurseForge. (This issue has been forwarded to the CF support team)"
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [],
+  "mods": {
+    "added": [
+      "Fabric API",
+      "YetAnotherConfigLib `Client`"
+    ],
+    "removed": [
+      "LambdaBetterGrass `Client`",
+      "Quilted Fabric API  / Quilt Standard Libraries"
+    ],
+    "updated": [
+      {
+        "name": "Cherished Worlds",
+        "from": "cherishedworlds-quilt-6.1.1+1.20.1.jar",
+        "to": "cherishedworlds-fabric-6.1.1+1.20.1.jar"
+      },
+      {
+        "name": "Cristel Lib",
+        "from": "cristellib-1.1.1-quilt.jar",
+        "to": "cristellib-1.1.1-fabric.jar"
+      },
+      {
+        "name": "Cupboard",
+        "from": "cupboard-fabric-1.20.1-1.8.jar",
+        "to": "cupboard-fabric-1.20.1-1.9.jar"
+      },
+      {
+        "name": "Global Packs",
+        "from": "global_packs-quilt-1.19.4-1.16.1_quilt.jar",
+        "to": "global_packs-fabric-1.19.4-1.16.1_fabric.jar"
+      },
+      {
+        "name": "InvMove",
+        "from": "InvMove-1.20-0.8.4-Quilt.jar",
+        "to": "InvMove-1.20-0.8.4-Fabric.jar"
+      },
+      {
+        "name": "Memory Leak Fix",
+        "from": "memoryleakfix-fabric-1.17+-1.1.1.jar",
+        "to": "memoryleakfix-fabric-1.17+-1.1.2.jar"
+      },
+      {
+        "name": "MidnightLib",
+        "from": "midnightlib-quilt-1.4.1.jar",
+        "to": "midnightlib-fabric-1.4.1.jar"
+      },
+      {
+        "name": "Polymorph",
+        "from": "polymorph-quilt-0.49.0+1.20.1.jar",
+        "to": "polymorph-fabric-0.49.0+1.20.1.jar"
+      },
+      {
+        "name": "Moonlight Lib",
+        "from": "moonlight-1.20-2.8.12-fabric.jar",
+        "to": "moonlight-1.20-2.8.13-fabric.jar"
+      },
+      {
+        "name": "Simple Voice Chat",
+        "from": "voicechat-quilt-1.20.1-2.4.23.jar",
+        "to": "voicechat-fabric-1.20.1-2.4.24.jar"
+      },
+      {
+        "name": "Very Many Players",
+        "from": "vmp-fabric-mc1.20.1-0.2.0+beta.7.100-all.jar",
+        "to": "vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar"
+      },
+      {
+        "name": "Zoomify",
+        "from": "Zoomify-2.11.0.jar",
+        "to": "Zoomify-2.11.2.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  }
+}

@@ -1,0 +1,1047 @@
+{
+  "pack": "InsomniaHardcore",
+  "version": "2.0.0.pre1",
+  "minecraft": "1.20.1",
+  "loader": {
+    "name": "Quilt",
+    "version": "0.20.1"
+  },
+  "released": "2023-08-31",
+  "prerelease": true,
+  "comparedTo": {
+    "version": "1.3.2",
+    "minecraft": "1.18.2"
+  },
+  "overview": [
+    "Migration to 1.20.1",
+    "Switched to the 'Quilt' modloader.",
+    "Removed/disabled mods that are either unavailable or incompatible.",
+    "'Recall Potions' has been replaced by 'Recall Staffs'.",
+    "Half of the 'Bone Broth' food items have been replaced with 'Mixed Salad' to make it more fair towards vegetarian origins.",
+    "Overhauled the look of the Discord rich presense integration."
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [
+    "Removed 'mp_fix' customization, since it is no longer needed: [FancyMenu], [Client]",
+    "Changed Discord RPC to use its own \"Insomnia: Hardcore\" application: [Simple Discord RPC], [Client]",
+    "Disabled BetterX startup message: [BCLib], [Client]",
+    "Fixed load order of Resource Packs: [Resource Pack Overrides], [Client]",
+    "Made 'NoBushyLeaves' optional: [Resource Pack Overrides], [Client]",
+    "Made 'Tissou's Zombie Pack' optional: [Resource Pack Overrides], [Client]",
+    "Fixed villager texture override to now use textures from the official 'Fresh Animations' resourcepack instead of the fork: [Insomnia Textures], [Client]",
+    "Replaced LargeImageKey with its GIF variant: [Simple Discord RPC], [Client]",
+    "Fixed config to match behavior in 1.18 version of the modpack: [Zoomify], [Client]",
+    "Disabled button_update_badge: [Mod Menu], [Client]",
+    "Replaced 'recallpotion' item with 'recallstaffs:iron_recall_staff': [Starter Kit | Starter Items] , [Client | Server]",
+    "Replaced half of the bone_broth with mixed_salad, to have something for both vegetarian and carnivore origins: [Starter Kit | Starter Items] , [Client | Server]",
+    "Removed the book that explains the recall potion: [Starter Kit | Starter Items] , [Client | Server]",
+    "Set \"render_item_model\" to \"none\". This is to fix an incompatibility with 'Sodium': [Legendary Tooltips], [Client]"
+  ],
+  "mods": {
+    "added": [
+      "BlossomLib `Server`",
+      "BlossomTpa `Server`",
+      "Branded Logs",
+      "Colorful Hearts `Client`",
+      "Compact Help Command",
+      "Crafting Manipulator",
+      "CraterLib",
+      "Cristel Lib",
+      "Cupboard",
+      "Default Server Properties `Server`",
+      "Entity Model Features `Client`",
+      "fabric-permissions-api",
+      "Farsighted Mobs",
+      "FullStack Watchdog `Server`",
+      "Improved Stations Updated",
+      "Incendium",
+      "Leaves Be Gone",
+      "LibZ",
+      "MCPitanLib",
+      "Model Gap Fix `Client`",
+      "Neruina - Ticking Entity Fixer",
+      "oωo",
+      "Phantom Config Fork",
+      "Quilted Fabric API  / Quilt Standard Libraries",
+      "RandomTP `Server`",
+      "Recall Staffs",
+      "Searchables `Client`",
+      "Moonlight Lib",
+      "Show Me What You Got",
+      "Starter Structure `Server`",
+      "Status Effect Bars `Client`",
+      "Too Fast `Server`",
+      "True Darkness Fork `Client`",
+      "Very Many Players `Server`"
+    ],
+    "removed": [
+      "Advancements Debug",
+      "Amplified Nether",
+      "Armor Sound Tweak `Client`",
+      "Basic Shields",
+      "Better Biome Blend `Client`",
+      "Bygone Nether",
+      "Carpet-Fixes",
+      "Carpet",
+      "Charm",
+      "CIT Resewn `Client`",
+      "Cloth API",
+      "Companion 🐕",
+      "Custom Entity Models Fork `Client`",
+      "Custom Entity Models `Client`",
+      "Damage Tilt",
+      "Decorative Blocks",
+      "Dense Ores: Refabricated",
+      "Dimension Fix",
+      "Droplight",
+      "Erroring Entity Remover",
+      "Fabric API",
+      "Fabric Shield Lib",
+      "FabricTPA `Server`",
+      "Feature NBT Deadlock Be Gone",
+      "Forgotten Graves",
+      "Forgotten Recipes - Sculk Sensor, Bundle, Leather and Powder Snow Recipe",
+      "Goblin Traders",
+      "Health Overlay `Client`",
+      "Hephaestus Fabric",
+      "I Know What I'm Doing `Client`",
+      "Illuminations 🔥 `Client`",
+      "ImmediatelyFast `Client`",
+      "Improved Stations",
+      "Ingredient Extension API",
+      "InvMoveCompats",
+      "It Takes a Pillage",
+      "Item Model Fix `Client`",
+      "ItemFlexer",
+      "Leaf Decay",
+      "Mining Dimensions",
+      "Mo' Structures",
+      "Nears",
+      "Create Support for Open Parties and Claims",
+      "Phantom Config",
+      "Pling `Client`",
+      "Prefab - Fabric",
+      "Raised `Client`",
+      "Recall Potion Backport",
+      "Red Bits",
+      "Roughly Enough Trades `Client`",
+      "Status Effect Timer `Client`",
+      "Stoneholm, Underground Villages",
+      "ThonkUtil",
+      "Traveler's Titles `Client`",
+      "True Darkness `Client`",
+      "Villagers Respawn",
+      "Wandering Collector",
+      "WMITAF `Client`",
+      "YUNG's API",
+      "YUNG's Better Desert Temples",
+      "YUNG's Better Dungeons",
+      "YUNG's Better Mineshafts",
+      "YUNG's Better Nether Fortresses",
+      "YUNG's Better Ocean Monuments",
+      "YUNG's Better Strongholds",
+      "YUNG's Better Witch Huts",
+      "YUNG's Bridges",
+      "YUNG's Extras"
+    ],
+    "updated": [
+      {
+        "name": "Adorn",
+        "from": "Adorn-3.5.0+1.18.2-fabric.jar",
+        "to": "Adorn-5.0.0+1.20.1-fabric.jar"
+      },
+      {
+        "name": "Advanced Netherite",
+        "from": "advancednetherite-fabric-1.5.1-1.18.2.jar",
+        "to": "advancednetherite-fabric-2.0.2-1.20.1.jar"
+      },
+      {
+        "name": "Advancement Plaques",
+        "from": "AdvancementPlaques-1.18.2-fabric-1.4.6.jar",
+        "to": "AdvancementPlaques-1.20.1-fabric-1.4.11.jar"
+      },
+      {
+        "name": "Advancements Enlarger",
+        "from": "advancements-enlarger-0.2.4.jar",
+        "to": "advancements-enlarger-0.3.3.jar"
+      },
+      {
+        "name": "Alternate Current",
+        "from": "alternate-current-mc1.18-1.5.0.jar",
+        "to": "alternate-current-mc1.20-1.7.0.jar"
+      },
+      {
+        "name": "Ambient Environment",
+        "from": "AmbientEnvironment-fabric-1.18.2-7.0+19.jar",
+        "to": "AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar"
+      },
+      {
+        "name": "Animatica",
+        "from": "animatica-0.5+1.18.2.jar",
+        "to": "animatica-0.6+1.20.jar"
+      },
+      {
+        "name": "AntiGhost",
+        "from": "antighost-1.18.2-fabric0.47.10-1.1.4.jar",
+        "to": "antighost-1.20-fabric0.83.0-1.1.5.jar"
+      },
+      {
+        "name": "AntiXray",
+        "from": "anti-xray-1.2.1-Fabric-1.18.2.jar",
+        "to": "anti-xray-1.3.1-Fabric-1.20.1.jar"
+      },
+      {
+        "name": "AppleSkin",
+        "from": "appleskin-fabric-mc1.18.2-2.4.1.jar",
+        "to": "appleskin-fabric-mc1.20-2.5.0.jar"
+      },
+      {
+        "name": "Architectury API",
+        "from": "architectury-4.11.93-fabric.jar",
+        "to": "architectury-9.1.12-fabric.jar"
+      },
+      {
+        "name": "AttributeFix",
+        "from": "AttributeFix-Fabric-1.18.2-14.0.2.jar",
+        "to": "AttributeFix-Fabric-1.20.1-21.0.2.jar"
+      },
+      {
+        "name": "AutoTag",
+        "from": "AutoTag-1.18.2-1.1.0.jar",
+        "to": "autotag-2.0.2+1.20.jar"
+      },
+      {
+        "name": "Awesome Dungeon Nether edition - Fabric",
+        "from": "awesomedungeonnether-fabric-1.18.2-3.1.1.jar",
+        "to": "awesomedungeonnether-fabric-1.20.1-3.1.1.jar"
+      },
+      {
+        "name": "Awesome Dungeon The End edition - Fabric",
+        "from": "awesomedungeonend-fabric-1.18.2-3.1.1.jar",
+        "to": "awesomedungeonend-fabric-1.20.1-3.1.1.jar"
+      },
+      {
+        "name": "Balm",
+        "from": "balm-fabric-3.2.5+0.jar",
+        "to": "balm-fabric-1.20-7.0.7.jar"
+      },
+      {
+        "name": "BCLib",
+        "from": "bclib-1.4.7.jar",
+        "to": "bclib-3.0.13.jar"
+      },
+      {
+        "name": "Better Beds",
+        "from": "betterbeds-1.2.0.jar",
+        "to": "betterbeds-1.3.0-1.19.3.jar"
+      },
+      {
+        "name": "Better Combat",
+        "from": "bettercombat-fabric-1.6.2+1.18.2.jar",
+        "to": "bettercombat-fabric-1.7.3+1.20.1.jar"
+      },
+      {
+        "name": "Better Compatibility Checker",
+        "from": "betterCompatibilityChecker-fabric-1.0.5.jar",
+        "to": "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar"
+      },
+      {
+        "name": "Better Ping Display",
+        "from": "BetterPingDisplay-Fabric-1.18.2-1.1.1.jar",
+        "to": "BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
+      },
+      {
+        "name": "Better Sodium Video Settings Button",
+        "from": "bsvsb-2.0.5.jar",
+        "to": "bsvsb-3.0.3.jar"
+      },
+      {
+        "name": "Better Third Person",
+        "from": "BetterThirdPerson-Fabric-1.18.2-1.8.1.jar",
+        "to": "BetterThirdPerson-Fabric-1.20-1.9.0.jar"
+      },
+      {
+        "name": "BetterEnd",
+        "from": "better-end-1.1.1.jar",
+        "to": "better-end-4.0.10.jar"
+      },
+      {
+        "name": "BisectHosting Server Integration Menu",
+        "from": "BHMenu-Fabric-1.17.1-1.18.2-2.3.1.jar",
+        "to": "BHMenu-Fabric-1.20.1-2.4.0.jar"
+      },
+      {
+        "name": "Blockus",
+        "from": "blockus-2.4.8+1.18.2.jar",
+        "to": "blockus-2.7.5+1.20.1.jar"
+      },
+      {
+        "name": "Bobby",
+        "from": "bobby-3.1.1.jar",
+        "to": "bobby-5.0.0.jar"
+      },
+      {
+        "name": "Bookshelf",
+        "from": "Bookshelf-Fabric-1.18.2-13.3.56.jar",
+        "to": "Bookshelf-Fabric-1.20.1-20.0.3.jar"
+      },
+      {
+        "name": "Borderless Mining",
+        "from": "borderless-mining-1.1.2+1.18.2.jar",
+        "to": "borderless-mining-1.1.8+1.20.1.jar"
+      },
+      {
+        "name": "Bow Infinity Fix",
+        "from": "BowInfinityFix-1.18.x-fabric-rv11.jar",
+        "to": "BowInfinityFix-1.20.x-fabric-2.6.0.jar"
+      },
+      {
+        "name": "Better Recipe Books",
+        "from": "brb-1.18.2-fabric-1.5.6.jar",
+        "to": "brb-1.8.0-fabric.jar"
+      },
+      {
+        "name": "Camp Chair",
+        "from": "campchair-fabric.1.18.2-1.0.2.jar",
+        "to": "campchair.fabric.1.20-1.0.3.jar"
+      },
+      {
+        "name": "Capes",
+        "from": "Capes-1.3.1+1.18.2.jar",
+        "to": "capes-1.5.2+1.20-fabric.jar"
+      },
+      {
+        "name": "Chat Heads",
+        "from": "chat_heads-0.6.0-fabric-1.18.1.jar",
+        "to": "chat_heads-0.10.20-fabric-1.20.jar"
+      },
+      {
+        "name": "Chat Patches",
+        "from": "chatpatches-182.0.2.jar",
+        "to": "chatpatches-201.5.5.jar"
+      },
+      {
+        "name": "Chunk Sending",
+        "from": "chunksending-fabric-1.18.2-2.5.jar",
+        "to": "chunksending-fabric-1.20.1-2.6.jar"
+      },
+      {
+        "name": "Chunky",
+        "from": "Chunky-1.2.164.jar",
+        "to": "Chunky-1.3.92.jar"
+      },
+      {
+        "name": "CleanView",
+        "from": "CleanView-1.18.2-v1-fabric.jar",
+        "to": "cleanview-1.20.1-v1-fabric.jar"
+      },
+      {
+        "name": "Clear Despawn",
+        "from": "ClearDespawn-fabric-1.18.2-1.1.7.jar",
+        "to": "ClearDespawn-fabric-1.20.1-1.1.13.jar"
+      },
+      {
+        "name": "Clickable advancements",
+        "from": "clickadv-fabric-2.6.jar",
+        "to": "clickadv-fabric-1.20.1-3.3.jar"
+      },
+      {
+        "name": "Client Tweaks",
+        "from": "clienttweaks-fabric-1.18.1-7.1.0.jar",
+        "to": "clienttweaks-fabric-1.20-11.0.0.jar"
+      },
+      {
+        "name": "Cloth Config API",
+        "from": "cloth-config-6.4.90-fabric.jar",
+        "to": "cloth-config-11.1.106-fabric.jar"
+      },
+      {
+        "name": "Clumps",
+        "from": "Clumps-fabric-1.18.2-8.0.0+17.jar",
+        "to": "Clumps-fabric-1.20.1-12.0.0.3.jar"
+      },
+      {
+        "name": "Collective",
+        "from": "collective-1.18.2-6.53.jar",
+        "to": "collective-1.20.1-6.65.jar"
+      },
+      {
+        "name": "Combat Roll",
+        "from": "combatroll-fabric-1.1.5+1.18.2.jar",
+        "to": "combatroll-fabric-1.2.1+1.20.1.jar"
+      },
+      {
+        "name": "CompleteConfig",
+        "from": "completeconfig-lib-1.4.1.jar",
+        "to": "completeconfig-2.5.0.jar"
+      },
+      {
+        "name": "Continuity",
+        "from": "continuity-2.0.2+1.18.2.jar",
+        "to": "continuity-3.0.0-beta.3+1.20.1.jar"
+      },
+      {
+        "name": "Controlling",
+        "from": "Controlling-fabric-1.18.2-9.0+23.jar",
+        "to": "Controlling-fabric-1.20.1-12.0.2.jar"
+      },
+      {
+        "name": "Couplings",
+        "from": "Couplings-1.8.1+1.18.2.jar",
+        "to": "Couplings-1.9.4+1.20.jar"
+      },
+      {
+        "name": "Crawl",
+        "from": "crawl-0.10.6.jar",
+        "to": "crawl-0.12.0.jar"
+      },
+      {
+        "name": "Create Fabric",
+        "from": "create-fabric-0.5.0.i-1016+1.18.2.jar",
+        "to": "create-fabric-0.5.1-d-build.1161+mc1.20.1.jar"
+      },
+      {
+        "name": "Dark Enchanting",
+        "from": "dark-enchanting-1.0.0+1.18.2.jar",
+        "to": "dark-enchanting-1.0.3+1.20.1.jar"
+      },
+      {
+        "name": "Dark Loading Screen",
+        "from": "dark-loading-screen-1.6.11.jar",
+        "to": "dark-loading-screen-1.6.14.jar"
+      },
+      {
+        "name": "Dark Paintings",
+        "from": "DarkPaintings-Fabric-1.18.2-10.0.4.jar",
+        "to": "DarkPaintings-Fabric-1.20.1-17.0.2.jar"
+      },
+      {
+        "name": "Debugify",
+        "from": "debugify-1.11.0-fabric-1.18.2.jar",
+        "to": "Debugify-1.20.1+2.0.jar"
+      },
+      {
+        "name": "Detail Armor Bar",
+        "from": "DetailArmorBar-2.6.2+1.18-fabric.jar",
+        "to": "DetailArmorBar-2.6.3+1.20.1-fabric.jar"
+      },
+      {
+        "name": "Drip Sounds",
+        "from": "DripSounds-1.18-0.3.0.jar",
+        "to": "DripSounds-1.19.4-0.3.2.jar"
+      },
+      {
+        "name": "Global Packs",
+        "from": "global_packs-fabric-1.18.2-1.12.3_fabric.jar",
+        "to": "global_packs-quilt-1.19.4-1.16.1_quilt.jar"
+      },
+      {
+        "name": "Durability Tooltip",
+        "from": "durabilitytooltip-1.1.4-fabric-mc1.18.jar",
+        "to": "durabilitytooltip-1.1.4-fabric-mc1.20.jar"
+      },
+      {
+        "name": "Dusk",
+        "from": "dusk-fabric-1.18.2-2.1.jar",
+        "to": "dusk-fabric-1.20.1-3.3.jar"
+      },
+      {
+        "name": "Dyed",
+        "from": "dyed-fabric-1.18.2-1.1.2.jar",
+        "to": "dyed-fabric-23w18a-1.1.2.jar"
+      },
+      {
+        "name": "Eating Animation",
+        "from": "eating-animation-1.8.jar",
+        "to": "eating-animation-1.9.4+1.20.jar"
+      },
+      {
+        "name": "Economical Villager Trading",
+        "from": "economical-villager-trading-1.2.5+MC1.18-1.18.2.jar",
+        "to": "economical-villager-trading-1.2.10+MC1.20-1.20.1.jar"
+      },
+      {
+        "name": "Elytra Physics",
+        "from": "ElytraPhysics-1.1.1.jar",
+        "to": "ElytraPhysics-1.3-1.20.jar"
+      },
+      {
+        "name": "More Geodes",
+        "from": "more-geodes-1.4.2.jar",
+        "to": "more-geodes-1.8.2.jar"
+      },
+      {
+        "name": "Enchantment Descriptions",
+        "from": "EnchantmentDescriptions-Fabric-1.18.2-10.0.12.jar",
+        "to": "EnchantmentDescriptions-Fabric-1.20.1-17.0.4.jar"
+      },
+      {
+        "name": "Enderite Mod",
+        "from": "enderitemc-enderitemod-1.3.5-1.18.2.jar",
+        "to": "enderitemod-1.5.0-1.20.1.jar"
+      },
+      {
+        "name": "End Remastered",
+        "from": "fabric-end-remastered-5.1.0-1.18.2.jar",
+        "to": "fabric-end-remastered-5.2.3.jar"
+      },
+      {
+        "name": "Enhanced Block Entities",
+        "from": "enhancedblockentities-0.7.1+1.18.2.jar",
+        "to": "enhancedblockentities-0.9+1.20.jar"
+      },
+      {
+        "name": "Entity Texture Features -",
+        "from": "entity_texture_features_fabric_1.18.2-4.3.1.jar",
+        "to": "entity_texture_features_fabric_1.20-4.5.1.jar"
+      },
+      {
+        "name": "Entity Culling Fabric/Forge",
+        "from": "entityculling-fabric-1.6.1-mc1.18.2.jar",
+        "to": "entityculling-fabric-1.6.2-mc1.20.jar"
+      },
+      {
+        "name": "Equipment Compare",
+        "from": "EquipmentCompare-1.18.2-fabric-1.2.12.jar",
+        "to": "EquipmentCompare-1.20.1-fabric-1.3.7.jar"
+      },
+      {
+        "name": "Exordium",
+        "from": "exordium-fabric-1.0.1-mc1.18.2.jar",
+        "to": "exordium-fabric-1.1.4-mc1.20.1.jar"
+      },
+      {
+        "name": "Disable Custom Worlds Advice",
+        "from": "DisableCustomWorldsAdvice-2.0.jar",
+        "to": "DisableCustomWorldsAdvice-4.1.jar"
+      },
+      {
+        "name": "Fabric Language Kotlin",
+        "from": "fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar",
+        "to": "fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar"
+      },
+      {
+        "name": "Fabric Waystones",
+        "from": "wraith-waystones-2.6.0+mc1.18.2.jar",
+        "to": "wraith-waystones-3.1.3+mc1.20.jar"
+      },
+      {
+        "name": "Falling Leaves",
+        "from": "fallingleaves-1.11.1+1.18.2.jar",
+        "to": "fallingleaves-1.15.2+1.20.1.jar"
+      },
+      {
+        "name": "FancyMenu",
+        "from": "fancymenu_fabric_2.14.7_MC_1.18.2.jar",
+        "to": "fancymenu_fabric_2.14.7-3_MC_1.20.jar"
+      },
+      {
+        "name": "Farmer's Delight",
+        "from": "farmers-delight-fabric-1.18.2-1.2.5.jar",
+        "to": "farmers-delight-fabric-mc1.20.1-1.4.2.jar"
+      },
+      {
+        "name": "Farmer's Knives",
+        "from": "farmersknives-1.3.1.jar",
+        "to": "farmersknives-3.0.2.jar"
+      },
+      {
+        "name": "Faux Custom Entity Data",
+        "from": "FauxCustomEntityData-fabric-1.18.2-1.0.4.jar",
+        "to": "FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
+      },
+      {
+        "name": "FerriteCore",
+        "from": "ferritecore-4.2.1-fabric.jar",
+        "to": "ferritecore-6.0.0-fabric.jar"
+      },
+      {
+        "name": "Fix Experience Bug",
+        "from": "fabric-experiencebugfix-1.18-18.jar",
+        "to": "fabric-experiencebugfix-1.20-2.jar"
+      },
+      {
+        "name": "Forge Config API Port",
+        "from": "ForgeConfigAPIPort-v3.2.4-1.18.2-Fabric.jar",
+        "to": "ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
+      },
+      {
+        "name": "FPS Reducer",
+        "from": "FpsReducer2-fabric-1.18.2-2.0.jar",
+        "to": "FpsReducer2-fabric-1.20-2.5.jar"
+      },
+      {
+        "name": "Furnace Recycle",
+        "from": "furnacerecycle-1.18.2-2.0.jar",
+        "to": "furnacerecycle-1.20.1-2.0.jar"
+      },
+      {
+        "name": "Guard Villagers",
+        "from": "guard-villagers-fabric-1.18.2-1.1.0.jar",
+        "to": "guardvillagers-2.0.7-1.20.1.jar"
+      },
+      {
+        "name": "Harvest with ease",
+        "from": "harvestwithease-1.18.2-6.0.1.2-fabric.jar",
+        "to": "harvestwithease-1.20.1-7.0.0.2-fabric.jar"
+      },
+      {
+        "name": "HerdsPanic",
+        "from": "herdspanic-1.0.5.jar",
+        "to": "herdspanic-1.0.7.jar"
+      },
+      {
+        "name": "Iceberg",
+        "from": "Iceberg-1.18.2-fabric-1.0.38.jar",
+        "to": "Iceberg-1.20.1-fabric-1.1.15.jar"
+      },
+      {
+        "name": "Immersive Armors",
+        "from": "immersive_armors-1.5.5+1.18.2-fabric.jar",
+        "to": "immersive_armors-1.6.1+1.20.1-fabric.jar"
+      },
+      {
+        "name": "Incantationem",
+        "from": "incantationem-1.1.6+1.18.2.jar",
+        "to": "incantationem-1.2.1+1.20.jar"
+      },
+      {
+        "name": "Indium",
+        "from": "indium-1.0.7+mc1.18.2.jar",
+        "to": "indium-1.0.21+mc1.20.1.jar"
+      },
+      {
+        "name": "Interactic",
+        "from": "interactic-0.1.10+1.18.jar",
+        "to": "interactic-0.2.0+1.20.jar"
+      },
+      {
+        "name": "Inventory Profiles Next",
+        "from": "InventoryProfilesNext-fabric-1.18.2-1.10.2.jar",
+        "to": "InventoryProfilesNext-fabric-1.20-1.10.7.jar"
+      },
+      {
+        "name": "InvMove",
+        "from": "InvMove-1.18-0.8.2-Fabric.jar",
+        "to": "InvMove-1.20-0.8.4-Quilt.jar"
+      },
+      {
+        "name": "Iris & Oculus Flywheel Compat",
+        "from": "iris-flywheel-compat-1.18.2-0.1.9-BETA.jar",
+        "to": "iris-flywheel-compat-1.20.1-0.2.1.jar"
+      },
+      {
+        "name": "Jade 🔍",
+        "from": "Jade-1.18.2-fabric-5.99.10.jar",
+        "to": "Jade-1.20-fabric-11.5.1.jar"
+      },
+      {
+        "name": "Konkrete",
+        "from": "konkrete_fabric_1.6.1_MC_1.18-1.18.2.jar",
+        "to": "konkrete_fabric_1.6.1_MC_1.20.jar"
+      },
+      {
+        "name": "Krypton",
+        "from": "krypton-0.1.9.jar",
+        "to": "krypton-0.2.3.jar"
+      },
+      {
+        "name": "LambdaBetterGrass",
+        "from": "lambdabettergrass-1.2.4+1.18.jar",
+        "to": "lambdabettergrass-1.5.2+1.20.1.jar"
+      },
+      {
+        "name": "LambDynamicLights",
+        "from": "lambdynamiclights-2.1.0+1.17.jar",
+        "to": "lambdynamiclights-2.3.1+1.20.1.jar"
+      },
+      {
+        "name": "Lan Server Properties",
+        "from": "lanserverproperties-1.8-fabric.jar",
+        "to": "lanserverproperties-1.11-fabric.jar"
+      },
+      {
+        "name": "lazy-language-loader",
+        "from": "lazy-language-loader-0.3.0.jar",
+        "to": "lazy-language-loader-0.3.3.jar"
+      },
+      {
+        "name": "LazyDFU",
+        "from": "lazydfu-0.1.2.jar",
+        "to": "lazydfu-0.1.3.jar"
+      },
+      {
+        "name": "Legendary Tooltips",
+        "from": "LegendaryTooltips-1.18.2-fabric-1.3.3.jar",
+        "to": "LegendaryTooltips-1.20.1-fabric-1.4.4.jar"
+      },
+      {
+        "name": "Let Me Despawn",
+        "from": "letmedespawn-1.18.x-1.19.x-fabric-1.0.2.jar",
+        "to": "letmedespawn-fabric-1.20-1.1.0.jar"
+      },
+      {
+        "name": "libIPN",
+        "from": "libIPN-fabric-1.18.2-3.0.1.jar",
+        "to": "libIPN-fabric-1.20-4.0.0.jar"
+      },
+      {
+        "name": "Library Ferret - Fabric",
+        "from": "libraryferret-fabric-1.18.2-4.0.0.jar",
+        "to": "libraryferret-fabric-1.20.1-4.0.0.jar"
+      },
+      {
+        "name": "Lithium",
+        "from": "lithium-fabric-mc1.18.2-0.10.3.jar",
+        "to": "lithium-fabric-mc1.20.1-0.11.2.jar"
+      },
+      {
+        "name": "Log Begone",
+        "from": "Log-Begone-1.18-1.0.4.jar",
+        "to": "Log-Begone-Fabric-1.20.1-1.0.8.jar"
+      },
+      {
+        "name": "Login Protection",
+        "from": "logprot-fabric-1.18-1.6.jar",
+        "to": "logprot-fabric-1.20.1-3.1.jar"
+      },
+      {
+        "name": "More Axolotl Variants API",
+        "from": "mavapi-1.0.1-mc1.18.2.jar",
+        "to": "mavapi-1.1.2-mc1.20.1.jar"
+      },
+      {
+        "name": "More Axolotl Variants Mod",
+        "from": "mavm-1.2.0-mc1.18.2.jar",
+        "to": "mavm-1.2.4-mc1.20.jar"
+      },
+      {
+        "name": "Medieval Music",
+        "from": "medievalmusic-fabric-1.18-1.3.jar",
+        "to": "zmedievalmusic-fabric-1.20.1-2.1.jar"
+      },
+      {
+        "name": "Memory Settings",
+        "from": "memorysettings-fabric-1.18.2-2.2.jar",
+        "to": "memorysettings-fabric-1.20.1-5.3.jar"
+      },
+      {
+        "name": "Memory Leak Fix",
+        "from": "memoryleakfix-fabric-1.17+-1.0.0.jar",
+        "to": "memoryleakfix-fabric-1.17+-1.1.1.jar"
+      },
+      {
+        "name": "MidnightLib",
+        "from": "midnightlib-0.4.4.jar",
+        "to": "midnightlib-quilt-1.4.1.jar"
+      },
+      {
+        "name": "MmmMmmMmmMmm",
+        "from": "dummmmmmy-1.18-1.5.2.jar",
+        "to": "dummmmmmy-1.20-1.8.3-fabric.jar"
+      },
+      {
+        "name": "Mo Glass",
+        "from": "Mo-Glass-1.6.1-MC1.18.2.jar",
+        "to": "Mo-Glass-1.6.1-MC1.20.1.jar"
+      },
+      {
+        "name": "Mobs Attempt Parkour",
+        "from": "mobs-attempt-parkour-0.2.5-1.18.2.jar",
+        "to": "mobs-attempt-parkour-0.5-1.20.jar"
+      },
+      {
+        "name": "Mod Menu",
+        "from": "modmenu-3.2.5.jar",
+        "to": "modmenu-7.2.1.jar"
+      },
+      {
+        "name": "More Banner Features",
+        "from": "morebannerfeatures-1.1.3-1.18.jar",
+        "to": "morebannerfeatures-1.2.0-1.20.jar"
+      },
+      {
+        "name": "Mouse Tweaks",
+        "from": "MouseTweaks-fabric-mc1.18-2.22.jar",
+        "to": "MouseTweaks-fabric-mc1.20-2.25.jar"
+      },
+      {
+        "name": "Name Pain",
+        "from": "namepain-1.4.0 fabric-1.17.x.jar",
+        "to": "namepain-1.5.2 fabric-1.20.x.jar"
+      },
+      {
+        "name": "Nether Portal Spread",
+        "from": "netherportalspread-1.18.2-7.5.jar",
+        "to": "netherportalspread-1.20.1-7.5.jar"
+      },
+      {
+        "name": "NetherPortalFix",
+        "from": "netherportalfix-fabric-1.18.2-9.0.1.jar",
+        "to": "netherportalfix-fabric-1.20-13.0.0.jar"
+      },
+      {
+        "name": "Not Enough Animations",
+        "from": "notenoughanimations-fabric-1.6.0-mc1.18.2.jar",
+        "to": "notenoughanimations-fabric-1.6.4-mc1.20.jar"
+      },
+      {
+        "name": "Open Parties and Claims",
+        "from": "open-parties-and-claims-fabric-1.18.2-0.17.3.jar",
+        "to": "open-parties-and-claims-fabric-1.20.1-0.19.3.jar"
+      },
+      {
+        "name": "OptiGUI",
+        "from": "optigui-1.1.6.jar",
+        "to": "optigui-2.1.5.jar"
+      },
+      {
+        "name": "Origins: Classes",
+        "from": "Origins-Classes-1.18.2-1.3.0.jar",
+        "to": "Origins-Classes-1.20-1.7.0.jar"
+      },
+      {
+        "name": "Origins",
+        "from": "Origins-1.18.2-1.4.1.jar",
+        "to": "Origins-1.20.1-1.10.0.jar"
+      },
+      {
+        "name": "Patchouli",
+        "from": "Patchouli-1.18.2-71.1-FABRIC.jar",
+        "to": "Patchouli-1.20.1-81-FABRIC.jar"
+      },
+      {
+        "name": "playerAnimator",
+        "from": "player-animation-lib-fabric-1.0.2+1.18.jar",
+        "to": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
+      },
+      {
+        "name": "Prism",
+        "from": "Prism-1.18.2-fabric-1.0.3.jar",
+        "to": "Prism-1.20.1-fabric-1.0.5.jar"
+      },
+      {
+        "name": "Productive Villagers",
+        "from": "productivevillagers_fabric-1.0.5.jar",
+        "to": "productivevillagers_fabric-1.0.9.jar"
+      },
+      {
+        "name": "Resource Pack Overrides",
+        "from": "ResourcePackOverrides-v3.0.3-1.18.2-Fabric.jar",
+        "to": "ResourcePackOverrides-v8.0.1-1.20.1-Fabric.jar"
+      },
+      {
+        "name": "Revive",
+        "from": "revive-1.0.3.jar",
+        "to": "revive-1.0.7.jar"
+      },
+      {
+        "name": "Roughly Enough Items Fabric/Forge",
+        "from": "RoughlyEnoughItems-8.3.608.jar",
+        "to": "RoughlyEnoughItems-12.0.645.jar"
+      },
+      {
+        "name": "Roughly Enough Professions",
+        "from": "RoughlyEnoughProfessions-fabric-1.18.2-1.0.2.jar",
+        "to": "RoughlyEnoughProfessions-fabric-1.20.1-2.0.1.jar"
+      },
+      {
+        "name": "Roughly Enough Resources",
+        "from": "rer-2.5.0.jar",
+        "to": "rer-2.9.0.jar"
+      },
+      {
+        "name": "Saplanting",
+        "from": "saplanting-fabric-1.18.2-1.2.4.jar",
+        "to": "saplanting-fabric-1.20-1.2.4.jar"
+      },
+      {
+        "name": "ServerCore",
+        "from": "servercore-fabric-1.3.5+1.18.2.jar",
+        "to": "servercore-fabric-1.3.7+1.20.1.jar"
+      },
+      {
+        "name": "Simple Discord RPC",
+        "from": "SimpleRPC-fabric-1.18.2-3.2.2.jar",
+        "to": "simple-rpc-fabric-1.20-3.2.2.jar"
+      },
+      {
+        "name": "Simple Voice Chat",
+        "from": "voicechat-fabric-1.18.2-2.4.8.jar",
+        "to": "voicechat-quilt-1.20.1-2.4.23.jar"
+      },
+      {
+        "name": "Simply Swords",
+        "from": "simplyswords-fabric-1.40-1.18.2.jar",
+        "to": "simplyswords-fabric-1.51.1-1.20.1.jar"
+      },
+      {
+        "name": "Skin Layers 3D",
+        "from": "3dskinlayers-fabric-1.5.2-mc1.18.2.jar",
+        "to": "3dskinlayers-fabric-1.5.4-mc1.20.1.jar"
+      },
+      {
+        "name": "Server Performance - Smooth Chunk Save",
+        "from": "smoothchunk-fabric-1.18.2-1.9.jar",
+        "to": "smoothchunk-fabric-1.20.1-3.1.jar"
+      },
+      {
+        "name": "Sodium Extra",
+        "from": "sodium-extra-0.4.18+mc1.18.2-build.98.jar",
+        "to": "sodium-extra-0.4.27+mc1.20.1-build.110.jar"
+      },
+      {
+        "name": "Sodium",
+        "from": "sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+        "to": "sodium-fabric-mc1.20-0.4.10+build.27.jar"
+      },
+      {
+        "name": "Sound Physics Remastered",
+        "from": "soundphysics-fabric-1.18.2-1.0.6.jar",
+        "to": "soundphysics-fabric-1.20.1-1.2.1.jar"
+      },
+      {
+        "name": "spark",
+        "from": "spark-1.10.39-fabric.jar",
+        "to": "spark-1.10.42-fabric.jar"
+      },
+      {
+        "name": "Starlight",
+        "from": "starlight-1.0.2+fabric.89b8d9f.jar",
+        "to": "starlight-1.1.2+fabric.dbc156f.jar"
+      },
+      {
+        "name": "Starter Items, Messages, and Commands",
+        "from": "starteritems-1.5.6-1.18.2.jar",
+        "to": "starteritems-3.0-1.20.1.jar"
+      },
+      {
+        "name": "Starter Kit",
+        "from": "starterkit-1.18.2-5.2.jar",
+        "to": "starterkit-1.20.1-5.2.jar"
+      },
+      {
+        "name": "Styled Chat",
+        "from": "styled-chat-1.2.3+1.18.jar",
+        "to": "styled-chat-2.2.2+1.20.1.jar"
+      },
+      {
+        "name": "SuperMartijn642's Config Lib",
+        "from": "supermartijn642configlib-1.1.6-fabric-mc1.18.jar",
+        "to": "supermartijn642configlib-1.1.8-fabric-mc1.20.jar"
+      },
+      {
+        "name": "TalkBubbles",
+        "from": "talkbubbles-1.0.1.jar",
+        "to": "talkbubbles-1.0.7.jar"
+      },
+      {
+        "name": "Terralith",
+        "from": "Terralith_v2.2.3.jar",
+        "to": "Terralith_1.20.1_v2.4.5.jar"
+      },
+      {
+        "name": "TieFix",
+        "from": "TieFix-1.9.0.jar",
+        "to": "TieFix-1.14.0.jar"
+      },
+      {
+        "name": "TieredZ",
+        "from": "tiered-1.1.1.jar",
+        "to": "tiered-1.3.0.jar"
+      },
+      {
+        "name": "TimeOutOut",
+        "from": "timeoutout-1.0.1+1.18.jar",
+        "to": "timeoutout-1.0.3+1.19.1.jar"
+      },
+      {
+        "name": "TipTheScales",
+        "from": "TipTheScales-fabric-1.18.2-5.0.6.jar",
+        "to": "TipTheScales-fabric-1.20.1-9.0.0.1.jar"
+      },
+      {
+        "name": "Towers of the Wild: Additions",
+        "from": "totw_additions-1.2.1-1.18.2-fabric-polymer.jar",
+        "to": "totw_additions-1.3.0-1.20.x-fabric.jar"
+      },
+      {
+        "name": "Towns and Towers",
+        "from": "towns_and_towers_fabric-1.10.0.1+1.18.2.jar",
+        "to": "Towns-and-Towers-1.11-Fabric+Forge.jar"
+      },
+      {
+        "name": "Wavey Capes",
+        "from": "waveycapes-fabric-1.3.2-mc1.18.2.jar",
+        "to": "waveycapes-fabric-1.4.0-mc1.20.jar"
+      },
+      {
+        "name": "WorldEdit",
+        "from": "worldedit-mod-7.2.10.jar",
+        "to": "worldedit-mod-7.2.15.jar"
+      },
+      {
+        "name": "Xaero's Minimap",
+        "from": "Xaeros_Minimap_FP23.4.0_Fabric_1.18.2.jar",
+        "to": "Xaeros_Minimap_FP23.6.3_Fabric_1.20.jar"
+      },
+      {
+        "name": "Xaero's World Map",
+        "from": "XaerosWorldMap_1.30.3_Fabric_1.18.2.jar",
+        "to": "XaerosWorldMap_1.33.1_Fabric_1.20.jar"
+      },
+      {
+        "name": "Your Options Shall Be Respected",
+        "from": "yosbr-0.1.1.jar",
+        "to": "yosbr-0.1.2.jar"
+      },
+      {
+        "name": "Zoomify",
+        "from": "Zoomify-1.6.0+build.2.jar",
+        "to": "Zoomify-2.11.0.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [
+      "Fresh Animations Extensions"
+    ],
+    "removed": [
+      "Fresh Animations CEM fork `Client`"
+    ],
+    "updated": [
+      {
+        "name": "Eclectic Trove",
+        "from": "EclecticTrove-noconfig-1.18-1.2.0.zip",
+        "to": "EclecticTrove-noconfig-1.19.3-1.2.0.zip"
+      },
+      {
+        "name": "Fresh Animations",
+        "from": "FreshAnimations_v1.8.zip",
+        "to": "FreshAnimations_v1.8.1.zip"
+      },
+      {
+        "name": "Stay True",
+        "from": "Stay_True_1.18.zip",
+        "to": "Stay_True_1.20.zip"
+      },
+      {
+        "name": "Tissou's Zombie Pack",
+        "from": "Tissou's Zombie Pack 1.18_2.6.zip",
+        "to": "TZP_1.19.2_2.6.zip"
+      },
+      {
+        "name": "Towers of the Wild: Reworked",
+        "from": "Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip",
+        "to": "Towers_Of_The_Wild_Reworked_v4.2.1_Waystone.zip"
+      }
+    ]
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "pack": "InsomniaHardcore",
+  "version": "2.0.0.pre3",
+  "minecraft": "1.20.1",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.14.22"
+  },
+  "released": "2023-09-26",
+  "prerelease": true,
+  "comparedTo": {
+    "version": "2.0.0.pre2",
+    "minecraft": "1.20.1"
+  },
+  "overview": [
+    "Revamped Nether terrain generation to make it more interesting and hopefully less laggy.",
+    "Overworld terrain now generates in a more epic fasion.",
+    "Replaced logo with the new one.",
+    "Client now points to the new Insomnia2 server.",
+    "Fixed a bunch of GUI related texture issues.",
+    "Fixed flickering of block entities.",
+    "Fixed bed textures being bugged.",
+    "Fixed Cherry Leaves not respecting 'NoBushyLeaves'.",
+    "Removed the numbers in the hotbar texture.",
+    "Added a bunch of new structure mods.",
+    "Replaced 'Towers of the Wild' with 'Structory: Towers'.",
+    "Disabled generation of vanilla villages.",
+    "Item tooltips now appear cleaner in how they represent information.",
+    "Minor changes to the Discord RPC integration.",
+    "Greatly improved the death screens of both Multiplayer & Singleplayer.",
+    "Nether fog is now corralated with the render distance.",
+    "Added variations of the \"Orb of Origin\" item that can be found/crafted."
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [
+    "Replaced logo on the title screen with the new one: [Client], [FancyMenu]",
+    "Replaced window icons with new ones: [Client], [FancyMenu]",
+    "Changed \"Official Server\" button so it points to the new Insomnia2 server: [Client], [FancyMenu]",
+    "Configured mod with the Insomnia2 official server address: [Client], [Desired Servers]",
+    "Now just says \"In %world%\" instead of \"Currently in %world%\": [Simple Discord RPC], [Client]",
+    "Now overwrites the description when in the Overworld to say \"In the Overworld\": [Simple Discord RPC], [Client]",
+    "Replaced largeImageKey with the new logo GIF: [Simple Discord RPC], [Client]",
+    "Moved the sorting buttons for the crafting_station, dispenser, cooking_pot and creative GUI's: [Inventory Profiles Next], [Client]",
+    "Changed pack_id to match that of the new 1.20.1 version: [BHMenu], [Client]",
+    "\"Need a server?\" button now opens the BHMenu screen: [FancyMenu], [Client]",
+    "Enabled \"applyPatches\": [BCLib], [Both]",
+    "Disabled \"updateNotification\": [Xaero's Minimap], [Client]",
+    "Greatly improved the death screens of both Multiplayer & Singleplayer as well as seperating them into their own layouts (Too lazy to list individual changes): [FancyMenu], [Client]",
+    "Made the hardcore death screen title bold and red: [Insomnia Lang], [Client]",
+    "Disabled \"customFogRendering\": [BCLib], [Client]"
+  ],
+  "mods": {
+    "added": [
+      "Amplified Nether",
+      "Better Archeology",
+      "Better Trim Tooltips `Client`",
+      "BetterNether",
+      "Bygone Nether",
+      "Clean Tooltips `Client`",
+      "Companion 🐕",
+      "Desired Servers `Client`",
+      "Ding `Client`",
+      "Easy Anvils",
+      "Elytra Trims",
+      "Emojiful `Client`",
+      "Explorer's Compass",
+      "Framework",
+      "Goblin Traders",
+      "ImmediatelyFast `Client`",
+      "LiLaC",
+      "ModernFix",
+      "MES - Moog's End Structures",
+      "MVS - Moog's Voyager Structures",
+      "Nature's Compass",
+      "Create Support for Open Parties and Claims",
+      "Orb of Origin Rework",
+      "Recipe Book Delight `Client`",
+      "Redirector",
+      "Regrowth",
+      "Philip's Ruins",
+      "Simple Fog Control `Client`",
+      "Structory: Towers",
+      "Structure Essentials",
+      "Tectonic",
+      "The Lost Castle",
+      "Tidal Towns",
+      "Traveler's Titles `Client`",
+      "Village Nullifier",
+      "YUNG's API",
+      "YUNG's Better Desert Temples",
+      "YUNG's Better Dungeons",
+      "YUNG's Better Jungle Temples",
+      "YUNG's Better Mineshafts",
+      "YUNG's Better Nether Fortresses",
+      "YUNG's Better Ocean Monuments",
+      "YUNG's Better Strongholds",
+      "YUNG's Better Witch Huts"
+    ],
+    "removed": [
+      "Better Beds `Client`",
+      "Durability Tooltip `Client`",
+      "Enhanced Block Entities `Client`",
+      "Incendium",
+      "MmmMmmMmmMmm",
+      "Moonlight Lib",
+      "Show Me What You Got",
+      "Starlight",
+      "Towers of the Wild: Additions"
+    ],
+    "updated": [
+      {
+        "name": "Balm",
+        "from": "balm-fabric-1.20-7.0.7.jar",
+        "to": "balm-fabric-1.20-7.1.1.jar"
+      },
+      {
+        "name": "BisectHosting Server Integration Menu",
+        "from": "BHMenu-Fabric-1.20.1-2.4.0.jar",
+        "to": "BHMenu-Fabric-1.20.1-2.4.1.jar"
+      },
+      {
+        "name": "Blockus",
+        "from": "blockus-2.7.5+1.20.1.jar",
+        "to": "blockus-2.7.6+1.20.1.jar"
+      },
+      {
+        "name": "Bookshelf",
+        "from": "Bookshelf-Fabric-1.20.1-20.0.3.jar",
+        "to": "Bookshelf-Fabric-1.20.1-20.0.4.jar"
+      },
+      {
+        "name": "Branded Logs",
+        "from": "brandedlogs-1.0.0.jar",
+        "to": "brandedlogs-1.0.1.jar"
+      },
+      {
+        "name": "Cherished Worlds",
+        "from": "cherishedworlds-fabric-6.1.1+1.20.1.jar",
+        "to": "cherishedworlds-fabric-6.1.2+1.20.1.jar"
+      },
+      {
+        "name": "Clickable advancements",
+        "from": "clickadv-fabric-1.20.1-3.3.jar",
+        "to": "clickadv-fabric-1.20.1-3.4.jar"
+      },
+      {
+        "name": "Client Tweaks",
+        "from": "clienttweaks-fabric-1.20-11.0.0.jar",
+        "to": "clienttweaks-fabric-1.20-11.1.0.jar"
+      },
+      {
+        "name": "Cristel Lib",
+        "from": "cristellib-1.1.1-fabric.jar",
+        "to": "cristellib-1.1.3-fabric.jar"
+      },
+      {
+        "name": "Cupboard",
+        "from": "cupboard-fabric-1.20.1-1.9.jar",
+        "to": "cupboard-fabric-1.20.1-2.0.jar"
+      },
+      {
+        "name": "Dusk",
+        "from": "dusk-fabric-1.20.1-3.3.jar",
+        "to": "dusk-fabric-1.20.1-3.4.jar"
+      },
+      {
+        "name": "Enchantment Descriptions",
+        "from": "EnchantmentDescriptions-Fabric-1.20.1-17.0.4.jar",
+        "to": "EnchantmentDescriptions-Fabric-1.20.1-17.0.5.jar"
+      },
+      {
+        "name": "Entity Model Features",
+        "from": "entity_model_features_fabric_1.20-0.2.13.jar",
+        "to": "entity_model_features_fabric_1.20-0.RC.4.jar"
+      },
+      {
+        "name": "Exordium",
+        "from": "exordium-fabric-1.1.4-mc1.20.1.jar",
+        "to": "exordium-fabric-1.2.1-mc1.20.1.jar"
+      },
+      {
+        "name": "Fabric API",
+        "from": "fabric-api-0.87.0+1.20.1.jar",
+        "to": "fabric-api-0.88.1+1.20.1.jar"
+      },
+      {
+        "name": "Falling Leaves",
+        "from": "fallingleaves-1.15.2+1.20.1.jar",
+        "to": "fallingleaves-1.15.3+1.20.1.jar"
+      },
+      {
+        "name": "FancyMenu",
+        "from": "fancymenu_fabric_2.14.7-3_MC_1.20.jar",
+        "to": "fancymenu_fabric_2.14.9_MC_1.20.jar"
+      },
+      {
+        "name": "Guard Villagers",
+        "from": "guardvillagers-2.0.7-1.20.1.jar",
+        "to": "guardvillagers-2.0.8-1.20.1.jar"
+      },
+      {
+        "name": "Jade 🔍",
+        "from": "Jade-1.20-fabric-11.5.1.jar",
+        "to": "Jade-1.20-fabric-11.6.0.jar"
+      },
+      {
+        "name": "LambDynamicLights",
+        "from": "lambdynamiclights-2.3.1+1.20.1.jar",
+        "to": "lambdynamiclights-2.3.2+1.20.1.jar"
+      },
+      {
+        "name": "More Axolotl Variants API",
+        "from": "mavapi-1.1.2-mc1.20.1.jar",
+        "to": "mavapi-1.1.3-mc1.20.1.jar"
+      },
+      {
+        "name": "Mod Menu",
+        "from": "modmenu-7.2.1.jar",
+        "to": "modmenu-7.2.2.jar"
+      },
+      {
+        "name": "OptiGUI",
+        "from": "optigui-2.1.5.jar",
+        "to": "optigui-2.2.0-alpha.1.jar"
+      },
+      {
+        "name": "oωo",
+        "from": "owo-lib-0.11.1+1.20.jar",
+        "to": "owo-lib-0.11.2+1.20.jar"
+      },
+      {
+        "name": "Roughly Enough Items Fabric/Forge",
+        "from": "RoughlyEnoughItems-12.0.645.jar",
+        "to": "RoughlyEnoughItems-12.0.652.jar"
+      },
+      {
+        "name": "Server Performance - Smooth Chunk Save",
+        "from": "smoothchunk-fabric-1.20.1-3.1.jar",
+        "to": "smoothchunk-fabric-1.20.1-3.2.jar"
+      },
+      {
+        "name": "spark",
+        "from": "spark-1.10.42-fabric.jar",
+        "to": "spark-1.10.53-fabric.jar"
+      },
+      {
+        "name": "Styled Chat",
+        "from": "styled-chat-2.2.2+1.20.1.jar",
+        "to": "styled-chat-2.2.3+1.20.1.jar"
+      },
+      {
+        "name": "Xaero's World Map",
+        "from": "XaerosWorldMap_1.33.1_Fabric_1.20.jar",
+        "to": "XaerosWorldMap_1.34.1_Fabric_1.20.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [
+      "GUI Reimagined Edit `Client`"
+    ],
+    "removed": [
+      "GUI Reimagined `Client`",
+      "Towers of the Wild: Reworked"
+    ],
+    "updated": [
+      {
+        "name": "Tissou's Zombie Pack",
+        "from": "TZP_1.19.2_2.6.zip",
+        "to": "TZP_1.20.1_2.7.zip"
+      }
+    ]
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "pack": "InsomniaHardcore",
+  "version": "2.0.0.pre6",
+  "minecraft": "1.20.1",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.15.7"
+  },
+  "released": "2024-03-21",
+  "prerelease": true,
+  "comparedTo": {
+    "version": "2.0.0.pre5",
+    "minecraft": "1.20.1"
+  },
+  "overview": [
+    "Added most of the remaining 'RPG Series' mods, including 'Simply Skills'.",
+    "Added a bunch more RPG style content mods.",
+    "Added some addons for 'Create'.",
+    "Armor rarity can once again give additional health.",
+    "Added ability to invite friends into singleplayer worlds with no port-forwarding required.",
+    "Attempt at improving singleplayer performance and lessening stutters.",
+    "Updated all mods to their latest version.",
+    "And much more..."
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [
+    "Set default resource packs to \"required\": [Resource Pack Overrides], [Client]",
+    "Added a message to the resource pack screen: [FancyMenu], [Client]",
+    "Skill tree keybind moved to \"J\": [YOSBR], [Client]",
+    "Voice chat menu keybind moved to \",\": [YOSBR], [Client]",
+    "Quiver keybind moved to \"H\": [YOSBR], [Client]",
+    "Enabled \"connected_textures\": [Continuity], [Client]",
+    "Renamed \"Open to LAN\" button to \"Open to Friends\": [Insomnia Custom Lang], [Client]",
+    "Renamed \"LAN world\" text to \"Shared World\": [Insomnia Custom Lang], [Client]",
+    "Added a disclaimer message to the \"Open to LAN\" menu: [FancyMenu], [Client]",
+    "Disabled \"Buffer Health\" (Causes visual glitches on the health bar): [Exordium], [Client]",
+    "Disabled vanilla capes (doesn't affect usage of banners as capes): [YOSBR], [Client]",
+    "Added filters for ugly log messages from 'Create' and its addons during startup: [Log Begone], [Both]",
+    "Enabled \"flatGuiRender\": [Shulker+], [Client]"
+  ],
+  "mods": {
+    "added": [
+      "Adaptive Tooltips `Client`",
+      "All The Trims",
+      "Amendments",
+      "Archers",
+      "Athena",
+      "AzureLib Armor",
+      "Balanced Recall",
+      "Create: Bells & Whistles",
+      "Beneath the Wetlands",
+      "Better End Cities Better End",
+      "Bosses of Mass Destruction",
+      "Concurrent Chunk Management Engine",
+      "Cardinal Components API",
+      "Chipped",
+      "Chunky Border",
+      "Chunky Extension `Server`",
+      "CoroUtil",
+      "Create Fabric",
+      "Create: Steam 'n' Rails",
+      "DarkTimer - Clear Entity Lag `Server`",
+      "Deeper and Darker",
+      "Delightful Creators",
+      "API",
+      "DoesPotatoTick?",
+      "Dungeon Difficulty",
+      "Dynamic Trim",
+      "e4mc",
+      "Elytra Slot",
+      "Elytra Trims Extensions",
+      "End's Delight",
+      "Expanded Delight",
+      "Explosive Enhancement `Client`",
+      "Extra Origins",
+      "Fast Async World Save",
+      "Fast Paintings `Client`",
+      "FastQuit `Client`",
+      "fix GPU memory leak `Client`",
+      "Formations Nether",
+      "Formations Overworld",
+      "Formations",
+      "GeckoLib",
+      "Geophilic – Vanilla Biome Overhauls",
+      "Handcrafted",
+      "Heartbond",
+      "Integrated API",
+      "Integrated Stronghold",
+      "Item Banning `Server`",
+      "Item Obliterator",
+      "Brewery",
+      "NetherVinery",
+      "Lithostitched",
+      "MC Dungeons Armors",
+      "MC Dungeons Weapons",
+      "Mobtimizations - Entity Performance Fixes",
+      "Music Maker Mod",
+      "Necronomicon API",
+      "Noisium",
+      "Nvidium `Client`",
+      "Ocean's Delight",
+      "Paladins & Priests",
+      "Pehkui",
+      "Phantoms See Phantoms",
+      "Projectile Damage Attribute",
+      "Pufferfish's Skills",
+      "Recipe Essentials",
+      "Reese's Sodium Options `Client`",
+      "Resourceful Lib",
+      "Respawning Structures",
+      "Runes",
+      "Separated Leaves",
+      "Shield Overhaul",
+      "Shulker+",
+      "Simply Skills",
+      "Create Slice & Dice",
+      "Spell Engine",
+      "Spell Power Attributes",
+      "StutterFix `Client`",
+      "Supplementaries",
+      "Trinkets",
+      "Unsafe World Random Access Detector",
+      "Vein Mining",
+      "Vinery",
+      "Wizards",
+      "YDM's Weapon Master"
+    ],
+    "removed": [
+      "Adorn",
+      "Better Sodium Video Settings Button `Client`",
+      "Capes `Client`",
+      "Create Fabric Sodium Fix",
+      "More Geodes",
+      "Improved Stations Updated",
+      "Recall Staffs",
+      "Regrowth",
+      "Philip's Ruins",
+      "YUNG's Better Strongholds"
+    ],
+    "updated": [
+      {
+        "name": "Architectury API",
+        "from": "architectury-9.1.12-fabric.jar",
+        "to": "architectury-9.2.14-fabric.jar"
+      },
+      {
+        "name": "AttributeFix",
+        "from": "AttributeFix-Fabric-1.20.1-21.0.3.jar",
+        "to": "AttributeFix-Fabric-1.20.1-21.0.4.jar"
+      },
+      {
+        "name": "Balm",
+        "from": "balm-fabric-1.20.1-7.1.4.jar",
+        "to": "balm-fabric-1.20.1-7.2.2.jar"
+      },
+      {
+        "name": "BCLib",
+        "from": "bclib-3.0.13.jar",
+        "to": "bclib-3.0.14.jar"
+      },
+      {
+        "name": "Better Archeology",
+        "from": "betterarcheology-1.0.2.jar",
+        "to": "betterarcheology-1.1.6-1.20.1.jar"
+      },
+      {
+        "name": "Better chunk loading",
+        "from": "betterchunkloading-fabric-1.20.1-2.3.jar",
+        "to": "betterchunkloading-fabric-1.20.1-3.3.jar"
+      },
+      {
+        "name": "Better Combat",
+        "from": "bettercombat-fabric-1.8.3+1.20.1.jar",
+        "to": "bettercombat-fabric-1.8.4+1.20.1.jar"
+      },
+      {
+        "name": "BetterEnd",
+        "from": "better-end-4.0.10.jar",
+        "to": "better-end-4.0.11.jar"
+      },
+      {
+        "name": "Blockus",
+        "from": "blockus-2.7.6+1.20.1.jar",
+        "to": "blockus-2.7.12+1.20.1.jar"
+      },
+      {
+        "name": "Bookshelf",
+        "from": "Bookshelf-Fabric-1.20.1-20.1.6.jar",
+        "to": "Bookshelf-Fabric-1.20.1-20.1.9.jar"
+      },
+      {
+        "name": "Better Recipe Books",
+        "from": "brb-1.8.2-fabric.jar",
+        "to": "brb-1.10.0+1.20.0-1.jar"
+      },
+      {
+        "name": "Chat Heads",
+        "from": "chat_heads-0.10.24-fabric-1.20.jar",
+        "to": "chat_heads-0.10.31-fabric-1.20.jar"
+      },
+      {
+        "name": "Cherished Worlds",
+        "from": "cherishedworlds-fabric-6.1.3+1.20.1.jar",
+        "to": "cherishedworlds-fabric-6.1.5+1.20.1.jar"
+      },
+      {
+        "name": "Chunk Sending",
+        "from": "chunksending-fabric-1.20.1-2.6.jar",
+        "to": "chunksending-fabric-1.20.1-2.8.jar"
+      },
+      {
+        "name": "Chunky",
+        "from": "Chunky-1.3.92.jar",
+        "to": "Chunky-1.3.138.jar"
+      },
+      {
+        "name": "Clear Despawn",
+        "from": "ClearDespawn-fabric-1.20.1-1.1.13.jar",
+        "to": "ClearDespawn-fabric-1.20.2-1.1.15.jar"
+      },
+      {
+        "name": "Clickable advancements",
+        "from": "clickadv-fabric-1.20.1-3.4.jar",
+        "to": "clickadv-fabric-1.20.1-3.7.jar"
+      },
+      {
+        "name": "Cloth Config API",
+        "from": "cloth-config-11.1.106-fabric.jar",
+        "to": "cloth-config-11.1.118-fabric.jar"
+      },
+      {
+        "name": "Collective",
+        "from": "collective-1.20.1-7.7.jar",
+        "to": "collective-1.20.1-7.36.jar"
+      },
+      {
+        "name": "Combat Roll",
+        "from": "combatroll-fabric-1.3.0+1.20.1.jar",
+        "to": "combatroll-fabric-1.3.1+1.20.1.jar"
+      },
+      {
+        "name": "Compact Help Command",
+        "from": "compacthelpcommand-1.20.1-2.4.jar",
+        "to": "compacthelpcommand-1.20.1-2.6.jar"
+      },
+      {
+        "name": "Crafting Manipulator",
+        "from": "crafting-manipulator-4.0.0+1.20.jar",
+        "to": "crafting-manipulator-4.1.0+1.20.jar"
+      },
+      {
+        "name": "CraterLib",
+        "from": "CraterLib-fabric-1.20-1.0.2.jar",
+        "to": "CraterLib-Fabric-1.20-1.1.1.jar"
+      },
+      {
+        "name": "Cupboard",
+        "from": "cupboard-fabric-1.20.1-2.1.jar",
+        "to": "cupboard-fabric-1.20.1-2.6.jar"
+      },
+      {
+        "name": "Desired Servers",
+        "from": "desiredservers-fabric-1.20.1-1.2.0.jar",
+        "to": "desiredservers-fabric-1.20.1-1.2.1.jar"
+      },
+      {
+        "name": "Dusk",
+        "from": "dusk-fabric-1.20.1-3.4.jar",
+        "to": "dusk-fabric-1.20.1-3.6.jar"
+      },
+      {
+        "name": "Easy Anvils",
+        "from": "EasyAnvils-v8.0.1-1.20.1-Fabric.jar",
+        "to": "EasyAnvils-v8.0.2-1.20.1-Fabric.jar"
+      },
+      {
+        "name": "Eating Animation",
+        "from": "eating-animation-1.20+1.9.5-CMDfix.jar",
+        "to": "eating-animation-1.20+1.9.5.jar"
+      },
+      {
+        "name": "Elytra Trims",
+        "from": "elytratrims-1.4.3+1.20.jar",
+        "to": "elytratrims-fabric-2.0.3+1.20.1.jar"
+      },
+      {
+        "name": "Enchantment Descriptions",
+        "from": "EnchantmentDescriptions-Fabric-1.20.1-17.0.8.jar",
+        "to": "EnchantmentDescriptions-Fabric-1.20.1-17.0.14.jar"
+      },
+      {
+        "name": "Enderite Mod",
+        "from": "enderitemod-1.5.0-1.20.1.jar",
+        "to": "enderitemod-1.5.1-1.20.1.jar"
+      },
+      {
+        "name": "End Remastered",
+        "from": "fabric-end-remastered-5.2.3.jar",
+        "to": "fabric-end-remastered-5.2.4.jar"
+      },
+      {
+        "name": "Entity Model Features",
+        "from": "entity_model_features_fabric_1.20.1-1.1.0.jar",
+        "to": "entity_model_features_fabric_1.20.1-1.3.jar"
+      },
+      {
+        "name": "Entity Texture Features -",
+        "from": "entity_texture_features_fabric_1.20.1-4.6.1.jar",
+        "to": "entity_texture_features_fabric_1.20.1-5.2.3.jar"
+      },
+      {
+        "name": "Equipment Compare",
+        "from": "EquipmentCompare-1.20.1-fabric-1.3.7.jar",
+        "to": "EquipmentCompare-1.20.1-fabric-1.3.8.jar"
+      },
+      {
+        "name": "Fabric API",
+        "from": "fabric-api-0.90.7+1.20.1.jar",
+        "to": "fabric-api-0.92.0+1.20.1.jar"
+      },
+      {
+        "name": "Fabric Language Kotlin",
+        "from": "fabric-language-kotlin-1.10.14+kotlin.1.9.20.jar",
+        "to": "fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar"
+      },
+      {
+        "name": "Fabric Waystones",
+        "from": "wraith-waystones-3.3.1+mc1.20.1.jar",
+        "to": "wraith-waystones-3.3.2+mc1.20.1.jar"
+      },
+      {
+        "name": "FancyMenu",
+        "from": "fancymenu_fabric_2.14.10-2_MC_1.20.1.jar",
+        "to": "fancymenu_fabric_2.14.13_MC_1.20.1.jar"
+      },
+      {
+        "name": "Farmer's Delight",
+        "from": "farmers-delight-fabric-mc1.20.1-1.4.2.jar",
+        "to": "farmers-delight-fabric-1.4.3.jar"
+      },
+      {
+        "name": "Furnace Recycle",
+        "from": "furnacerecycle-1.20.1-2.1.jar",
+        "to": "furnacerecycle-1.20.1-2.2.jar"
+      },
+      {
+        "name": "Guard Villagers",
+        "from": "guardvillagers-2.0.8-1.20.1.jar",
+        "to": "guardvillagers-2.0.9-1.20.1.jar"
+      },
+      {
+        "name": "Harvest with ease",
+        "from": "harvestwithease-1.20.1-7.1.0.0-fabric.jar",
+        "to": "harvestwithease-1.20.1-8.0.1.0-fabric.jar"
+      },
+      {
+        "name": "HerdsPanic",
+        "from": "herdspanic-1.0.7.jar",
+        "to": "herdspanic-1.1.0.jar"
+      },
+      {
+        "name": "Iceberg",
+        "from": "Iceberg-1.20.1-fabric-1.1.15.jar",
+        "to": "Iceberg-1.20.1-fabric-1.1.18.jar"
+      },
+      {
+        "name": "ImmediatelyFast",
+        "from": "ImmediatelyFast-1.2.7+1.20.2.jar",
+        "to": "ImmediatelyFast-Fabric-1.2.10+1.20.4.jar"
+      },
+      {
+        "name": "Incendium",
+        "from": "Incendium_1.20.2_v5.3.3.jar",
+        "to": "Incendium_1.20.4_v5.3.4.jar"
+      },
+      {
+        "name": "Indium",
+        "from": "indium-1.0.27+mc1.20.1.jar",
+        "to": "indium-1.0.30+mc1.20.4.jar"
+      },
+      {
+        "name": "Inv View",
+        "from": "InvView-1.4.13-1.20.2+.jar",
+        "to": "InvView-1.4.12-1.20+.jar"
+      },
+      {
+        "name": "Iris & Oculus Flywheel Compat",
+        "from": "iris-flywheel-compat-1.20.1-0.2.1.jar",
+        "to": "iris-flywheel-compat-1.20.1-0.2.4.jar"
+      },
+      {
+        "name": "Iris Shaders",
+        "from": "iris-mc1.20.1-1.6.10.jar",
+        "to": "iris-mc1.20.1-1.6.17.jar"
+      },
+      {
+        "name": "Jade 🔍",
+        "from": "Jade-1.20-fabric-11.6.2.jar",
+        "to": "Jade-1.20-fabric-11.8.0.jar"
+      },
+      {
+        "name": "Konkrete",
+        "from": "konkrete_fabric_1.7.0-1_MC_1.20.1.jar",
+        "to": "konkrete_fabric_1.8.1_MC_1.20.1.jar"
+      },
+      {
+        "name": "Legendary Tooltips",
+        "from": "LegendaryTooltips-1.20.1-fabric-1.4.4.jar",
+        "to": "LegendaryTooltips-1.20.1-fabric-1.4.5.jar"
+      },
+      {
+        "name": "LibZ",
+        "from": "libz-1.0.2.jar",
+        "to": "libz-1.0.3.jar"
+      },
+      {
+        "name": "Limited Chunkloading - Chunk cleanup",
+        "from": "limitedchunks-fabric-1.20.1-3.8.jar",
+        "to": "limitedchunks-fabric-1.20.1-4.0.jar"
+      },
+      {
+        "name": "Login Protection",
+        "from": "logprot-fabric-1.20.1-3.1.jar",
+        "to": "logprot-fabric-1.20.1-3.3.jar"
+      },
+      {
+        "name": "MCPitanLib",
+        "from": "mcpitanlibarch-1.8.3-1.20.1-fabric.jar",
+        "to": "mcpitanlib-2.1.9-1.20.1-fabric.jar"
+      },
+      {
+        "name": "Memory Leak Fix",
+        "from": "memoryleakfix-fabric-1.17+-1.1.2.jar",
+        "to": "memoryleakfix-fabric-1.17+-1.1.5.jar"
+      },
+      {
+        "name": "MmmMmmMmmMmm",
+        "from": "dummmmmmy-1.20-1.8.10-fabric.jar",
+        "to": "dummmmmmy-1.20-1.8.14-fabric.jar"
+      },
+      {
+        "name": "Mo Glass",
+        "from": "Mo-Glass-1.6.1-MC1.20.1.jar",
+        "to": "Mo-Glass-1.7-MC1.20.1.jar"
+      },
+      {
+        "name": "Mobs Attempt Parkour",
+        "from": "mobs-attempt-parkour-0.5-1.20.jar",
+        "to": "mobs-attempt-parkour-0.5.2-1.20.jar"
+      },
+      {
+        "name": "ModernFix",
+        "from": "modernfix-fabric-5.9.3+mc1.20.1.jar",
+        "to": "modernfix-fabric-5.14.0+mc1.20.1.jar"
+      },
+      {
+        "name": "MES - Moog's End Structures",
+        "from": "mes-1.3-1.19.4-fabric.jar",
+        "to": "mes-1.3-1.20-fabric.jar"
+      },
+      {
+        "name": "More Culling",
+        "from": "moreculling-1.20.1-0.19.0.jar",
+        "to": "moreculling-1.20.4-0.22.1.jar"
+      },
+      {
+        "name": "Neruina - Ticking Entity Fixer",
+        "from": "neruina-1.2.6-fabric+1.18.2-1.20.1.jar",
+        "to": "neruina-1.3.0-fabric+1.18.2-1.20.1.jar"
+      },
+      {
+        "name": "Nether Portal Spread",
+        "from": "netherportalspread-1.20.1-7.6.jar",
+        "to": "netherportalspread-1.20.1-8.1.jar"
+      },
+      {
+        "name": "NetherPortalFix",
+        "from": "netherportalfix-fabric-1.20-13.0.0.jar",
+        "to": "netherportalfix-fabric-1.20-13.0.1.jar"
+      },
+      {
+        "name": "Not Enough Animations",
+        "from": "notenoughanimations-fabric-1.6.4-mc1.20.jar",
+        "to": "notenoughanimations-fabric-1.7.1-mc1.20.1.jar"
+      },
+      {
+        "name": "Open Parties and Claims",
+        "from": "open-parties-and-claims-fabric-1.20.1-0.20.0.jar",
+        "to": "open-parties-and-claims-fabric-1.20.1-0.20.4.jar"
+      },
+      {
+        "name": "OptiGUI",
+        "from": "optigui-2.1.6.jar",
+        "to": "optigui-2.1.7.jar"
+      },
+      {
+        "name": "Patchouli",
+        "from": "Patchouli-1.20.1-81-FABRIC.jar",
+        "to": "Patchouli-1.20.1-84-FABRIC.jar"
+      },
+      {
+        "name": "Puzzles Lib",
+        "from": "PuzzlesLib-v8.1.8-1.20.1-Fabric.jar",
+        "to": "PuzzlesLib-v8.1.17-1.20.1-Fabric.jar"
+      },
+      {
+        "name": "Raised",
+        "from": "raised-fabric-1.20.1-3.1.0.jar",
+        "to": "raised-fabric-1.20.1-3.1.2.jar"
+      },
+      {
+        "name": "Recipe Book Delight",
+        "from": "recipe-book-delight-0.2.0-1.20.jar",
+        "to": "recipe-book-delight-0.3.0-1.20.jar"
+      },
+      {
+        "name": "Regions Unexplored",
+        "from": "RegionsUnexploredFabric-0.5.31.20.1.jar",
+        "to": "RegionsUnexploredFabric-0.5.5+1.20.1.jar"
+      },
+      {
+        "name": "Resource Pack Overrides",
+        "from": "ResourcePackOverrides-v8.0.2-1.20.1-Fabric.jar",
+        "to": "ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar"
+      },
+      {
+        "name": "Roughly Enough Items Fabric/Forge",
+        "from": "RoughlyEnoughItems-12.0.674.jar",
+        "to": "RoughlyEnoughItems-12.0.684-fabric.jar"
+      },
+      {
+        "name": "Saplanting",
+        "from": "saplanting-fabric-1.20-1.2.4.jar",
+        "to": "saplanting-fabric-1.20.1-1.2.6.jar"
+      },
+      {
+        "name": "Moonlight Lib",
+        "from": "moonlight-1.20-2.8.65-fabric.jar",
+        "to": "moonlight-1.20-2.11.0-fabric.jar"
+      },
+      {
+        "name": "Simple Voice Chat",
+        "from": "voicechat-fabric-1.20.1-2.4.28.jar",
+        "to": "voicechat-fabric-1.20.1-2.5.8.jar"
+      },
+      {
+        "name": "Simply Swords",
+        "from": "simplyswords-fabric-1.51.5-1.20.1.jar",
+        "to": "simplyswords-fabric-1.54.0-1.20.1.jar"
+      },
+      {
+        "name": "Skin Layers 3D",
+        "from": "3dskinlayers-fabric-1.5.4-mc1.20.1.jar",
+        "to": "skinlayers3d-fabric-1.6.2-mc1.20.1.jar"
+      },
+      {
+        "name": "Server Performance - Smooth Chunk Save",
+        "from": "smoothchunk-fabric-1.20.1-3.5.jar",
+        "to": "smoothchunk-fabric-1.20.1-3.6.jar"
+      },
+      {
+        "name": "Sodium Extra",
+        "from": "sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+        "to": "sodium-extra-0.5.4+mc1.20.1-build.115.jar"
+      },
+      {
+        "name": "Sodium",
+        "from": "sodium-fabric-mc1.20.1-0.5.3.jar",
+        "to": "sodium-fabric-0.5.8+mc1.20.1.jar"
+      },
+      {
+        "name": "Sound Physics Remastered",
+        "from": "soundphysics-fabric-1.20.1-1.2.1.jar",
+        "to": "sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
+      },
+      {
+        "name": "Starter Kit",
+        "from": "starterkit-1.20.1-5.3.jar",
+        "to": "starterkit-1.20.1-6.5.jar"
+      },
+      {
+        "name": "Starter Structure",
+        "from": "starterstructure-1.20.1-3.2.jar",
+        "to": "starterstructure-1.20.1-3.4.jar"
+      },
+      {
+        "name": "Structory: Towers",
+        "from": "Structory_Towers_1.20.2_v1.0.5.jar",
+        "to": "Structory_Towers_1.20.4_v1.0.6.jar"
+      },
+      {
+        "name": "Structure Essentials",
+        "from": "structureessentials-fabric-1.20.1-3.0.jar",
+        "to": "structureessentials-fabric-1.20.1-3.3.jar"
+      },
+      {
+        "name": "TalkBubbles",
+        "from": "talkbubbles-1.0.7.jar",
+        "to": "talkbubbles-1.0.8.jar"
+      },
+      {
+        "name": "Tectonic",
+        "from": "tectonic-mod-mc1.19.3+-v2.1.1.jar",
+        "to": "tectonic-mod-1.19.3-v2.2.jar"
+      },
+      {
+        "name": "TerraBlender",
+        "from": "TerraBlender-fabric-1.20.1-3.0.0.169.jar",
+        "to": "TerraBlender-fabric-1.20.1-3.0.1.4.jar"
+      },
+      {
+        "name": "TieredZ",
+        "from": "tiered-1.3.0.jar",
+        "to": "tiered-1.3.2.jar"
+      },
+      {
+        "name": "TooManyOrigins",
+        "from": "TooManyOrigins-1.0.0-beta.19+1.20.1-fabric.jar",
+        "to": "TooManyOrigins-1.0.1+1.20.1-fabric.jar"
+      },
+      {
+        "name": "Towns and Towers",
+        "from": "Towns-and-Towers-1.11.1-Fabric+Forge.jar",
+        "to": "Towns-and-Towers-1.12-Fabric+Forge.jar"
+      },
+      {
+        "name": "Traveler's Titles",
+        "from": "TravelersTitles-1.20-Fabric-4.0.1.jar",
+        "to": "TravelersTitles-1.20-Fabric-4.0.2.jar"
+      },
+      {
+        "name": "Variant Shields",
+        "from": "variantshields-2.0.5.jar",
+        "to": "variantshields-2.1.jar"
+      },
+      {
+        "name": "Wavey Capes",
+        "from": "waveycapes-fabric-1.4.0-mc1.20.jar",
+        "to": "waveycapes-fabric-1.4.3-mc1.20.1.jar"
+      },
+      {
+        "name": "Xaero's Minimap",
+        "from": "Xaeros_Minimap_FP23.8.2_Fabric_1.20.jar",
+        "to": "Xaeros_Minimap_FP23.9.4_Fabric_1.20.jar"
+      },
+      {
+        "name": "Xaero's World Map",
+        "from": "XaerosWorldMap_1.36.0_Fabric_1.20.jar",
+        "to": "XaerosWorldMap_1.37.8_Fabric_1.20.jar"
+      },
+      {
+        "name": "YetAnotherConfigLib",
+        "from": "yet-another-config-lib-fabric-3.2.1+1.20.jar",
+        "to": "yet-another-config-lib-fabric-3.2.2+1.20.jar"
+      },
+      {
+        "name": "YUNG's API",
+        "from": "YungsApi-1.20-Fabric-4.0.2.jar",
+        "to": "YungsApi-1.20-Fabric-4.0.4.jar"
+      },
+      {
+        "name": "YUNG's Better Ocean Monuments",
+        "from": "YungsBetterOceanMonuments-1.20-Fabric-3.0.3.jar",
+        "to": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [
+      "Sparkles: Stardust Labs Resourcepack `Client`",
+      "xali's Enchanted Books"
+    ],
+    "removed": [
+      "Incendium Optional Resourcepack"
+    ],
+    "updated": [
+      {
+        "name": "Eclectic Trove",
+        "from": "EclecticTrove-noconfig-1.20.1-1.2.0.zip",
+        "to": "EclecticTrove-noconfig-1.20.1-1.3.0.zip"
+      },
+      {
+        "name": "Fresh Animations Extensions",
+        "from": "FA+All_Extensions-v1.2.zip",
+        "to": "FA+All_Extensions-v1.3.zip"
+      },
+      {
+        "name": "Fresh Animations",
+        "from": "FreshAnimations_v1.8.1.zip",
+        "to": "FreshAnimations_v1.9.zip"
+      },
+      {
+        "name": "Slightly Improved Font",
+        "from": "Slightly-Improved-Font-1.0.0.zip",
+        "to": "Slightly-Improved-Font-1.1.3.zip"
+      }
+    ]
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  }
+}

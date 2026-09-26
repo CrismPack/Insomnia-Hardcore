@@ -1,0 +1,64 @@
+{
+  "pack": "InsomniaHardcore",
+  "version": "2.1.5",
+  "minecraft": "1.20.1",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.15.11"
+  },
+  "released": "2024-06-06",
+  "prerelease": false,
+  "comparedTo": {
+    "version": "2.1.4a",
+    "minecraft": "1.20.1"
+  },
+  "overview": [
+    "Fixed modded dungeon and boss structures not being allowed to respawn.",
+    "Fixed \"Saving entity NBT\" crashing issue. Thank you Crash Master Razor for helping narrowing down the cause!",
+    "Added RPG style damage indicators.",
+    "Removed unused library mods."
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [
+    "Added structure IDs for BOMD boss structures: [Respawning Structures], [Both]",
+    "Added structure ID \"riendsandfoes:citadel\": [Respawning Structures], [Both]",
+    "Added entries for modded chest loot tables to allow for detecting and respawning modded dungeons: [Respawning Structures], [Both]",
+    "Blacklisted \"integrated_stronghold:stronghold\": [Respawning Structures], [Both]",
+    "Changed screenTypingVisible to \"false\": [What are they up to?], [Client]"
+  ],
+  "mods": {
+    "added": [
+      "Log Cleaner",
+      "Mmm Indicators `Client`"
+    ],
+    "removed": [
+      "Crafting Manipulator",
+      "DoesPotatoTick?",
+      "Faux Custom Entity Data",
+      "LiLaC `Client`",
+      "Memory Leak Fix",
+      "Server Performance - Smooth Chunk Save",
+      "SuperMartijn642's Config Lib `Client`",
+      "TipTheScales `Client`"
+    ],
+    "updated": [
+      {
+        "name": "AzureLib",
+        "from": "azurelib-fabric-1.20.1-2.0.222.jar",
+        "to": "azurelib-fabric-1.20.1-2.0.24.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  }
+}

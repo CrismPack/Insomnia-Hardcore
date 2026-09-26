@@ -1,0 +1,43 @@
+{
+  "pack": "InsomniaHardcore",
+  "version": "2.1.4a",
+  "minecraft": "1.20.1",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.15.11"
+  },
+  "released": "2024-05-30",
+  "prerelease": false,
+  "comparedTo": {
+    "version": "2.1.4",
+    "minecraft": "1.20.1"
+  },
+  "overview": [
+    "Client hotfix, fixing hearts turning black when having armor equipped. [https://github.com/RaphiMC/ImmediatelyFast/issues/208]"
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [],
+  "mods": {
+    "added": [],
+    "removed": [],
+    "updated": [
+      {
+        "name": "ImmediatelyFast",
+        "from": "ImmediatelyFast-Fabric-1.2.15+1.20.4.jar",
+        "to": "ImmediatelyFast-Fabric-1.2.13+1.20.4.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  }
+}

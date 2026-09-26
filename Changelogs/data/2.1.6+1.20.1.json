@@ -1,0 +1,125 @@
+{
+  "pack": "InsomniaHardcore",
+  "version": "2.1.6",
+  "minecraft": "1.20.1",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.15.11"
+  },
+  "released": "2024-07-13",
+  "prerelease": false,
+  "comparedTo": {
+    "version": "2.1.5",
+    "minecraft": "1.20.1"
+  },
+  "overview": [
+    "Moonphases now impact the light levels in the Overworld.",
+    "Changed to use a single shader pack that includes both the Unbound and Reimagined visual styles.",
+    "Improved framerate stability in singleplayer.",
+    "Reverted 'RPG Series' mods to versions prior to \"Saving NBT Data\" server crashing issue started occuring."
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [
+    "Changed shader pack menu to allow for editing settings: [FancyMenu], [Client]",
+    "Added disclaimer message to shader pack menu: [FancyMenu], [Client]",
+    "Changed doWriteToResourceTextFile to \"true\": [Branded Logs], [Client]",
+    "Changed only_affect_block_light to \"false\": [True Darknes Fork], [Client]",
+    "Changed game priority to \"8\": [ThreadTweak], [Both]",
+    "Added message to dh-menu to help with fixing fog issue: [FancyMenu], [Client]",
+    "Changed gcFreeChunkSerializer to false: [C2ME], [Both]",
+    "Changed threadedWorldGen enabled to \"true\": [C2ME], [Both]",
+    "Changed clientSideConfig.modifyMaxVDConfig enabled to \"false\": [C2ME], [Both]",
+    "Changed useSmallThreadingDetector to \"true\": [FerriteCore], [Both]",
+    "Changed mixin.experimental to \"true\": [Lithium], [Both]",
+    "Changed mixin.experimental.chunk_tickets to \"false\": [Lithium], [Both]",
+    "Changed bugfix chunk_deadlock, packet_leak, paper_chunk_patches to \"true\": [ModernFix], [Both]",
+    "Changed perf clear_fabric_mapping_tables, clear_mixin_classinfo, dynamic_entity_renderers, faster_item_rendering, nbt_memory_usage, dynamic_sounds, dynamic_resources & deduplicate_location to \"true\": [ModernFix], [Both]",
+    "Changed thread_priorities to \"false\": [ModernFix], [Both]",
+    "Changed exp_use_optimized_chunk_ticking_iteration to \"true\": [Very Many Players], [Both]",
+    "Changed checkForNewUpdates to \"false\": [Friend&Foes], [Both]"
+  ],
+  "mods": {
+    "added": [
+      "Mobtimizations - Entity Performance Fixes",
+      "Persistent Inventory Search `Client`",
+      "Ranged Weapon API",
+      "Structure Essentials",
+      "ThreadTweak",
+      "Villagers Respawn"
+    ],
+    "removed": [
+      "All The Trims",
+      "BadOptimizations",
+      "Delightful Creators",
+      "Faster Random",
+      "Pufferfish's Attributes",
+      "StutterFix `Client`",
+      "TieFix `Client`",
+      "Unsafe World Random Access Detector"
+    ],
+    "updated": [
+      {
+        "name": "Archers",
+        "from": "archers-1.2.1+1.20.1.jar",
+        "to": "archers-1.1.0+1.20.1.jar"
+      },
+      {
+        "name": "Branded Logs",
+        "from": "brandedlogs-1.1.0.jar",
+        "to": "brandedlogs-2.0.1.jar"
+      },
+      {
+        "name": "MC Dungeons Weapons",
+        "from": "mcdw-9.0.4.jar",
+        "to": "mcdw-9.0.2.jar"
+      },
+      {
+        "name": "ModernFix",
+        "from": "modernfix-fabric-5.17.0+mc1.20.1.jar",
+        "to": "modernfix-fabric-5.18.6+mc1.20.1.jar"
+      },
+      {
+        "name": "Paladins & Priests",
+        "from": "paladins-1.2.0+1.20.1.jar",
+        "to": "paladins-1.1.0+1.20.1.jar"
+      },
+      {
+        "name": "Pufferfish's Skills",
+        "from": "puffish_skills-0.12.2-1.20-fabric.jar",
+        "to": "puffish_skills-0.11.3-1.20-fabric.jar"
+      },
+      {
+        "name": "Simply Skills",
+        "from": "simplyskills-1.4.1+1.20.1.jar",
+        "to": "simplyskills-1.3.0+1.20.1.jar"
+      },
+      {
+        "name": "Spell Engine",
+        "from": "spell_engine-0.14.3+1.20.1.jar",
+        "to": "spell_engine-0.13.3+1.20.1.jar"
+      },
+      {
+        "name": "Spell Power Attributes",
+        "from": "spell_power-0.10.2+1.20.1.jar",
+        "to": "spell_power-fabric-0.9.19+1.20.1.jar"
+      },
+      {
+        "name": "Wizards",
+        "from": "wizards-1.2.0+1.20.1.jar",
+        "to": "wizards-1.1.1+1.20.1.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  }
+}
