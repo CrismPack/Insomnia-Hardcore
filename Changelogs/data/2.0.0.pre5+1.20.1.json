@@ -1,0 +1,2780 @@
+{
+  "pack": "InsomniaHardcore",
+  "version": "2.0.0.pre5",
+  "minecraft": "1.20.1",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.14.24"
+  },
+  "released": "2024-01-03",
+  "prerelease": true,
+  "comparedTo": {
+    "version": "2.0.0.pre4",
+    "minecraft": "1.20.1"
+  },
+  "overview": [
+    "Added several new Origins.",
+    "Changes to worldgen.",
+    "Greatly improved FPS in areas with many particles.",
+    "Improved server performance.",
+    "Switched to use a fork of 'Create Fabric' that supports never versions of Sodium.",
+    "Compatibility between 'Simply Swords' and several mods.",
+    "Improved health and armor bar visualization.",
+    "Fixed vegetation from 'Regions Unexplored' not playing nicely with the shaders.",
+    "Updated all mods to their latest version.",
+    "And more..."
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [
+    "Enabled \"opt_out_updater\" (fixes an error message when starting a server): [Debugify], [Both]",
+    "Moved toughness bar to the left side: [Overflowing Bars], [Client]",
+    "Shifted the cooldown bar up by 1: [Origins], [Client]",
+    "The RAM allocation guide now links to a new page on our wiki: [Memory Settings], [Client]",
+    "Enabled underwater fog modification: [Simple Fog], [Client]",
+    "Disabled \"can_players_toggle_global_mode\": [Fabric Waystones], [Both]",
+    "Disabled better snow: [SuperBetterGrass], [Client]",
+    "Enabled the \"dynamic\" feature to help with server performance: [ServerCore], [Server]"
+  ],
+  "mods": {
+    "added": [
+      "Alternate Origin GUI `Client`",
+      "Better chunk loading `Server`",
+      "CIT Resewn",
+      "Create Fabric Sodium Fix",
+      "DEUF Refabricated",
+      "Incendium",
+      "Inv View `Server`",
+      "Jade Addons",
+      "Knaves' Needs",
+      "Limited Chunkloading - Chunk cleanup `Server`",
+      "More Culling `Client`",
+      "Overflowing Bars `Client`",
+      "Raised `Client`",
+      "SuperBetterGrass `Client`",
+      "Tectonic",
+      "TooManyOrigins",
+      "Variant Shields"
+    ],
+    "removed": [
+      "Amplified Nether",
+      "Colorful Hearts `Client`",
+      "Create Fabric",
+      "Detail Armor Bar `Client`",
+      "Lan Server Properties `Client`",
+      "lazy-language-loader `Client`",
+      "Terralith",
+      "Very Many Players `Server`"
+    ],
+    "updated": [
+      {
+        "name": "AttributeFix",
+        "from": "AttributeFix-Fabric-1.20.1-21.0.2.jar",
+        "to": "AttributeFix-Fabric-1.20.1-21.0.3.jar"
+      },
+      {
+        "name": "Better Combat",
+        "from": "bettercombat-fabric-1.7.3+1.20.1.jar",
+        "to": "bettercombat-fabric-1.8.3+1.20.1.jar"
+      },
+      {
+        "name": "BlossomTpa",
+        "from": "blossom-tpa-2.2.0+1.20.jar",
+        "to": "blossom-tpa-2.2.1+1.20.jar"
+      },
+      {
+        "name": "Bobby",
+        "from": "bobby-5.0.0.jar",
+        "to": "bobby-5.0.1.jar"
+      },
+      {
+        "name": "Bookshelf",
+        "from": "Bookshelf-Fabric-1.20.1-20.0.5.jar",
+        "to": "Bookshelf-Fabric-1.20.1-20.1.6.jar"
+      },
+      {
+        "name": "Better Recipe Books",
+        "from": "brb-1.8.0-fabric.jar",
+        "to": "brb-1.8.2-fabric.jar"
+      },
+      {
+        "name": "Chat Heads",
+        "from": "chat_heads-0.10.22-fabric-1.20.jar",
+        "to": "chat_heads-0.10.24-fabric-1.20.jar"
+      },
+      {
+        "name": "Cherished Worlds",
+        "from": "cherishedworlds-fabric-6.1.2+1.20.1.jar",
+        "to": "cherishedworlds-fabric-6.1.3+1.20.1.jar"
+      },
+      {
+        "name": "Collective",
+        "from": "collective-1.20.1-6.66.jar",
+        "to": "collective-1.20.1-7.7.jar"
+      },
+      {
+        "name": "Combat Roll",
+        "from": "combatroll-fabric-1.2.2+1.20.1.jar",
+        "to": "combatroll-fabric-1.3.0+1.20.1.jar"
+      },
+      {
+        "name": "Compact Help Command",
+        "from": "compacthelpcommand-1.20.1-2.3.jar",
+        "to": "compacthelpcommand-1.20.1-2.4.jar"
+      },
+      {
+        "name": "Continuity",
+        "from": "continuity-3.0.0-beta.3+1.20.1.jar",
+        "to": "continuity-3.0.0-beta.4+1.20.1.jar"
+      },
+      {
+        "name": "Cristel Lib",
+        "from": "cristellib-1.1.3-fabric.jar",
+        "to": "cristellib-1.1.5-fabric.jar"
+      },
+      {
+        "name": "Cupboard",
+        "from": "cupboard-fabric-1.20.1-2.0.jar",
+        "to": "cupboard-fabric-1.20.1-2.1.jar"
+      },
+      {
+        "name": "Dark Paintings",
+        "from": "DarkPaintings-Fabric-1.20.1-17.0.2.jar",
+        "to": "DarkPaintings-Fabric-1.20.1-17.0.4.jar"
+      },
+      {
+        "name": "Eating Animation",
+        "from": "eating-animation-1.9.4+1.20.jar",
+        "to": "eating-animation-1.20+1.9.5-CMDfix.jar"
+      },
+      {
+        "name": "Elytra Trims",
+        "from": "elytratrims-1.3.3+1.20.jar",
+        "to": "elytratrims-1.4.3+1.20.jar"
+      },
+      {
+        "name": "[EMF] Entity Model Features",
+        "from": "entity_model_features_fabric_1.20-1.0.2.jar",
+        "to": "entity_model_features_fabric_1.20.1-1.1.0.jar"
+      },
+      {
+        "name": "[ETF] Entity Texture Features",
+        "from": "entity_texture_features_fabric_1.20-4.5.1.jar",
+        "to": "entity_texture_features_fabric_1.20.1-4.6.1.jar"
+      },
+      {
+        "name": "Fabric API",
+        "from": "fabric-api-0.88.1+1.20.1.jar",
+        "to": "fabric-api-0.90.7+1.20.1.jar"
+      },
+      {
+        "name": "Fabric Language Kotlin",
+        "from": "fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar",
+        "to": "fabric-language-kotlin-1.10.14+kotlin.1.9.20.jar"
+      },
+      {
+        "name": "Fabric Waystones",
+        "from": "wraith-waystones-3.1.3+mc1.20.jar",
+        "to": "wraith-waystones-3.3.1+mc1.20.1.jar"
+      },
+      {
+        "name": "Falling Leaves",
+        "from": "fallingleaves-1.15.3+1.20.1.jar",
+        "to": "fallingleaves-1.15.4+1.20.1.jar"
+      },
+      {
+        "name": "FancyMenu",
+        "from": "fancymenu_fabric_2.14.9_MC_1.20.jar",
+        "to": "fancymenu_fabric_2.14.10-2_MC_1.20.1.jar"
+      },
+      {
+        "name": "FerriteCore",
+        "from": "ferritecore-6.0.0-fabric.jar",
+        "to": "ferritecore-6.0.1-fabric.jar"
+      },
+      {
+        "name": "Furnace Recycle",
+        "from": "furnacerecycle-1.20.1-2.0.jar",
+        "to": "furnacerecycle-1.20.1-2.1.jar"
+      },
+      {
+        "name": "Goblin Traders",
+        "from": "goblintraders-fabric-1.20.1-1.9.2.jar",
+        "to": "goblintraders-fabric-1.20.1-1.9.3.jar"
+      },
+      {
+        "name": "Harvest with ease",
+        "from": "harvestwithease-1.20.1-7.0.0.2-fabric.jar",
+        "to": "harvestwithease-1.20.1-7.1.0.0-fabric.jar"
+      },
+      {
+        "name": "ImmediatelyFast",
+        "from": "ImmediatelyFast-1.2.5+1.20.2.jar",
+        "to": "ImmediatelyFast-1.2.7+1.20.2.jar"
+      },
+      {
+        "name": "Indium",
+        "from": "indium-1.0.21+mc1.20.1.jar",
+        "to": "indium-1.0.27+mc1.20.1.jar"
+      },
+      {
+        "name": "Inventory Profiles Next",
+        "from": "InventoryProfilesNext-fabric-1.20-1.10.7.jar",
+        "to": "InventoryProfilesNext-fabric-1.20-1.10.9.jar"
+      },
+      {
+        "name": "Iris Shaders",
+        "from": "iris-mc1.20-1.6.4.jar",
+        "to": "iris-mc1.20.1-1.6.10.jar"
+      },
+      {
+        "name": "Jade 🔍",
+        "from": "Jade-1.20-fabric-11.6.1.jar",
+        "to": "Jade-1.20-fabric-11.6.2.jar"
+      },
+      {
+        "name": "Konkrete",
+        "from": "konkrete_fabric_1.6.1_MC_1.20.jar",
+        "to": "konkrete_fabric_1.7.0-1_MC_1.20.1.jar"
+      },
+      {
+        "name": "Let Me Despawn",
+        "from": "letmedespawn-fabric-1.20-1.1.0.jar",
+        "to": "letmedespawn-fabric-1.20.x-1.2.0.jar"
+      },
+      {
+        "name": "libIPN",
+        "from": "libIPN-fabric-1.20-4.0.0.jar",
+        "to": "libIPN-fabric-1.20-4.0.1.jar"
+      },
+      {
+        "name": "MCPitanLib",
+        "from": "mcpitanlibarch-1.7.8-1.20.1-fabric.jar",
+        "to": "mcpitanlibarch-1.8.3-1.20.1-fabric.jar"
+      },
+      {
+        "name": "MmmMmmMmmMmm",
+        "from": "dummmmmmy-1.20-1.8.4-fabric.jar",
+        "to": "dummmmmmy-1.20-1.8.10-fabric.jar"
+      },
+      {
+        "name": "ModernFix",
+        "from": "modernfix-fabric-5.7.5+mc1.20.1.jar",
+        "to": "modernfix-fabric-5.9.3+mc1.20.1.jar"
+      },
+      {
+        "name": "MVS - Moog's Voyager Structures",
+        "from": "mvs-4.0-1.20-fabric.jar",
+        "to": "mvs-4.1.1-1.20-fabric.jar"
+      },
+      {
+        "name": "Neruina - Ticking Entity Fixer",
+        "from": "neruina-1.2.3-fabric+1.18.2-1.20.1.jar",
+        "to": "neruina-1.2.6-fabric+1.18.2-1.20.1.jar"
+      },
+      {
+        "name": "Nether Portal Spread",
+        "from": "netherportalspread-1.20.1-7.5.jar",
+        "to": "netherportalspread-1.20.1-7.6.jar"
+      },
+      {
+        "name": "Open Parties and Claims",
+        "from": "open-parties-and-claims-fabric-1.20.1-0.19.3.jar",
+        "to": "open-parties-and-claims-fabric-1.20.1-0.20.0.jar"
+      },
+      {
+        "name": "OptiGUI",
+        "from": "optigui-2.2.0-alpha.1.jar",
+        "to": "optigui-2.1.6.jar"
+      },
+      {
+        "name": "Polymorph",
+        "from": "polymorph-fabric-0.49.0+1.20.1.jar",
+        "to": "polymorph-fabric-0.49.1+1.20.1.jar"
+      },
+      {
+        "name": "Puzzles Lib",
+        "from": "PuzzlesLib-v8.0.24-1.20.1-Fabric.jar",
+        "to": "PuzzlesLib-v8.1.8-1.20.1-Fabric.jar"
+      },
+      {
+        "name": "Recall Staffs",
+        "from": "recallstaffs-4.0.1+1.20.jar",
+        "to": "recallstaffs-4.1.1+1.20.jar"
+      },
+      {
+        "name": "Regions Unexplored",
+        "from": "RegionsUnexploredFabric-0.5.2+1.20.1.jar",
+        "to": "RegionsUnexploredFabric-0.5.31.20.1.jar"
+      },
+      {
+        "name": "Resource Pack Overrides",
+        "from": "ResourcePackOverrides-v8.0.1-1.20.1-Fabric.jar",
+        "to": "ResourcePackOverrides-v8.0.2-1.20.1-Fabric.jar"
+      },
+      {
+        "name": "Roughly Enough Items Fabric/Forge",
+        "from": "RoughlyEnoughItems-12.0.659.jar",
+        "to": "RoughlyEnoughItems-12.0.674.jar"
+      },
+      {
+        "name": "Roughly Enough Professions",
+        "from": "RoughlyEnoughProfessions-fabric-1.20.1-2.0.1.jar",
+        "to": "RoughlyEnoughProfessions-fabric-1.20.1-2.0.2.jar"
+      },
+      {
+        "name": "Philip's Ruins",
+        "from": "Philips-Ruins1.20.1-2.2[Fabric].jar",
+        "to": "Philips-Ruins1.20.1-2.5[Fabric].jar"
+      },
+      {
+        "name": "Searchables",
+        "from": "Searchables-fabric-1.20.1-1.0.1.jar",
+        "to": "Searchables-fabric-1.20.1-1.0.2.jar"
+      },
+      {
+        "name": "Moonlight Lib",
+        "from": "moonlight-1.20-2.8.31-fabric.jar",
+        "to": "moonlight-1.20-2.8.65-fabric.jar"
+      },
+      {
+        "name": "ServerCore",
+        "from": "servercore-fabric-1.3.7+1.20.1.jar",
+        "to": "servercore-fabric-1.3.9+1.20.1.jar"
+      },
+      {
+        "name": "Simple Discord RPC",
+        "from": "simple-rpc-fabric-1.20-3.2.2.jar",
+        "to": "SimpleRPC-fabric-1.20-3.2.4.jar"
+      },
+      {
+        "name": "Simple Voice Chat",
+        "from": "voicechat-fabric-1.20.1-2.4.25.jar",
+        "to": "voicechat-fabric-1.20.1-2.4.28.jar"
+      },
+      {
+        "name": "Simply Swords",
+        "from": "simplyswords-fabric-1.51.1-1.20.1.jar",
+        "to": "simplyswords-fabric-1.51.5-1.20.1.jar"
+      },
+      {
+        "name": "Server Performance - Smooth Chunk Save",
+        "from": "smoothchunk-fabric-1.20.1-3.2.jar",
+        "to": "smoothchunk-fabric-1.20.1-3.5.jar"
+      },
+      {
+        "name": "Sodium Extra",
+        "from": "sodium-extra-0.4.27+mc1.20.1-build.110.jar",
+        "to": "sodium-extra-0.5.1+mc1.20.1-build.112.jar"
+      },
+      {
+        "name": "Sodium",
+        "from": "sodium-fabric-mc1.20-0.4.10+build.27.jar",
+        "to": "sodium-fabric-mc1.20.1-0.5.3.jar"
+      },
+      {
+        "name": "Starter Kit",
+        "from": "starterkit-1.20.1-5.2.jar",
+        "to": "starterkit-1.20.1-5.3.jar"
+      },
+      {
+        "name": "Starter Structure",
+        "from": "starterstructure-1.20.1-3.1.jar",
+        "to": "starterstructure-1.20.1-3.2.jar"
+      },
+      {
+        "name": "Structory: Towers",
+        "from": "Structory_Towers_1.20.2_v1.0.4.jar",
+        "to": "Structory_Towers_1.20.2_v1.0.5.jar"
+      },
+      {
+        "name": "SuperMartijn642's Config Lib",
+        "from": "supermartijn642configlib-1.1.8-fabric-mc1.20.jar",
+        "to": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar"
+      },
+      {
+        "name": "Towns and Towers",
+        "from": "Towns-and-Towers-1.11-Fabric+Forge.jar",
+        "to": "Towns-and-Towers-1.11.1-Fabric+Forge.jar"
+      },
+      {
+        "name": "Xaero's Minimap",
+        "from": "Xaeros_Minimap_FP23.6.3_Fabric_1.20.jar",
+        "to": "Xaeros_Minimap_FP23.8.2_Fabric_1.20.jar"
+      },
+      {
+        "name": "Xaero's World Map",
+        "from": "XaerosWorldMap_1.34.1_Fabric_1.20.jar",
+        "to": "XaerosWorldMap_1.36.0_Fabric_1.20.jar"
+      },
+      {
+        "name": "YetAnotherConfigLib",
+        "from": "yet-another-config-lib-fabric-3.2.0+1.20.jar",
+        "to": "yet-another-config-lib-fabric-3.2.1+1.20.jar"
+      },
+      {
+        "name": "YUNG's Better Jungle Temples",
+        "from": "YungsBetterJungleTemples-1.20-Fabric-2.0.3.jar",
+        "to": "YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar"
+      },
+      {
+        "name": "YUNG's Better Nether Fortresses",
+        "from": "YungsBetterNetherFortresses-1.20-Fabric-2.0.4.jar",
+        "to": "YungsBetterNetherFortresses-1.20-Fabric-2.0.5.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [
+      "Disable Incendium Toxic Heap Biome",
+      "Disable TieredZ Max Health",
+      "Incendium Optional Resourcepack"
+    ],
+    "removed": [],
+    "updated": [
+      {
+        "name": "Eclectic Trove",
+        "from": "EclecticTrove-noconfig-1.19.3-1.2.0.zip",
+        "to": "EclecticTrove-noconfig-1.20.1-1.2.0.zip"
+      }
+    ]
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  },
+  "contents": {
+    "mods": [
+      {
+        "name": "Adorn",
+        "file": "Adorn-5.0.0+1.20.1-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/adorn",
+        "authors": [
+          "Juicebus"
+        ]
+      },
+      {
+        "name": "Advanced Netherite",
+        "file": "advancednetherite-fabric-2.0.2-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric",
+        "authors": [
+          "Autovw"
+        ]
+      },
+      {
+        "name": "Advancement Plaques",
+        "file": "AdvancementPlaques-1.20.1-fabric-1.4.11.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric",
+        "authors": [
+          "Grend_G"
+        ]
+      },
+      {
+        "name": "Advancements Enlarger",
+        "file": "advancements-enlarger-0.3.3.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger",
+        "authors": [
+          "shedaniel"
+        ]
+      },
+      {
+        "name": "Alternate Current",
+        "file": "alternate-current-mc1.20-1.7.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/alternate-current",
+        "authors": [
+          "SpaceWalkerRS"
+        ]
+      },
+      {
+        "name": "Alternate Origin GUI",
+        "file": "altorigingui-1.20.1-1.0.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/altorigingui",
+        "authors": [
+          "UltrusBot"
+        ]
+      },
+      {
+        "name": "Ambient Environment",
+        "file": "AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ambient-environment",
+        "authors": [
+          "Jaredlll08"
+        ]
+      },
+      {
+        "name": "Animatica",
+        "file": "animatica-0.6+1.20.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/animatica",
+        "authors": [
+          "FoundationGames"
+        ]
+      },
+      {
+        "name": "AntiGhost",
+        "file": "antighost-1.20-fabric0.83.0-1.1.5.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/antighost",
+        "authors": [
+          "Giselbaer"
+        ]
+      },
+      {
+        "name": "AntiXray",
+        "file": "anti-xray-1.3.1-Fabric-1.20.1.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/antixray",
+        "authors": [
+          "drexhd"
+        ]
+      },
+      {
+        "name": "AppleSkin",
+        "file": "appleskin-fabric-mc1.20.1-2.5.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+        "authors": [
+          "squeek502"
+        ]
+      },
+      {
+        "name": "Architectury API",
+        "file": "architectury-9.1.12-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+        "authors": [
+          "shedaniel",
+          "Juicebus",
+          "MaxNeedsSnacks",
+          "st0x0ef"
+        ]
+      },
+      {
+        "name": "AttributeFix",
+        "file": "AttributeFix-Fabric-1.20.1-21.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+        "authors": [
+          "DarkhaxDev"
+        ]
+      },
+      {
+        "name": "AutoTag",
+        "file": "autotag-2.0.2+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/autotag",
+        "authors": [
+          "Apace"
+        ]
+      },
+      {
+        "name": "Awesome Dungeon Nether edition - Fabric",
+        "file": "awesomedungeonnether-fabric-1.20.1-3.1.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-fabric",
+        "authors": [
+          "jtl_elisa"
+        ]
+      },
+      {
+        "name": "Awesome Dungeon The End edition - Fabric",
+        "file": "awesomedungeonend-fabric-1.20.1-3.1.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-fabric",
+        "authors": [
+          "jtl_elisa"
+        ]
+      },
+      {
+        "name": "Balm",
+        "file": "balm-fabric-1.20.1-7.1.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/balm-fabric",
+        "authors": [
+          "BlayTheNinth"
+        ]
+      },
+      {
+        "name": "BCLib",
+        "file": "bclib-3.0.13.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bclib",
+        "authors": [
+          "Quiqueck"
+        ]
+      },
+      {
+        "name": "Better Archeology",
+        "file": "betterarcheology-1.0.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-archeology",
+        "authors": [
+          "ruven",
+          "Dunkellicht"
+        ]
+      },
+      {
+        "name": "Better chunk loading",
+        "file": "betterchunkloading-fabric-1.20.1-2.3.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "Better Combat",
+        "file": "bettercombat-fabric-1.8.3+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+        "authors": [
+          "daedelus_dev"
+        ]
+      },
+      {
+        "name": "Better Compatibility Checker",
+        "file": "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker",
+        "authors": [
+          "Gaz_"
+        ]
+      },
+      {
+        "name": "Better Ping Display",
+        "file": "BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric",
+        "authors": [
+          "Quintinity"
+        ]
+      },
+      {
+        "name": "Better Recipe Books",
+        "file": "brb-1.8.2-fabric.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/brb",
+        "authors": [
+          "marshycity",
+          "TauCubed"
+        ]
+      },
+      {
+        "name": "Better Sodium Video Settings Button",
+        "file": "bsvsb-3.0.3.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button",
+        "authors": [
+          "PiemanDev"
+        ]
+      },
+      {
+        "name": "Better Than Mending",
+        "file": "betterthanmending-1.3.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-than-mending",
+        "authors": [
+          "legobmw99"
+        ]
+      },
+      {
+        "name": "Better Third Person",
+        "file": "BetterThirdPerson-Fabric-1.20-1.9.0.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-third-person",
+        "authors": [
+          "Socolio",
+          "DreenDex"
+        ]
+      },
+      {
+        "name": "Better Trim Tooltips",
+        "file": "better-trim-tooltips-1.0.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips",
+        "authors": [
+          "Andrew6rant"
+        ]
+      },
+      {
+        "name": "BetterEnd",
+        "file": "better-end-4.0.10.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/betterend",
+        "authors": [
+          "Quiqueck"
+        ]
+      },
+      {
+        "name": "BisectHosting Server Integration Menu",
+        "file": "BHMenu-Fabric-1.20.1-2.4.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-fabric",
+        "authors": [
+          "BisectHosting"
+        ]
+      },
+      {
+        "name": "Blockus",
+        "file": "blockus-2.7.6+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/blockus",
+        "authors": [
+          "Brandcraft"
+        ]
+      },
+      {
+        "name": "BlossomLib",
+        "file": "blossom-lib-2.5.4+1.20.jar",
+        "side": "server",
+        "url": "https://modrinth.com/mod/blossomlib",
+        "authors": [
+          "CodedSakura"
+        ]
+      },
+      {
+        "name": "BlossomTpa",
+        "file": "blossom-tpa-2.2.1+1.20.jar",
+        "side": "server",
+        "url": "https://modrinth.com/mod/blossomtpa",
+        "authors": [
+          "CodedSakura"
+        ]
+      },
+      {
+        "name": "Bobby",
+        "file": "bobby-5.0.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bobby",
+        "authors": [
+          "Johni0702"
+        ]
+      },
+      {
+        "name": "Bookshelf",
+        "file": "Bookshelf-Fabric-1.20.1-20.1.6.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+        "authors": [
+          "DarkhaxDev"
+        ]
+      },
+      {
+        "name": "Borderless Mining",
+        "file": "borderless-mining-1.1.8+1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/borderless-mining",
+        "authors": [
+          "comp500"
+        ]
+      },
+      {
+        "name": "Bow Infinity Fix",
+        "file": "BowInfinityFix-1.20.x-fabric-2.6.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix",
+        "authors": [
+          "Parker8283"
+        ]
+      },
+      {
+        "name": "Branded Logs",
+        "file": "brandedlogs-1.0.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/branded-logs",
+        "authors": [
+          "HaXr"
+        ]
+      },
+      {
+        "name": "Bygone Nether",
+        "file": "bygonenether-1.20-1.3.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bygone-nether-fabric",
+        "authors": [
+          "izofar"
+        ]
+      },
+      {
+        "name": "Camp Chair",
+        "file": "campchair.fabric.1.20-1.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/camp-chair",
+        "authors": [
+          "dmitrylovin"
+        ]
+      },
+      {
+        "name": "Capes",
+        "file": "capes-1.5.2+1.20-fabric.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/capes",
+        "authors": [
+          "Cael"
+        ]
+      },
+      {
+        "name": "Chat Heads",
+        "file": "chat_heads-0.10.24-fabric-1.20.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+        "authors": [
+          "dzwdz"
+        ]
+      },
+      {
+        "name": "Chat Patches",
+        "file": "chatpatches-201.5.5.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/chatpatches",
+        "authors": [
+          "OBro1961"
+        ]
+      },
+      {
+        "name": "Cherished Worlds",
+        "file": "cherishedworlds-fabric-6.1.3+1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cherished-worlds",
+        "authors": [
+          "TheIllusiveC4"
+        ]
+      },
+      {
+        "name": "Chunk Sending",
+        "file": "chunksending-fabric-1.20.1-2.6.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "Chunky",
+        "file": "Chunky-1.3.92.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator",
+        "authors": [
+          "pop4959"
+        ]
+      },
+      {
+        "name": "CIT Resewn",
+        "file": "CITResewn-1.1.3+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cit-resewn",
+        "authors": [
+          "SHsuperCM"
+        ]
+      },
+      {
+        "name": "Clean Tooltips",
+        "file": "clean_tooltips-1.0-fabric-1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/clean-tooltips",
+        "authors": [
+          "Stal"
+        ]
+      },
+      {
+        "name": "CleanView",
+        "file": "cleanview-1.20.1-v1-fabric.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric",
+        "authors": [
+          "LainMI"
+        ]
+      },
+      {
+        "name": "Clear Despawn",
+        "file": "ClearDespawn-fabric-1.20.1-1.1.13.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric",
+        "authors": [
+          "StrikerRocker"
+        ]
+      },
+      {
+        "name": "Clickable advancements",
+        "file": "clickadv-fabric-1.20.1-3.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/clickable-advancements",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "Client Tweaks",
+        "file": "clienttweaks-fabric-1.20-11.1.0.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric",
+        "authors": [
+          "BlayTheNinth"
+        ]
+      },
+      {
+        "name": "Cloth Config API",
+        "file": "cloth-config-11.1.106-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+        "authors": [
+          "shedaniel",
+          "LinkieIsBetterThanK9"
+        ]
+      },
+      {
+        "name": "Clumps",
+        "file": "Clumps-fabric-1.20.1-12.0.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+        "authors": [
+          "Jaredlll08"
+        ]
+      },
+      {
+        "name": "Collective",
+        "file": "collective-1.20.1-7.7.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/collective",
+        "authors": [
+          "Serilum"
+        ]
+      },
+      {
+        "name": "Combat Roll",
+        "file": "combatroll-fabric-1.3.0+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/combat-roll",
+        "authors": [
+          "daedelus_dev"
+        ]
+      },
+      {
+        "name": "Compact Help Command",
+        "file": "compacthelpcommand-1.20.1-2.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/compact-help-command",
+        "authors": [
+          "Serilum"
+        ]
+      },
+      {
+        "name": "Companion 🐕",
+        "file": "Companion-1.20-fabric-5.1.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/companion-fabric",
+        "authors": [
+          "Snownee"
+        ]
+      },
+      {
+        "name": "CompleteConfig",
+        "file": "completeconfig-2.5.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/completeconfig",
+        "authors": [
+          "Lortseam_"
+        ]
+      },
+      {
+        "name": "Continuity",
+        "file": "continuity-3.0.0-beta.4+1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/continuity",
+        "authors": [
+          "Pepper_Bell"
+        ]
+      },
+      {
+        "name": "Controlling",
+        "file": "Controlling-fabric-1.20.1-12.0.2.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+        "authors": [
+          "Jaredlll08"
+        ]
+      },
+      {
+        "name": "Couplings",
+        "file": "Couplings-1.9.4+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/couplings",
+        "authors": [
+          "HeckinChloe"
+        ]
+      },
+      {
+        "name": "Crafting Manipulator",
+        "file": "crafting-manipulator-4.0.0+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/crafting-manipulator",
+        "authors": [
+          "Xires87"
+        ]
+      },
+      {
+        "name": "CraterLib",
+        "file": "CraterLib-fabric-1.20-1.0.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/craterlib",
+        "authors": [
+          "HypherionSA"
+        ]
+      },
+      {
+        "name": "Crawl",
+        "file": "crawl-0.12.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/crawl",
+        "authors": [
+          "fewizz_",
+          "Chocohead"
+        ]
+      },
+      {
+        "name": "Create Fabric Sodium Fix",
+        "file": "create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar",
+        "url": "https://modrinth.com/mod/create-fabric-sodium-fix",
+        "authors": [
+          "EthanStokes"
+        ]
+      },
+      {
+        "name": "Create Support for Open Parties and Claims",
+        "file": "opac-fabric-create-support-1.3.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/opac-fabric-create-support",
+        "authors": [
+          "xaero96"
+        ]
+      },
+      {
+        "name": "Cristel Lib",
+        "file": "cristellib-1.1.5-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cristel-lib",
+        "authors": [
+          "Cristelknight"
+        ]
+      },
+      {
+        "name": "Cupboard",
+        "file": "cupboard-fabric-1.20.1-2.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "Dark Enchanting",
+        "file": "dark-enchanting-1.0.3+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dark-enchanting",
+        "authors": [
+          "ffrannny"
+        ]
+      },
+      {
+        "name": "Dark Loading Screen",
+        "file": "dark-loading-screen-1.6.14.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen",
+        "authors": [
+          "A5b84"
+        ]
+      },
+      {
+        "name": "Dark Paintings",
+        "file": "DarkPaintings-Fabric-1.20.1-17.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dark-paintings",
+        "authors": [
+          "DarkhaxDev"
+        ]
+      },
+      {
+        "name": "Debugify",
+        "file": "Debugify-1.20.1+2.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/debugify",
+        "authors": [
+          "isXander"
+        ]
+      },
+      {
+        "name": "Default Server Properties",
+        "file": "default-server-properties-fabric-81.1.0.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/default-server-properties",
+        "authors": [
+          "ErrorMikey"
+        ]
+      },
+      {
+        "name": "Desired Servers",
+        "file": "desiredservers-fabric-1.20.1-1.2.0.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/desired-servers",
+        "authors": [
+          "Kreezxil"
+        ]
+      },
+      {
+        "name": "DEUF Refabricated",
+        "file": "DEUF_Refabricated-MC1.20.1-1.1.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/deuf-refabricated",
+        "authors": [
+          "ElocinDev"
+        ]
+      },
+      {
+        "name": "Ding",
+        "file": "Ding-1.20.1-Fabric-1.4.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ding-for-fabric",
+        "authors": [
+          "iChun"
+        ]
+      },
+      {
+        "name": "Disable Custom Worlds Advice",
+        "file": "DisableCustomWorldsAdvice-4.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice",
+        "authors": [
+          "Nara"
+        ]
+      },
+      {
+        "name": "Drip Sounds",
+        "file": "DripSounds-1.19.4-0.3.2.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dripsounds",
+        "authors": [
+          "PieKing1215"
+        ]
+      },
+      {
+        "name": "Dusk",
+        "file": "dusk-fabric-1.20.1-3.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dusk",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "Dyed",
+        "file": "dyed-fabric-23w18a-1.1.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dyed",
+        "authors": [
+          "yurisuika"
+        ]
+      },
+      {
+        "name": "Easy Anvils",
+        "file": "EasyAnvils-v8.0.1-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/easy-anvils",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "Easy Magic",
+        "file": "EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/easy-magic",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "Eating Animation",
+        "file": "eating-animation-1.20+1.9.5-CMDfix.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric",
+        "authors": [
+          "theone_ss"
+        ]
+      },
+      {
+        "name": "Economical Villager Trading",
+        "file": "economical-villager-trading-1.2.10+MC1.20-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/economical-villager-trading",
+        "authors": [
+          "supersaiyansubtlety"
+        ]
+      },
+      {
+        "name": "Elytra Physics",
+        "file": "ElytraPhysics-1.3-1.20.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/elytra-physics",
+        "authors": [
+          "ImJ0shh_"
+        ]
+      },
+      {
+        "name": "Elytra Trims",
+        "file": "elytratrims-1.4.3+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/elytra-trims",
+        "authors": [
+          "KikuGie"
+        ]
+      },
+      {
+        "name": "[EMF] Entity Model Features",
+        "file": "entity_model_features_fabric_1.20.1-1.1.0.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+        "authors": [
+          "Traben"
+        ]
+      },
+      {
+        "name": "Emojiful",
+        "file": "Emojiful-Fabric-1.20.1-4.2.0.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/emojiful",
+        "authors": [
+          "Buuz135"
+        ]
+      },
+      {
+        "name": "Enchantment Descriptions",
+        "file": "EnchantmentDescriptions-Fabric-1.20.1-17.0.8.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
+        "authors": [
+          "DarkhaxDev"
+        ]
+      },
+      {
+        "name": "End Remastered",
+        "file": "fabric-end-remastered-5.2.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/endremastered-fabric",
+        "authors": [
+          "jack_bagel",
+          "gilvoisard"
+        ]
+      },
+      {
+        "name": "Enderite Mod",
+        "file": "enderitemod-1.5.0-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric",
+        "authors": [
+          "pitti11",
+          "nic4las",
+          "PianoManu"
+        ]
+      },
+      {
+        "name": "Entity Culling Fabric/Forge",
+        "file": "entityculling-fabric-1.6.2-mc1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "Equipment Compare",
+        "file": "EquipmentCompare-1.20.1-fabric-1.3.7.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric",
+        "authors": [
+          "Grend_G"
+        ]
+      },
+      {
+        "name": "[ETF] Entity Texture Features",
+        "file": "entity_texture_features_fabric_1.20.1-4.6.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+        "authors": [
+          "Traben"
+        ]
+      },
+      {
+        "name": "Exordium",
+        "file": "exordium-fabric-1.2.1-mc1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/exordium",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "Explorer's Compass",
+        "file": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/explorers-compass",
+        "authors": [
+          "Chaosyr"
+        ]
+      },
+      {
+        "name": "Fabric API",
+        "file": "fabric-api-0.90.7+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-api",
+        "authors": [
+          "modmuss50",
+          "sfPlayer1"
+        ]
+      },
+      {
+        "name": "Fabric Language Kotlin",
+        "file": "fabric-language-kotlin-1.10.14+kotlin.1.9.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin",
+        "authors": [
+          "modmuss50",
+          "sfPlayer1"
+        ]
+      },
+      {
+        "name": "Fabric Waystones",
+        "file": "wraith-waystones-3.3.1+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-waystones",
+        "authors": [
+          "LordDeatHunter"
+        ]
+      },
+      {
+        "name": "fabric-permissions-api",
+        "file": "fabric-permissions-api-v0.2.jar"
+      },
+      {
+        "name": "Falling Leaves",
+        "file": "fallingleaves-1.15.4+1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric",
+        "authors": [
+          "Fourmisain"
+        ]
+      },
+      {
+        "name": "FancyMenu",
+        "file": "fancymenu_fabric_2.14.10-2_MC_1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric",
+        "authors": [
+          "Keksuccino"
+        ]
+      },
+      {
+        "name": "Farmer's Delight",
+        "file": "farmers-delight-fabric-mc1.20.1-1.4.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric",
+        "authors": [
+          "NewHoryzon",
+          "Zifiv"
+        ]
+      },
+      {
+        "name": "Farmer's Knives",
+        "file": "farmersknives-3.0.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-knives",
+        "authors": [
+          "ianm1647"
+        ]
+      },
+      {
+        "name": "Farsighted Mobs",
+        "file": "farsighted-mobs-fabric-1.1-1.18-1.19.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/farsighted-mobs",
+        "authors": [
+          "Sindarin27"
+        ]
+      },
+      {
+        "name": "Faux Custom Entity Data",
+        "file": "FauxCustomEntityData-fabric-1.20.1-6.0.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/faux-custom-entity-data",
+        "authors": [
+          "Jaredlll08",
+          "DarkhaxDev"
+        ]
+      },
+      {
+        "name": "FerriteCore",
+        "file": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric",
+        "authors": [
+          "malte0811"
+        ]
+      },
+      {
+        "name": "Fix Experience Bug",
+        "file": "fabric-experiencebugfix-1.20-2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug",
+        "authors": [
+          "MacTso"
+        ]
+      },
+      {
+        "name": "Forge Config API Port",
+        "file": "ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "FPS Reducer",
+        "file": "FpsReducer2-fabric-1.20-2.5.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fps-reducer",
+        "authors": [
+          "bre2el"
+        ]
+      },
+      {
+        "name": "Framework",
+        "file": "framework-fabric-1.20.1-0.6.16.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/framework-fabric",
+        "authors": [
+          "MrCrayfish"
+        ]
+      },
+      {
+        "name": "FullStack Watchdog",
+        "file": "fullstackwatchdog-1.0.1+1.19.2-fabric.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fullstack-watchdog",
+        "authors": [
+          "telepathicgrunt"
+        ]
+      },
+      {
+        "name": "Furnace Recycle",
+        "file": "furnacerecycle-1.20.1-2.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/furnace-recycle",
+        "authors": [
+          "Serilum"
+        ]
+      },
+      {
+        "name": "Global Packs",
+        "file": "global_packs-fabric-1.19.4-1.16.1_fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/globalpacks",
+        "authors": [
+          "JTK222"
+        ]
+      },
+      {
+        "name": "Goblin Traders",
+        "file": "goblintraders-fabric-1.20.1-1.9.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/goblintraders-fabric",
+        "authors": [
+          "MrCrayfish"
+        ]
+      },
+      {
+        "name": "Guard Villagers",
+        "file": "guardvillagers-2.0.8-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric",
+        "authors": [
+          "MrSterner_"
+        ]
+      },
+      {
+        "name": "Harvest with ease",
+        "file": "harvestwithease-1.20.1-7.1.0.0-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease",
+        "authors": [
+          "CrystalSpider",
+          "sZeta99",
+          "MoonstoneWebber"
+        ]
+      },
+      {
+        "name": "HerdsPanic",
+        "file": "herdspanic-1.0.7.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/herdspanic",
+        "authors": [
+          "Globox_Z"
+        ]
+      },
+      {
+        "name": "Iceberg",
+        "file": "Iceberg-1.20.1-fabric-1.1.15.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric",
+        "authors": [
+          "Grend_G"
+        ]
+      },
+      {
+        "name": "ImmediatelyFast",
+        "file": "ImmediatelyFast-1.2.7+1.20.2.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+        "authors": [
+          "RaphiMC"
+        ]
+      },
+      {
+        "name": "Immersive Armors",
+        "file": "immersive_armors-1.6.1+1.20.1-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-armors",
+        "authors": [
+          "Conczin"
+        ]
+      },
+      {
+        "name": "Improved Stations Updated",
+        "file": "improved-stations-2.3.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/improved-stations-for-1-19",
+        "authors": [
+          "pitan76",
+          "shedaniel"
+        ]
+      },
+      {
+        "name": "Incantationem",
+        "file": "incantationem-1.2.1+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/incantationem",
+        "authors": [
+          "Luligabi12"
+        ]
+      },
+      {
+        "name": "Incendium",
+        "file": "Incendium_1.20.2_v5.3.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/incendium",
+        "authors": [
+          "Starmute"
+        ]
+      },
+      {
+        "name": "Indium",
+        "file": "indium-1.0.27+mc1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/indium",
+        "authors": [
+          "comp500"
+        ]
+      },
+      {
+        "name": "Interactic",
+        "file": "interactic-0.2.0+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/interactic",
+        "authors": [
+          "gliscowo"
+        ]
+      },
+      {
+        "name": "Inv View",
+        "file": "InvView-1.4.13-1.20.2+.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/inv-view",
+        "authors": [
+          "potatoboy99999"
+        ]
+      },
+      {
+        "name": "Inventory Profiles Next",
+        "file": "InventoryProfilesNext-fabric-1.20-1.10.9.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next",
+        "authors": [
+          "mirinimi"
+        ]
+      },
+      {
+        "name": "InvMove",
+        "file": "InvMove-1.20-0.8.4-Fabric.jar",
+        "side": "client",
+        "url": "https://modrinth.com/mod/invmove",
+        "authors": [
+          "PieKing1215"
+        ]
+      },
+      {
+        "name": "Iris & Oculus Flywheel Compat",
+        "file": "iris-flywheel-compat-1.20.1-0.2.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat",
+        "authors": [
+          "leon_mout"
+        ]
+      },
+      {
+        "name": "Iris Shaders",
+        "file": "iris-mc1.20.1-1.6.10.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
+        "authors": [
+          "coderbot",
+          "IMS21"
+        ]
+      },
+      {
+        "name": "Jade Addons",
+        "file": "JadeAddons-1.20.1-fabric-5.2.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric",
+        "authors": [
+          "Snownee"
+        ]
+      },
+      {
+        "name": "Jade 🔍",
+        "file": "Jade-1.20-fabric-11.6.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jade",
+        "authors": [
+          "Snownee"
+        ]
+      },
+      {
+        "name": "Knaves' Needs",
+        "file": "knavesneeds-fabric-2.0.1+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/knaves-needs",
+        "authors": [
+          "KodoDenka"
+        ]
+      },
+      {
+        "name": "Konkrete",
+        "file": "konkrete_fabric_1.7.0-1_MC_1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric",
+        "authors": [
+          "Keksuccino"
+        ]
+      },
+      {
+        "name": "Krypton",
+        "file": "krypton-0.2.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/krypton",
+        "authors": [
+          "tuxed"
+        ]
+      },
+      {
+        "name": "LambDynamicLights",
+        "file": "lambdynamiclights-2.3.2+1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights",
+        "authors": [
+          "LambdAurora"
+        ]
+      },
+      {
+        "name": "LazyDFU",
+        "file": "lazydfu-0.1.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lazydfu",
+        "authors": [
+          "tuxed"
+        ]
+      },
+      {
+        "name": "Leaves Be Gone",
+        "file": "LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone",
+        "authors": [
+          "Fuzs",
+          "SHXRKIE"
+        ]
+      },
+      {
+        "name": "Legendary Tooltips",
+        "file": "LegendaryTooltips-1.20.1-fabric-1.4.4.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric",
+        "authors": [
+          "Grend_G"
+        ]
+      },
+      {
+        "name": "Let Me Despawn",
+        "file": "letmedespawn-fabric-1.20.x-1.2.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/let-me-despawn",
+        "authors": [
+          "frikinjay"
+        ]
+      },
+      {
+        "name": "libIPN",
+        "file": "libIPN-fabric-1.20-4.0.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/libipn",
+        "authors": [
+          "mirinimi"
+        ]
+      },
+      {
+        "name": "Library Ferret - Fabric",
+        "file": "libraryferret-fabric-1.20.1-4.0.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric",
+        "authors": [
+          "jtl_elisa",
+          "jtl_tom"
+        ]
+      },
+      {
+        "name": "LibZ",
+        "file": "libz-1.0.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/libz",
+        "authors": [
+          "Globox_Z"
+        ]
+      },
+      {
+        "name": "LiLaC",
+        "file": "lilac-1.0.0-beta.3.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lilac",
+        "authors": [
+          "opekope2"
+        ]
+      },
+      {
+        "name": "Limited Chunkloading - Chunk cleanup",
+        "file": "limitedchunks-fabric-1.20.1-3.8.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "Lithium",
+        "file": "lithium-fabric-mc1.20.1-0.11.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lithium",
+        "authors": [
+          "JellySquid"
+        ]
+      },
+      {
+        "name": "Log Begone",
+        "file": "Log-Begone-Fabric-1.20.1-1.0.8.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/log-begone",
+        "authors": [
+          "AzureDoomC"
+        ]
+      },
+      {
+        "name": "Login Protection",
+        "file": "logprot-fabric-1.20.1-3.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/login-protection",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "MCPitanLib",
+        "file": "mcpitanlibarch-1.8.3-1.20.1-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch",
+        "authors": [
+          "pitan76"
+        ]
+      },
+      {
+        "name": "Medieval Music",
+        "file": "zmedievalmusic-fabric-1.20.1-2.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/medieval-music",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "Memory Leak Fix",
+        "file": "memoryleakfix-fabric-1.17+-1.1.2.jar",
+        "url": "https://modrinth.com/mod/memoryleakfix",
+        "authors": [
+          "FX"
+        ]
+      },
+      {
+        "name": "Memory Settings",
+        "file": "memorysettings-fabric-1.20.1-5.3.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/memory-settings",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "MES - Moog's End Structures",
+        "file": "mes-1.3-1.19.4-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures",
+        "authors": [
+          "finndog_123"
+        ]
+      },
+      {
+        "name": "MidnightLib",
+        "file": "midnightlib-fabric-1.4.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/midnightlib",
+        "authors": [
+          "Motschen"
+        ]
+      },
+      {
+        "name": "MixinTrace",
+        "file": "mixintrace-1.1.1+1.17.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mixintrace",
+        "authors": [
+          "comp500"
+        ]
+      },
+      {
+        "name": "MmmMmmMmmMmm",
+        "file": "dummmmmmy-1.20-1.8.10-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm",
+        "authors": [
+          "MehVahdJukaar"
+        ]
+      },
+      {
+        "name": "Mo Glass",
+        "file": "Mo-Glass-1.6.1-MC1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mo-glass",
+        "authors": [
+          "alexander9892"
+        ]
+      },
+      {
+        "name": "Mobs Attempt Parkour",
+        "file": "mobs-attempt-parkour-0.5-1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mobs-attempt-parkour",
+        "authors": [
+          "Barribob"
+        ]
+      },
+      {
+        "name": "Mod Menu",
+        "file": "modmenu-7.2.2.jar",
+        "side": "client",
+        "url": "https://modrinth.com/mod/modmenu",
+        "authors": [
+          "gniftygnome"
+        ]
+      },
+      {
+        "name": "Model Gap Fix",
+        "file": "modelfix-1.14-fabric.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/model-gap-fix",
+        "authors": [
+          "MehVahdJukaar"
+        ]
+      },
+      {
+        "name": "ModernFix",
+        "file": "modernfix-fabric-5.9.3+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+        "authors": [
+          "embeddedt"
+        ]
+      },
+      {
+        "name": "Moonlight Lib",
+        "file": "moonlight-1.20-2.8.65-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/selene",
+        "authors": [
+          "MehVahdJukaar",
+          "plantspookable"
+        ]
+      },
+      {
+        "name": "More Axolotl Variants API",
+        "file": "mavapi-1.1.3-mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mavapi",
+        "authors": [
+          "AkashiiKun69"
+        ]
+      },
+      {
+        "name": "More Axolotl Variants Mod",
+        "file": "mavm-1.2.4-mc1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mavm",
+        "authors": [
+          "AkashiiKun69"
+        ]
+      },
+      {
+        "name": "More Banner Features",
+        "file": "morebannerfeatures-1.2.0-1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/more-banner-features",
+        "authors": [
+          "DomiIRL"
+        ]
+      },
+      {
+        "name": "More Culling",
+        "file": "moreculling-1.20.1-0.19.0.jar",
+        "side": "client",
+        "url": "https://modrinth.com/mod/moreculling",
+        "authors": [
+          "FX"
+        ]
+      },
+      {
+        "name": "More Geodes",
+        "file": "more-geodes-1.8.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/emerald-geodes",
+        "authors": [
+          "TheDeathlyCow"
+        ]
+      },
+      {
+        "name": "Mouse Tweaks",
+        "file": "MouseTweaks-fabric-mc1.20-2.25.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+        "authors": [
+          "YaLTeR"
+        ]
+      },
+      {
+        "name": "MVS - Moog's Voyager Structures",
+        "file": "mvs-4.1.1-1.20-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures",
+        "authors": [
+          "finndog_123",
+          "olver____",
+          "TFA120",
+          "havococcultist"
+        ]
+      },
+      {
+        "name": "Name Pain",
+        "file": "namepain-1.5.3 fabric-1.20.x.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/namepain",
+        "authors": [
+          "naqaden"
+        ]
+      },
+      {
+        "name": "Nature's Compass",
+        "file": "NaturesCompass-1.20.1-2.2.3-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+        "authors": [
+          "Chaosyr"
+        ]
+      },
+      {
+        "name": "Neruina - Ticking Entity Fixer",
+        "file": "neruina-1.2.6-fabric+1.18.2-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/neruina",
+        "authors": [
+          "bawnorton"
+        ]
+      },
+      {
+        "name": "Nether Portal Spread",
+        "file": "netherportalspread-1.20.1-7.6.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread",
+        "authors": [
+          "Serilum"
+        ]
+      },
+      {
+        "name": "NetherPortalFix",
+        "file": "netherportalfix-fabric-1.20-13.0.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric",
+        "authors": [
+          "BlayTheNinth"
+        ]
+      },
+      {
+        "name": "Not Enough Animations",
+        "file": "notenoughanimations-fabric-1.6.4-mc1.20.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "Open Parties and Claims",
+        "file": "open-parties-and-claims-fabric-1.20.1-0.20.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims",
+        "authors": [
+          "xaero96"
+        ]
+      },
+      {
+        "name": "OptiGUI",
+        "file": "optigui-2.1.6.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/optigui",
+        "authors": [
+          "opekope2"
+        ]
+      },
+      {
+        "name": "Orb of Origin Rework",
+        "file": "OriginsOrbRework-1.20.1-2.0.0-FABRIC.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/orb-of-origin-rework",
+        "authors": [
+          "ClarkUK"
+        ]
+      },
+      {
+        "name": "Origins",
+        "file": "Origins-1.20.1-1.10.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/origins",
+        "authors": [
+          "Apace"
+        ]
+      },
+      {
+        "name": "Origins: Classes",
+        "file": "Origins-Classes-1.20-1.7.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/origins-classes",
+        "authors": [
+          "Apace"
+        ]
+      },
+      {
+        "name": "Overflowing Bars",
+        "file": "OverflowingBars-v8.0.0-1.20.1-Fabric.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/overflowing-bars",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "oωo",
+        "file": "owo-lib-0.11.2+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/owo-lib",
+        "authors": [
+          "gliscowo"
+        ]
+      },
+      {
+        "name": "Patchouli",
+        "file": "Patchouli-1.20.1-81-FABRIC.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric",
+        "authors": [
+          "Vazkii"
+        ]
+      },
+      {
+        "name": "Phantom Config Fork",
+        "file": "PhantomConfigFork-1.0.3-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/phantom-config-fork-fabric",
+        "authors": [
+          "HaXr"
+        ]
+      },
+      {
+        "name": "Philip's Ruins",
+        "file": "Philips-Ruins1.20.1-2.5[Fabric].jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ruins",
+        "authors": [
+          "philipmoddev"
+        ]
+      },
+      {
+        "name": "Pick Up Notifier",
+        "file": "PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "playerAnimator",
+        "file": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+        "authors": [
+          "KosmX"
+        ]
+      },
+      {
+        "name": "Polymorph",
+        "file": "polymorph-fabric-0.49.1+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/polymorph",
+        "authors": [
+          "TheIllusiveC4"
+        ]
+      },
+      {
+        "name": "Prism",
+        "file": "Prism-1.20.1-fabric-1.0.5.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/prism-fabric",
+        "authors": [
+          "Grend_G"
+        ]
+      },
+      {
+        "name": "Productive Villagers",
+        "file": "productivevillagers_fabric-1.0.9.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/productive-villagers",
+        "authors": [
+          "captaintenneal81"
+        ]
+      },
+      {
+        "name": "Puzzles Lib",
+        "file": "PuzzlesLib-v8.1.8-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "Raised",
+        "file": "raised-fabric-1.20.1-3.1.0.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/raised",
+        "authors": [
+          "yurisuika"
+        ]
+      },
+      {
+        "name": "RandomTP",
+        "file": "randomtp-8.0.0+1.20-fabric.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/randomtp",
+        "authors": [
+          "Picono435"
+        ]
+      },
+      {
+        "name": "Recall Staffs",
+        "file": "recallstaffs-4.1.1+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/recall-staffs",
+        "authors": [
+          "Xires87"
+        ]
+      },
+      {
+        "name": "Recipe Book Delight",
+        "file": "recipe-book-delight-0.2.0-1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/recipe-book-delight",
+        "authors": [
+          "zenfyr"
+        ]
+      },
+      {
+        "name": "Redirector",
+        "file": "redirector-1.20.1-4.4.0-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/redirector",
+        "authors": [
+          "_nArUTo_"
+        ]
+      },
+      {
+        "name": "Regions Unexplored",
+        "file": "RegionsUnexploredFabric-0.5.31.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/regions-unexplored",
+        "authors": [
+          "Apollo",
+          "UHQ_GAMES"
+        ]
+      },
+      {
+        "name": "Regrowth",
+        "file": "fabric-release-regrowth-1.20-83.31.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/regrowth",
+        "authors": [
+          "MacTso"
+        ]
+      },
+      {
+        "name": "Resource Pack Overrides",
+        "file": "ResourcePackOverrides-v8.0.2-1.20.1-Fabric.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "Revive",
+        "file": "revive-1.0.7.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/revive",
+        "authors": [
+          "Globox_Z"
+        ]
+      },
+      {
+        "name": "Roughly Enough Items Fabric/Forge",
+        "file": "RoughlyEnoughItems-12.0.674.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items",
+        "authors": [
+          "shedaniel"
+        ]
+      },
+      {
+        "name": "Roughly Enough Professions",
+        "file": "RoughlyEnoughProfessions-fabric-1.20.1-2.0.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep",
+        "authors": [
+          "Mrbysco",
+          "ShyNieke"
+        ]
+      },
+      {
+        "name": "Roughly Enough Resources",
+        "file": "rer-2.9.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources",
+        "authors": [
+          "theorbagain"
+        ]
+      },
+      {
+        "name": "Saplanting",
+        "file": "saplanting-fabric-1.20-1.2.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/saplanting",
+        "authors": [
+          "MUYU_Twilighter"
+        ]
+      },
+      {
+        "name": "Searchables",
+        "file": "Searchables-fabric-1.20.1-1.0.2.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+        "authors": [
+          "Jaredlll08"
+        ]
+      },
+      {
+        "name": "Server Performance - Smooth Chunk Save",
+        "file": "smoothchunk-fabric-1.20.1-3.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "ServerCore",
+        "file": "servercore-fabric-1.3.9+1.20.1.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/servercore",
+        "authors": [
+          "Wesley8081"
+        ]
+      },
+      {
+        "name": "Simple Discord RPC",
+        "file": "SimpleRPC-fabric-1.20-3.2.4.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc",
+        "authors": [
+          "HypherionSA"
+        ]
+      },
+      {
+        "name": "Simple Fog Control",
+        "file": "simplefog-1.4.0.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/simplefog",
+        "authors": [
+          "Draradech"
+        ]
+      },
+      {
+        "name": "Simple Voice Chat",
+        "file": "voicechat-fabric-1.20.1-2.4.28.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+        "authors": [
+          "henkelmax"
+        ]
+      },
+      {
+        "name": "Simply Swords",
+        "file": "simplyswords-fabric-1.51.5-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/simply-swords",
+        "authors": [
+          "sweenuss"
+        ]
+      },
+      {
+        "name": "Skin Layers 3D",
+        "file": "3dskinlayers-fabric-1.5.4-mc1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "Sodium",
+        "file": "sodium-fabric-mc1.20.1-0.5.3.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+        "authors": [
+          "JellySquid"
+        ]
+      },
+      {
+        "name": "Sodium Extra",
+        "file": "sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/sodium-extra",
+        "authors": [
+          "FlashyReese"
+        ]
+      },
+      {
+        "name": "Sound Physics Remastered",
+        "file": "soundphysics-fabric-1.20.1-1.2.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+        "authors": [
+          "henkelmax"
+        ]
+      },
+      {
+        "name": "spark",
+        "file": "spark-1.10.53-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/spark",
+        "authors": [
+          "Iucko"
+        ]
+      },
+      {
+        "name": "Starter Items, Messages, and Commands",
+        "file": "starteritems-3.0-1.20.1.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/starter-items",
+        "authors": [
+          "spoorn"
+        ]
+      },
+      {
+        "name": "Starter Kit",
+        "file": "starterkit-1.20.1-5.3.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/starter-kit",
+        "authors": [
+          "Serilum"
+        ]
+      },
+      {
+        "name": "Starter Structure",
+        "file": "starterstructure-1.20.1-3.2.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/starter-structure",
+        "authors": [
+          "Serilum"
+        ]
+      },
+      {
+        "name": "Status Effect Bars",
+        "file": "status-effect-bars-1.0.3.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/status-effect-bars",
+        "authors": [
+          "A5b84"
+        ]
+      },
+      {
+        "name": "Structory: Towers",
+        "file": "Structory_Towers_1.20.2_v1.0.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/structory-towers",
+        "authors": [
+          "botanydev"
+        ]
+      },
+      {
+        "name": "Structure Essentials",
+        "file": "structureessentials-fabric-1.20.1-3.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric",
+        "authors": [
+          "someaddon"
+        ]
+      },
+      {
+        "name": "Styled Chat",
+        "file": "styled-chat-2.2.3+1.20.1.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/styled-chat",
+        "authors": [
+          "Patbox"
+        ]
+      },
+      {
+        "name": "SuperBetterGrass",
+        "file": "SuperBetterGrass-1.5.2+1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/super-better-grass",
+        "authors": [
+          "dima_dencep"
+        ]
+      },
+      {
+        "name": "SuperMartijn642's Config Lib",
+        "file": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+        "authors": [
+          "SuperMartijn642"
+        ]
+      },
+      {
+        "name": "TalkBubbles",
+        "file": "talkbubbles-1.0.7.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/talkbubbles",
+        "authors": [
+          "Globox_Z"
+        ]
+      },
+      {
+        "name": "Tectonic",
+        "file": "tectonic-mod-mc1.19.3+-v2.1.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/tectonic",
+        "authors": [
+          "Apollo"
+        ]
+      },
+      {
+        "name": "TerraBlender",
+        "file": "TerraBlender-fabric-1.20.1-3.0.0.169.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric",
+        "authors": [
+          "TheAdubbz"
+        ]
+      },
+      {
+        "name": "The Lost Castle",
+        "file": "tlc-fabric-1.0.1-1.20.X.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/the-lost-castle-fabric",
+        "authors": [
+          "jack_bagel",
+          "gilvoisard"
+        ]
+      },
+      {
+        "name": "Tidal Towns",
+        "file": "tidal-towns-1.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/tidal-towns",
+        "authors": [
+          "joshieman"
+        ]
+      },
+      {
+        "name": "TieFix",
+        "file": "TieFix-1.14.0.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/tiefix",
+        "authors": [
+          "j_t_a_i"
+        ]
+      },
+      {
+        "name": "TieredZ",
+        "file": "tiered-1.3.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/tieredz",
+        "authors": [
+          "Globox_Z"
+        ]
+      },
+      {
+        "name": "TimeOutOut",
+        "file": "timeoutout-1.0.3+1.19.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/timeoutout-fabric",
+        "authors": [
+          "potatoboy99999"
+        ]
+      },
+      {
+        "name": "TipTheScales",
+        "file": "TipTheScales-fabric-1.20.1-9.0.0.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/tipthescales",
+        "authors": [
+          "Jaredlll08"
+        ]
+      },
+      {
+        "name": "Too Fast",
+        "file": "toofast-fabric-1.20-1.2.0.jar",
+        "side": "server",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/too-fast",
+        "authors": [
+          "Noobanidus",
+          "ZestyBlaze"
+        ]
+      },
+      {
+        "name": "TooManyOrigins",
+        "file": "TooManyOrigins-1.0.0-beta.19+1.20.1-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/project-469658",
+        "authors": [
+          "Calicow",
+          "Ohmniv",
+          "PapaPepsmAn"
+        ]
+      },
+      {
+        "name": "Towns and Towers",
+        "file": "Towns-and-Towers-1.11.1-Fabric+Forge.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/towns-and-towers",
+        "authors": [
+          "Biban_Auriu",
+          "Kubek"
+        ]
+      },
+      {
+        "name": "Traveler's Titles",
+        "file": "TravelersTitles-1.20-Fabric-4.0.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric",
+        "authors": [
+          "YUNGNICKYOUNG"
+        ]
+      },
+      {
+        "name": "True Darkness Fork",
+        "file": "true-darkness-fork-1.0.0-1.20.1.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/true-darkness-refabricated",
+        "authors": [
+          "HaXr"
+        ]
+      },
+      {
+        "name": "Variant Shields",
+        "file": "variantshields-2.0.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/variant-tiered-shields-fabric",
+        "authors": [
+          "XanthianZ"
+        ]
+      },
+      {
+        "name": "Village Nullifier",
+        "file": "village_nullifier-2.0.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/village-nullifier",
+        "authors": [
+          "tbmstudios",
+          "TheButterbrotMan"
+        ]
+      },
+      {
+        "name": "Wavey Capes",
+        "file": "waveycapes-fabric-1.4.0-mc1.20.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/waveycapes",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "WorldEdit",
+        "file": "worldedit-mod-7.2.15.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/worldedit",
+        "authors": [
+          "sk89q",
+          "wizjany_",
+          "octylFractal",
+          "me4502"
+        ]
+      },
+      {
+        "name": "Xaero's Minimap",
+        "file": "Xaeros_Minimap_FP23.8.2_Fabric_1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition",
+        "authors": [
+          "xaero96"
+        ]
+      },
+      {
+        "name": "Xaero's World Map",
+        "file": "XaerosWorldMap_1.36.0_Fabric_1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+        "authors": [
+          "xaero96"
+        ]
+      },
+      {
+        "name": "YetAnotherConfigLib",
+        "file": "yet-another-config-lib-fabric-3.2.1+1.20.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+        "authors": [
+          "isXander"
+        ]
+      },
+      {
+        "name": "Your Options Shall Be Respected",
+        "file": "yosbr-0.1.2.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yosbr",
+        "authors": [
+          "shedaniel"
+        ]
+      },
+      {
+        "name": "YUNG's API",
+        "file": "YungsApi-1.20-Fabric-4.0.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric",
+        "authors": [
+          "YUNGNICKYOUNG"
+        ]
+      },
+      {
+        "name": "YUNG's Better Desert Temples",
+        "file": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric",
+        "authors": [
+          "YUNGNICKYOUNG",
+          "TeraBuildsStuff"
+        ]
+      },
+      {
+        "name": "YUNG's Better Dungeons",
+        "file": "YungsBetterDungeons-1.20-Fabric-4.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric",
+        "authors": [
+          "YUNGNICKYOUNG",
+          "EveCommander"
+        ]
+      },
+      {
+        "name": "YUNG's Better Jungle Temples",
+        "file": "YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-fabric",
+        "authors": [
+          "YUNGNICKYOUNG",
+          "TeraBuildsStuff"
+        ]
+      },
+      {
+        "name": "YUNG's Better Mineshafts",
+        "file": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric",
+        "authors": [
+          "YUNGNICKYOUNG"
+        ]
+      },
+      {
+        "name": "YUNG's Better Nether Fortresses",
+        "file": "YungsBetterNetherFortresses-1.20-Fabric-2.0.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric",
+        "authors": [
+          "YUNGNICKYOUNG",
+          "EveCommander"
+        ]
+      },
+      {
+        "name": "YUNG's Better Ocean Monuments",
+        "file": "YungsBetterOceanMonuments-1.20-Fabric-3.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric",
+        "authors": [
+          "YUNGNICKYOUNG",
+          "TeraBuildsStuff"
+        ]
+      },
+      {
+        "name": "YUNG's Better Strongholds",
+        "file": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric",
+        "authors": [
+          "YUNGNICKYOUNG",
+          "EveCommander"
+        ]
+      },
+      {
+        "name": "YUNG's Better Witch Huts",
+        "file": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric",
+        "authors": [
+          "YUNGNICKYOUNG",
+          "EveCommander"
+        ]
+      },
+      {
+        "name": "Zoomify",
+        "file": "Zoomify-2.11.2.jar",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/zoomify",
+        "authors": [
+          "isXander"
+        ]
+      }
+    ],
+    "resourcepacks": [
+      {
+        "name": "Disable Incendium Toxic Heap Biome",
+        "file": "Disable_Incendium_Toxic_Heap_Biome.zip",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/disable-incendium-toxic-heap-biome",
+        "authors": [
+          "HaXr"
+        ]
+      },
+      {
+        "name": "Disable TieredZ Max Health",
+        "file": "Disable_TieredZ_Max_Health.zip",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/disable-tieredz-max-health",
+        "authors": [
+          "HaXr"
+        ]
+      },
+      {
+        "name": "Eclectic Trove",
+        "file": "EclecticTrove-noconfig-1.20.1-1.2.0.zip",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips",
+        "authors": [
+          "Grend_G"
+        ]
+      },
+      {
+        "name": "Fresh Animations",
+        "file": "FreshAnimations_v1.8.1.zip",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations",
+        "authors": [
+          "FreshLX"
+        ]
+      },
+      {
+        "name": "Fresh Animations Extensions",
+        "file": "FA+All_Extensions-v1.2.zip",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations-extensions",
+        "authors": [
+          "FreshLX"
+        ]
+      },
+      {
+        "name": "GUI Reimagined Edit",
+        "file": "GUI-Reimagined-Edit.zip",
+        "side": "client"
+      },
+      {
+        "name": "Incendium Optional Resourcepack",
+        "file": "Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip",
+        "url": "https://modrinth.com/resourcepack/sparkles",
+        "authors": [
+          "YoannBB"
+        ]
+      },
+      {
+        "name": "Insomnia Compat",
+        "file": "Insomnia-Compat-1.0.0.zip",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/insomnia-compat",
+        "authors": [
+          "HaXr"
+        ]
+      },
+      {
+        "name": "NoBushyLeaves",
+        "file": "NoBushyLeaves.zip"
+      },
+      {
+        "name": "Slightly Improved Font",
+        "file": "Slightly-Improved-Font-1.0.0.zip",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/slightly-improved-font",
+        "authors": [
+          "Lat"
+        ]
+      },
+      {
+        "name": "Stay True",
+        "file": "Stay_True_1.20.zip",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/stay-true",
+        "authors": [
+          "haimcyfly"
+        ]
+      },
+      {
+        "name": "Tissou's Zombie Pack",
+        "file": "TZP_1.20.1_2.7.zip",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-20",
+        "authors": [
+          "Tissou"
+        ]
+      },
+      {
+        "name": "Visual Traveler's Titles",
+        "file": "Visual Titles.zip",
+        "side": "client",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/visual-travelers-titles",
+        "authors": [
+          "un_roman",
+          "YUNGNICKYOUNG"
+        ]
+      }
+    ],
+    "shaderpacks": [
+      {
+        "name": "[Performance] ComplementaryReimagined_RU",
+        "file": "[Performance] ComplementaryReimagined_RU"
+      },
+      {
+        "name": "[Quality] ComplementaryReimagined_RU",
+        "file": "[Quality] ComplementaryReimagined_RU"
+      }
+    ]
+  }
+}
